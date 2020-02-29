@@ -21,10 +21,3 @@ for dept in depts:
     page_content = page.read()
     with open('sites/' + dept + '_courses.html', 'wb') as fid:
         fid.write(page_content)
-
-
-
- #this beautifulsoups those catalogs from the folder
-def extract_course_catalog(dept): #where dept is a string
-    f = open('/sites' + dept + '_courses.html') #dept is all caps     
-    soup = BeautifulSoup(f, 'html.parser')
