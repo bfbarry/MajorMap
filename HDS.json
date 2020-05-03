@@ -1,0 +1,56 @@
+{
+    "HDS 98": [],
+    "HDS 99": [],
+    "HDS 110": [
+        "HDS 1",
+        "or",
+        "PSYC 101"
+    ],
+    "HDS 111": [
+        "HDS 1",
+        "or",
+        "ANTH 2"
+    ],
+    "HDS 120": [
+        "HDS 1"
+    ],
+    "HDS 121": [
+        "HDS 1",
+        "or",
+        "COGS 1"
+    ],
+    "HDS 122": [
+        "HDS 1"
+    ],
+    "HDS 133": [
+        "HDS 1",
+        "or",
+        "PSYC 1"
+    ],
+    "HDS 150": [
+        "HDS 181"
+    ],
+    "HDS 160": [],
+    "HDS 171": [],
+    "HDS 175": [],
+    "HDS 181": [
+        "HDS 1",
+        "and",
+        "or",
+        "COGS 14B",
+        "or",
+        "ECON 120A",
+        "or",
+        "MATH 11",
+        "or",
+        "POLI 30",
+        "or",
+        "POLI 30D",
+        "or",
+        "PSYC 60"
+    ],
+    "HDS 191": [],
+    "HDS 193": [],
+    "HDS 194A-B-C": [],
+    "HDS 195": []
+}

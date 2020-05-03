@@ -1,0 +1,32 @@
+{
+    "LATI 122A": [],
+    "LATI 122B": [
+        "LATI 122A"
+    ],
+    "LATI 122C": [
+        "LATI 122B"
+    ],
+    "LATI 180": [
+        "LATI 50"
+    ],
+    "LATI 190": [
+        "LATI 50",
+        "and"
+    ],
+    "LATI 191": [
+        "LATI 50"
+    ],
+    "LATI 199": [
+        "LATI 50",
+        "and"
+    ],
+    "LATI 200": [],
+    "LATI 222A": [],
+    "LATI 222B": [
+        "LATI 222A"
+    ],
+    "LATI 222C": [
+        "LATI 222B"
+    ],
+    "LATI 298": []
+}

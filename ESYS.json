@@ -1,0 +1,16 @@
+{
+    "ESYS 10": [],
+    "ESYS 101": [],
+    "ESYS 102": [],
+    "ESYS 103/MAE 124": [],
+    "ESYS 190A": [
+        "ESYS 103",
+        "and"
+    ],
+    "ESYS 190B": [
+        "ESYS 190A",
+        "or",
+        "ESYS 190A(W",
+        "and"
+    ]
+}

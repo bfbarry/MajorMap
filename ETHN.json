@@ -1,0 +1,61 @@
+{
+    "ETHN 97": [],
+    "ETHN 98": [],
+    "ETHN 99": [],
+    "ETHN 100A": [
+        "ETHN 1",
+        "or",
+        "ETHN 2",
+        "or",
+        "ETHN 3"
+    ],
+    "ETHN 100B": [
+        "ETHN 100A"
+    ],
+    "ETHN 100C": [
+        "ETHN 100A",
+        "and",
+        "ETHN 100B"
+    ],
+    "ETHN 100H": [
+        "ETHN 100A",
+        "and",
+        "ETHN 100B"
+    ],
+    "ETHN 114A": [
+        "ETHN 114A"
+    ],
+    "ETHN 133": [],
+    "ETHN 134": [],
+    "ETHN 135A": [],
+    "ETHN 154": [],
+    "ETHN 155": [],
+    "ETHN 172": [],
+    "ETHN 190": [
+        "ETHN 100A",
+        "and",
+        "ETHN 100B",
+        "and",
+        "ETHN 100H"
+    ],
+    "ETHN 199": [],
+    "ETHN 200A": [],
+    "ETHN 200B": [],
+    "ETHN 200C": [],
+    "ETHN 201": [],
+    "ETHN 202": [],
+    "ETHN 214A": [
+        "ETHN 214A"
+    ],
+    "ETHN 214B": [],
+    "ETHN 230": [],
+    "ETHN 255": [],
+    "ETHN 260": [],
+    "ETHN 265": [],
+    "ETHN 267": [],
+    "ETHN 268": [],
+    "ETHN 270": [],
+    "ETHN 289": [
+        "ETHN 291A"
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "PHYS 1A": [
+        "PHYS 1A",
+        "and",
+        "MATH 10B"
+    ],
+    "PHYS 1AL": [
+        "MATH 10A-B"
+    ],
+    "PHYS 1B": [
+        "PHYS 2A"
+    ],
+    "PHYS 1BL": [
+        "PHYS 2A",
+        "and"
+    ],
+    "PHYS 1C": [
+        "PHYS 2A",
+        "and",
+        "MATH 20D"
+    ],
+    "PHYS 1CL": [
+        "PHYS 2BL"
+    ],
+    "PHYS 2A": [
+        "MATH 20A"
+    ],
+    "PHYS 2B": [
+        "PHYS 2A",
+        "and",
+        "MATH 20B"
+    ],
+    "PHYS 2BL": [
+        "PHYS 2A",
+        "MATH 20C",
+        "and"
+    ],
+    "PHYS 2C": [
+        "PHYS 2A-B-C",
+        "MATH 20A",
+        "and"
+    ],
+    "PHYS 4B": [
+        "MATH 10A"
+    ],
+    "PHYS 4E": [
+        "CAT 2",
+        "or",
+        "DOC 2",
+        "or",
+        "HUM 1",
+        "and",
+        "CAT 3",
+        "or",
+        "DOC 3",
+        "or",
+        "HUM 2"
+    ],
+    "PHYS 8": [],
+    "PHYS 9": [
+        "PHYS 2A-B-C"
+    ],
+    "PHYS 10": [
+        "PHYS 100A",
+        "MATH 20A",
+        "and"
+    ],
+    "PHYS 11": [
+        "PHYS 100B"
+    ],
+    "PHYS 12": [
+        "PHYS 2B-C-D",
+        "MATH 20A",
+        "and"
+    ],
+    "PHYS 13": [
+        "PHYS 2A-B-C",
+        "MATH 20A",
+        "and"
+    ],
+    "PHYS 30": [
+        "PHYS 110A",
+        "MATH 20A",
+        "and"
+    ],
+    "PHYS 87": [
+        "PHYS 2A-B-C",
+        "MATH 20A",
+        "and"
+    ],
+    "PHYS 98": [
+        "PHYS 100B",
+        "and"
+    ],
+    "PHYS 99": [
+        "PHYS 2A-B-C",
+        "and"
+    ],
+    "PHYS 100A": [
+        "PHYS 120"
+    ],
+    "PHYS 100B": [
+        "PHYS 120"
+    ],
+    "PHYS 100C": [
+        "PHYS 2D"
+    ],
+    "PHYS 105A": [
+        "PHYS 100B",
+        "and"
+    ],
+    "PHYS 105B": [
+        "PHYS 130B"
+    ],
+    "PHYS 110A": [
+        "PHYS 2CL",
+        "and"
+    ],
+    "PHYS 110B": [
+        "PHYS 100A",
+        "and"
+    ],
+    "PHYS 111": [
+        "PHYS 2A-B-C-D",
+        "MATH 20A",
+        "and"
+    ],
+    "PHYS 116": [
+        "PHYS 130A"
+    ],
+    "PHYS 120": [
+        "PHYS 130B",
+        "and"
+    ],
+    "PHYS 122": [],
+    "PHYS 124": [],
+    "PHYS 130A": [
+        "MATH 20D"
+    ],
+    "PHYS 130B": [
+        "PHYS 130A",
+        "or",
+        "CHEM 130"
+    ],
+    "PHYS 130C": [
+        "PHYS 152A"
+    ],
+    "PHYS 133": [
+        "PHYS 130B"
+    ],
+    "PHYS 137": [
+        "PHYS 2A-B-C-D"
+    ],
+    "PHYS 139": [
+        "PHYS 2A-B-C-D"
+    ],
+    "PHYS 140A": [],
+    "PHYS 140B": [
+        "PHYS 2A-B-C-D"
+    ],
+    "PHYS 141": [
+        "PHYS 2A-B-C-D"
+    ],
+    "PHYS 142": [
+        "PHYS 1B",
+        "and"
+    ],
+    "PHYS 151": [
+        "PHYS 120",
+        "and",
+        "and",
+        "CHEM 7L"
+    ],
+    "PHYS 152A": [
+        "CHEM 132",
+        "PHYS 100A",
+        "and"
+    ],
+    "PHYS 152B": [
+        "PHYS 140A"
+    ],
+    "PHYS 154": [],
+    "PHYS 160": [],
+    "PHYS 161": [
+        "PHYS 2A"
+    ],
+    "PHYS 163": [],
+    "PHYS 164": [],
+    "PHYS 170": [],
+    "PHYS 173": [
+        "PHYS 200A"
+    ],
+    "PHYS 178": [
+        "PHYS 203A"
+    ],
+    "PHYS 191": [
+        "PHYS 200A-B"
+    ],
+    "PHYS 192": [
+        "PHYS 210A"
+    ],
+    "PHYS 199": [
+        "PHYS 210A",
+        "and",
+        "PHYS 211A"
+    ],
+    "PHYS 200A": [
+        "PHYS 212A"
+    ],
+    "PHYS 200B": [
+        "PHYS 212A-B"
+    ],
+    "PHYS 201": [
+        "PHYS 215A"
+    ],
+    "PHYS 203A": [
+        "PHYS 215A"
+    ],
+    "PHYS 203B": [
+        "PHYS 215A-B"
+    ],
+    "PHYS 210B": [
+        "PHYS 210A"
+    ],
+    "PHYS 211B": [
+        "PHYS 218A"
+    ],
+    "PHYS 212A": [
+        "PHYS 218B"
+    ],
+    "PHYS 212B": [
+        "PHYS 211A"
+    ],
+    "PHYS 212C": [
+        "PHYS 212C"
+    ],
+    "PHYS 214": [
+        "PHYS 200B"
+    ],
+    "PHYS 215A": [
+        "PHYS 214"
+    ],
+    "PHYS 219": [
+        "PHYS 211B"
+    ],
+    "PHYS 220": [
+        "PHYS 211A"
+    ],
+    "PHYS 221A": [
+        "PHYS 218C"
+    ],
+    "PHYS 243": [
+        "PHYS 259A"
+    ],
+    "PHYS 251": [],
+    "PHYS 252": [
+        "PHYS 270A"
+    ],
+    "PHYS 261": []
+}

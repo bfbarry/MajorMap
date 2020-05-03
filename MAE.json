@@ -1,0 +1,511 @@
+{
+    "MAE 02": [],
+    "MAE\n\t\t  03": [
+        "PHYS 2A"
+    ],
+    "MAE 05": [],
+    "MAE 07": [],
+    "MAE 08": [
+        "MATH 20A",
+        "and"
+    ],
+    "MAE 11": [
+        "PHYS 2C",
+        "and",
+        "CHEM 6A"
+    ],
+    "MAE 20": [
+        "PHYS 2A",
+        "CHEM 6A",
+        "or",
+        "CHEM 6AH",
+        "and",
+        "MATH 20C"
+    ],
+    "MAE 21": [
+        "PHYS 2A",
+        "CHEM 6A",
+        "or",
+        "CHEM 6AH",
+        "and",
+        "MATH 20B"
+    ],
+    "MAE 30A": [
+        "PHYS 2A",
+        "and",
+        "MATH 31BH",
+        "or",
+        "MATH 20C"
+    ],
+    "MAE 30B": [
+        "MAE 30A"
+    ],
+    "MAE 40": [
+        "MATH 20D",
+        "and",
+        "MATH 31AH",
+        "or",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "and",
+        "PHYS 2B"
+    ],
+    "MAE 87": [],
+    "MAE 92A": [],
+    "MAE 93": [],
+    "MAE 98": [],
+    "MAE 99H": [
+        "PHYS 2A",
+        "and",
+        "MATH 20D",
+        "and",
+        "MATH 20E",
+        "or",
+        "MATH 31CH"
+    ],
+    "MAE 101A": [
+        "MAE 101A",
+        "and",
+        "MAE 11",
+        "or",
+        "MAE 110A"
+    ],
+    "MAE 101B": [
+        "MAE 101A",
+        "and",
+        "MAE 105"
+    ],
+    "MAE 101C": [
+        "MAE 101C"
+    ],
+    "MAE 101D": [
+        "MAE 101A",
+        "and"
+    ],
+    "MAE 104": [
+        "PHYS 2A",
+        "and",
+        "and",
+        "MATH 20D"
+    ],
+    "MAE 105": [
+        "MAE 8",
+        "and",
+        "MATH 18"
+    ],
+    "MAE 107": [
+        "MATH 18"
+    ],
+    "MAE 108": [
+        "MAE 11"
+    ],
+    "MAE 110": [
+        "MAE 11",
+        "or",
+        "MAE 110A",
+        "and",
+        "MAE 101A",
+        "and",
+        "MAE 101B"
+    ],
+    "MAE 113": [
+        "MATH 20D"
+    ],
+    "MAE 117A": [
+        "MAE 101A"
+    ],
+    "MAE 118": [
+        "MAE 101A"
+    ],
+    "MAE 119": [
+        "MAE 101A"
+    ],
+    "MAE 120": [
+        "MAE 122"
+    ],
+    "MAE 121": [
+        "MAE 101A"
+    ],
+    "MAE 122": [
+        "MAE 105",
+        "and"
+    ],
+    "MAE 123": [
+        "MATH 20B",
+        "and",
+        "MATH 10A\u2013C"
+    ],
+    "MAE 124": [],
+    "MAE 125": [
+        "MAE 101A"
+    ],
+    "MAE 126A": [
+        "MAE 126A"
+    ],
+    "MAE 126B": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MAE 30B",
+        "or",
+        "MAE 130B"
+    ],
+    "MAE 130": [
+        "MATH 20D",
+        "and",
+        "MAE 130A",
+        "or",
+        "SE 101A"
+    ],
+    "MAE 131A": [
+        "MAE 131A",
+        "or",
+        "SE 110A",
+        "and",
+        "MAE 105"
+    ],
+    "MAE 131B": [
+        "MAE 131A",
+        "or",
+        "SE 110A"
+    ],
+    "MAE 133": [
+        "MAE 104",
+        "and",
+        "MAE 143B",
+        "or",
+        "ECE 171A"
+    ],
+    "MAE 142": [
+        "MATH 20D",
+        "MATH 20E",
+        "MATH 18"
+    ],
+    "MAE 143A": [
+        "MAE 143A"
+    ],
+    "MAE 143B": [
+        "MAE 143B",
+        "or",
+        "BENG 122A",
+        "or",
+        "ECE 171A"
+    ],
+    "MAE 144": [
+        "MAE 130B"
+    ],
+    "MAE 145": [
+        "ECE 15",
+        "or",
+        "ECE 35",
+        "or",
+        "MAE 2",
+        "or",
+        "MAE 3",
+        "and"
+    ],
+    "MAE 148": [],
+    "MAE 149": [
+        "MAE 130A",
+        "or",
+        "SE 101A",
+        "or",
+        "BENG 110",
+        "MAE 107",
+        "or",
+        "SE 121",
+        "MAE 3",
+        "and"
+    ],
+    "MAE 150": [],
+    "MAE 154": [
+        "MAE 2",
+        "MAE 21",
+        "or",
+        "SE 2",
+        "or",
+        "SE 104",
+        "MAE 104",
+        "MAE 130C",
+        "and",
+        "SE 160B"
+    ],
+    "MAE 155A": [
+        "MAE 113",
+        "MAE 142",
+        "MAE 155A",
+        "and",
+        "MAE 170"
+    ],
+    "MAE 155B": [
+        "MAE 3",
+        "MAE 130B",
+        "MAE 131A",
+        "MAE 143B",
+        "MAE 150",
+        "and",
+        "MAE 170"
+    ],
+    "MAE 156A": [
+        "MAE 156A",
+        "MAE 101C",
+        "MAE 130C",
+        "and",
+        "MAE 160",
+        "or",
+        "MAE 131B"
+    ],
+    "MAE 156B": [
+        "MAE 20",
+        "MAE 130A",
+        "or",
+        "SE 101A",
+        "and",
+        "MAE 131A"
+    ],
+    "MAE 160": [],
+    "MAE 165": [],
+    "MAE 166": [],
+    "MAE 167": [
+        "PHYS 2C",
+        "or",
+        "PHYS 4B"
+    ],
+    "MAE 170": [
+        "MAE 101A",
+        "and",
+        "MAE 170"
+    ],
+    "MAE 171A": [
+        "MAE 171A"
+    ],
+    "MAE 171B": [],
+    "MAE 175A": [],
+    "MAE 180A": [],
+    "MAE 181": [],
+    "MAE 184": [],
+    "MAE 190": [],
+    "MAE 191": [],
+    "MAE 197": [],
+    "MAE 198": [],
+    "MAE 199": [],
+    "MAE 200": [],
+    "MAE 201": [],
+    "MAE 202": [],
+    "MAE 203": [],
+    "MAE 205": [],
+    "MAE 206": [],
+    "MAE 207": [],
+    "MAE 208": [],
+    "MAE 210A": [
+        "BENG 209",
+        "or",
+        "MAE 209",
+        "or",
+        "MAE 210A"
+    ],
+    "MAE 210B": [
+        "MAE 210A\u2013B"
+    ],
+    "MAE 210C": [],
+    "MAE 212": [],
+    "MAE 213": [],
+    "MAE 216": [
+        "PHYS 100A-B-C"
+    ],
+    "MAE 217A": [
+        "MAE 217A"
+    ],
+    "MAE 217B": [
+        "MAE 217A",
+        "and"
+    ],
+    "MAE 217C": [
+        "MAE 217A",
+        "and"
+    ],
+    "MAE 218A": [
+        "MAE 217A",
+        "and"
+    ],
+    "MAE 218B": [],
+    "MAE 220A": [
+        "MAE 220A",
+        "and"
+    ],
+    "MAE 220B": [
+        "MAE 101A-B-C"
+    ],
+    "MAE 221A": [
+        "MAE 101A-B-C"
+    ],
+    "MAE 224A": [
+        "MAE 224A"
+    ],
+    "MAE 224B": [
+        "MAE 221A"
+    ],
+    "MAE 225A": [
+        "MAE 221A",
+        "MAE 225A",
+        "and"
+    ],
+    "MAE 225B": [
+        "MAE 217A-B-C"
+    ],
+    "MAE 228": [],
+    "MAE 231A": [
+        "MAE 209/BENG",
+        "or",
+        "MAE 231A"
+    ],
+    "MAE 231B": [
+        "MAE 231A",
+        "and",
+        "or",
+        "SE 271",
+        "and"
+    ],
+    "MAE 231C": [],
+    "MAE 232A": [
+        "MAE 232A",
+        "or",
+        "SE 276A"
+    ],
+    "MAE 232B": [
+        "MAE 232B",
+        "or",
+        "SE 276B"
+    ],
+    "MAE 232C": [
+        "MAE 231A",
+        "MAE 231B"
+    ],
+    "MAE 233A": [
+        "MAE 231A-B-C"
+    ],
+    "MAE 233B": [],
+    "MAE 235": [
+        "MAE 231A-B-C"
+    ],
+    "MAE 247": [],
+    "MAE 251": [],
+    "MAE 253": [],
+    "MAE 254": [
+        "MAE 210A"
+    ],
+    "MAE 255": [],
+    "MAE 260": [
+        "MAE 210A",
+        "and"
+    ],
+    "MAE 261": [
+        "MAE 209",
+        "and"
+    ],
+    "MAE 262": [
+        "MAE 209",
+        "or",
+        "MAE 210A",
+        "and"
+    ],
+    "MAE 263": [
+        "MAE 209",
+        "and"
+    ],
+    "MAE 264": [],
+    "MAE 265A": [],
+    "MAE 265B": [],
+    "MAE 266": [],
+    "MAE 267": [],
+    "MAE 271A": [],
+    "MAE 271B": [],
+    "MAE 272": [],
+    "MAE 273A": [],
+    "MAE 276": [],
+    "MAE 277A": [],
+    "MAE 280A": [
+        "MAE 280A"
+    ],
+    "MAE 280B": [
+        "MAE 280A"
+    ],
+    "MAE 281A": [
+        "MAE 281A"
+    ],
+    "MAE 283A": [
+        "MAE 283A"
+    ],
+    "MAE 283B": [
+        "MAE 141B",
+        "or",
+        "MAE 280A"
+    ],
+    "MAE 284": [
+        "MAE 210A",
+        "and",
+        "MAE 210B"
+    ],
+    "MAE 285": [
+        "MAE 281A"
+    ],
+    "MAE 286": [],
+    "MAE 287": [],
+    "MAE 288A": [
+        "MAE 280A"
+    ],
+    "MAE 288B": [],
+    "MAE 289A": [
+        "MAE 289A"
+    ],
+    "MAE 289B": [
+        "MAE 289B"
+    ],
+    "MAE 289C": [],
+    "MAE 290A": [
+        "MAE 290A"
+    ],
+    "MAE 290B": [
+        "MAE 210A-B"
+    ],
+    "MAE 290C": [],
+    "MAE 291": [],
+    "MAE 292": [
+        "MAE 290A"
+    ],
+    "MAE 294A": [
+        "MAE 294A",
+        "or",
+        "SIO 203A"
+    ],
+    "MAE 294B": [
+        "MAE 294B",
+        "or",
+        "SIO 203B",
+        "or",
+        "SIO 215B"
+    ],
+    "MAE 294C": [],
+    "MAE 295": [],
+    "MAE 296": [],
+    "MAE 299": [
+        "MAE department"
+    ],
+    "MAE 501": [],
+    "MDE 209": [],
+    "MDE 210": [],
+    "MDE 225A": [],
+    "MDE 225B": [],
+    "MDE 230": [],
+    "MDE 231A": [],
+    "MDE 231B": [],
+    "MDE 240": [],
+    "MDE 260A": [],
+    "MDE 260B": [],
+    "MDE 260C": [],
+    "MDE 266": []
+}

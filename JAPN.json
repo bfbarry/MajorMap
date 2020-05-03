@@ -1,0 +1,21 @@
+{
+    "JAPN 10A": [],
+    "JAPN 10B": [],
+    "JAPN 10C": [],
+    "JAPN 20A": [],
+    "JAPN 20B": [],
+    "JAPN 20C": [],
+    "JAPN 130A": [],
+    "JAPN 130B": [],
+    "JAPN 130C": [
+        "JAPN 20C"
+    ],
+    "JAPN 135A": [
+        "JAPN 135A"
+    ],
+    "JAPN 135B": [
+        "JAPN 135B"
+    ],
+    "JAPN 135C": [],
+    "JAPN 140A-B-C": []
+}

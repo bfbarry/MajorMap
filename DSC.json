@@ -1,0 +1,114 @@
+{
+    "DSC 10": [],
+    "DSC 20": [
+        "DSC 10"
+    ],
+    "DSC 30": [
+        "DSC 20"
+    ],
+    "DSC 40A": [
+        "DSC 10",
+        "MATH 20C",
+        "or",
+        "MATH 31BH",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH"
+    ],
+    "DSC 40B": [
+        "DSC 40A"
+    ],
+    "DSC 80": [
+        "DSC 30",
+        "and",
+        "DSC 40A"
+    ],
+    "DSC 90": [],
+    "DSC 95": [],
+    "DSC 96": [],
+    "DSC 97": [
+        "MATH 31BH",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 31AH",
+        "and",
+        "DSC 20",
+        "and",
+        "DSC 40A"
+    ],
+    "DSC 98": [
+        "MATH 31BH",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 31AH",
+        "and",
+        "DSC 20",
+        "and",
+        "DSC 40A"
+    ],
+    "DSC 99": [
+        "MATH 31BH",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 31AH",
+        "and",
+        "DSC 20",
+        "and",
+        "DSC 40A"
+    ],
+    "DSC 100": [
+        "DSC 80",
+        "and",
+        "DSC 40B"
+    ],
+    "DSC 102": [
+        "DSC 100"
+    ],
+    "DSC 104": [
+        "DSC 102"
+    ],
+    "DSC 106": [
+        "DSC 80"
+    ],
+    "DSC 120": [
+        "MATH 18",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C",
+        "and",
+        "DSC 40B"
+    ],
+    "DSC 170": [
+        "DSC 80"
+    ],
+    "DSC 180A": [
+        "DSC 102",
+        "and",
+        "MATH 189",
+        "and",
+        "CSE 151",
+        "or",
+        "CSE 158"
+    ],
+    "DSC 180B": [
+        "DSC 106",
+        "and",
+        "DSC 180A"
+    ],
+    "DSC 190": [],
+    "DSC 191": [],
+    "DSC 197": [],
+    "DSC 198": [],
+    "DSC 199": [],
+    "DSC 500": [
+        "DSC 500"
+    ],
+    "DSC 599": []
+}

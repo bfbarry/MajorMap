@@ -1,0 +1,540 @@
+{
+    "ECE 5": [],
+    "ECE 15": [],
+    "ECE 16": [
+        "MAE 8",
+        "or",
+        "CSE 8B",
+        "or",
+        "CSE 11",
+        "or",
+        "ECE 15"
+    ],
+    "ECE 17": [
+        "CSE 8B",
+        "or",
+        "CSE 11",
+        "or",
+        "ECE 15"
+    ],
+    "ECE 25": [],
+    "ECE 30": [
+        "ECE 15",
+        "and"
+    ],
+    "ECE 35": [
+        "MATH 18",
+        "and",
+        "PHYS 2A"
+    ],
+    "ECE 45": [
+        "ECE 35"
+    ],
+    "ECE 65": [
+        "ECE 35"
+    ],
+    "ECE 85": [],
+    "ECE 87": [],
+    "ECE 90": [],
+    "ECE 100": [
+        "ECE 45",
+        "and",
+        "ECE 65"
+    ],
+    "ECE 101": [
+        "ECE 45"
+    ],
+    "ECE 102": [
+        "ECE 65",
+        "and",
+        "ECE 100"
+    ],
+    "ECE 103": [
+        "ECE 65",
+        "and",
+        "PHYS 2D",
+        "or",
+        "PHYS 4D",
+        "and"
+    ],
+    "ECE 107": [
+        "PHYS 2A\u2013C",
+        "and",
+        "ECE 45"
+    ],
+    "ECE 108": [
+        "ECE 25",
+        "or",
+        "CSE 140",
+        "and",
+        "and",
+        "ECE 30",
+        "or",
+        "CSE 30"
+    ],
+    "ECE 109": [
+        "MATH 20A-B",
+        "MATH 20D",
+        "MATH 20C",
+        "or",
+        "MATH 31BH",
+        "and",
+        "MATH 31AH",
+        "or",
+        "MATH 18"
+    ],
+    "ECE 111": [
+        "ECE 25",
+        "or",
+        "CSE 140"
+    ],
+    "ECE 115": [
+        "ECE 16"
+    ],
+    "ECE 118": [
+        "ECE 30",
+        "or",
+        "CSE 30",
+        "and",
+        "ECE 35"
+    ],
+    "ECE 120": [
+        "PHYS 2A\u2013C",
+        "MATH 20A\u2013B"
+    ],
+    "ECE 121A": [
+        "ECE 35"
+    ],
+    "ECE 121B": [
+        "ECE 121A"
+    ],
+    "ECE 123": [
+        "ECE 107"
+    ],
+    "ECE 124": [
+        "ECE 121A"
+    ],
+    "ECE 125A": [
+        "ECE 125A"
+    ],
+    "ECE 125B": [],
+    "ECE 128A": [
+        "ECE 35",
+        "and",
+        "ECE 128A"
+    ],
+    "ECE 128B": [
+        "ECE 128B"
+    ],
+    "ECE 128C": [
+        "PHYS 2C\u2013D"
+    ],
+    "ECE 134": [
+        "ECE 103"
+    ],
+    "ECE 135A": [
+        "ECE 135A"
+    ],
+    "ECE 135B": [
+        "ECE 135B"
+    ],
+    "ECE 136L": [],
+    "ECE 138L": [
+        "CSE 8B",
+        "or",
+        "CSE 11",
+        "or",
+        "ECE 15"
+    ],
+    "ECE 140A": [
+        "ECE 140A"
+    ],
+    "ECE 140B": [
+        "CSE 30",
+        "or",
+        "ECE 30"
+    ],
+    "ECE 141A": [
+        "ECE 141A"
+    ],
+    "ECE 141B": [
+        "ECE 16"
+    ],
+    "ECE 143": [
+        "CSE 11",
+        "or",
+        "CSE 8B",
+        "or",
+        "ECE 15"
+    ],
+    "ECE 144": [
+        "ECE 107"
+    ],
+    "ECE 145AL-BL-CL": [
+        "ECE 15",
+        "or",
+        "ECE 35",
+        "or",
+        "MAE 2",
+        "or",
+        "MAE 3",
+        "and"
+    ],
+    "ECE 148": [],
+    "ECE 150": [
+        "ECE 109"
+    ],
+    "ECE 153": [
+        "ECE 101",
+        "and"
+    ],
+    "ECE 154A": [
+        "ECE 101",
+        "or",
+        "BENG 122A",
+        "ECE 109",
+        "or",
+        "ECON 120A",
+        "or",
+        "MAE 108",
+        "or",
+        "MATH 180A",
+        "or",
+        "MATH 180B",
+        "or",
+        "MATH 183",
+        "or",
+        "MATH 186",
+        "and",
+        "ECE 153"
+    ],
+    "ECE 155": [],
+    "ECE 156": [
+        "ECE 109",
+        "or",
+        "ECON 120A",
+        "or",
+        "MAE 108",
+        "or",
+        "MATH 180A",
+        "or",
+        "MATH 180B",
+        "or",
+        "MATH 183",
+        "or",
+        "MATH 186",
+        "and",
+        "ECE 161A"
+    ],
+    "ECE 157A": [
+        "ECE 154A"
+    ],
+    "ECE 157B": [
+        "ECE 109"
+    ],
+    "ECE 158A": [
+        "ECE 158A"
+    ],
+    "ECE 158B": [
+        "ECE 153"
+    ],
+    "ECE 159": [
+        "ECE 101"
+    ],
+    "ECE 161A": [
+        "ECE 161A"
+    ],
+    "ECE 161B": [
+        "ECE 161A"
+    ],
+    "ECE 161C": [
+        "ECE 101",
+        "and"
+    ],
+    "ECE 163": [
+        "ECE 102"
+    ],
+    "ECE 164": [
+        "ECE 102"
+    ],
+    "ECE 165": [
+        "ECE 102",
+        "and"
+    ],
+    "ECE 166": [
+        "ECE 45",
+        "or",
+        "MAE 140"
+    ],
+    "ECE 171A": [
+        "ECE 171A"
+    ],
+    "ECE 171B": [
+        "ECE 101"
+    ],
+    "ECE 172A": [
+        "MATH 20F",
+        "or",
+        "MATH 18",
+        "ECE 15",
+        "and",
+        "ECE 109"
+    ],
+    "ECE 174": [
+        "ECE 109",
+        "and",
+        "ECE 174"
+    ],
+    "ECE 175A": [
+        "ECE 175A"
+    ],
+    "ECE 175B": [],
+    "ECE 180": [
+        "ECE 103",
+        "and"
+    ],
+    "ECE 181": [
+        "ECE 103",
+        "and"
+    ],
+    "ECE 182": [
+        "ECE 103",
+        "and"
+    ],
+    "ECE 183": [
+        "ECE 182"
+    ],
+    "ECE 184": [
+        "ECE 183"
+    ],
+    "ECE 185": [
+        "MATH 20A-B-F",
+        "PHYS 2A\u2013D",
+        "ECE 101"
+    ],
+    "ECE 187": [],
+    "ECE 188": [],
+    "ECE 189": [],
+    "ECE 190": [],
+    "ECE 191": [
+        "ECE departmental"
+    ],
+    "ECE 193H": [],
+    "ECE 194": [],
+    "ECE 195": [],
+    "ECE 196": [],
+    "ECE 197": [],
+    "ECE 198": [],
+    "ECE 199": [],
+    "ECE 200": [],
+    "ECE 201": [],
+    "ECE 202": [],
+    "ECE 203": [
+        "ECE 271A",
+        "or",
+        "ECE 271B",
+        "or",
+        "MATH 283"
+    ],
+    "ECE 204": [],
+    "ECE 207A": [],
+    "ECE 208": [
+        "ECE 271A-B"
+    ],
+    "ECE 209": [],
+    "ECE 212AN": [
+        "ECE 212AN"
+    ],
+    "ECE 212BN": [
+        "ECE 212BN"
+    ],
+    "ECE 212CN": [],
+    "ECE 221": [],
+    "ECE 222A": [
+        "ECE 222A"
+    ],
+    "ECE 222B": [
+        "ECE 222B"
+    ],
+    "ECE 222C": [
+        "ECE 222C"
+    ],
+    "ECE 222D": [],
+    "ECE 225A": [
+        "ECE 225A",
+        "or",
+        "ECE 250"
+    ],
+    "ECE 225B": [
+        "ECE 250",
+        "or",
+        "ECE 269",
+        "or",
+        "ECE 271A"
+    ],
+    "ECE 226": [],
+    "ECE 227": [],
+    "ECE 228": [
+        "ECE 225A",
+        "or",
+        "ECE 269"
+    ],
+    "ECE 229": [],
+    "ECE 230A": [
+        "ECE 230A"
+    ],
+    "ECE 230B": [
+        "ECE 230B"
+    ],
+    "ECE 230C": [],
+    "ECE 235": [
+        "ECE 230A"
+    ],
+    "ECE 236A": [
+        "ECE 236A"
+    ],
+    "ECE 236B": [
+        "ECE 236B"
+    ],
+    "ECE 236C": [],
+    "ECE 238A": [
+        "ECE 238A"
+    ],
+    "ECE 238B": [],
+    "ECE 240A": [
+        "ECE 240A"
+    ],
+    "ECE 240B": [
+        "ECE 240B"
+    ],
+    "ECE 240C": [],
+    "ECE 241A": [
+        "ECE 241A"
+    ],
+    "ECE 241B": [
+        "ECE 241B"
+    ],
+    "ECE 241C": [
+        "ECE 243A"
+    ],
+    "ECE 243B": [],
+    "ECE 244A": [],
+    "ECE 247A": [],
+    "ECE 247B": [],
+    "ECE 247C": [],
+    "ECE 250": [],
+    "ECE 251A": [],
+    "ECE 251B": [],
+    "ECE 251C": [],
+    "ECE 251D": [],
+    "ECE 252A": [
+        "ECE 252A"
+    ],
+    "ECE 253": [],
+    "ECE 254": [],
+    "ECE 255A": [
+        "ECE 255A"
+    ],
+    "ECE 255B": [
+        "ECE 250"
+    ],
+    "ECE 255C": [],
+    "ECE 256": [],
+    "ECE 257A": [],
+    "ECE 257B": [
+        "ECE 257B"
+    ],
+    "ECE 257C": [
+        "ECE 250"
+    ],
+    "ECE 258A": [
+        "ECE 258A"
+    ],
+    "ECE 258B": [],
+    "ECE 259A": [
+        "ECE 259A"
+    ],
+    "ECE 259B": [
+        "ECE 259A\u2013B"
+    ],
+    "ECE 259C": [],
+    "ECE 260A": [
+        "ECE 260A"
+    ],
+    "ECE 260B": [
+        "ECE 260B"
+    ],
+    "ECE 260C": [],
+    "ECE 264A": [
+        "ECE 264A"
+    ],
+    "ECE 264B": [
+        "ECE 264B"
+    ],
+    "ECE 264C": [
+        "ECE 264C"
+    ],
+    "ECE 264D": [
+        "ECE 166"
+    ],
+    "ECE 265A": [
+        "ECE 166",
+        "and",
+        "ECE 265A"
+    ],
+    "ECE 265B": [
+        "ECE 265A-B"
+    ],
+    "ECE 265C": [
+        "ECE 265A-B"
+    ],
+    "ECE 265D": [],
+    "ECE 267": [],
+    "ECE 268": [],
+    "ECE 269": [],
+    "ECE 271A": [
+        "ECE 271A"
+    ],
+    "ECE 271B": [
+        "ECE 271A-B"
+    ],
+    "ECE 271C": [
+        "ECE 269"
+    ],
+    "ECE 272A": [
+        "ECE 272A"
+    ],
+    "ECE 272B": [
+        "ECE 269"
+    ],
+    "ECE 273": [],
+    "ECE 275A": [],
+    "ECE 275B": [],
+    "ECE 276A": [
+        "ECE 276A"
+    ],
+    "ECE 276B": [
+        "ECE 276B"
+    ],
+    "ECE 276C": [],
+    "ECE 277": [],
+    "ECE 278": [],
+    "ECE 279": [],
+    "ECE 280": [],
+    "ECE 281": [],
+    "ECE 282": [],
+    "ECE 283": [],
+    "ECE 284": [],
+    "ECE 285": [],
+    "ECE 286": [],
+    "ECE 287": [],
+    "ECE 289": [],
+    "ECE 290": [],
+    "ECE 291": [],
+    "ECE 293": [],
+    "ECE 294": [],
+    "ECE 295": [],
+    "ECE 296": [],
+    "ECE 297": [],
+    "ECE 299": []
+}

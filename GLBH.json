@@ -1,0 +1,37 @@
+{
+    "GLBH 102": [
+        "COGS 14B",
+        "or",
+        "MATH 11",
+        "or",
+        "PSYC 60",
+        "and",
+        "GLBH 20",
+        "or",
+        "FMPH 40"
+    ],
+    "GLBH 150A": [],
+    "GLBH 150B": [
+        "GLBH 150A"
+    ],
+    "GLBH 160": [],
+    "GLBH 181": [],
+    " GLBH 198": [],
+    "GLBH 199": [],
+    "GLBH 200": [],
+    "GLBH 201": [],
+    "GLBH 202": [],
+    "GLBH 211": [],
+    "GLBH 212": [],
+    "GLBH 241": [],
+    "GLBH 245": [],
+    "GLBH 249": [],
+    "GLBH 260": [],
+    "GLBH 261": [
+        "GLBH 260"
+    ],
+    "GLBH 281": [],
+    "GLBH 297": [],
+    "GLBH 298": [],
+    "GLBH 299": []
+}
