@@ -203,58 +203,5 @@
         "PHYS 210A",
         "and",
         "PHYS 211A"
-    ],
-    "PHYS 200A": [
-        "PHYS 212A"
-    ],
-    "PHYS 200B": [
-        "PHYS 212A-B"
-    ],
-    "PHYS 201": [
-        "PHYS 215A"
-    ],
-    "PHYS 203A": [
-        "PHYS 215A"
-    ],
-    "PHYS 203B": [
-        "PHYS 215A-B"
-    ],
-    "PHYS 210B": [
-        "PHYS 210A"
-    ],
-    "PHYS 211B": [
-        "PHYS 218A"
-    ],
-    "PHYS 212A": [
-        "PHYS 218B"
-    ],
-    "PHYS 212B": [
-        "PHYS 211A"
-    ],
-    "PHYS 212C": [
-        "PHYS 212C"
-    ],
-    "PHYS 214": [
-        "PHYS 200B"
-    ],
-    "PHYS 215A": [
-        "PHYS 214"
-    ],
-    "PHYS 219": [
-        "PHYS 211B"
-    ],
-    "PHYS 220": [
-        "PHYS 211A"
-    ],
-    "PHYS 221A": [
-        "PHYS 218C"
-    ],
-    "PHYS 243": [
-        "PHYS 259A"
-    ],
-    "PHYS 251": [],
-    "PHYS 252": [
-        "PHYS 270A"
-    ],
-    "PHYS 261": []
+    ]
 }
