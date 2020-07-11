@@ -1,0 +1,169 @@
+{
+    "MUS 1A": [],
+    "MUS 1B": [
+        "MUS 1A"
+    ],
+    "MUS 1C": [
+        "MUS 1B"
+    ],
+    "MUS 2A-B-C": [],
+    "MUS 2AK-BK-CK": [
+        "MUS 2A"
+    ],
+    "MUS 2JK": [
+        "MUS 2AK",
+        "and"
+    ],
+    "MUS 4": [],
+    "MUS 5": [],
+    "MUS 6": [],
+    "MUS 7": [],
+    "MUS 8": [],
+    "MUS 9": [],
+    "MUS 11": [],
+    "MUS 12": [],
+    "MUS 13": [],
+    "MUS 14": [],
+    "MUS 15": [],
+    "MUS 16": [],
+    "MUS 17": [],
+    "MUS 18": [],
+    "MUS 20": [],
+    "MUS 32": [],
+    "MUS 32G": [],
+    "MUS 32V": [],
+    "MUS 32VM": [
+        "MUS 32V"
+    ],
+    "MUS 33A": [
+        "MUS 2C"
+    ],
+    "MUS 33B": [
+        "MUS 33A"
+    ],
+    "MUS 33C": [
+        "MUS 33B"
+    ],
+    "MUS 95": [],
+    "MUS 107": [
+        "MUS 2C",
+        "and"
+    ],
+    "MUS 110": [
+        "MUS 2C"
+    ],
+    "MUS 111": [
+        "MUS 101B"
+    ],
+    "MUS 112": [
+        "MUS 101B"
+    ],
+    "MUS 113": [
+        "MUS 33C"
+    ],
+    "MUS 114": [
+        "MUS 103A"
+    ],
+    "MUS 115": [
+        "MUS 103B"
+    ],
+    "MUS 116": [
+        "MUS 103A-B-C",
+        "and"
+    ],
+    "MUS 120A": [
+        "MUS 101A",
+        "and"
+    ],
+    "MUS 120B": [
+        "MUS 2C"
+    ],
+    "MUS 120C": [
+        "MUS 120C"
+    ],
+    "MUS 126": [],
+    "MUS 127": [],
+    "MUS 128": [],
+    "MUS 130": [],
+    "MUS 131": [],
+    "MUS 132": [],
+    "MUS 132C": [],
+    "MUS 132R": [
+        "MUS 1C"
+    ],
+    "MUS 132V": [
+        "MUS 120A"
+    ],
+    "MUS 133": [
+        "MUS 120B"
+    ],
+    "MUS 134": [],
+    "MUS 137A": [],
+    "MUS 137B": [
+        "MUS 2A-B-C",
+        "and"
+    ],
+    "MUS 137C": [],
+    "MUS 137D": [],
+    "MUS 137E": [],
+    "MUS 137F": [
+        "MUS 132V",
+        "and"
+    ],
+    "MUS 143": [],
+    "MUS 150": [],
+    "MUS 151": [],
+    "MUS 152": [],
+    "MUS 153": [
+        "MUS 2A-B-C"
+    ],
+    "MUS 160A": [
+        "MUS 137A"
+    ],
+    "MUS 160B": [
+        "MUS 137B"
+    ],
+    "MUS 170": [
+        "MUS 137A-B-C",
+        "and"
+    ],
+    "MUS 171": [
+        "MUS 137D",
+        "and"
+    ],
+    "MUS 172": [
+        "MUS 137E",
+        "and"
+    ],
+    "MUS 174A": [
+        "MUS 126/ETHN",
+        "or",
+        "MUS 127/ETHN"
+    ],
+    "MUS 174B": [],
+    "MUS 174C": [],
+    "MUS 175": [],
+    "MUS 176": [
+        "VIS 141B",
+        "or",
+        "VIS 145B",
+        "or",
+        "VIS 147B",
+        "or",
+        "MUS 172"
+    ],
+    "MUS 177": [
+        "MUS 160A",
+        "or",
+        "VIS 160A"
+    ],
+    "MUS 192": [
+        "MUS 1A"
+    ],
+    "MUS 195": [],
+    "MUS 198": [
+        "MUS 171",
+        "MUS 160C"
+    ],
+    "MUS 199": []
+}

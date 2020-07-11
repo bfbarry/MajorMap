@@ -1,287 +1,615 @@
 {
-    "ECON 2": [
-        "ECON 1"
-    ],
-    "ECON 3": [
-        "ECON 1"
-    ],
-    "ECON 100A": [
-        "ECON 1",
-        "and",
-        "MATH 10C"
-    ],
-    "ECON 100B": [
-        "ECON 100A"
-    ],
-    "ECON 100C": [
-        "ECON 100B"
-    ],
-    "ECON 100AH": [],
-    "ECON 100BH": [],
-    "ECON 100CH": [],
-    "ECON 101": [
-        "ECON 100B"
-    ],
-    "ECON 102": [
-        "ECON 1",
-        "and",
-        "MATH 20C"
-    ],
-    "ECON 102T": [],
-    "ECON 103": [
-        "ECON 102"
-    ],
-    "ECON 105": [
-        "ECON 100C"
-    ],
-    "ECON 106": [
-        "ECON 100B",
-        "and"
-    ],
-    "ECON 107": [
-        "ECON 2"
-    ],
-    "ECON 109": [
-        "ECON 100C",
-        "or",
-        "MATH 31CH",
-        "or",
-        "MATH 109",
-        "and",
-        "MATH 20"
-    ],
-    "ECON 109T": [],
-    "ECON 110A": [
-        "ECON 1",
-        "and",
-        "ECON 3",
-        "and",
-        "MATH 10C"
-    ],
-    "ECON 110B": [
-        "ECON 110A"
-    ],
-    "ECON 110AH": [],
-    "ECON 110BH": [],
-    "ECON 111": [
-        "ECON 110B"
-    ],
-    "ECON 112": [
-        "ECON 110B",
-        "and",
-        "ECON 120B",
-        "or",
-        "MATH 181B"
-    ],
-    "ECON 113": [
-        "ECON 100C",
-        "or",
-        "MATH 140A",
-        "or",
-        "MATH 142A"
-    ],
-    "ECON 116": [
-        "ECON 2"
-    ],
-    "ECON 117": [
-        "ECON 100A"
-    ],
-    "ECON 118": [
-        "ECON 2"
-    ],
-    "ECON 119": [
-        "ECON 2",
-        "and",
-        "MATH 10A"
-    ],
-    "ECON 120A": [
-        "ECON 1"
-    ],
-    "ECON 120B": [
-        "ECON 120A",
-        "or",
-        "ECE 109",
-        "or",
-        "MAE 108",
-        "or",
-        "MATH 180A",
-        "or",
-        "MATH 183",
-        "or",
-        "MATH 186"
-    ],
-    "ECON 120C": [
-        "ECON 120B",
-        "or",
-        "MATH 181B"
-    ],
-    "ECON 120AH": [],
-    "ECON 120BH": [],
-    "ECON 120CH": [],
-    "ECON 121": [
-        "ECON 120C"
-    ],
-    "ECON 122": [
-        "ECON 120B",
-        "or",
-        "MATH 181B",
-        "and",
-        "MATH 18",
-        "or",
-        "MATH 31AH"
-    ],
-    "ECON 125": [
-        "ECON 120B",
-        "or",
-        "MATH 181B"
-    ],
-    "ECON 130": [
-        "ECON 2"
-    ],
-    "ECON 131": [
-        "ECON 2"
-    ],
-    "ECON 132": [
-        "ECON 1",
-        "and",
-        "ESYS 103",
-        "or",
-        "MAE 124",
-        "and",
-        "MATH 10C"
-    ],
-    "ECON 134": [
-        "ECON 100A"
-    ],
-    "ECON 135": [
-        "ECON 2"
-    ],
-    "ECON 136": [
-        "ECON 100B"
-    ],
-    "ECON 138": [
-        "ECON 1"
-    ],
-    "ECON 139": [
-        "ECON 2"
-    ],
-    "ECON 140": [
-        "ECON 2"
-    ],
-    "ECON 141": [
-        "ECON 100C"
-    ],
-    "ECON 142": [
-        "ECON 109"
-    ],
-    "ECON 143": [
-        "ECON 100C"
-    ],
-    "ECON 144": [
-        "ECON 2"
-    ],
-    "ECON 145": [
-        "ECON 2"
-    ],
-    "ECON 146": [
-        "ECON 110B"
-    ],
-    "ECON 147": [
-        "ECON 2"
-    ],
-    "ECON 150": [
-        "ECON 100C"
-    ],
-    "ECON 151": [
-        "ECON 100C"
-    ],
-    "ECON 152": [
-        "ECON 100C"
-    ],
-    "ECON 158": [],
-    "ECON 159": [],
-    "ECON 162": [
-        "ECON 1",
-        "and"
-    ],
-    "ECON 164": [
-        "ECON 1",
-        "and"
-    ],
-    "ECON 164T": [],
-    "ECON 165": [
-        "ECON 1",
-        "and"
-    ],
-    "ECON 165T": [],
-    "ECON 167": [
-        "ECON 1",
-        "and"
-    ],
-    "ECON 168": [
-        "ECON 1",
-        "and"
-    ],
-    "ECON 169": [
-        "ECON 3",
-        "and"
-    ],
-    "ECON 171": [
-        "ECON 100A",
-        "and",
-        "ECON 120A",
-        "or",
-        "ECE 109",
-        "or",
-        "MATH 180A",
-        "or",
-        "MATH 183",
-        "or",
-        "MATH 186"
-    ],
-    "ECON 172A": [
-        "ECON 100A"
-    ],
-    "ECON 172B": [
-        "ECON 172A",
-        "or",
-        "MATH 171A"
-    ],
-    "ECON 173A": [
-        "ECON 100A",
-        "and",
-        "ECON 120B",
-        "or",
-        "MATH 181B"
-    ],
-    "ECON 173B": [
-        "ECON 4",
-        "or",
-        "MGT 4"
-    ],
-    "ECON 174": [
-        "ECON 173A"
-    ],
-    "ECON 176": [
-        "ECON 120C"
-    ],
-    "ECON 178": [
-        "ECON 120C"
-    ],
-    "ECON 181": [
-        "ECON 1",
-        "and",
-        "ECON 3"
-    ],
-    "ECON 182": [
-        "ECON 100C"
-    ],
-    "ECON 183": [
-        "ECON 110B"
-    ],
-    "ECON 191A": [],
-    "ECON 191B": [],
-    "ECON 195": [],
-    "ECON 198": [],
-    "ECON 199": []
+    "ECON 2": {
+        "prerequisites": [
+            "ECON 1"
+        ],
+        "name": "Market Imperfections and Policy",
+        "description": "Analysis of monopoly and imperfectly competitive markets, market imperfections and the role of government. \n\t\t\t\t\t"
+    },
+    "ECON 3": {
+        "prerequisites": [
+            "ECON 1"
+        ],
+        "name": "Principles of Macroeconomics",
+        "description": "Introductory macroeconomics: unemployment, inflation, business cycles, monetary and fiscal policy.  "
+    },
+    "ECON 100A": {
+        "prerequisites": [
+            "ECON 1",
+            "and",
+            "MATH 10C"
+        ],
+        "name": "Microeconomics A",
+        "description": "Economic analysis of household determination of the demand for goods and services, consumption/saving decisions, and the supply of labor. "
+    },
+    "ECON 100B": {
+        "prerequisites": [
+            "ECON 100A"
+        ],
+        "name": "Microeconomics B",
+        "description": "Analysis of firms\u2019 production and costs, the supply of output and demand factors of production. Analysis of perfectly competitive markets. "
+    },
+    "ECON 100C": {
+        "prerequisites": [
+            "ECON 100B"
+        ],
+        "name": "Microeconomics C",
+        "description": "Analysis of the effects of imperfect market structure, strategy, and imperfect information. "
+    },
+    "ECON 100AH": {
+        "prerequisites": [],
+        "name": "Honors Microeconomics A",
+        "description": "Honors sequence expanding on the material taught in ECON 100A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100A or after successful completion of ECON 100A with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+    },
+    "ECON 100BH": {
+        "prerequisites": [],
+        "name": "Honors Microeconomics B",
+        "description": "Honors sequence expanding on the material taught in ECON 100B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100B or after successful completion of ECON 100B with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+    },
+    "ECON 100CH": {
+        "prerequisites": [],
+        "name": "Honors Microeconomics C",
+        "description": "Honors sequence expanding on the material taught in ECON 100C. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100C or after successful completion of ECON 100C with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+    },
+    "ECON 101": {
+        "prerequisites": [
+            "ECON 100B"
+        ],
+        "name": "International Trade",
+        "description": "Examines theories of international trade in goods and services and relates the insights to empirical evidence. Explains international trade at the level of industries and firms and analyzes the consequences of trade for resource allocation, welfare, and the income distribution. Discusses sources of comparative advantage, motives for trade policies, and the effects of trade barriers and trading blocs on welfare and incomes. "
+    },
+    "ECON 102": {
+        "prerequisites": [
+            "ECON 1",
+            "and",
+            "MATH 20C"
+        ],
+        "name": "Globalization",
+        "description": "Presents theories of global economic integration, grounded in the principle of comparative advantage. Investigates patterns of trade when trade is balanced and capital flows when trade is not balanced. Assesses the consequences of global economic integration and economic policies for industry location, incomes, welfare and economic growth, and studies goods, services and sovereign debt markets. "
+    },
+    "ECON 102T": {
+        "prerequisites": [],
+        "name": "Advanced Topic in Globalization",
+        "description": "This course presents a selection of empirical applications and advanced topics that build on the material covered in ECON 102, Globalization. Students have the opportunity to analyze global trade and capital market data and to prepare a presentation and brief paper on a specific topic. "
+    },
+    "ECON 103": {
+        "prerequisites": [
+            "ECON 102"
+        ],
+        "name": "International Monetary Relations",
+        "description": "Analyzes exchange rates and the current account. Relates their joint determination to financial markets and the real-side macroeconomy using international macroeconomic models and presents empirical regularities. Discusses macroeconomic policies under different exchange rate regimes and implications for financial stability and current account sustainability. "
+    },
+    "ECON 105": {
+        "prerequisites": [
+            "ECON 100C"
+        ],
+        "name": "Industrial Organization and Firm Strategy",
+        "description": "Theory of monopoly and oligopoly pricing, price discrimination, durable goods pricing, cartel behavior, price wars, strategic entry barriers, mergers, pro- and anticompetitive restraints on business. "
+    },
+    "ECON 106": {
+        "prerequisites": [
+            "ECON 100B",
+            "and"
+        ],
+        "name": "International Economic Agreements",
+        "description": "Examines reasons for international economic agreements, their design, the strategic interactions that determine how the agreements are implemented and sustained, and consequences for global welfare and inequality. Draws on international economics, game theory, law and economics, and political economy to understand international economic agreements. These tools are used to understand multilateral trade and investment agreements, such as NAFTA, and international organizations, such as the WTO. "
+    },
+    "ECON 107": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Economic Regulation and Antitrust Policy",
+        "description": "Detailed treatment of antitrust policy: Sherman Act, price fixing, collusive practices, predatory pricing, price discrimination, double marginalization, exclusive territories, resale price maintenance, refusal to deal, and foreclosure. Theory of regulation and regulatory experience in electrical utilities, oil, telecommunications, broadcasting, etc. "
+    },
+    "ECON 109": {
+        "prerequisites": [
+            "ECON 100C",
+            "or",
+            "MATH 31CH",
+            "or",
+            "MATH 109",
+            "and",
+            "MATH 20"
+        ],
+        "name": "Game Theory",
+        "description": "Introduction to game theory. Analysis of people\u2019s decisions when the consequences of the decisions depend on what other people do. This course features applications in economics, political science, and law. "
+    },
+    "ECON 109T": {
+        "prerequisites": [],
+        "name": "Advanced Topics in Game Theory",
+        "description": "This course presents a selection of applications and advanced topics that build on the material covered in the ECON 109. Game Theory course. "
+    },
+    "ECON 110A": {
+        "prerequisites": [
+            "ECON 1",
+            "and",
+            "ECON 3",
+            "and",
+            "MATH 10C"
+        ],
+        "name": "Macroeconomics A",
+        "description": "Analysis of the determination of long run growth and models of the determination of output, interest rates, and the price level. Analysis of inflation, unemployment, and monetary and fiscal policy. "
+    },
+    "ECON 110B": {
+        "prerequisites": [
+            "ECON 110A"
+        ],
+        "name": "Macroeconomics B",
+        "description": "Analysis of the determination of consumption spending at the aggregate level; extension of the basic macro model to include exchange rates and international trade; the aggregate money supply, and the business cycle. "
+    },
+    "ECON 110AH": {
+        "prerequisites": [],
+        "name": "Honors Macroeconomics A",
+        "description": "Honors sequence expanding on the material taught in ECON 110A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 110A or after successful completion of ECON 110A with A\u2013or better or consent of instructor. Priority enrollment given to majors in the department. "
+    },
+    "ECON 110BH": {
+        "prerequisites": [],
+        "name": "Honors Macroeconomics B",
+        "description": "Honors sequence expanding on the material taught in ECON 110B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 110B or after successful completion of ECON 110B with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+    },
+    "ECON 111": {
+        "prerequisites": [
+            "ECON 110B"
+        ],
+        "name": "Monetary Economics",
+        "description": "Financial structure of the US economy. Bank behavior. Monetary control. "
+    },
+    "ECON 112": {
+        "prerequisites": [
+            "ECON 110B",
+            "and",
+            "ECON 120B",
+            "or",
+            "MATH 181B"
+        ],
+        "name": "Macroeconomic Data Analysis",
+        "description": "Examines time series methods for data analysis with an emphasis on macroeconomic applications. Students are provided with an overview of fundamental time series techniques, hands-on experience in applying them to real-world macroeconomic data, and expertise in performing empirical tests of policy-relevant macroeconomic theories, such as the permanent income hypothesis, the Keynesian fiscal multiplier, and the Phillips curve. "
+    },
+    "ECON 113": {
+        "prerequisites": [
+            "ECON 100C",
+            "or",
+            "MATH 140A",
+            "or",
+            "MATH 142A"
+        ],
+        "name": "Mathematical Economics",
+        "description": "Mathematical concepts and techniques used in advanced economic analysis; applications to selected aspects of economic theory.  "
+    },
+    "ECON 116": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Economic Development",
+        "description": "Introduction to the economics of less developed countries, covering their international trade, human resources, urbanization, agriculture, income distribution, political economy, and environment. "
+    },
+    "ECON 117": {
+        "prerequisites": [
+            "ECON 100A"
+        ],
+        "name": "Economic Growth",
+        "description": "Topics will include long-run economic growth and cross-country income differences; Malthusian dynamics and the transition to modern growth; measured income vs welfare; development accounting; the Solow Growth Model; human capital; misallocation and total-factor productivity; firm management practices; technology adoption; agricultural productivity gaps; rural-urban migration; structural transformation; innovation and endogenous growth. "
+    },
+    "ECON 118": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Law and\n\t\t  Economics: Torts, Property, and Crime",
+        "description": "Uses economic theory to evaluate the economic effects of US law in several legal fields, including tort law (accidents), products liability law, property law, criminal law (law enforcement), and litigation. Also considers risk bearing and why people buy insurance. "
+    },
+    "ECON 119": {
+        "prerequisites": [
+            "ECON 2",
+            "and",
+            "MATH 10A"
+        ],
+        "name": "Law and Economics: Contracts and Corporations\n\t\t\t\t ",
+        "description": "This course asks how firms are organized and why the corporate form dominates, how corporations are governed and the distortions that result, when firms borrow and how they deal with financial distress and bankruptcy. The course will present basic legal doctrines in corporate law, contract law, debtor-creditor law, and bankruptcy, and use economic models to analyze whether and when these doctrines promote economically efficient behavior.  "
+    },
+    "ECON 120A": {
+        "prerequisites": [
+            "ECON 1"
+        ],
+        "name": "Econometrics A",
+        "description": "Probability and statistics used in economics. Probability and sampling theory, statistical inference, and use of spreadsheets. Credit not allowed for ECON 120A after ECE 109, MAE 108, MATH 180A, MATH 183, or MATH 186.  "
+    },
+    "ECON 120B": {
+        "prerequisites": [
+            "ECON 120A",
+            "or",
+            "ECE 109",
+            "or",
+            "MAE 108",
+            "or",
+            "MATH 180A",
+            "or",
+            "MATH 183",
+            "or",
+            "MATH 186"
+        ],
+        "name": "Econometrics B",
+        "description": "Basic econometric methods, including the linear regression, hypothesis testing, quantifying uncertainty using confidence intervals, and distinguishing correlation from causality. Credit not allowed for both ECON 120B after MATH 181B. "
+    },
+    "ECON 120C": {
+        "prerequisites": [
+            "ECON 120B",
+            "or",
+            "MATH 181B"
+        ],
+        "name": "Econometrics C",
+        "description": "Advanced econometric methods: estimation of linear regression models with endogeneity, economic methods designed for panel data sets, estimation of discrete choice models, time series analysis, and estimation in the presence of autocorrelated and heteroskedastic errors. "
+    },
+    "ECON 120AH": {
+        "prerequisites": [],
+        "name": "Honors Econometrics A",
+        "description": "Honors sequence expanding on the material taught in ECON 120A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120A or after successful completion of ECON 120A with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+    },
+    "ECON 120BH": {
+        "prerequisites": [],
+        "name": "Honors Econometrics B",
+        "description": "Honors sequence expanding on the material taught in ECON 120B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120B or after successful completion of ECON 120B with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+    },
+    "ECON 120CH": {
+        "prerequisites": [],
+        "name": "Honors Econometrics C",
+        "description": "Honors sequence expanding on the material taught in ECON 120C. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120C or after successful completion of ECON 120C with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+    },
+    "ECON 121": {
+        "prerequisites": [
+            "ECON 120C"
+        ],
+        "name": "Applied Econometrics and Data Analysis ",
+        "description": "Theoretically develops extensions to the standard econometric toolbox, studies their application in scientific research, and applies them to data. Emphasis is on using techniques, and on understanding and critically assessing others\u2019 use of them. Requires practical work on the computer using a range of data from around the world. Topics include advanced regression analysis, limited dependent variables, nonparametric methods, and new methods for causal inference. "
+    },
+    "ECON 122": {
+        "prerequisites": [
+            "ECON 120B",
+            "or",
+            "MATH 181B",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 31AH"
+        ],
+        "name": "Econometric Theory",
+        "description": "Detailed study of the small sample and asymptotic properties of estimators commonly used in applied econometric work: multiple linear regression, instrumental variables, generalized method of moments, and maximum likelihood. Econometric computation using Matlab. Recommended preparation: ECON 120C. "
+    },
+    "ECON 125": {
+        "prerequisites": [
+            "ECON 120B",
+            "or",
+            "MATH 181B"
+        ],
+        "name": "Demographic Analysis and Forecasting",
+        "description": "Interaction between economic forces and demographic changes are considered, as are demographic composition and analysis; fertility, mortality, and migration processes and trends. Course emphasizes the creation, evaluation, and interpretation of forecasts for states, regions, and subcounty areas. ECON 178 is recommended. "
+    },
+    "ECON 130": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Public Policy",
+        "description": "Course uses basic microeconomic tools to discuss a wide variety of public issues, including the war on drugs, global warming, natural resources, health care and safety regulation. Appropriate for majors who have not completed ECON 100A-B-C and students from other departments. "
+    },
+    "ECON 131": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Economics of the Environment",
+        "description": "Environmental issues from an economic perspective. Relation of the environment to economic growth. Management of natural resources, such as forest and fresh water. Policies on air, water, and toxic waste pollution. International issues such as ozone depletion and sustainable development. "
+    },
+    "ECON 132": {
+        "prerequisites": [
+            "ECON 1",
+            "and",
+            "ESYS 103",
+            "or",
+            "MAE 124",
+            "and",
+            "MATH 10C"
+        ],
+        "name": "Energy Economics",
+        "description": "Energy from an economic perspective. Fuel cycles for coal, hydro, nuclear, oil, and solar energy. Emphasis on efficiency and control of pollution. Comparison of energy use across sectors and across countries. Global warming. Role of energy in the international economy. "
+    },
+    "ECON 134": {
+        "prerequisites": [
+            "ECON 100A"
+        ],
+        "name": "The US Social Safety Net",
+        "description": "Examines major issues relating to the US social safety net, including Social Security, low-income assistance, unemployment and disability insurance, distributional and efficiency effects of the tax system, and the relation of these issues to the overall US government budget. "
+    },
+    "ECON 135": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Urban Economics",
+        "description": "(Cross-listed with USP 102.) Economic analysis of why cities develop, patterns of land use in cities, why cities suburbanize, and the pattern of urban commuting. The course also examines problems of urban congestion, air pollution, zoning, poverty, crime, and discusses public policies to deal with them. Credit not allowed for both ECON 135 and USP 102. "
+    },
+    "ECON 136": {
+        "prerequisites": [
+            "ECON 100B"
+        ],
+        "name": "Human Resources",
+        "description": "A practical yet theory-based study of the firm\u2019s role in managing workers, including issues related to hiring, education and training, promotions, layoffs and buyouts, and the overarching role that worker compensation plays in all of these. "
+    },
+    "ECON 138": {
+        "prerequisites": [
+            "ECON 1"
+        ],
+        "name": "Economics of Discrimination",
+        "description": "This course will investigate differences in economic outcomes on the basis of race, gender, ethnicity, religion, and sexual orientation. We will study economic theories of discrimination, empirical work testing those theories, and policies aimed at alleviating group-level differences in economic outcomes. "
+    },
+    "ECON 139": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Labor Economics",
+        "description": "Theoretical and empirical analysis of labor markets. Topics include labor supply, labor demand, human capital investment, wage inequality, labor mobility, immigration, labor market discrimination, labor unions and unemployment. "
+    },
+    "ECON 140": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Economics of Health Producers",
+        "description": "Provides an overview of the physician, hospital, and pharmaceutical segments of the health sector. Uses models of physician behavior, for-profit and nonprofit institutions to understand the trade-offs facing health-sector regulators and the administrators of public and private insurance arrangements. "
+    },
+    "ECON 141": {
+        "prerequisites": [
+            "ECON 100C"
+        ],
+        "name": "Economics of Health Consumers",
+        "description": "Demand for health care and health insurance, employer provision of health insurance and impact on wages and job changes. Cross-country comparisons of health systems.  "
+    },
+    "ECON 142": {
+        "prerequisites": [
+            "ECON 109"
+        ],
+        "name": "Behavioral Economics",
+        "description": "Course will study economic models in which standard economic rationality assumptions are combined with psychologically plausible assumptions on behavior. We consider whether the new models improve ability to predict and understand phenomena including altruism, trust and reciprocity, procrastination, and self-control. "
+    },
+    "ECON 143": {
+        "prerequisites": [
+            "ECON 100C"
+        ],
+        "name": "Experimental Economics",
+        "description": "Explore use of experiments to study individual and interactive (strategic) decision making. Topics may include choice over risky alternatives, altruism and reciprocity, allocation and information aggregation in competitive markets, cooperation and collusion, bidding in auctions, strategy in coordination and \u201coutguessing\u201d games.  "
+    },
+    "ECON 144": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Economics of Conservation",
+        "description": "Examines conservation of biodiversity from an economic perspective. Topics include valuing biodiversity, defining successful conservation, and evaluating the cost effectiveness of policies such as conservation payments, ecotourism, and privatization. Emphasis on forests, coral reefs, elephants, tigers, and sea turtles. "
+    },
+    "ECON 145": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Economics of Ocean Resources",
+        "description": "Economic issues associated with oceans. Economics of managing renewable resources in the oceans, with an emphasis on fisheries, economics of conservation and biodiversity preservation for living marine resources, with an emphasis on whales, dolphins, sea turtles, and coral reefs. "
+    },
+    "ECON 146": {
+        "prerequisites": [
+            "ECON 110B"
+        ],
+        "name": "Economic Stabilization",
+        "description": "Theory of business cycles and techniques used by governments to stabilize an economy. Discussion of recent economic experience. "
+    },
+    "ECON 147": {
+        "prerequisites": [
+            "ECON 2"
+        ],
+        "name": "Economics of Education",
+        "description": "Examination of issues in education using theoretical and empirical approaches from economics. Analysis of decisions to invest in education. Consideration of various market structures in education, including school choice and school finance programs. "
+    },
+    "ECON 150": {
+        "prerequisites": [
+            "ECON 100C"
+        ],
+        "name": "Public Economics: Taxation",
+        "description": "Overview of the existing national tax structure in the United States, its effects on individual and firm decisions, and the resulting efficiency costs and distributional consequences. The course concludes with an examination of several commonly-proposed tax reforms.  "
+    },
+    "ECON 151": {
+        "prerequisites": [
+            "ECON 100C"
+        ],
+        "name": "Public Economics: Expenditures I",
+        "description": "Overview of the public sector in the United States and the scope of government intervention in economic life. Theory of public goods and externalities. Discussion of specific expenditure programs such as education and national defense. "
+    },
+    "ECON 152": {
+        "prerequisites": [
+            "ECON 100C"
+        ],
+        "name": "Public Economics: Expenditures II",
+        "description": "Overview of the public sector in the United States and the justifications for government intervention in economic life. Theory of income redistribution and social insurance. Applications to current policy in such areas as health insurance, welfare, unemployment insurance, and Social Security.  "
+    },
+    "ECON 158": {
+        "prerequisites": [],
+        "name": "Economic History of the United States I",
+        "description": "(Cross-listed with HIUS 140.) The United States as a raw materials producer, as an agrarian society, and as an industrial nation. Emphasis on the logic of the growth process, the social and political tensions accompanying expansion, and nineteenth- and early twentieth-century transformations of American capitalism. Credit not allowed for both ECON 158 and HIUS 140. "
+    },
+    "ECON 159": {
+        "prerequisites": [],
+        "name": "Economic History of the United States II",
+        "description": "(Cross-listed with HIUS 141.) The United States as a modern industrial nation. Emphasis on the logic of the growth process, the social and political tensions accompanying expansion, and twentieth-century transformations of American capitalism.  Credit not allowed for both ECON 159 and HIUS 141. "
+    },
+    "ECON 162": {
+        "prerequisites": [
+            "ECON 1",
+            "and"
+        ],
+        "name": "Economics of Mexico",
+        "description": "Survey of the Mexican economy. Topics such as economic growth, business cycles, saving-investment balance, financial markets, fiscal and monetary policy, labor markets, industrial structure, international trade, and agricultural policy. "
+    },
+    "ECON 164": {
+        "prerequisites": [
+            "ECON 1",
+            "and"
+        ],
+        "name": "The Indian Economy",
+        "description": "Survey of the Indian economy. Historical overview and perspective; political economy; democracy and development; economic growth; land, labor, and credit markets; poverty and inequality; health, education, and human development; technology and development; institutions and state capacity; contemporary policy issues and debates. "
+    },
+    "ECON 164T": {
+        "prerequisites": [],
+        "name": "Advanced Topics in the Indian Economy",
+        "description": "ECON 164T will cover topics in more depth than in ECON 164 with more extensive readings and discussion. The class will meet in a seminar format where students will be expected to actively participate in discussions based on the readings and write a short paper at the end of the quarter. "
+    },
+    "ECON 165": {
+        "prerequisites": [
+            "ECON 1",
+            "and"
+        ],
+        "name": "Middle East Economics",
+        "description": "Socioeconomic development in the Arab world, Iran, and Turkey. Historical perspective; international trade and fuel resources; education, health, and gender gaps; unemployment and migration; population and environment; Islam and democracy. "
+    },
+    "ECON 165T": {
+        "prerequisites": [],
+        "name": "Advanced Topics in Middle East Economics",
+        "description": "This course will cover certain country experiences and certain topics in more depth than in ECON 165. Students will also have the opportunity to choose countries and topics of particular interest to them for further reading and as subjects for a presentation and brief paper. "
+    },
+    "ECON 167": {
+        "prerequisites": [
+            "ECON 1",
+            "and"
+        ],
+        "name": "Economics of China",
+        "description": "Survey of the Chinese economy. Topics such as economic growth, China\u2019s transition to a market economy, international trade, financial markets, labor markets, and industrial structure. "
+    },
+    "ECON 168": {
+        "prerequisites": [
+            "ECON 1",
+            "and"
+        ],
+        "name": "Economics of Modern Israel",
+        "description": "This course explores economic processes that shape the Israeli economy. Topics include biblical economics, economics of religion, economic growth, income inequality and consumer protests, employment, globalization, inflation, the high-tech sector, terrorism, and education. "
+    },
+    "ECON 169": {
+        "prerequisites": [
+            "ECON 3",
+            "and"
+        ],
+        "name": "Economics of Korea",
+        "description": "This course covers long-run economic development and current economic issues of South Korea. Topics include examination of major policy changes (e.g., shifts toward export promotion, heavy and chemical industries promotion); Korea\u2019s industrial structure, including the role of large enterprises (chaebol); role of government; and links between Korea and other countries. "
+    },
+    "ECON 171": {
+        "prerequisites": [
+            "ECON 100A",
+            "and",
+            "ECON 120A",
+            "or",
+            "ECE 109",
+            "or",
+            "MATH 180A",
+            "or",
+            "MATH 183",
+            "or",
+            "MATH 186"
+        ],
+        "name": "Decisions Under Uncertainty",
+        "description": "Decision making when the consequences are uncertain. Decision trees, payoff tables, decision criteria, expected utility theory, risk aversion, sample information. "
+    },
+    "ECON 172A": {
+        "prerequisites": [
+            "ECON 100A"
+        ],
+        "name": "Operations Research A",
+        "description": "Linear and integer programming, elements of zero-sum, two-person game theory, and specific combinatorial algorithms. Credit not allowed for both ECON 172A and MATH 171A. "
+    },
+    "ECON 172B": {
+        "prerequisites": [
+            "ECON 172A",
+            "or",
+            "MATH 171A"
+        ],
+        "name": "Operations Research B",
+        "description": "Nonlinear programming, deterministic and stochastic dynamic programming, queuing theory, search models, and inventory models. Credit not allowed for both ECON 172B and MATH 171B. "
+    },
+    "ECON 173A": {
+        "prerequisites": [
+            "ECON 100A",
+            "and",
+            "ECON 120B",
+            "or",
+            "MATH 181B"
+        ],
+        "name": "Financial Markets",
+        "description": "Financial market functions, institutions and\n\t\t\t\t  instruments: stocks, bonds, cash instruments, derivatives (options),\n\t\t\t\t  etc. Discussion of no-arbitrage arguments, as well as investors\u2019 portfolio\n\t\t\t\t  decisions and the basic risk-return trade-off established in\n\t\t\t\t  market equilibrium. "
+    },
+    "ECON 173B": {
+        "prerequisites": [
+            "ECON 4",
+            "or",
+            "MGT 4"
+        ],
+        "name": "Corporate Finance",
+        "description": "Introduces the firm\u2019s capital budgeting decision, including methods for evaluation and ranking of investment projects, the firm\u2019s choice of capital structure, dividend policy decisions, corporate taxes, mergers and acquisitions. "
+    },
+    "ECON 174": {
+        "prerequisites": [
+            "ECON 173A"
+        ],
+        "name": "Financial Risk Management",
+        "description": "Risk measures, hedging techniques, value of risk to firms, estimation of optimal hedge ratio, risk management with options and futures. ECON 171 is recommended. "
+    },
+    "ECON 176": {
+        "prerequisites": [
+            "ECON 120C"
+        ],
+        "name": "Marketing",
+        "description": "Role of marketing in the economy. Topics such as buyer behavior, marketing mix, promotion, product selection, pricing, and distribution. Concurrent enrollment in ECON 120C is permitted. "
+    },
+    "ECON 178": {
+        "prerequisites": [
+            "ECON 120C"
+        ],
+        "name": "Economic and Business Forecasting",
+        "description": "Survey of theoretical and practical aspects of statistical and economic forecasting. Such topics as long-run and short-run horizons, leading indicator analysis, econometric models, technological and population forecasts, forecast evaluation, and the use of forecasts for public policy. "
+    },
+    "ECON 181": {
+        "prerequisites": [
+            "ECON 1",
+            "and",
+            "ECON 3"
+        ],
+        "name": "Topics in Economics",
+        "description": "Selected topics in economics. May be taken for credit up to three times. "
+    },
+    "ECON 182": {
+        "prerequisites": [
+            "ECON 100C"
+        ],
+        "name": "Topics in Microeconomics",
+        "description": "Selected topics in microeconomics.  "
+    },
+    "ECON 183": {
+        "prerequisites": [
+            "ECON 110B"
+        ],
+        "name": "Topics in Macroeconomics",
+        "description": "May be taken for credit up to three times. "
+    },
+    "ECON 191A": {
+        "prerequisites": [],
+        "name": "Senior Essay Seminar A",
+        "description": "Senior essay seminar for students with superior records in department majors. Students must complete ECON 191A and ECON 191B in consecutive quarters. "
+    },
+    "ECON 191B": {
+        "prerequisites": [],
+        "name": "Senior Essay Seminar B",
+        "description": "Senior essay seminar for students with superior records in department majors. Students must complete ECON 191A and ECON 191B in consecutive quarters. "
+    },
+    "ECON 195": {
+        "prerequisites": [],
+        "name": "Introduction to Teaching Economics",
+        "description": "Introduction to teaching economics. Each student will be responsible for a class section in one of the lower-division economics courses. Limited to advanced economics majors with at least a 3.5 GPA in upper-division economics work. (P/NP grades only.) Students may not earn more than eight units credit in 195 courses. "
+    },
+    "ECON 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Directed study on a topic or in a group field not included in regular department curriculum by special arrangement with a faculty member. "
+    },
+    "ECON 199": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "Independent reading or research under the direction of and by special arrangement with a Department of Economics faculty member. (P/NP grades only.) "
+    }
 }

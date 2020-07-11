@@ -1,136 +1,284 @@
 {
-    "CHIN 10AN": [],
-    "CHIN\n          10AM": [],
-    "CHIN 10AD": [],
-    "CHIN 10BN": [
-        "CHIN 11",
-        "CHIN 10AN"
-    ],
-    "CHIN 10BM": [
-        "CHIN 11",
-        "CHIN 10AM"
-    ],
-    "CHIN 10BD": [
-        "CHIN 11",
-        "CHIN 10AM"
-    ],
-    "CHIN 10CN": [
-        "CHIN 12",
-        "CHIN 10BN"
-    ],
-    "CHIN 10CM": [
-        "CHIN 12",
-        "CHIN 10BM"
-    ],
-    "CHIN 10CD": [
-        "CHIN 12",
-        "CHIN 10BD"
-    ],
-    "CHIN 20AN": [
-        "CHIN 13",
-        "CHIN 10CN",
-        "and"
-    ],
-    "CHIN 20AM": [
-        "CHIN 13",
-        "CHIN 10CM",
-        "and"
-    ],
-    "CHIN 20AD": [
-        "CHIN 13",
-        "CHIN 10CD",
-        "and"
-    ],
-    "CHIN 20BN": [
-        "CHIN 21",
-        "CHIN 20AN",
-        "and"
-    ],
-    "CHIN 20BM": [
-        "CHIN 21",
-        "CHIN 20AD",
-        "and"
-    ],
-    "CHIN 20BD": [
-        "CHIN 22",
-        "CHIN 20BN",
-        "and"
-    ],
-    "CHIN 20CN": [
-        "CHIN 22",
-        "CHIN 20BM",
-        "and"
-    ],
-    "CHIN 20CM": [
-        "CHIN 22",
-        "CHIN 20BD",
-        "and"
-    ],
-    "CHIN 20CD": [
-        "CHIN 23",
-        "CHIN 20CN"
-    ],
-    "CHIN 100AN": [
-        "CHIN 23",
-        "CHIN 20CM",
-        "or",
-        "CHIN 20CD"
-    ],
-    "CHIN 100AM": [
-        "CHIN 111",
-        "CHIN 100AN"
-    ],
-    "CHIN 100BN": [
-        "CHIN 111",
-        "CHIN 100AM"
-    ],
-    "CHIN 100BM": [
-        "CHIN 112",
-        "CHIN 100BN"
-    ],
-    "CHIN 100CN": [
-        "CHIN 112",
-        "CHIN 100BM"
-    ],
-    "CHIN 100CM": [],
-    "CHIN\n          160/260": [
-        "CHIN 113",
-        "CHIN 100CM",
-        "CHIN 100CN"
-    ],
-    "CHIN 165A": [
-        "CHIN 165A"
-    ],
-    "CHIN 165B": [
-        "CHIN 165B"
-    ],
-    "CHIN 165C": [],
-    "CHIN 169A": [
-        "CHIN 169A",
-        "and",
-        "and"
-    ],
-    "CHIN 169B": [
-        "CHIN 113",
-        "CHIN 100C"
-    ],
-    "CHIN 182A": [
-        "CHIN 182A"
-    ],
-    "CHIN 182B": [
-        "CHIN 182B"
-    ],
-    "CHIN 182C": [
-        "CHIN 113",
-        "CHIN 100CM",
-        "CHIN 100CN"
-    ],
-    "CHIN 185A-B-C": [
-        "CHIN 113",
-        "CHIN 100CN",
-        "CHIN 100CM"
-    ],
-    "CHIN 186A-B-C": [],
-    "CHIN 196": [],
-    "\t\t\tCHIN 198": []
+    "CHIN 10AN": {
+        "prerequisites": [],
+        "name": "First Year Chinese\u2014Nonnative speakers I",
+        "description": "Introductory course of basic Chinese\n            for students with no background in Chinese. First quarter of a one-year\n            curriculum for entry-level Chinese in communicative skills. Covers\n            pronunciation, fundamentals of Chinese grammar, and vocabulary. Topics\n            include greetings, family affairs, numbers, and daily exchanges.\n            Students may not receive duplicate credit for CHIN 11 and CHIN 10AN.\n          "
+    },
+    "CHIN\n          10AM": {
+        "prerequisites": [],
+        "name": "First Year Chinese\u2014Mandarin speakers I",
+        "description": "Introductory course of basic Chinese\n            for students with background in Mandarin Chinese. First quarter of\n            one-year curriculum for entry-level Chinese in communicative skills.\n            Covers pronunciation, fundamentals of Chinese grammar, and vocabulary.\n            Topics include greetings, family affairs, numbers, and daily exchanges.\n            Students may not receive duplicate credit for CHIN 11 and CHIN 10AM.\n          "
+    },
+    "CHIN 10AD": {
+        "prerequisites": [],
+        "name": "First Year Chinese\u2014Dialect speakers I",
+        "description": "Introductory course of basic Chinese\n            for students with background in a dialect of Chinese. First quarter\n            of one-year curriculum for entry-level Chinese in communicative skills.\n            Covers pronunciation, fundamentals of Chinese grammar, and vocabulary.\n            Topics include greetings, family affairs, numbers, and daily exchanges.\n            Students may not receive duplicate credit for CHIN 11 and CHIN 10AD.\n          "
+    },
+    "CHIN 10BN": {
+        "prerequisites": [
+            "CHIN 11",
+            "CHIN 10AN"
+        ],
+        "name": "First Year Chinese\u2014Nonnative speakers II",
+        "description": "Continuation of basic Chinese for students\n            with no background in Chinese. Second course of one-year curriculum\n            for entry-level Chinese communicative skills. Covers pronunciation,\n            more elaborate grammar, and vocabulary. Focus on goal-oriented tasks:\n            school life, shopping, and transportation. Students may not receive\n            duplicate credit for CHIN 12 and CHIN 10BN. "
+    },
+    "CHIN 10BM": {
+        "prerequisites": [
+            "CHIN 11",
+            "CHIN 10AM"
+        ],
+        "name": "First Year Chinese\u2014Mandarin speakers II",
+        "description": "Continuation introduction of basic\n            Chinese for students with background in Mandarin Chinese. Second\n            course of one-year curriculum for entry-level Chinese communicative\n            skills. Covers pronunciation, more elaborate Chinese grammar, and\n            expanded vocabulary. Focus on goal-oriented tasks such as school\n            life, shopping, and transportation. Students may not receive duplicate\n            credit for CHIN 12 and CHIN 10BM. "
+    },
+    "CHIN 10BD": {
+        "prerequisites": [
+            "CHIN 11",
+            "CHIN 10AM"
+        ],
+        "name": "First Year Chinese\u2014Dialect speakers II",
+        "description": "Continuation introduction of basic\n            Chinese for students with background in a dialect of Chinese. Second\n            course of one-year curriculum for entry-level Chinese communicative\n            skills. Covers pronunciation, more elaborate Chinese grammar, and\n            expanded vocabulary. Focus on goal-oriented tasks such as school\n            life, shopping, and transportation. Students may not receive duplicate\n            credit for CHIN 12 and CHIN 10BD. "
+    },
+    "CHIN 10CN": {
+        "prerequisites": [
+            "CHIN 12",
+            "CHIN 10BN"
+        ],
+        "name": "First Year Chinese\u2014Nonnative speakers III",
+        "description": "Continuation course of basic Chinese\n            for students with no background in Chinese. Third course of one-year\n            curriculum for entry-level Chinese communicative skills. Expansion\n            on pronunciation and more elaborate Chinese grammar and increasing\n            vocabulary. Topics include dining, direction, and social life. Students\n          may not receive duplicate credit for CHIN 13 and CHIN 10CN. "
+    },
+    "CHIN 10CM": {
+        "prerequisites": [
+            "CHIN 12",
+            "CHIN 10BM"
+        ],
+        "name": "First Year Chinese\u2014Mandarin speakers III",
+        "description": "Further continuation course of basic\n            Chinese for students with background in Mandarin Chinese. Third course\n            of one-year curriculum for entry-level Chinese communicative skills.\n            Expansion on pronunciation and more elaborate Chinese grammar and\n            increasing vocabulary. Topics include dining, direction, and social\n            life. Students may not receive duplicate credit for CHIN 13 and CHIN\n          10CM. "
+    },
+    "CHIN 10CD": {
+        "prerequisites": [
+            "CHIN 12",
+            "CHIN 10BD"
+        ],
+        "name": "First Year Chinese\u2014Dialect speakers III",
+        "description": "Further continuation course of basic\n            Chinese for students with background in a dialect of Chinese. Third\n            course of one-year curriculum for entry-level Chinese communicative\n            skills. Expansion on pronunciation and more elaborate Chinese grammar\n            and increasing vocabulary. Topics include dining, direction, and\n            social life. Students may not receive duplicate credit for CHIN 13\n          and CHIN 10CD. "
+    },
+    "CHIN 20AN": {
+        "prerequisites": [
+            "CHIN 13",
+            "CHIN 10CN",
+            "and"
+        ],
+        "name": "Second Year Chinese\u2014Nonnative speakers I",
+        "description": "Second year of basic Chinese for students with no background. First\n          course of second year of a one-year curriculum for Chinese in intermediate\n          communicative skills. Covers sentence structure, idiomatic expression,\n          development of listening, speaking, reading, and written competence\n          in Chinese. Topics include sports, travel, and special events. Students\n          may not receive duplicate credit for both CHIN 21 and CHIN 20AN. "
+    },
+    "CHIN 20AM": {
+        "prerequisites": [
+            "CHIN 13",
+            "CHIN 10CM",
+            "and"
+        ],
+        "name": "Second Year Chinese\u2014Mandarin speakers I",
+        "description": "Second year of basic Chinese for students with background in Mandarin.\n          First course of second year of one-year curriculum for Chinese in intermediate\n          communicative skills. Covers sentence structure and idiomatic expression,\n          development of listening, speaking, reading, and written competence.\n          Topics include sports, travel, and special events. Students may not\n          receive duplicate credit for both CHIN 21 and CHIN 20AM. "
+    },
+    "CHIN 20AD": {
+        "prerequisites": [
+            "CHIN 13",
+            "CHIN 10CD",
+            "and"
+        ],
+        "name": "Second Year Chinese\u2014Dialect speakers I",
+        "description": "Second year of basic Chinese for students with background in a\n            dialect of Chinese. First course of second year of one-year curriculum\n            for Chinese in intermediate communicative skills. Covers sentence\n            structure and idiomatic expression, development of listening, speaking,\n            reading, and written competence in Chinese. Topics include sports,\n            travel, and special events. Students may not receive duplicate credit\n            for both CHIN 21 and CHIN 20AD. "
+    },
+    "CHIN 20BN": {
+        "prerequisites": [
+            "CHIN 21",
+            "CHIN 20AN",
+            "and"
+        ],
+        "name": "Second Year Chinese\u2014Nonnative speakers II",
+        "description": "Continuation of second year of basic Chinese for students with\n            no background. Second course of one-year curriculum for Chinese intermediate\n          communicative skills. Covers sentence structure and idiomatic expressions,\n          development of listening, speaking, reading and written competence\n          in Chinese. Topics focus on China, population and other nationalities.\n          Students may not receive duplicate credit for both CHIN 22 and CHIN\n          20BN. "
+    },
+    "CHIN 20BM": {
+        "prerequisites": [
+            "CHIN 21",
+            "CHIN 20AD",
+            "and"
+        ],
+        "name": "Second Year Chinese\u2014Mandarin speakers II",
+        "description": "Continuation of second year of basic Chinese for students with\n            background in a dialect of Chinese. Second course of one-year curriculum\n            for Chinese intermediate communicative skills. Covers sentence structure\n            and idiomatic expressions, development of listening, speaking, reading,\n            and written competence in Chinese. Topics focus on China, population,\n            and other nationalities. Students may not receive duplicate credit\n            for both CHIN 22 and CHIN 20BD. "
+    },
+    "CHIN 20BD": {
+        "prerequisites": [
+            "CHIN 22",
+            "CHIN 20BN",
+            "and"
+        ],
+        "name": "Second Year Chinese\u2014Dialect speakers II",
+        "description": "Final course of second year Chinese for students with no background.\n          Third course of a one-year curriculum for Chinese intermediate communicative\n          skills. Expansion on pronunciation and more elaborate Chinese grammar\n          and increasing vocabulary. Topics include food, physical actions, and\n          culture. Students may not receive duplicate credit for both CHIN 23\n          and CHIN 20CN. "
+    },
+    "CHIN 20CN": {
+        "prerequisites": [
+            "CHIN 22",
+            "CHIN 20BM",
+            "and"
+        ],
+        "name": "Second Year Chinese\u2014Nonnative speakers III",
+        "description": "Final course of second year Chinese for students with background\n            in Mandarin. Third course of one-year curriculum for Chinese intermediate\n          communicative skills. Expansion on pronunciation and Chinese grammar\n          and increasing vocabulary. Topics include food, physical actions, and\n          culture. Students may not receive duplicate credit for both CHIN 23\n          and CHIN 20CM. "
+    },
+    "CHIN 20CM": {
+        "prerequisites": [
+            "CHIN 22",
+            "CHIN 20BD",
+            "and"
+        ],
+        "name": "Second Year Chinese\u2014Mandarin speakers III",
+        "description": "Final course of second year Chinese for students with background\n            in a dialect of Chinese. Third course of one-year curriculum for\n            Chinese intermediate communicative skills. Expansion on pronunciation\n            and more elaborate Chinese grammar and increasing vocabulary. Topics\n            include food, physical actions, and culture. Students may not receive\n            duplicate credit for both CHIN 23 and CHIN 20CD. "
+    },
+    "CHIN 20CD": {
+        "prerequisites": [
+            "CHIN 23",
+            "CHIN 20CN"
+        ],
+        "name": "Second Year Chinese\u2014Dialect speakers III",
+        "description": "Intermediate\n          course of Chinese for students with no background. First course of\n          third year of one-year curriculum that focuses on listening, reading,\n          and speaking. Emphasizing the development of advanced oral, written\n          competence, and aural skills in Mandarin. Topics include education,\n          literature, history of Chinese language and society. Students may not\n          receive duplicate credit for both CHIN 111 and CHIN 100AN. "
+    },
+    "CHIN 100AN": {
+        "prerequisites": [
+            "CHIN 23",
+            "CHIN 20CM",
+            "or",
+            "CHIN 20CD"
+        ],
+        "name": "Third Year Chinese\u2014Nonnative speakers I",
+        "description": "Intermediate course of Chinese for students with background in\n            Mandarin and other dialects. First course of third year of one-year\n            curriculum that focuses on listening, reading, and speaking. Topics\n            include education, literature, history of Chinese language and society.\n            Students may not receive duplicate credit for both CHIN 111 and CHIN\n            100AM. "
+    },
+    "CHIN 100AM": {
+        "prerequisites": [
+            "CHIN 111",
+            "CHIN 100AN"
+        ],
+        "name": "Third Year Chinese\u2014Mandarin speakers I",
+        "description": "Intermediate course of Chinese for students with no background.\n            Second course of third year of Chinese that emphasizes the development\n            of advanced oral, written competence and aural skills in Mandarin.\n            Topics include various cultural aspects of the Chinese language,\n            additional family issues and society. Students may not receive duplicate\n          credit for both CHIN 112 and CHIN 100BN. "
+    },
+    "CHIN 100BN": {
+        "prerequisites": [
+            "CHIN 111",
+            "CHIN 100AM"
+        ],
+        "name": "Third Year Chinese\u2014Nonnative speakers II",
+        "description": "Intermediate course of Chinese for students with background in\n            Mandarin and other dialects. Second course of third year of Chinese\n            that emphasizes the development of advanced oral, written competence,\n            and aural skills in Mandarin. Topics include cultural aspects of\n            the Chinese language, additional family issues and society. Students\n            may not receive duplicate credit for both CHIN 112 and CHIN 100BM.\n          "
+    },
+    "CHIN 100BM": {
+        "prerequisites": [
+            "CHIN 112",
+            "CHIN 100BN"
+        ],
+        "name": "Third Year Chinese\u2014Mandarin speakers II",
+        "description": "Intermediate course of Chinese for students with no background.\n            Third course of third year of one-year curriculum in Chinese language\n            acquisition. Continue to develop proficiency at intermediate level.\n            Improves students\u2019 Chinese language skills and knowledge of the culture\n            with an emphasis of reading and writing. Students may not receive\n          duplicate credit for both CHIN 113 and CHIN 100CN. "
+    },
+    "CHIN 100CN": {
+        "prerequisites": [
+            "CHIN 112",
+            "CHIN 100BM"
+        ],
+        "name": "Third Year Chinese\u2014Nonnative speakers III",
+        "description": "Intermediate course of Chinese for students with background in\n            Mandarin and other dialects. Third course of third year of one-year\n            curriculum in Chinese language acquisition. Continue to develop proficiency\n            at intermediate level. Improves students\u2019 Chinese language skills\n            and knowledge of the culture with an emphasis of reading and writing.\n            Topics include economic development in China. Students may not receive\n          duplicate credit for both CHIN 113 and CHIN 100CM. "
+    },
+    "CHIN 100CM": {
+        "prerequisites": [],
+        "name": "Third Year Chinese\u2014Mandarin speakers III",
+        "description": "This course introduces the primary sources used by historians of late Imperial and twentieth-century Chinese history. Reading material includes diaries, newspaper articles, Qing documents, gazetteers, essays, speeches, popular fiction, journal articles, scholarly prose, and field surveys. May be repeated for credit. (P/NP grades only.) "
+    },
+    "CHIN\n          160/260": {
+        "prerequisites": [
+            "CHIN 113",
+            "CHIN 100CM",
+            "CHIN 100CN"
+        ],
+        "name": "Late Imperial and Twentieth-Century Chinese Historical Texts\n         ",
+        "description": "Basic training in oral and written communication\n\t\t\t\t  skills for business, including introduction to modern business terminology\n\t\t\t\t  and social conventions. "
+    },
+    "CHIN 165A": {
+        "prerequisites": [
+            "CHIN 165A"
+        ],
+        "name": "Business Chinese",
+        "description": "Continuation of CHIN 165A. Basic training in oral and written communication skills for business, including introduction to modern business terminology and social conventions. "
+    },
+    "CHIN 165B": {
+        "prerequisites": [
+            "CHIN 165B"
+        ],
+        "name": "Business Chinese",
+        "description": "Continuation of CHIN 165B. Basic training in oral and written communication skills for business, including introduction to modern business terminology and social conventions. "
+    },
+    "CHIN 165C": {
+        "prerequisites": [],
+        "name": "Business Chinese",
+        "description": "Course focuses on conversational Chinese for students interested in medicine and health care. Designed to prepare students to speak, listen, and read effectively in a Chinese medical environment. Course aims to instruct students in basic to intermediate medical Chinese terminology for comprehensive patient review. "
+    },
+    "CHIN 169A": {
+        "prerequisites": [
+            "CHIN 169A",
+            "and",
+            "and"
+        ],
+        "name": "Medical Chinese I",
+        "description": "Course designed to improve conversational Chinese for students interested in medicine and health care. Course aims for stronger Chinese proficiency within a medical environment. "
+    },
+    "CHIN 169B": {
+        "prerequisites": [
+            "CHIN 113",
+            "CHIN 100C"
+        ],
+        "name": "Medical Chinese II",
+        "description": "An introduction to classical Chinese for students with advanced Chinese background. Basic structures and function words are taught through fables of the pre-Qing period. "
+    },
+    "CHIN 182A": {
+        "prerequisites": [
+            "CHIN 182A"
+        ],
+        "name": "Introduction\n\t    to Classical Chinese\u2014Advanced I",
+        "description": "Continuation of CHIN 182A. Selections from Kongzi, Mengzi, and other philosophers\u2019 work will be taught. Focus is on structures, function words, and overall comprehension of a text. "
+    },
+    "CHIN 182B": {
+        "prerequisites": [
+            "CHIN 182B"
+        ],
+        "name": "Introduction\n\t\t  to Classical Chinese\u2014Advanced II",
+        "description": "Continuation of CHIN 182B. Selections from later periods like Shiji and poetry will be introduced. Upon completion of this yearlong curriculum, students should be able to read classical Chinese texts on their own with the help of a dictionary. "
+    },
+    "CHIN 182C": {
+        "prerequisites": [
+            "CHIN 113",
+            "CHIN 100CM",
+            "CHIN 100CN"
+        ],
+        "name": "Introduction\n\t\t  to Classical Chinese\u2014Advanced III",
+        "description": "Designed for students who want advanced language\n\t\t\t\t  skills, this course will enlarge students\u2019 vocabulary and improve students\u2019\n\t\t\t\t  reading skills through studies of original writings and other media on\n\t\t\t\t  Chinese culture and society, past and present. "
+    },
+    "CHIN 185A-B-C": {
+        "prerequisites": [
+            "CHIN 113",
+            "CHIN 100CN",
+            "CHIN 100CM"
+        ],
+        "name": "Readings in Chinese Culture and Society\n\t\t\t\t ",
+        "description": "Introduction to the specialized vocabulary\n\t\t\t\t  and verbal forms relating to Chinese politics, trade, development\n\t\t\t\t  and society. Designed for students in the social sciences or with career\n\t\t\t\t  interests in international trade, the course will stress rapid vocabulary\n\t\t\t\t  development, reading and translating. "
+    },
+    "CHIN 186A-B-C": {
+        "prerequisites": [],
+        "name": "Readings in Chinese Economics, Politics,\n\t\t\t\t  and Trade",
+        "description": "Study of specific aspects in Chinese civilization\n  not covered in regular course work, under the direction of faculty members\n  in Chinese studies. (P/NP grades only.) "
+    },
+    "CHIN 196": {
+        "prerequisites": [],
+        "name": "Directed Thesis Research",
+        "description": "The student will undertake a program of research\n\t\t\t\t  or advanced reading in selected areas in Chinese studies under\n\t\t\t\t  the supervision of a faculty member of the Program in Chinese\n\t\t\t\t  Studies. (P/NP grades only.) "
+    },
+    "\t\t\tCHIN 198": {
+        "prerequisites": [],
+        "name": "Directed\n\t\t\t    Group Study in Chinese Studies",
+        "description": "This course introduces the primary sources\n\t\t\t\t  used by historians of the late Imperial and twentieth-century\n\t\t\t\t  Chinese history. Reading material includes diaries, newspaper articles,\n\t\t\t\t  Qing documents, gazetteers, essays, speeches, popular fiction, journal\n\t\t\t\t  articles, scholarly prose, and field surveys. May be repeated for credit.\n\t\t\t\t  (P/NP grades only) "
+    }
 }

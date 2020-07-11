@@ -1,73 +1,157 @@
 {
-    "CGS 100A": [
-        "CGS 2A-B",
-        "CGS upper-division"
-    ],
-    "CGS 100B": [],
-    "CGS 101": [],
-    "CGS 108": [],
-    "CGS 111": [],
-    "CGS 112": [],
-    "CGS 120": [
-        "CGS 2A-B",
-        "CGS upper-division"
-    ],
-    "CGS 121": [
-        "CGS 2A-B",
-        "CGS upper-division"
-    ],
-    "CGS 122": [
-        "CGS 2A-B",
-        "CGS upper-division"
-    ],
-    "CGS 123": [
-        "CGS 2A-B",
-        "CGS upper-division"
-    ],
-    "CGS 124": [
-        "CGS 2A",
-        "or",
-        "CGS 2B",
-        "CGS upper-division"
-    ],
-    "CGS 125": [
-        "CGS 2A-B",
-        "ETHN 1",
-        "CGS or",
-        "or",
-        "ETHN upper-division"
-    ],
-    "CGS 137": [
-        "CGS 2A-B",
-        "ETHN 1",
-        "CGS or",
-        "or",
-        "ETHN upper-division"
-    ],
-    "CGS 147": [
-        "CGS 2A-B",
-        "ETHN 1",
-        "CGS or",
-        "or",
-        "ETHN upper-division"
-    ],
-    "CGS 150": [
-        "CGS 2A-B",
-        "ETHN 1",
-        "CGS or",
-        "or",
-        "ETHN upper-division"
-    ],
-    "CGS 165": [
-        "CGS 2A-B",
-        "ETHN 1",
-        "CGS or",
-        "or",
-        "ETHN upper-division"
-    ],
-    "CGS 187": [],
-    "CGS 190": [],
-    "CGS 196A": [],
-    "CGS 196B": [],
-    "CGS 198": []
+    "CGS 100A": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "CGS upper-division"
+        ],
+        "name": "Conceptualizing Gender: Theoretical Approaches ",
+        "description": "This course explores the significance of gender as a category of analysis by examining diverse theoretical frameworks from the field of critical gender studies. Particular attention is given to gender in relation to race, class, sexuality, nation, (dis)ability, and religion. Students will not receive credit for both CGS 100 and 100A. "
+    },
+    "CGS 100B": {
+        "prerequisites": [],
+        "name": "Conceptualizing Gender: Methods and Methodologies",
+        "description": "The global effects of modernity, modernization, and globalization on men and women. Topics: international consumer culture; international divisions of labor; construction of sexuality and gender within global movements; and the migrations of people, capital, and culture. "
+    },
+    "CGS 101": {
+        "prerequisites": [],
+        "name": "Gender, Modernity, and Globalization",
+        "description": "Examines the different methodologies and disciplinary histories that together constitute the interdisciplinary project called queer studies. Of particular interest will be how these different methodologies and history construe and construct the relations between gender, race, class, and nation. "
+    },
+    "CGS 108": {
+        "prerequisites": [],
+        "name": "Gender, Race, and Artificial Intelligence",
+        "description": "Various approaches to the study of gendered bodies. Possible topics to include masculinities/femininities; lifecycles; biology, culture, and identity; medical discourses; and health issues. May be taken for credit three times when topics vary. "
+    },
+    "CGS 111": {
+        "prerequisites": [],
+        "name": "Gender and the Body",
+        "description": "(Cross-listed with ETHN 127.) This course explores the nexus of sex, race, ethnicity, gender, and nation and considers their influence on identity, sexuality, migration movement and borders, and other social, cultural, and political issues that these constructs affect. "
+    },
+    "CGS 112": {
+        "prerequisites": [],
+        "name": "Sexuality and Nation",
+        "description": "Examines gender and sexuality in artistic practices: music, theatre, dance, performance, visual arts, and new media. Topics may include study of specific artists, historical moments, genres, cross-cultural analyses, and multiculturalism. May be taken three times when topics vary. "
+    },
+    "CGS 120": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "CGS upper-division"
+        ],
+        "name": "Capitalism and Gender",
+        "description": "An interdisciplinary course focusing on one of a variety of topics in gender studies, such as gender and science, the body, reproductive technologies, and public policy. May be taken for credit three times when topics vary. "
+    },
+    "CGS 121": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "CGS upper-division"
+        ],
+        "name": "Selected Topics in Critical Gender Studies",
+        "description": "Focuses on the relationship between gender and culture from a multiplicity of perspectives. Possible topics could include gender and ethnicity, gender across class, and other topics to be examined in a cross-cultural framework. May be taken for credit two times when topics vary. "
+    },
+    "CGS 122": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "CGS upper-division"
+        ],
+        "name": "Advanced Topics in Comparative Perspectives",
+        "description": "Legal treatment of gender, reproductive rights, and the family, particularly as evolving law, primarily in the U.S., has created conflicting rights, roles, and responsibilities. Topics include abortion, fetal rights, surrogacy, marriage, and child custody issues. Students will not receive credit for both CGS 107 and 123. "
+    },
+    "CGS 123": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "CGS upper-division"
+        ],
+        "name": "Gender and Reproductive Politics",
+        "description": "Explores how girls\u2019 sexualities are shaped by gender, race, class, educational and penal institutions, and sexual norms. Engages with interdisciplinary scholarship that examines how and why the topic of girls and sexuality has become a volatile subject of public debate, and the manner in which girls\u2019 sexualities are represented in various media, particularly film. Students will not receive credit for both CGS 116 and 124. "
+    },
+    "CGS 124": {
+        "prerequisites": [
+            "CGS 2A",
+            "or",
+            "CGS 2B",
+            "CGS upper-division"
+        ],
+        "name": "Girls and Sexuality: Moral Panics, Perils, and Pleasures",
+        "description": "For women of color, writing has been more than just artistic expression. Women of color have also used the written word to challenge dominant ideas of race, gender, desire, power, violence, and intimacy, and to construct new ways of knowing, writing, and being. This course examines writing by women of color to understand how literary texts can shape and reflect social and political contexts. "
+    },
+    "CGS 125": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "ETHN 1",
+            "CGS or",
+            "or",
+            "ETHN upper-division"
+        ],
+        "name": "Women of Color Writers",
+        "description": "(Cross-listed with ETHN 137.) This course will focus on the intersection of labor, class, race, ethnicity, gender, sexuality, and immigration in Latina cultural production.\u00a0Examined from a socio-economic, feminist, and cultural perspective, class readings will allow for historically grounded analyses of these issues.\u00a0May be taken for credit three times. "
+    },
+    "CGS 137": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "ETHN 1",
+            "CGS or",
+            "or",
+            "ETHN upper-division"
+        ],
+        "name": "Latina Issues and Cultural Production",
+        "description": "(Cross-listed with ETHN 147.) An advanced introduction to historical and contemporary black feminisms in the United States and transnationally. Students will explore the theory and practice of black feminists/womanists and analyze the significance of black feminism to contemporary understandings of race, class, gender, and sexuality. Students may not receive credit for CGS 147 and ETHN 147. "
+    },
+    "CGS 147": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "ETHN 1",
+            "CGS or",
+            "or",
+            "ETHN upper-division"
+        ],
+        "name": "Black Feminisms, Past and Present",
+        "description": "(Cross-listed with ETHN 150.) Examines the role of the visual in power relations; the production of what we see regarding race and sexuality; the interconnected history of the caste system, plantation slavery, visuality and contemporary society; decolonial and queer counternarratives to visuality. Students may not receive credit for CGS 150 and ETHN 150. "
+    },
+    "CGS 150": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "ETHN 1",
+            "CGS or",
+            "or",
+            "ETHN upper-division"
+        ],
+        "name": "Visuality, Sexuality, and Race",
+        "description": "(Cross-listed with ETHN 165.)\u00a0This course will investigate the changing constructions of sexuality, gender, and sexuality in African American communities defined by historical period, region, and class. Topics will include the sexual division of labor, myths of black sexuality, the rise of black feminism, black masculinity, and queer politics. Students may not receive credit for CGS 165 and ETHN 165. "
+    },
+    "CGS 165": {
+        "prerequisites": [
+            "CGS 2A-B",
+            "ETHN 1",
+            "CGS or",
+            "or",
+            "ETHN upper-division"
+        ],
+        "name": "Gender and Sexuality in African American Communities",
+        "description": "(Cross-listed with ETHN 187.) The construction and articulation of Latinx sexualities will be explored in this course through interdisciplinary and comparative perspectives. We will discuss how immigration, class, and norms of ethnicity, race, and gender determine the construction, expression, and reframing of Latinx sexualities. Students will not receive credit for both CGS 115 and 187. "
+    },
+    "CGS 187": {
+        "prerequisites": [],
+        "name": "Latinx Sexualities",
+        "description": "Interdisciplinary readings in feminist theory and research methodology to prepare students for writing an honors thesis. Open to critical gender studies majors who have been admitted to Critical Gender Studies Honors Program. May be applied toward primary concentration in critical gender studies major. "
+    },
+    "CGS 190": {
+        "prerequisites": [],
+        "name": "Honors Seminar",
+        "description": "A program of independent study providing candidates for critical gender studies honors to develop, in consultation with an adviser, a preliminary proposal for the honors thesis. An IP grade will be awarded at the end of this quarter. A final grade for both quarters will be given upon completion of Critical Gender Studies 196B. "
+    },
+    "CGS 196A": {
+        "prerequisites": [],
+        "name": "Critical Gender Studies Honors Research ",
+        "description": "Honors thesis research and writing for students who have completed Critical Gender Studies 190 and 196A. A letter grade for both Critical Gender Studies 196A and 196B will be given at the completion of this quarter. "
+    },
+    "CGS 196B": {
+        "prerequisites": [],
+        "name": "Honors Thesis",
+        "description": "Directed group study on a topic not generally included in the critical gender studies curriculum. "
+    },
+    "CGS 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Tutorial; independent study on a topic not generally included in the curriculum. "
+    }
 }

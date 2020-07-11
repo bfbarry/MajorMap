@@ -1,156 +1,520 @@
 {
-    "PSYC 60": [
-        "PSYC 60"
-    ],
-    "PSYC 70": [
-        "PSYC 70"
-    ],
-    "PSYC 71": [
-        "COGS 14B",
-        "PSYC 60"
-    ],
-    "PSYC 93": [],
-    "PSYC 99": [],
-    "PSYC 100": [],
-    "PSYC 101": [],
-    "PSYC 102": [],
-    "PSYC 104": [],
-    "PSYC 105": [],
-    "PSYC 106": [],
-    "PSYC 108": [],
-    "PSYC 110": [],
-    "PSYC 111A": [
-        "PSYC 111A"
-    ],
-    "PSYC 111B": [
-        "PSYC 60",
-        "or",
-        "COGS 14B",
-        "and",
-        "PSYC 70",
-        "or",
-        "COGS 14A",
-        "and",
-        "COGS 101A",
-        "or",
-        "COGS 107A",
-        "or",
-        "COGS 107B",
-        "or",
-        "COGS 107C",
-        "or",
-        "PSYC 102",
-        "or",
-        "PSYC 106",
-        "or",
-        "PSYC 108"
-    ],
-    "PSYC 113": [],
-    "PSYC 114": [
-        "PSYC 60"
-    ],
-    "PSYC 115A": [
-        "PSYC 115A"
-    ],
-    "PSYC 115B": [],
-    "PSYC 116": [],
-    "PSYC 117": [],
-    "PSYC 120": [],
-    "PSYC 121": [],
-    "PSYC 122": [],
-    "PSYC 123": [],
-    "PSYC 124": [],
-    "PSYC 125": [
-        "PSYC 100",
-        "and",
-        "PSYC 124",
-        "and"
-    ],
-    "PSYC 126": [],
-    "PSYC 128": [],
-    "PSYC 129": [],
-    "PSYC 130": [],
-    "PSYC 131": [],
-    "PSYC 132": [],
-    "PSYC 133": [],
-    "PSYC 134": [],
-    "PSYC 136": [],
-    "PSYC 137": [],
-    "PSYC 138": [],
-    "PSYC 139": [],
-    "PSYC 140": [],
-    "PSYC 141": [],
-    "PSYC 142": [],
-    "PSYC 143": [],
-    "PSYC 144": [],
-    "PSYC 145": [],
-    "PSYC 146": [],
-    "PSYC 147": [],
-    "PSYC 148": [],
-    "PSYC 150": [],
-    "PSYC 151": [],
-    "PSYC 152": [],
-    "PSYC 153": [],
-    "PSYC 154": [],
-    "PSYC 155": [],
-    "PSYC 156": [],
-    "PSYC 157": [],
-    "PSYC 158": [],
-    "PSYC 159": [],
-    "PSYC 161": [],
-    "PSYC 162": [],
-    "PSYC 164": [],
-    "PSYC 167": [],
-    "PSYC 168": [],
-    "PSYC 169": [],
-    "PSYC 170": [
-        "PSYC 2"
-    ],
-    "PSYC 171": [],
-    "PSYC 172": [],
-    "PSYC 173": [],
-    "PSYC 174": [
-        "COGS 14B",
-        "or",
-        "MATH 11",
-        "or",
-        "PSYC 60",
-        "and",
-        "COGS 14A",
-        "or",
-        "PSYC 70"
-    ],
-    "PSYC 175": [],
-    "PSYC 176": [],
-    "PSYC 178": [],
-    "PSYC 179": [],
-    "PSYC 180": [],
-    "PSYC 181": [],
-    "PSYC 182": [],
-    "PSYC 184": [],
-    "PSYC 185": [],
-    "PSYC 187": [
-        "PSYC 102",
-        "or",
-        "PSYC 106"
-    ],
-    "PSYC 188": [],
-    "PSYC 189": [],
-    "PSYC 190": [],
-    "PSYC 191": [],
-    "PSYC 192": [],
-    "PSYC 193": [
-        "PSYC 110",
-        "PSYC 111A-B"
-    ],
-    "PSYC 193L": [
-        "PSYC 194A"
-    ],
-    "PSYC 194A": [
-        "PSYC 194B"
-    ],
-    "PSYC 194B": [],
-    "PSYC 194C": [],
-    "PSYC 195": [],
-    "PSYC 196A-B-C": []
+    "PSYC 60": {
+        "prerequisites": [
+            "PSYC 60"
+        ],
+        "name": "Introduction to Statistics",
+        "description": "This course provides an overview of how to choose appropriate research methods for experimental and nonexperimental studies. Topics may include classic experimental design and counterbalancing, statistical power, and causal inference in experimental and nonexperimental settings. "
+    },
+    "PSYC 70": {
+        "prerequisites": [
+            "PSYC 70"
+        ],
+        "name": "Research Methods in Psychology",
+        "description": "This course provides hands-on research experience. Lecture topics will include experimental and nonexperimental designs, research ethics, data analysis, and causal inference. Students will design original research projects, collect and analyze data, and write a full APA-style report, including a brief literature review relevant to their design. This course builds on PSYC 70 by applying design principles to students\u2019 own research questions and ideas. "
+    },
+    "PSYC 71": {
+        "prerequisites": [
+            "COGS 14B",
+            "PSYC 60"
+        ],
+        "name": "Laboratory in Psychological Research Methods",
+        "description": "This course provides students the opportunity to learn about the intricate relationship that exists between brain and behavior, as well as the evolutionary forces that shape this interaction. Lectures for this course aim to introduce students to some of the best examples in the literature that highlight these issues, while a parallel component of the course aims to introduce students to performing research on the topic. "
+    },
+    "PSYC 93": {
+        "prerequisites": [],
+        "name": "Topics in Psychology",
+        "description": "Independent study or research under direction of a member of the faculty. May be taken up to three times for a maximum of twelve units. "
+    },
+    "PSYC 99": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "This course provides a comprehensive overview of the causes, characteristics, and treatment of psychological disorders. Particular emphasis is given to the interaction between biological, psychological, and sociocultural processes contributing to abnormal behavior. Students may not receive credit for both PSYC 163 and PSYC 100. "
+    },
+    "PSYC 100": {
+        "prerequisites": [],
+        "name": "Clinical Psychology",
+        "description": "This course provides a comprehensive overview of the field of developmental psychology, including topics in cognitive, language, and social development.  "
+    },
+    "PSYC 101": {
+        "prerequisites": [],
+        "name": "Developmental Psychology",
+        "description": "This course provides a comprehensive overview of the neural mechanisms that support vision, audition, touch, olfaction, and taste. "
+    },
+    "PSYC 102": {
+        "prerequisites": [],
+        "name": "Sensory Neuroscience ",
+        "description": "This course provides a comprehensive overview of the field of social psychology, covering a review of the field\u2019s founding principles, classic findings, and a survey of recent findings. Topics will include social perception, attributions and attitudes, stereotypies, social influence, group dynamics, and aggressive and prosocial tendencies. "
+    },
+    "PSYC 104": {
+        "prerequisites": [],
+        "name": "Social Psychology",
+        "description": "This course provides a comprehensive overview of cognitive psychology, the scientific study of mental processes: how people acquire, store, transform, use, and communicate information. Topics may include perception, attention, language, memory, reasoning, problem solving, decision-making, and creativity. "
+    },
+    "PSYC 105": {
+        "prerequisites": [],
+        "name": "Cognitive Psychology",
+        "description": "This course provides a comprehensive overview of human and animal behavior from a neuroscience perspective. Topics include the functions and mechanisms of perception, motivation (sex, sleep, hunger, emotions), learning and memory, and motor control and movement. "
+    },
+    "PSYC 106": {
+        "prerequisites": [],
+        "name": "Behavioral Neuroscience ",
+        "description": "This course provides a comprehensive overview of neuroanatomy and major methods and results from neuroimaging and neuropsychological studies of behavior. Topics include attention, motor control, executive function, memory, learning, emotion, and language. "
+    },
+    "PSYC 108": {
+        "prerequisites": [],
+        "name": "Cognitive Neuroscience",
+        "description": "This course provides research seminars by a range of departmental faculty, exposing students to contemporary research problems in many areas of psychology. Class discussions will follow faculty presentations. Must be taken for a letter grade for the Psychology Honors Program. "
+    },
+    "PSYC 110": {
+        "prerequisites": [],
+        "name": "Juniors Honors Research Seminars",
+        "description": "This course provides training in applying advanced statistical methods to experimental design. Emphasis will be placed on the developing skills in statistical problem-solving, using computer applications, and writing scientific reports. Must be taken for a letter grade for the Psychology Honors Program. "
+    },
+    "PSYC 111A": {
+        "prerequisites": [
+            "PSYC 111A"
+        ],
+        "name": "Research Methods I",
+        "description": "This course builds upon the material of PSYC 111A. Students will participate in data collection, data organization, statistical analysis and graphical analysis, with emphasis placed on developing scientific report writing, presentations, and critical thinking about experimental methods. Must be taken for a letter grade for the Psychology Honors Program. "
+    },
+    "PSYC 111B": {
+        "prerequisites": [
+            "PSYC 60",
+            "or",
+            "COGS 14B",
+            "and",
+            "PSYC 70",
+            "or",
+            "COGS 14A",
+            "and",
+            "COGS 101A",
+            "or",
+            "COGS 107A",
+            "or",
+            "COGS 107B",
+            "or",
+            "COGS 107C",
+            "or",
+            "PSYC 102",
+            "or",
+            "PSYC 106",
+            "or",
+            "PSYC 108"
+        ],
+        "name": "Research Methods II",
+        "description": "This course provides training in the design, execution, and analysis of electroencephalogram (EEG) experiments to study perception and cognition. The course will provide basic background on the EEG methodology: what and how neural signals are measured with EEG, how to interpret them, and how to design experiments. It will also provide hands-on training on conducting an EEG study: we will design and run experiments together in the laboratory, analyze the data, and discuss the results. "
+    },
+    "PSYC 113": {
+        "prerequisites": [],
+        "name": "Electroencephalogram",
+        "description": "This course provides an overview and training in the use of psychophysiological methods to investigate the cognitive and emotional process involved in understanding and reacting to other people. Students will develop individual research questions and actively participate in designing and conducting the experiments. "
+    },
+    "PSYC 114": {
+        "prerequisites": [
+            "PSYC 60"
+        ],
+        "name": "Psychophysiological Perspectives on the Social Mind Laboratory ",
+        "description": "This course provides training in the design, execution, and analysis of cognitive psychology experiments. Students may not receive credit for both PSYC 115 and PSYC 115A. "
+    },
+    "PSYC 115A": {
+        "prerequisites": [
+            "PSYC 115A"
+        ],
+        "name": "Laboratory in Cognitive Psychology I",
+        "description": "This course is designed to extend the training of PSYC 115A in the design, execution, and analysis of cognitive psychology experiments. Students may not receive credit for both PSYC 115 and PSYC 115B. "
+    },
+    "PSYC 115B": {
+        "prerequisites": [],
+        "name": "Laboratory in Cognitive Psychology II",
+        "description": "This course provides examination of theory, research design, and methods for clinical research. Students complete an internship at a clinical research lab, culminating in a paper. May be taken for credit three times for a total of eight units. Students may not receive credit for both PSYC 116 and PSYC 107. "
+    },
+    "PSYC 116": {
+        "prerequisites": [],
+        "name": "Laboratory in Clinical Psychology Research",
+        "description": "This course provides experience conducting educational research and outreach for children in greater San Diego County. May be taken for credit three times. "
+    },
+    "PSYC 117": {
+        "prerequisites": [],
+        "name": "Laboratory in Educational Research and Outreach ",
+        "description": "This course provides a survey of research and theory in learning and motivation. Topics include instincts, reinforcement, stimulus control, choice, and human application. "
+    },
+    "PSYC 120": {
+        "prerequisites": [],
+        "name": "Learning and Motivation",
+        "description": "This course provides laboratory experience in operant psychology. "
+    },
+    "PSYC 121": {
+        "prerequisites": [],
+        "name": "Laboratory in Operant Psychology",
+        "description": "This course focuses on approaches to the study of behavior and its underlying fundamental units of analysis in human and nonhuman animals. Students may not receive credit for both PSYC 122 and PSYC 103. "
+    },
+    "PSYC 122": {
+        "prerequisites": [],
+        "name": "Mechanisms of Animal Behavior",
+        "description": "This course provides an understanding of how the frontal lobes allow us to engage in complex mental processes. Topics may include anatomy and theory of prefrontal function, frontal lobe clinical syndromes, pharmacology and genetics, emotion control, and cognitive training. "
+    },
+    "PSYC 123": {
+        "prerequisites": [],
+        "name": "Cognitive Control and Frontal Lobe Function",
+        "description": "This course provides an introduction to the history, purpose, and recent changes to the Diagnostic and Statistical Manual of Mental Disorders along with appropriate evidence-based interventions. Other topics include psychiatric emergencies, crisis management, and ethics. Recommended preparation: Completion of PSYC 100. "
+    },
+    "PSYC 124": {
+        "prerequisites": [],
+        "name": "Clinical Assessment and Treatment ",
+        "description": "This course provides a fundamental understanding of brain-behavior relationships as applied to the practice of clinical neuropsychology. Major topics include functional neuroanatomy, principles of neuropsychological assessment and diagnosis, and the neuropsychological presentation of common neurologic and psychiatric conditions. "
+    },
+    "PSYC 125": {
+        "prerequisites": [
+            "PSYC 100",
+            "and",
+            "PSYC 124",
+            "and"
+        ],
+        "name": "Clinical Neuropsychology",
+        "description": "This course provides experience with clients in a community mental health care setting, under professional supervision. Seminar-based instruction also provides a framework for understanding theoretical, practical, and ethical issues related to client care. "
+    },
+    "PSYC 126": {
+        "prerequisites": [],
+        "name": "Practicum in Community Mental Health Care",
+        "description": "This course provides basic information about the nature of reading. Topics include word recognition, eye movements, inner speech, sentence processing, memory for text, learning to read, methods for teaching reading, reading disabilities and dyslexia, and speed-reading. Recommended preparation: completion of PSYC 105 or PSYC 145. "
+    },
+    "PSYC 128": {
+        "prerequisites": [],
+        "name": "Psychology of Reading",
+        "description": "This course provides an overview of how we perceive the world. Topics include classic studies in perception, discussion of the view that perception is \u201clogical,\u201d and new insights into the neural mechanisms underlying perception. "
+    },
+    "PSYC 129": {
+        "prerequisites": [],
+        "name": "Logic of Perception",
+        "description": "This course provides a review of research on delay of gratification. Topics include what makes it so tough, in what situations it is possible, who can do it, and the implications of this ability. "
+    },
+    "PSYC 130": {
+        "prerequisites": [],
+        "name": "Delay of Gratification",
+        "description": "This course provides a background into the origins and implementation of scientific racism, especially since the nineteenth century. Topics may include race/ethnicity and genetics, intelligence, nationalism, criminality, human performance, and morphometry. "
+    },
+    "PSYC 131": {
+        "prerequisites": [],
+        "name": "Scientific Racism: Genetics, Intelligence, and Race",
+        "description": "This course examines how hormones influence a variety of behaviors and how behavior reciprocally influences hormones. Specific topics covered include aggression, sex and sexuality, feeding, learning, memory, mood and neural mechanisms both in humans and nonhuman animals. Recommended preparation: completion of PSYC 106.  "
+    },
+    "PSYC 132": {
+        "prerequisites": [],
+        "name": "Hormones and Behavior",
+        "description": "This interdisciplinary course provides an overview of the fundamental properties of daily biological clocks of diverse species, from humans to microbes. Emphasis is placed on the relevance of internal time keeping in wide-ranging contexts including human performance, health, and industry. Cross-listed with BIMM 116. "
+    },
+    "PSYC 133": {
+        "prerequisites": [],
+        "name": "Circadian Rhythms\u2014Biological Clocks",
+        "description": "This course provides an overview of the biology and psychology of eating disorders such as anorexia nervosa, bulimia nervosa, and binge eating disorder. Abnormal, as well as normal, eating will be discussed from various perspectives including endocrinological, neurobiological, psychological, sociological, and evolutionary.  "
+    },
+    "PSYC 134": {
+        "prerequisites": [],
+        "name": "Eating Disorders",
+        "description": "This course provides an overview of how children\u2019s thinking develops. Topics may include perception, concept formation, memory, problem solving, and social cognition.  "
+    },
+    "PSYC 136": {
+        "prerequisites": [],
+        "name": "Cognitive Development",
+        "description": "This course provides an overview of social cognition, which blends cognitive and social psychology to understand how people make sense of the social world. Topics may include social perception, inference, memory, motivation, affect, understanding the self, stereotypes, and cultural cognition.  "
+    },
+    "PSYC 137": {
+        "prerequisites": [],
+        "name": "Social Cognition",
+        "description": "This course provides an overview of auditory perception. Topics may include the physiology of the auditory system, perception of pitch, loudness, and timbre, sound localization, perception of melodic and temporal patterns and musical illusions and paradoxes. Recommended preparation: ability to read musical notation.  "
+    },
+    "PSYC 138": {
+        "prerequisites": [],
+        "name": "Sound and Music Perception",
+        "description": "This course provides an introduction to the applications of social psychological principles and findings to sports. Topics include motivation, level of aspiration, competition, cooperation, social comparison, and optimal arousal. Additional topics may include the perspective of spectators, discussing motivation and perceptions of success, streaks, and such. "
+    },
+    "PSYC 139": {
+        "prerequisites": [],
+        "name": "The Social Psychology of Sport",
+        "description": "This course provides training in applying the principles of human behavior, including choice behavior, self-control, and reasoning.  "
+    },
+    "PSYC 140": {
+        "prerequisites": [],
+        "name": "Human Behavior Laboratory",
+        "description": "This course provides insight into the question of whether important aspects of human behavior can be explained as resulting from natural selection. Topics include sex differences, selfishness and altruism, homicide and violence, and context effects of human reasoning.  "
+    },
+    "PSYC 141": {
+        "prerequisites": [],
+        "name": "Evolution and Human Nature",
+        "description": "This course provides a survey of research on consciousness from an experimental psychology perspective. Special emphasis will be placed on cognitive, neuroimaging, and clinical/psychiatric investigative techniques, and on the scientific assessment of the mind-body problem.  "
+    },
+    "PSYC 142": {
+        "prerequisites": [],
+        "name": "Psychology of Consciousness",
+        "description": "This course provides an overview of the behavioral approach, including basic principles, self-control, clinical applications, and the design of cultures. "
+    },
+    "PSYC 143": {
+        "prerequisites": [],
+        "name": "Control and Analysis of Human Behavior",
+        "description": "This course will provide a survey of current research and theory concerning human memory and amnesia from both cognitive and neuropsychological perspectives. Topics may include short-term (working) memory, encoding and retrieval, episodic and semantic memory, interference and forgetting, false memory, eyewitness memory, emotion and memory, famous case studies of amnesia, and the effects of aging and dementia on memory.  "
+    },
+    "PSYC 144": {
+        "prerequisites": [],
+        "name": "Memory and Amnesia",
+        "description": "This course provides an overview of language comprehension and production. Topics include animal communication, language development, and language disorders. Recommended preparation: completion of a course in language, cognition, or philosophy of the mind. "
+    },
+    "PSYC 145": {
+        "prerequisites": [],
+        "name": "Psychology of Language",
+        "description": "This course provides an introduction to research on language acquisition and its relationship to conceptual development. Topics include theoretical foundations (e.g., learning mechanisms, theories of concepts) and empirical case studies, including word learning, syntax and semantics, and language and thought. Recommended preparation: completion of a course in language/linguistics, cognition, or cognitive development. "
+    },
+    "PSYC 146": {
+        "prerequisites": [],
+        "name": "Language and Conceptual Development",
+        "description": "This course provides an overview of the role of gender in psychology, with an emphasis on critical thinking about gender. Topics may include gender differences in behavior and communication, influences on gender roles, gender identity, and gender effects on health and well-being.  "
+    },
+    "PSYC 147": {
+        "prerequisites": [],
+        "name": "Gender\n\t\t\t\t   ",
+        "description": "This course provides an overview of judgment and decision making, which is broadly concerned with preferences, subjective probability, and how they are combined to arrive at decisions. History and current topics will be covered. "
+    },
+    "PSYC 148": {
+        "prerequisites": [],
+        "name": "Psychology of Judgment and Decision",
+        "description": "This course provides an overview of the neural basis of visual experience, or how our brain creates what we see in the world around us. "
+    },
+    "PSYC 150": {
+        "prerequisites": [],
+        "name": "Cognitive Neuroscience of Vision",
+        "description": "This course provides an introduction to psychology testing. Topics include psychometrics and statistical methods of test construction; application of psychological tests in industry, clinical practice, and applied settings; and controversies in the application of psychological tests. "
+    },
+    "PSYC 151": {
+        "prerequisites": [],
+        "name": "Tests and Measurement",
+        "description": "This course provides an overview of the concept of intelligence from multiple perspectives. Topics include how intelligence is measured and the role of this measurement on practical matters, the role of intelligence in comparative psychology, and attempts to analyze intelligence in terms of more fundamental cognitive processes.  "
+    },
+    "PSYC 152": {
+        "prerequisites": [],
+        "name": "Conceptions of Intelligence",
+        "description": "This course provides an overview of past and current theories of emotion. Topics include facial expressions associated with emotion, psychophysiology, evolutionary perspectives, and specific emotions such as anger, fear, and jealousy. "
+    },
+    "PSYC 153": {
+        "prerequisites": [],
+        "name": "Psychology of Emotion",
+        "description": "The course provides an extension of learning principles to human behavior. Topics include broad implications of a behavioral perspective, applied behavior analysis, and applications of behavioral principles to clinical disorders and to normal behavior in varied settings. "
+    },
+    "PSYC 154": {
+        "prerequisites": [],
+        "name": "Behavior Modification",
+        "description": "This course provides an exploration of health, illness, treatment, and delivery of treatment as they relate to psychological concepts and research and considers how the social psychological perspective might be extended into medical fields. "
+    },
+    "PSYC 155": {
+        "prerequisites": [],
+        "name": "Social Psychology and Medicine",
+        "description": "This course provides an overview of infant development. Students will critically evaluate scientific theories regarding infant cognitive, linguistic, and social behavior. Recommended preparation: PSYC 60. "
+    },
+    "PSYC 156": {
+        "prerequisites": [],
+        "name": "Cognitive Development in Infancy",
+        "description": "This course provides an overview of the psychology of happiness. Topics may include such questions as: What is happiness? How do we measure it, and how do we tell who has it? What is the biology of happiness and what is its evolutionary significance? What makes people happy\u2014youth, fortune, marriage, chocolate? Is the pursuit of happiness pointless?  "
+    },
+    "PSYC 157": {
+        "prerequisites": [],
+        "name": "Happiness",
+        "description": "This course provides an examination of theories and empirical work pertaining to interpersonal relationships. Topics include attraction, jealousy, attachments, and love.  "
+    },
+    "PSYC 158": {
+        "prerequisites": [],
+        "name": "Interpersonal Relationships",
+        "description": "This course provides a survey of sensory and perceptual phenomena with an emphasis on their underlying physiological mechanisms. "
+    },
+    "PSYC 159": {
+        "prerequisites": [],
+        "name": "Physiological Basis of Perception",
+        "description": "This course provides a survey of psychological findings relevant to designing \u201cuser-friendly\u201d computers and devices and improving aviation and traffic safety. Topics include human perception as it pertains to displays and image compression, human memory limitations relevant to usability, and nature of human errors. "
+    },
+    "PSYC 161": {
+        "prerequisites": [],
+        "name": "Engineering Psychology",
+        "description": "This course provides an overview of the intersection between psychology and the legal system, covering a broad range of forensically relevant issues. Topics may include false memories, false confessions, eyewitness reliability, lie detection, DNA exonerations of the wrongfully convicted, jury decision making, and neuroscience and the law Recommended preparation: PSYC 60. "
+    },
+    "PSYC 162": {
+        "prerequisites": [],
+        "name": "Psychology and the Law",
+        "description": "This course provides an overview of the scientific study of law making and societal reaction to law breaking activity. Topics include major theories accounting for criminal behavior, the relationship between drugs and crime, the effects of penalties on recidivism, and the psychological effects of incarceration. "
+    },
+    "PSYC 164": {
+        "prerequisites": [],
+        "name": "Criminology",
+        "description": "This course provides a survey of the major trends and figures in the development of psychology as a field. Topics may include the mind-body problem, nativism vs. empiricism, and the genesis of behaviorism. "
+    },
+    "PSYC 167": {
+        "prerequisites": [],
+        "name": "Science of Imagination",
+        "description": "This course provides an overview of psychological disorders in children. Topics may include anxiety disorders, depressive and bipolar disorders, communication and learning disorders, conduct problems, autism, and other conditions. Emphasis is placed on symptomatology, assessment, etiological factors, epidemiology, and treatment.   "
+    },
+    "PSYC 168": {
+        "prerequisites": [],
+        "name": "Psychological Disorders of Childhood",
+        "description": "This course provides an introduction to the neural mechanisms underlying perception, memory, language, and other mental capacities. Topics include how brain damage affects these capacities and how patients with brain lesions can contribute to our understanding of the normal brain. "
+    },
+    "PSYC 169": {
+        "prerequisites": [],
+        "name": "Brain Damage and Mental Function",
+        "description": "This course provides a journey to the interface between neurophysiology and psychology. Topics include neuroimaging and neuroplasticity. "
+    },
+    "PSYC 170": {
+        "prerequisites": [
+            "PSYC 2"
+        ],
+        "name": "Cognitive Neuropsychology",
+        "description": "This course provides an overview of the neurobiology of learning and memory, from cognitive to molecular neuroscience, including human, animal, cellular, and molecular studies of memory. Topics include amnesia, intellectual disability, exceptional intelligence, aging, and Alzheimer\u2019s disease. "
+    },
+    "PSYC 171": {
+        "prerequisites": [],
+        "name": "Neurobiology of Learning and Memory",
+        "description": "This course provides an overview of human sexuality research including diversity of sexual behavior and identities, sex and gender development, intimate relationships, and sexual dysfunction. Recommended preparation: completion of PSYC 1, 2, or 106. "
+    },
+    "PSYC 172": {
+        "prerequisites": [],
+        "name": "Psychology of Human Sexuality",
+        "description": "This course provides an overview of the biological, psychological, and social influences on the psychology of food and behavior. Topics may include taste preferences and aversions and how they are learned, how culture influences food selection, and food-related behaviors across the lifespan. "
+    },
+    "PSYC 173": {
+        "prerequisites": [],
+        "name": "Psychology of Food and Behavior",
+        "description": "This course provides an overview of high-level visual perception, and of how visual perception intersects with attention, memory, and concepts. Topics may include an introduction to the visual system with an emphasis on high-level visual regions; object recognition, face recognition, scene recognition and reading; visual attention, including eye movements during scene perception and during reading; and visual working memory. "
+    },
+    "PSYC 174": {
+        "prerequisites": [
+            "COGS 14B",
+            "or",
+            "MATH 11",
+            "or",
+            "PSYC 60",
+            "and",
+            "COGS 14A",
+            "or",
+            "PSYC 70"
+        ],
+        "name": "Visual Cognition",
+        "description": "This course provides a review of the scientific research surrounding the topic of Mindfulness, which has been approached from multiple disciplines including Buddhism, Positive Psychology, Cognitive Behavioral Therapy, and Neuroscience. Because Mindfulness is so multi-faceted, with many variables involved, the scientific study of Mindfulness requires rigorous research methods and statistics, and for this reason, a significant portion of the class focuses on these aspects. "
+    },
+    "PSYC 175": {
+        "prerequisites": [],
+        "name": "Science of Mindfulness",
+        "description": "This course provides an overview of how to foster creativity in individuals, groups, and organizations. Themes that cut across all three levels are highlighted. "
+    },
+    "PSYC 176": {
+        "prerequisites": [],
+        "name": "Creativity",
+        "description": "This course provides an examination of human behavior in industrial, business, and organizational settings. Topics include psychological principles applied to selection, placement, management, and training; the effectiveness of individuals and groups within organizations, including leadership and control; conflict and cooperation; motivation; and organizational structure and design. "
+    },
+    "PSYC 178": {
+        "prerequisites": [],
+        "name": "Industrial Organizational Psychology",
+        "description": "This course provides an overview of the use, abuse, liability, and psychotherapeutic effects of drugs on humans. "
+    },
+    "PSYC 179": {
+        "prerequisites": [],
+        "name": "Drugs, Addiction, and Mental Disorders",
+        "description": "This course provides an overview of the period of human adolescence, including the physical, cognitive, social, and emotional changes that take place during this developmental transition. "
+    },
+    "PSYC 180": {
+        "prerequisites": [],
+        "name": "Adolescence",
+        "description": "This course provides an examination of visual, auditory, and tactile illusions and examines how they arise from interactions between perceptual and cognitive systems. "
+    },
+    "PSYC 181": {
+        "prerequisites": [],
+        "name": "Psychopharmacology\u2014Drugs and Behavior",
+        "description": "This course provides an overview of the experimental analysis of choice behavior, with an emphasis on the types of choice involved in self-control. A central interest will be the conditions under which decision-making is optimal. "
+    },
+    "PSYC 182": {
+        "prerequisites": [],
+        "name": "Illusions and the Brain",
+        "description": "This course provides tools for the student to think about the escalating climate crisis. Urgent action is needed at a large, societal scale to prevent the worst consequences of anthropogenic global heating. Better understanding the prospects for such action can come from human psychology. How do people arrive at their beliefs? What is the basis of denial and delay? How does belief flow to action? What kinds of actions can people take? "
+    },
+    "PSYC 184": {
+        "prerequisites": [],
+        "name": "Choice and Self-Control",
+        "description": "This course provides an overview of how children learn to reason about the social world. Topics may include theory of mind, social categorization and stereotyping, moral reasoning, and cultural learning. Recommended preparation: PSYC 101. "
+    },
+    "PSYC 185": {
+        "prerequisites": [],
+        "name": "Psychology of Climate Crisis",
+        "description": "This course provides an overview of problems of impulse control, which are important features of major psychiatric disorders and also of atypical patterns of behavior including pathological gambling, compulsive sex, eating, exercise, and shopping. Topics include development, major common features, treatment, and neurobiological basis of impulse control disorders. "
+    },
+    "PSYC 187": {
+        "prerequisites": [
+            "PSYC 102",
+            "or",
+            "PSYC 106"
+        ],
+        "name": "Development of Social Cognition",
+        "description": "This course provides a survey of natural behaviors, including birdsong, prey capture, localization, electroreception and echolocation, and the neural system that controls them, emphasizing broad fundamental relationships between brain and behavior across species. Cross-listed with BIPN 189. Students may not receive credit for PSYC 189 and BIPN 189. "
+    },
+    "PSYC 188": {
+        "prerequisites": [],
+        "name": "Impulse Control Disorders",
+        "description": "This course provides an interdisciplinary overview of theories and scientific research on parenting. This course takes a critical approach to the scientific evidence regarding the role of parents in child development. Topics may include media reporting of science, behavior genetics, diet, sleep, the nature of learning, screen time, impulse control, family structure, parenting styles, attachment, discipline strategies, and vaccination. "
+    },
+    "PSYC 189": {
+        "prerequisites": [],
+        "name": "Brain, Behavior, and Evolution",
+        "description": "This course provides an overview of the psychology of sleep, including sleep stages and their functions, neurological aspects of sleep, sleep across species and development, dreams and their interpretation, sleep disorders, and the role of sleep in learning and memory. "
+    },
+    "PSYC 190": {
+        "prerequisites": [],
+        "name": "Science of Parenting",
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small setting to explore an intellectual topic in psychology (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+    },
+    "PSYC 191": {
+        "prerequisites": [],
+        "name": "Psychology of Sleep",
+        "description": "Selected topics in the field of psychology. May be taken for credit three times as topics vary. "
+    },
+    "PSYC 192": {
+        "prerequisites": [],
+        "name": "Senior Seminar in Psychology",
+        "description": "Selected laboratory topics in the field of psychology. May be taken for credit two times as topics vary. "
+    },
+    "PSYC 193": {
+        "prerequisites": [
+            "PSYC 110",
+            "PSYC 111A-B"
+        ],
+        "name": "Topics in Psychology",
+        "description": "This course provides the opportunity for students to plan and carry out a research project under the guidance of the psychology faculty. Students will write a proposal for the research that they plan to conduct in 194B-C and will present this proposal to the class. Must be taken for a letter grade for the Psychology Honors Program. "
+    },
+    "PSYC 193L": {
+        "prerequisites": [
+            "PSYC 194A"
+        ],
+        "name": "Psychology Laboratory Topics",
+        "description": "This course provides the opportunity for students to continue to carry out their research projects. Must be taken for a letter grade for the Psychology Honors Program. "
+    },
+    "PSYC 194A": {
+        "prerequisites": [
+            "PSYC 194B"
+        ],
+        "name": "Honors Thesis I",
+        "description": "This course provides the opportunity for students to complete their research, write their honors thesis, and present their results at the Honors Poster Session. Must be taken for a letter grade for the Psychology Honors Program. "
+    },
+    "PSYC 194B": {
+        "prerequisites": [],
+        "name": "Honors Thesis II",
+        "description": "Introduction to teaching a psychology course. As an undergraduate instructional apprentice, students will attend the lectures of the course, hold weekly meetings with students of the course, hold weekly meetings with course instructor. Responsibilities may include class presentations, designing and leading weekly discussion sections, assisting with homework and exam grading, and monitoring and responding to online discussion posts. P/NP grades only. May be taken for credit two times. Only four units can be applied toward the psychology minor or major as upper-division psychology elective credit. "
+    },
+    "PSYC 194C": {
+        "prerequisites": [],
+        "name": "Honors Thesis III",
+        "description": "Weekly research seminar, three quarter research project under faculty guidance which culminates in a thesis. Must be taken for a letter grade to satisfy major requirements for Department of Psychology majors. "
+    },
+    "PSYC 195": {
+        "prerequisites": [],
+        "name": "Instruction in Psychology",
+        "description": "Group study under the direction of a faculty member in the Department of Psychology. "
+    },
+    "PSYC 196A-B-C": {
+        "prerequisites": [],
+        "name": "Research Seminar",
+        "description": "Independent study or laboratory research under direction of faculty in the Department of Psychology. P/NP grades only. May be taken for credit nine times. "
+    }
 }

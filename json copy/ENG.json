@@ -1,0 +1,27 @@
+{
+    "ENG 20": [],
+    "ENG 100A": [
+        "DOC 2",
+        "CAT 2",
+        "HUM 2"
+    ],
+    "ENG 100B": [
+        "ENG 100A",
+        "or",
+        "ENG 100"
+    ],
+    "ENG 100D": [
+        "CAT 2",
+        "or",
+        "DOC 2",
+        "or",
+        "HUM 2"
+    ],
+    "ENG 100L": [
+        "ENG 100",
+        "or",
+        "ENG 100A",
+        "or",
+        "ENG 100D"
+    ]
+}

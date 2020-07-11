@@ -1,3 +1,7 @@
 {
-    "CLAS 196": []
+    "CLAS 196": {
+        "prerequisites": [],
+        "name": "Directed Honors Thesis in Classical Studies",
+        "description": "BA honors thesis research under the direction of a member of a classical studies program faculty. "
+    }
 }

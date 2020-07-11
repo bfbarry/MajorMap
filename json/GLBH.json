@@ -1,21 +1,49 @@
 {
-    "GLBH 102": [
-        "COGS 14B",
-        "or",
-        "MATH 11",
-        "or",
-        "PSYC 60",
-        "and",
-        "GLBH 20",
-        "or",
-        "FMPH 40"
-    ],
-    "GLBH 150A": [],
-    "GLBH 150B": [
-        "GLBH 150A"
-    ],
-    "GLBH 160": [],
-    "GLBH 181": [],
-    " GLBH 198": [],
-    "GLBH 199": []
+    "GLBH 102": {
+        "prerequisites": [
+            "COGS 14B",
+            "or",
+            "MATH 11",
+            "or",
+            "PSYC 60",
+            "and",
+            "GLBH 20",
+            "or",
+            "FMPH 40"
+        ],
+        "name": "Global Health Epidemiology",
+        "description": "This course will address basic epidemiology principles, concepts, and procedures that are used in investigation of health-related states or events from a global perspective. Explores study designs and methods appropriate for studies of incidence and prevalence, causality and prevention, with emphasis on research in resource-poor settings. "
+    },
+    "GLBH 150A": {
+        "prerequisites": [],
+        "name": "Global Health Capstone Seminar I",
+        "description": "Course will consist of intensive reading and discussion in fields related to each student\u2019s primary interest and building on their Global Health Field Experience. The course is oriented toward producing a senior thesis that serves as credential for students applying for postgraduate or professional training. "
+    },
+    "GLBH 150B": {
+        "prerequisites": [
+            "GLBH 150A"
+        ],
+        "name": "Global Health Capstone Seminar II",
+        "description": "Course will be a workshop with critical input from all participants focused on preparing a senior thesis. The course is oriented toward producing a senior thesis that serves as credential for students applying for postgraduate or professional training. "
+    },
+    "GLBH 160": {
+        "prerequisites": [],
+        "name": "Global Health Policy",
+        "description": "Students will learn fundamental principles and concepts of global health policy, law, and governance. The course will focus on identifying critical global health policy challenges and solving them using a multidisciplinary approach that takes into account the perspectives of various stakeholders. "
+    },
+    "GLBH 181": {
+        "prerequisites": [],
+        "name": "Essentials of Global Health",
+        "description": "Illustrates and explores ecologic settings and frameworks for study and understanding of global health and international health policy. Students acquire understanding of diverse determinants and trends of disease in various settings and interrelationships between socio-cultural-economic development and health. "
+    },
+    " GLBH 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Directed group study for students to delve deeper into global health topics or elaborate the intellectual analysis and critique of their field experience. For students enrolled in the global health major or minor.  May be taken for credit two times. "
+    },
+    "GLBH 199": {
+        "prerequisites": [],
+        "name": "Independent Study in Global Health Field Experience",
+        "description": "Independent study opportunity for students to work with global health affiliated faculty on relevant research or to elaborate the intellectual analysis and critique of their global health field experience. For students enrolled in the global health major or minor.  May be taken for credit two times. "
+    }
 }

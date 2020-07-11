@@ -1,346 +1,1038 @@
 {
-    "VIS 1": [],
-    "VIS 2": [],
-    "VIS 3": [],
-    "VIS 10": [],
-    "VIS 11": [],
-    "VIS 20": [],
-    "VIS 21A": [],
-    "VIS 21B": [],
-    "VIS 22": [],
-    "VIS 23": [],
-    "VIS 41": [],
-    "VIS 60": [],
-    "VIS 70N": [],
-    "VIS 80": [],
-    "VIS 84": [],
-    "VIS 84B": [],
-    "VIS 85A": [],
-    "VIS 85B": [],
-    "VIS 87": [],
-    "VIS 100": [],
-    "VIS 100A": [],
-    "VIS 101": [
-        "VIS 100"
-    ],
-    "VIS 101A": [],
-    "VIS 102": [
-        "VIS 101"
-    ],
-    "VIS 103": [],
-    "VIS 103A": [],
-    "VIS 103B": [],
-    "VIS 105A": [],
-    "VIS 105B": [
-        "VIS 80"
-    ],
-    "VIS 105C": [
-        "VIS 105A"
-    ],
-    "VIS 105D": [
-        "VIS 105B"
-    ],
-    "VIS 105E": [
-        "VIS 80"
-    ],
-    "VIS 106A": [
-        "VIS 105D"
-    ],
-    "VIS 106B": [
-        "VIS 80"
-    ],
-    "VIS 106C": [
-        "VIS 106A"
-    ],
-    "VIS 107A": [
-        "VIS 106B"
-    ],
-    "VIS 107B": [
-        "VIS 80"
-    ],
-    "VIS 107C": [
-        "VIS 107A"
-    ],
-    "VIS 108": [
-        "VIS 107B"
-    ],
-    "VIS 109": [],
-    "VIS 110A": [],
-    "VIS 110B": [],
-    "VIS 110C": [],
-    "VIS 110D": [],
-    "VIS 110E": [],
-    "VIS 110F": [],
-    "VIS 110G": [],
-    "VIS 110H": [],
-    "VIS 110I": [],
-    "VIS 110K": [],
-    "VIS 110M": [],
-    "VIS 110N": [],
-    "VIS 112": [
-        "VIS 110M"
-    ],
-    "VIS 113AN": [
-        "VIS 23",
-        "and"
-    ],
-    "VIS 113BN": [
-        "VIS 112"
-    ],
-    "VIS 113CN": [],
-    "VIS 114A": [],
-    "VIS 114B": [],
-    "VIS 114GS": [],
-    "VIS 117E": [],
-    "VIS 117F": [],
-    "VIS 117G": [],
-    "VIS 117I": [],
-    "VIS 120A": [],
-    "VIS 120B": [],
-    "VIS 120C": [],
-    "VIS 121AN": [],
-    "VIS 121B": [],
-    "VIS 121C": [],
-    "VIS 121H": [],
-    "VIS 122AN": [],
-    "VIS 122B": [],
-    "VIS 122CN": [],
-    "VIS 122D": [
-        "VIS 23"
-    ],
-    "VIS 122F": [],
-    "VIS 122GS": [],
-    "VIS 123AN": [],
-    "VIS 124BN": [],
-    "VIS 124CN": [],
-    "VIS 124D": [],
-    "VIS 124E": [],
-    "VIS 124F": [],
-    "VIS 125A": [],
-    "VIS 125BN": [],
-    "VIS 125C": [],
-    "VIS 125DN": [],
-    "VIS 125G": [],
-    "VIS 126AN": [],
-    "VIS 126BN": [],
-    "VIS 126C": [],
-    "VIS 126D": [],
-    "VIS 126E": [],
-    "VIS 126F": [],
-    "VIS 126HN": [],
-    "VIS 126I": [],
-    "VIS 126J": [],
-    "VIS 126K": [],
-    "VIS 126P": [],
-    "VIS 126Q": [],
-    "VIS 127B": [],
-    "VIS 127C": [],
-    "VIS 127D": [],
-    "VIS 127E": [],
-    "VIS 127F": [],
-    "VIS 127GS": [],
-    "VIS 127N": [],
-    "VIS 127P": [],
-    "VIS 127Q": [],
-    "VIS 128A\u2013E": [],
-    "VIS 128A": [],
-    "VIS 128C": [],
-    "VIS 128D": [],
-    "VIS 128E": [
-        "VIS 112"
-    ],
-    "VIS 129A\u2013F": [
-        "VIS 112"
-    ],
-    "VIS 129A": [
-        "VIS 112"
-    ],
-    "VIS 129C": [],
-    "VIS 129D": [
-        "VIS 112"
-    ],
-    "VIS 129E": [
-        "VIS 112"
-    ],
-    "VIS 129F": [],
-    "VIS 129G": [],
-    "VIS 129H": [],
-    "VIS 130": [],
-    "VIS 131": [],
-    "VIS 132": [
-        "VIS 30"
-    ],
-    "VIS 135": [
-        "VIS 142",
-        "and",
-        "CSE 11",
-        "or",
-        "CSE 8B"
-    ],
-    "VIS 141A": [
-        "VIS 141A"
-    ],
-    "VIS 141B": [],
-    "VIS 142": [
-        "VIS 142"
-    ],
-    "VIS 143": [
-        "VIS 142"
-    ],
-    "VIS 145A": [
-        "VIS 145A"
-    ],
-    "VIS 145B": [
-        "VIS 41",
-        "or",
-        "VIS 70N",
-        "or",
-        "VIS 80"
-    ],
-    "VIS 147A": [
-        "VIS 147A"
-    ],
-    "VIS 147B": [],
-    "VIS 148": [],
-    "VIS 149": [
-        "VIS 22",
-        "or",
-        "VIS 84",
-        "or",
-        "VIS 159"
-    ],
-    "VIS 150A": [
-        "VIS 84"
-    ],
-    "VIS 151": [
-        "VIS 22",
-        "or",
-        "VIS 70N",
-        "or",
-        "VIS 159"
-    ],
-    "VIS 151A": [
-        "VIS 84"
-    ],
-    "VIS 152": [],
-    "VIS 152D": [
-        "VIS 84"
-    ],
-    "VIS 154": [
-        "VIS 84"
-    ],
-    "VIS 155": [
-        "VIS 84"
-    ],
-    "VIS 156": [],
-    "VIS 157": [],
-    "VIS 158": [],
-    "VIS 159": [
-        "VIS 141B",
-        "or",
-        "VIS 145B",
-        "or",
-        "VIS 147B",
-        "or",
-        "MUS 172"
-    ],
-    "VIS 160A": [
-        "VIS 160A",
-        "or",
-        "MUS 160A"
-    ],
-    "VIS 160B": [
-        "VIS 135"
-    ],
-    "VIS 161": [
-        "VIS 161"
-    ],
-    "VIS 162": [
-        "VIS 161"
-    ],
-    "VIS 163": [
-        "VIS 60"
-    ],
-    "VIS 164": [
-        "VIS 60"
-    ],
-    "VIS 165": [
-        "VIS 164",
-        "or",
-        "VIS 165"
-    ],
-    "VIS 167": [
-        "VIS 164",
-        "or",
-        "VIS 165"
-    ],
-    "VIS 168": [
-        "VIS 174"
-    ],
-    "VIS 171": [
-        "VIS 70N"
-    ],
-    "VIS 174": [
-        "VIS 174"
-    ],
-    "VIS 175": [
-        "VIS 174"
-    ],
-    "VIS 176": [
-        "VIS 174"
-    ],
-    "VIS 177": [
-        "VIS 174"
-    ],
-    "VIS 178": [
-        "VIS 174",
-        "and",
-        "VIS 164"
-    ],
-    "VIS 180A": [
-        "VIS 174",
-        "and",
-        "VIS 164"
-    ],
-    "VIS 180B": [
-        "VIS 174",
-        "and",
-        "VIS 164"
-    ],
-    "VIS 181": [
-        "VIS 174",
-        "and",
-        "VIS 164"
-    ],
-    "VIS 182": [
-        "VIS 174",
-        "and",
-        "VIS 164"
-    ],
-    "VIS 183A": [
-        "VIS 174",
-        "and",
-        "VIS 164"
-    ],
-    "VIS 183B": [
-        "VIS 174",
-        "and",
-        "VIS 164"
-    ],
-    "VIS 184": [
-        "VIS 174",
-        "and",
-        "VIS 164"
-    ],
-    "VIS 185": [
-        "VIS 135",
-        "and",
-        "VIS 100"
-    ],
-    "VIS 190": [
-        "VIS 84"
-    ],
-    "VIS 194S": [],
-    "VIS 197": [],
-    "VIS 198": []
+    "VIS 1": {
+        "prerequisites": [],
+        "name": "Introduction to\n\t\t  Art Making: Two-Dimensional Practices",
+        "description": "An introduction to the concepts and techniques of art making with specific reference to the artists and issues of the twentieth century. Lectures and studio classes will examine the nature of images in relation to various themes. Drawing, painting, found objects, and texts will be employed. This course is offered only one time each year. "
+    },
+    "VIS 2": {
+        "prerequisites": [],
+        "name": "Introduction to\n\t\t  Art Making: Motion and Time-Based Art",
+        "description": "An introduction to art making utilizing the transaction between people, objects, situations, and media. Includes both critical reflection on relevant aspects of modern and contemporary art practices (Marina Abramovic, Allen Kaprow, Adrian Piper, James Luna, Stelarc, Ron Athey, conceptual art, performance art, new media art, etc.) and practical experience in a variety of artistic exercises. This course is offered only one time each year. "
+    },
+    "VIS 3": {
+        "prerequisites": [],
+        "name": "Introduction to\n\t\t  Art Making: Three-Dimensional Practices",
+        "description": "An introduction to art making that uses as its base the idea of the \u201cconceptual.\u201d The lecture exists as a bank of knowledge about various art world and nonart world conceptual plays. The studio section attempts to incorporate these ideas into individual and group projects using any \u201cmaterial.\u201d This course is offered only one time each year. "
+    },
+    "VIS 10": {
+        "prerequisites": [],
+        "name": "Computing in the Arts Lecture Series",
+        "description": "Designed around presentations by visiting artists, critics, and scientists involved with contemporary issues related to computer arts and design. Lectures by the instructor and contextual readings provide background material for the visitor presentations. Program or materials fees may apply. Students may not receive credit for both VIS 10 and ICAM 110. This course is offered only one time each year. "
+    },
+    "VIS 11": {
+        "prerequisites": [],
+        "name": "Introduction to Visual Culture",
+        "description": "This course examines the significant topics in art practice, theory, and history that are shaping contemporary art thinking. A wide range of media extending across studio art practice, digital media, performative practices, and public culture will be considered as interrelated components. This course is required for visual arts transfer students. Students may not receive credit for both VIS 11 and VIS 111. This course is offered only one time each year during winter quarter. "
+    },
+    "VIS 20": {
+        "prerequisites": [],
+        "name": "Introduction to Art History",
+        "description": "This course examines history of Western art and architecture through such defining issues as the respective roles of tradition and innovation in the production and appreciation of art; the relation of art to its broader intellectual and historical contexts; and the changing concepts of the monument, the artist, meaning, style, and \u201cart\u201d itself. Representative examples will be selected from different periods, ranging from Antiquity to Modern. Content will vary with the instructor. "
+    },
+    "VIS 21A": {
+        "prerequisites": [],
+        "name": "Introduction\n\t\t  to the Art of the Americas or Africa and Oceania",
+        "description": "Course offers a comparative and thematic approach to the artistic achievements of societies with widely divergent structures and political organizations from the ancient Americas to Africa and the Pacific Islands. Topics vary with the interests and expertise of instructor. Students may not receive credit for VIS 21 and VIS 21A. "
+    },
+    "VIS 21B": {
+        "prerequisites": [],
+        "name": "Introduction to Asian Art",
+        "description": "Survey of the major artistic trends of India, China, and Japan, taking a topical approach to important developments in artistic style and subject matter to highlight the art of specific cultures and religions. Students may not receive credit for VIS 21 and VIS 21B. "
+    },
+    "VIS 22": {
+        "prerequisites": [],
+        "name": "Formations of Modern Art",
+        "description": "Wide-ranging survey introducing the key aspects of modern art and criticism in the nineteenth and twentieth centuries, including neoclassicism, romanticism, realism, impressionism, postimpressionism, symbolism, fauvism, cubism, Dadaism and surrealism, abstract expressionism, minimalism, earth art, and conceptual art. "
+    },
+    "VIS 23": {
+        "prerequisites": [],
+        "name": "Information Technologies in Art History",
+        "description": "This seminar introduces fundamentals of art historical practice such as descriptive and analytical writing, compiling annotated bibliographies with traditional and online resources, defining research topics, and writing project proposals. "
+    },
+    "VIS 41": {
+        "prerequisites": [],
+        "name": "Design Communication",
+        "description": "Speculative design uses design methods to question and investigate material culture with critical creative purpose. This course provides a historical, theoretical, and methodological introduction to speculative design as a distinct program. Emphasis is tracing the integration of interdisciplinary intellectual and technical problems toward creative, unexpected propositions and prototypes. "
+    },
+    "VIS 60": {
+        "prerequisites": [],
+        "name": "Introduction to Digital Photography",
+        "description": "This course provides a strong foundation in contemporary techniques of design communication, including: digital image editing, typography, vector-based illustration and diagramming, document layout, as well as basic digital video editing tools, and web-production formats. Emphasis is on mastery of craft through iteration and presentation of multiple projects. Students may not receive credit for VIS 140 or ICAM 101 and VIS 41. "
+    },
+    "VIS 70N": {
+        "prerequisites": [],
+        "name": "Introduction to Media",
+        "description": "An in-depth exploration of the camera and image utilizing photographic digital technology. Emphasis is placed on developing fundamental control of the processes and materials through lectures, field, and lab experience. Basic discussion of image making included. Program or materials fees may apply. "
+    },
+    "VIS 80": {
+        "prerequisites": [],
+        "name": "Introduction to the Studio Major",
+        "description": "Operating as both a lecture and production course, this introductory class provides a technical foundation and theoretical context for all subsequent production-oriented film and video studies. In the laboratory, the student will learn the basic skills necessary to initiate video production. Completion of Visual Arts 70N is necessary to obtain a media card. Program or materials fees may apply. "
+    },
+    "VIS 84": {
+        "prerequisites": [],
+        "name": "History of Film",
+        "description": "A practical introduction to the studio art major and a conceptual introduction to how diverse strategies of art making are produced, analyzed, and critiqued. Introduces historical and contemporary topics in painting, drawing, sculpture, installation, and performance art and field-based practices. Required for all studio majors and minors including transfer students. Must be taken in residence at UC San Diego. "
+    },
+    "VIS 84B": {
+        "prerequisites": [],
+        "name": "Film Aesthetics",
+        "description": "A survey of the history and the art of the cinema. The course will stress the origins of cinema and the contributions of the earliest filmmakers, including those of Europe, Russia, and the United States. This course is offered only one time each year. Program or materials fees may apply. "
+    },
+    "VIS 85A": {
+        "prerequisites": [],
+        "name": "Media History",
+        "description": "Analysis and interpretation of a film movement, style, genre, or set of conventions in light of aesthetic, philosophical, and/or theoretical frameworks. Specific films and emphases may vary by year and instructor. Examples include early twentiety-century century avant-garde, Third Cinema, Neorealism, direct cinema and cin\u00e9ma v\u00e9rit\u00e9, observational cinema, the French New Wave, the Hong Kong New Wave, essay films, pre-Code Hollywood cinema, structuralist film. Program or materials fees may apply. "
+    },
+    "VIS 85B": {
+        "prerequisites": [],
+        "name": "Media Aesthetics",
+        "description": "A survey of media history, theory, and art in a range of national and international contexts. Offers historically situated analysis of print, audio, text-based, image-based, and time-based media in narrative, avant-garde, and documentary forms across different movements, genres, and styles with attention to associated theories and conventions (such as mechanical, electronic, graphical, lens-based, video, digital, and mixed media). Specific works and emphases may vary by year and instructor. Program or materials fees may apply. "
+    },
+    "VIS 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "Analysis and interpretation of a specific media art movement, style, genre, or set of conventions in light of aesthetic, philosophical, and/or theoretical frameworks. Specific works and emphases may vary by year and instructor. Examples include video art of the 1970s-80s, media art and industry, media archaeology, and computational aesthetics. Program or materials fees may apply. "
+    },
+    "VIS 100": {
+        "prerequisites": [],
+        "name": "Introduction to Public Culture",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students with preference given to entering freshmen. "
+    },
+    "VIS 100A": {
+        "prerequisites": [],
+        "name": "Design of Public Culture",
+        "description": "This course examines the expansion of visual arts into contemporary fields of public culture and social practice, including new forms of research and practice intervening across urban socio-economic and political domains, environmental, spatial and community-based dynamics, architecture, information-design, and visualization. "
+    },
+    "VIS 101": {
+        "prerequisites": [
+            "VIS 100"
+        ],
+        "name": "Introduction to Urban Ecologies",
+        "description": "This course will explore design strategies that engage today\u2019s shifting public domain structures, situating the problematic of \u201cthe public\u201d and the politics of public sphere as sites of investigation, and speculating new interfaces between individuals, collectives, and institutions in coproducing more critical and inclusive forms of public space and culture. "
+    },
+    "VIS 101A": {
+        "prerequisites": [],
+        "name": "Designing Urban Ecologies",
+        "description": "This course examines expanded meanings of the urban and the ecological into new conceptual zones for artistic practice and research, introducing urbanization as complex and transformative processes of interrelated cultural, socio-economic, political and environmental conditions, whose material and informational flows are generative of new interpretations of ecology. "
+    },
+    "VIS 102": {
+        "prerequisites": [
+            "VIS 101"
+        ],
+        "name": "Democratizing the City ",
+        "description": "This course will explore design strategies that engage peoples\u2019 shifting geopolitical boundaries, bioregional and ecosystems, urban structures and landscapes, and recontextualize the city as a site of investigation by developing new ways of intervening into expanded notions of urban space, including virtual communities and new speculations of urbanity. "
+    },
+    "VIS 103": {
+        "prerequisites": [],
+        "name": "Architectural Practices",
+        "description": "Introduction to urban inequality across the Tijuana\u2013San Diego region, and the border flows that make the marginalized neighborhoods within this geography of conflict into sites of socioeconomic and cultural productivity, laboratories to rethink the gap between wealth and poverty. "
+    },
+    "VIS 103A": {
+        "prerequisites": [],
+        "name": "Contemporary Arts in South Korea",
+        "description": "We can learn a lot from the spatial, aesthetic, and formal strategies of architects, as well as their critical stance on the shifting cultural, socio-political, and economic dynamics in the contemporary city. This is an introductory course to explore some of the most important, innovative contemporary architectural practices in the world, and their role in shaping new paradigms in design, material, urban, and environmental culture. "
+    },
+    "VIS 103B": {
+        "prerequisites": [],
+        "name": "Architecture and Urbanism of Korea",
+        "description": "The course will examine the theories and practices of contemporary art in South Korea, and its systems of cultural productions and disseminations. Highlighting the work of representative artists, institutions, and events, the course focuses on the predominance of governmental and corporate sponsorships, and how its cultural system is positioned for national and global presence, as well as the emergence alternative art spaces that promote the decentralization of cultural programs. Renumbered from VIS 127A. Students may not receive credit for VIS 103A and VIS 127A. This course is part of the Korean studies minor program. "
+    },
+    "VIS 105A": {
+        "prerequisites": [],
+        "name": "Drawing: Representing the Subject",
+        "description": "Covering the evolution of architecture and urban developments in South and North Korea since 1953. The course will examine how both states have shaped their political, economic, and cultural conditions. In particular, we will compare the apartment block communities, national identity architecture, and thematic architecture for entertainment and political propaganda. We will look at how traditional Korean architecture and urban structures were modified for modern life and political economy. Renumbered from VIS 127I. Students may not receive credit for VIS 103B and VIS 127I. "
+    },
+    "VIS 105B": {
+        "prerequisites": [
+            "VIS 80"
+        ],
+        "name": "Drawing: Practices and Genre",
+        "description": "A studio course in beginning drawing covering basic drawing and composition. These concepts will be introduced by the use of models, still life, landscapes, and conceptual projects. "
+    },
+    "VIS 105C": {
+        "prerequisites": [
+            "VIS 105A"
+        ],
+        "name": "Drawing: Portfolio Projects",
+        "description": "A continuation of VIS 105A. A studio course in which the student will investigate a wider variety of technical and conceptual issues involved in contemporary art practice related to drawing. "
+    },
+    "VIS 105D": {
+        "prerequisites": [
+            "VIS 105B"
+        ],
+        "name": "Art Forms and Chinese Calligraphy   ",
+        "description": "A studio course in drawing, emphasizing individual creative problems. Class projects, discussions, and critiques will focus on issues related to intention, subject matter, and context. "
+    },
+    "VIS 105E": {
+        "prerequisites": [
+            "VIS 80"
+        ],
+        "name": "Chinese Calligraphy as Installation",
+        "description": "This course treats Chinese calligraphy as a multidimensional point of departure for aesthetic, cultural, and political concerns. This conceptually based course combines fundamental studio exercises with unconventional explorations. Students are exposed to both traditional and experimental forms of this unique art and encouraged to learn basic aesthetic grammars. There are no Chinese language requirements for this course. "
+    },
+    "VIS 106A": {
+        "prerequisites": [
+            "VIS 105D"
+        ],
+        "name": "Painting: Image Making",
+        "description": "This course concerns East\u2013West aesthetic interactions. What are the conceptual possibilities when calligraphy, an ancient form of Chinese art, is combined with installation, a contemporary artistic Western practice? Emphasis is placed on such issues as cultural hybridity, globalization, multiculturalism, and commercialization. "
+    },
+    "VIS 106B": {
+        "prerequisites": [
+            "VIS 80"
+        ],
+        "name": "Painting: Practices and Genre",
+        "description": "A studio course focusing on problems inherent in painting\u2014transferring information and ideas onto a two-dimensional surface, color, composition, as well as manual and technical procedures. These concepts will be explored through the use of models, still life, and landscapes. "
+    },
+    "VIS 106C": {
+        "prerequisites": [
+            "VIS 106A"
+        ],
+        "name": "Painting: Portfolio Projects",
+        "description": "A continuation of VIS 106A. A studio course in which the student will investigate a wider variety of technical and conceptual issues involved in contemporary art practice related to painting. "
+    },
+    "VIS 107A": {
+        "prerequisites": [
+            "VIS 106B"
+        ],
+        "name": "Sculpture: Making the Object",
+        "description": "A studio course in painting emphasizing individual creative problems. Class projects, discussions, and critiques will focus on issues related to intention, subject matter, and context. "
+    },
+    "VIS 107B": {
+        "prerequisites": [
+            "VIS 80"
+        ],
+        "name": "Sculpture: Practices and Genre",
+        "description": "A studio course focusing on the problems involved in transferring ideas and information into three-dimensions. Course will explore materials and construction as dictated by the intended object. Specific problems to be investigated will be determined by the individual professor. "
+    },
+    "VIS 107C": {
+        "prerequisites": [
+            "VIS 107A"
+        ],
+        "name": "Sculpture: Portfolio Projects",
+        "description": "A studio course in which the student will investigate a wider variety of technical and conceptual issues as well as materials involved in contemporary art practice related to sculpture. "
+    },
+    "VIS 108": {
+        "prerequisites": [
+            "VIS 107B"
+        ],
+        "name": "Advanced Projects in Art",
+        "description": "A studio course in sculpture emphasizing individual creative problems. Class projects, discussions, and critiques will focus on issues related to intention, subject matter, and context. Students may not receive credit for both VIS 107C and VIS 107CN. "
+    },
+    "VIS 109": {
+        "prerequisites": [],
+        "name": "Advanced Projects in Media",
+        "description": "A studio course for serious art students at the advanced level. Stress will be placed on individual creative problems. Specific orientation of this course will vary with the instructor. Topics may include film, video, photography, painting, performance, etc. May be taken for credit three times.  "
+    },
+    "VIS 110A": {
+        "prerequisites": [],
+        "name": "Contemporary Issues and Practices",
+        "description": "Individual or group projects over one or two quarters. Specific project organized by the student(s) will be realized during this course with instructor acting as a close adviser/critic. Concept papers/scripts must be completed by the instructor prior to enrollment. Two production-course limitation. May be taken for credit three times. "
+    },
+    "VIS 110B": {
+        "prerequisites": [],
+        "name": "Professional Practice in the Visual Arts",
+        "description": "This course for the advanced visual arts major examines topics in contemporary studio art practice. The course is divided among research, discussion, projects, field trips to galleries, and visiting artists, and will encourage student work to engage in a dialogue with the issues raised. "
+    },
+    "VIS 110C": {
+        "prerequisites": [],
+        "name": "Proposals, Plans, Presentations",
+        "description": "This class is for the advanced visual arts major who is interested in taking the next steps toward becoming a professional visual artist. Students will become familiar with artist\u2019s residencies and graduate programs and what they offer. Of most importance will be developing the portfolio and the artist statement, as well as becoming more familiar with the contemporary art world. Two production-based limitation. "
+    },
+    "VIS 110D": {
+        "prerequisites": [],
+        "name": "Visual Narrative",
+        "description": "This is a course for the advanced visual arts major that explores the use of the maquette, or sketch, in the process of developing, proposing, and planning visual works in various media for public projects, site specific works, grants, exhibition proposals, etc. The student will work on synthesizing ideas and representing them in alternate forms that deal with conception, fabrication, and presentation. "
+    },
+    "VIS 110E": {
+        "prerequisites": [],
+        "name": "Art in Public Spaces/Site-Specific Art ",
+        "description": "This course for the advanced visual arts major explores narrative in art practice. The course will explore the construction of real and fictive narratives across a variety of disciplines with an emphasis on illustration, the graphic novel, comics, and other forms of drawing practice. Studio work is complemented by in-depth study of the gaze, subjectivity, memory, and imagination. After guided assignments, emphasis is on self-directed projects. "
+    },
+    "VIS 110F": {
+        "prerequisites": [],
+        "name": "Installation: Cross-Disciplinary Projects",
+        "description": "This course for the advanced visual arts major takes painting, sculpture, and related media out of the studio/gallery and into the public sphere by examining the contemporary history of public artworks with traditional and nontraditional site-specific work, focusing on production, critical discussion, and writing. Two production-course limitation. "
+    },
+    "VIS 110G": {
+        "prerequisites": [],
+        "name": "The Natural and Altered Environment",
+        "description": "This course for the advanced visual arts major expands the idea contained in a singular work, or object, into the use of multiple objects, images, and media that redefines the idea as well as the space for which it is intended. Examination of historic, modern, and contemporary works will influence discussion of student project development and execution. Two production-course limitation. "
+    },
+    "VIS 110H": {
+        "prerequisites": [],
+        "name": "Art and Text",
+        "description": "This course for the advanced visual arts major explores the natural and altered environment as a basis for subject as well as placement of work pertaining to the environment. Two production-course limitation. "
+    },
+    "VIS 110I": {
+        "prerequisites": [],
+        "name": "Performing for the Camera",
+        "description": "This class is for the advanced visual arts major devoted to the study and practice of the multiple ways in which writing and other forms of visible language have been incorporated into contemporary and traditional artworks, including artists\u2019 books, collaging and poster art, literature and poetry, typographical experiments, and calligraphies. Two production-course limitation. "
+    },
+    "VIS 110K": {
+        "prerequisites": [],
+        "name": "Digital Studio",
+        "description": "The dematerialization of the performer into media-based image\u2014video, film, slides, still photographs, and using the camera as a spy, a coconspirator, a friend, or a foe\u2014employing time lags, spatial derangement, image destruction, along with narrative, text, and history, to invent time-based pieces that break new ground while being firmly rooted in an understanding of the rich body of work done in this area over the last three decades. "
+    },
+    "VIS 110M": {
+        "prerequisites": [],
+        "name": "Studio Honors I",
+        "description": "This is a studio art course for the advanced visual arts major with a focus on the intersection of digital rendering and drawing, painting, sculpture, and performance. Structured as core lectures and labs, studio production, reading, and critical theory focused on contemporary art engaged with technology, as well as artists\u2019 responses to its demands. Two production-course limitation. "
+    },
+    "VIS 110N": {
+        "prerequisites": [],
+        "name": "Studio Honors II",
+        "description": "This is a course for the advanced studio major who is selected based on a proven record of engagement, productivity, and self-discipline as well as a clear trajectory of their work. The intent is to help refine and expand the student\u2019s studio practice toward a unified portfolio and artist\u2019s statement as well as develop experience in participation and organization of group and solo exhibitions. "
+    },
+    "VIS 112": {
+        "prerequisites": [
+            "VIS 110M"
+        ],
+        "name": "Art Historical Methods",
+        "description": "The second advanced studio course in the Honors Program in Studio, the successful completion of which will lead toward an honors degree in the studio major. The course builds on the critical and technical issues raised in Studio Honors I. "
+    },
+    "VIS 113AN": {
+        "prerequisites": [
+            "VIS 23",
+            "and"
+        ],
+        "name": "History of Criticism I: Early Modern",
+        "description": "A critical review of the principal strategies of investigation in past and present art-historical practice, a scrutiny of their contexts and underlying assumptions, and a look at alternative possibilities. The various traditions for formal and iconographic analysis as well as the categories of historical description will be studied. Required for all art history and criticism majors. "
+    },
+    "VIS 113BN": {
+        "prerequisites": [
+            "VIS 112"
+        ],
+        "name": "History\n\t\t  of Criticism II: Early Twentieth Century",
+        "description": "Using a wide range of nineteenth-century texts, this course will offer close discussions of romantic criticism and aesthetic philosophy (ideas of originality, genius, and nature); the conditions of \u201cmodern life\u201d; realism and naturalism; science and photography; and questions of form, expression, symbolism, and history. This is a seminar course. Recommended preparation: two upper-division art history courses. "
+    },
+    "VIS 113CN": {
+        "prerequisites": [],
+        "name": "History\n\t\t  of Criticism III: Contemporary",
+        "description": "The principal theories of art and criticism from symbolism until 1945: formalism and modernism, abstraction, surrealism, Marxism, and social art histories, phenomenology, existentialism. Recommended preparation: VIS 112 or two upper-division courses in art history strongly recommended. "
+    },
+    "VIS 114A": {
+        "prerequisites": [],
+        "name": "Landscape and Memory",
+        "description": "Recent approaches to the image in art history and visual culture: structuralism, semiotics, psychoanalysis, poststructuralism, postmodernism, feminism, postcolonialism, cultural studies. Recommended preparation: VIS 112 or two upper-division courses in art history strongly recommended. "
+    },
+    "VIS 114B": {
+        "prerequisites": [],
+        "name": "The Fragment: Uses and Theories",
+        "description": "This seminar treats landscape as site, image, symbol, and ideal through a historical examination of the major themes and issues in the forms and functions of landscape and its representation in the European and, to a certain extent, the American tradition from antiquity to the present day. These historical discussions will also form a framework for observations on and analyses of contemporary landscape, both as experienced and as an idea. This course presumes no prior knowledge of the field. This course fulfills the theory requirement and seminar requirement in the art history program. Recommended preparation: VIS 20. "
+    },
+    "VIS 114GS": {
+        "prerequisites": [],
+        "name": "Arts and Visual Culture in China",
+        "description": "This seminar focuses on the dynamic and at times contentious relationship between antiquity and the Middle Ages as it played out in various environments\u2014physical, social, cultural, and intellectual\u2014from Rome to Constantinople to Venice, Pisa, and Florence. After considering classic and contemporary formulations of the problem, it turns to in-depth examination of the architecture, images, objects, and techniques at sites in the history of art, where fragments were deployed and displayed. This course fulfills the theory requirement and seminar requirement in the art history program. Recommended preparation: VIS 20 or VIS 112. "
+    },
+    "VIS 117E": {
+        "prerequisites": [],
+        "name": "Problems in Ethnoaesthetics",
+        "description": "This course studies important developments in the arts of China in the context of contemporary cultural phenomena. The factors behind the making of art will be brought to bear on selected objects or monuments from China\u2019s great artistic eras. "
+    },
+    "VIS 117F": {
+        "prerequisites": [],
+        "name": "Theorizing the Americas",
+        "description": "This seminar will address and critique various approaches to studying the art of non-Western societies with respect to their own aesthetic and cultural systems. Students are encouraged to explore comparative philosophies of art and test paradigms of Western aesthetic scholarship. Recommended preparation: VIS 21A or 21B or 112 or two upper-division courses in art history strongly recommended. "
+    },
+    "VIS 117G": {
+        "prerequisites": [],
+        "name": "Critical Theory and Visual Practice",
+        "description": "Examines the philosophical debates that locate the Americas in relation to the modern world. "
+    },
+    "VIS 117I": {
+        "prerequisites": [],
+        "name": "Western\n\t\t  and Non-Western Rituals and Ceremonies",
+        "description": "This seminar will examine key moments in the interaction between the world of art and the world of ideas; the goal is to start students thinking about the entire theory-practice relation as it connects with their own projects and research. "
+    },
+    "VIS 120A": {
+        "prerequisites": [],
+        "name": "Greek Art",
+        "description": "This course will examine the process of image making within specific ceremonies and/or rituals. Selected ceremonies from West Africa, Melanesia, Nepal, and the United States, including both Christian and non-Christian imagery, will be considered. Performance art and masquerade will be analyzed within a non-Western framework. Recommended preparation: VIS 21A. Students may not receive credit for both VIS 126F and VIS 117I.\u00a0"
+    },
+    "VIS 120B": {
+        "prerequisites": [],
+        "name": "Roman Art",
+        "description": "Greek classical civilization was a turning point in the history of humanity. Within a new kind of society, the idea of the individual as free and responsible was forged, and with it the invention of history, philosophy, tragedy, and science. The arts that expressed this cultural explosion were no less revolutionary. The achievements of Greek art in architecture, sculpture, and painting will be examined from their beginnings in the archaic period, to their epoch-making fulfillment in the classical decades of the fifth century BC, to their diffusion over the entire ancient world in the age of Alexander and his successors. Recommended preparation: VIS 20. "
+    },
+    "VIS 120C": {
+        "prerequisites": [],
+        "name": "Late Antique Art",
+        "description": "Roman art was the \u201cmodern art\u201d of antiquity. Out of their Italic tradition and the great inheritance of Greek classic and Hellenistic art, the Romans forged a new language of form to meet the needs of a vast empire, a complex and tumultuous society, and a sophisticated, intellectually diverse culture. An unprecedented architecture of shaped space used new materials and revolutionary engineering techniques in boldly functional ways for purposes of psychological control and symbolic assertion. Sculpture in the round and in relief was pictorialized to gain spatial effects and immediacy of presence, and an extraordinary art of portraiture investigated the psychology while asserting the status claims of the individual. Extreme shifts of style, from the classicism of the age of Augustus to the expressionism of the third century AD, are characteristic of this period. The new modes of architecture, sculpture, and painting, whether in the service of the rhetoric of state power or of the individual quest for meaning, were passed on to the medieval and ultimately to the modern West. Recommended preparation: VIS 20. "
+    },
+    "VIS 121AN": {
+        "prerequisites": [],
+        "name": "Art and Experience in the Middle Ages ",
+        "description": "During the later centuries of the Roman Empire, the ancient world underwent a profound crisis. Beset by barbarian invasions, torn by internal conflict and drastic social change, inflamed with religious passion that was to lead to a transformed vision of the individual, the world, and the divine, this momentous age saw the conversion of the Roman world to Christianity, the transfer of power from Rome to Constantinople, and the creation of a new society and culture. Out of this ferment, during the centuries from Constantine to Justinian, there emerged new art forms fit to represent the new vision of an otherworldly reality: a vaulted architecture of diaphanous space, a new art of mosaic, which dissolved surfaces in light, a figural language both abstractly symbolic and urgently expressive. The great creative epoch transformed the heritage of classical Greco-Roman art and laid the foundations of the art of the Christian West and Muslim East for the next thousand years. Recommended preparation: VIS 20 or 120B. "
+    },
+    "VIS 121B": {
+        "prerequisites": [],
+        "name": "Church and Mosque: Medieval Art and Architecture between Christianity and Islam ",
+        "description": "This survey course follows the parallel tracks of the sacred and secular in art and architecture from Constantine to the Crusades. Highlights include the emergence of Christian art, visual culture of the courts, development of monasteries, fall and rise of towns and cities, and arts of ritual. The thematic juxtaposition of different media and medieval people speaking in their own voices yields a multidimensional image of society in which the medieval experience is made as concrete as possible. Recommended preparation: VIS 20. "
+    },
+    "VIS 121C": {
+        "prerequisites": [],
+        "name": "Art and the Bible in the Middle Ages: Sign and Design",
+        "description": "This course surveys the changes in art and architecture caused by the rise of new religions after the ancient world demise, a period of upheaval and contention often known as the \u201cClash of Gods.\u201d How did Christianity come to dominate Europe with its churches and monasteries and then Islam with its mosques in the Middle East and North Africa? Studying the role of religion in the formation of artistic styles will show a dynamic interaction between the visual cultures of Christianity and Islam. Recommended preparation: VIS 20. "
+    },
+    "VIS 121H": {
+        "prerequisites": [],
+        "name": "Medieval Multiculturalism",
+        "description": "This seminar explores movement and exchange between Mediterranean cities with diverse political, social, ethnic, and religious roots and the new modes of art, architecture, and intellectual discourse that this diversity fostered. In addition to medieval sources, readings include art historical and theoretical texts from a variety of periods and fields that frame the implications of multiculturalism for historical and contemporary categories of perception and for the analysis of visual culture. Recommended preparation: VIS 20 or VIS 112 recommended. "
+    },
+    "VIS 122AN": {
+        "prerequisites": [],
+        "name": "Renaissance Art",
+        "description": "Italian artists and critics of the fourteenth through sixteenth centuries were convinced that they were participating in a revival of the arts unparalleled since antiquity. Focusing primarily on Italy, this course traces the emergence in painting, sculpture and architecture, of an art based on natural philosophy, optical principles, and humanist values, which embodied the highest intellectual achievement and deepest spiritual beliefs of the age. Artists treated include Giotto, Donatello, Masaccio, Brunelleschi, Jan van Eyck, Mantegna, Botticelli, Leonardo da Vinci, Michelangelo, Raphael, Bramante, Durer, and Titian. Recommended preparation: VIS 20. "
+    },
+    "VIS 122B": {
+        "prerequisites": [],
+        "name": "Baroque: Painters, Sculptors, Architects",
+        "description": "This course will explore the baroque, through the lens of the lives of artists and architects who made it great: Rembrandt, Vermeer, Velasquez, Bernini, and Caravaggio, as well as the artists of the sixteenth century who served as a source of inspiration and point of departure for the great work of the baroque. The lives of these people interlocked on a number of different levels in order to create a visual culture that many regard as fundamental to the modern world. "
+    },
+    "VIS 122CN": {
+        "prerequisites": [],
+        "name": "Leonardo da Vinci in Context",
+        "description": "This course offers new approaches to understanding Michelangelo\u2019s greatest creations. By considering how each work relates to the setting for which it was intended, by regarding critical literature and artistic borrowings as evidence about the works, and by studying the thought of the spiritual reformers who counseled Michelangelo, new interpretations emerge which show the artist to be a deeply religious man who invested his works with both public and private meanings. "
+    },
+    "VIS 122D": {
+        "prerequisites": [
+            "VIS 23"
+        ],
+        "name": "Michelangelo",
+        "description": "A critical, art historical look at the world\u2019s\n\t\t\t\t  most famous painting and its interpretations. Recommended preparation: One upper-division course in art history (VIS 113AN\u2013129F). "
+    },
+    "VIS 122F": {
+        "prerequisites": [],
+        "name": "Leonardo\u2019s La Gioconda",
+        "description": "(Cross-listed with HIEU 124GS.) Language and culture study in Italy. Course considers the social, political, economic, and religious aspects of civic life that gave rise to the unique civic art, the architecture of public buildings, and the design of the urban environment of such cities as Florence, Venice, or Rome. Course materials fees may be required. Students may not receive credit for both VIS 122E and VIS 122GS or both HIEU 124 and HIEU 124GS.\u00a0"
+    },
+    "VIS 122GS": {
+        "prerequisites": [],
+        "name": "The City in Italy",
+        "description": "The art of the Early Renaissance in Northern Europe is marked by what appears to be striking conflict: on the one hand, a new love of nature and the pleasures of court society, and on the other, an intensified spirituality and focus on personal devotion. This course explores these provocative crosscurrents in works by master painters like Jan van Eyck and Hieronymus Bosch as well as in lesser known mass-produced objects of everyday use. "
+    },
+    "VIS 123AN": {
+        "prerequisites": [],
+        "name": "Between Spirit and Flesh",
+        "description": "Eighteenth-century artists and critics were convinced that art could be a force to improve society. This course places Rococo and neoclassical artists such as Watteau, Fragonard, Tiepolo, Hogarth, Reynolds, Vig\u00e9e Le Brun, Blake, and David, within the context of art academies, colonialism, the Grand Tour, Enlightenment conceptualizations of history and nature, and the American and French Revolutions. Recommended preparation: VIS 20 or 22 recommended. "
+    },
+    "VIS 124BN": {
+        "prerequisites": [],
+        "name": "Art and the Enlightenment",
+        "description": "A critical survey discussing the crisis of the Enlightenment, romanticism, realism and naturalism, academic art and history painting, representations of the New World, the Pre-Raphaelites, impressionism, international symbolism, postimpressionism, and the beginnings of modernism. Recommended preparation: VIS 20 or 22 recommended. "
+    },
+    "VIS 124CN": {
+        "prerequisites": [],
+        "name": "Nineteenth-Century Art",
+        "description": "A cultural history of nineteenth-century Paris. Addresses how and why the cultural formations and developments of the period, and their inseparability from the city, have led so many to consider Paris the capital of modernity. "
+    },
+    "VIS 124D": {
+        "prerequisites": [],
+        "name": "Paris, Capital of the Nineteenth Century",
+        "description": "Considers nineteenth-century European painting and printmaking in relation to the construction of nature and the historically specific ways of seeing that emerge from it. Key artists, groups of artists, include John Constable, J.M.W. Turner, Caspar David Friedrich, Camille Corot, the Barbizon School, J.-J. Grandville, the Pre-Raphaelites, and the Impressionists. "
+    },
+    "VIS 124E": {
+        "prerequisites": [],
+        "name": "The Production of Nature",
+        "description": "A critical study of European painting, sculpture, and printmaking between 1789 and 1851. Of primary interest will be the highly charged encounter between art and politics during the period. In addition, the course addresses this art\u2019s diverse, often contradictory dealings with class, gender, sexuality, race, and empire. "
+    },
+    "VIS 124F": {
+        "prerequisites": [],
+        "name": "Art in the Age of Revolutions",
+        "description": "A critical survey outlining the major avant-gardes after 1900: fauvism, cubism, metaphysical painting, futurism, Dadaism, surrealism, neoplasticism, purism, the Soviet avant-garde, socialist realism, and American art before abstract expressionism. Recommended preparation: VIS 20 or 22 recommended. "
+    },
+    "VIS 125A": {
+        "prerequisites": [],
+        "name": "Twentieth-Century Art",
+        "description": "Art after abstract expressionism: happenings, postpainterly abstraction, minimalism, performance, earth art, conceptual art, neo-expressionism, postconceptualism and development in the 1990s, including non-Western contexts. We also explore the relation of these tendencies to postmodernism, feminism, and ideas of postcoloniality. Recommended preparation: VIS 20 or 22 recommended. "
+    },
+    "VIS 125BN": {
+        "prerequisites": [],
+        "name": "Contemporary Art",
+        "description": "What is the place of visual art in modern Western culture? This course will address: visual art and radical politics in Courbet and the generation of 1848; Impressionism, Paris, and the cult of la vie moderne; Gauguin, Van Gogh, and the quest for \u201cvisionary\u201d painting; Cezanne and the reformulation of painting in terms of pure sensation; the divergent paths of Matisse and Picasso in 1906. The twentieth century follows the emergence of different interpretations of modernity in the USSR, Germany, and France. "
+    },
+    "VIS 125C": {
+        "prerequisites": [],
+        "name": "Modern Art in the West, 1850\u20131950",
+        "description": "A critical examination of the work of one of the most radical twentieth-century artists. In Duchamp\u2019s four-dimensional perspective, the ideas of art-object, artist, and art itself are deconstructed. The Large Glass and Etant Donn\u00e9es are the twin foci of an oeuvre without boundaries in which many twentieth-century avant-garde devices such as chance techniques, conceptual art, and the fashioning of fictive identities, are invented. "
+    },
+    "VIS 125DN": {
+        "prerequisites": [],
+        "name": "Marcel Duchamp",
+        "description": "This course will present an overview of socially engaged art in the modern era. We will explore the historical roots of these practices in the nineteenth and early twentieth centuries and the new forms of activist art that emerged during the 1960s. We will also explore the growth of engaged art produced in conjunction with new movements for social and economic justice since the 1990s. "
+    },
+    "VIS 125G": {
+        "prerequisites": [],
+        "name": "History of Socially Engaged Art",
+        "description": "An introduction to the cities and monuments of the ancient civilizations that flourished in Mexico and Central America before the Spanish Conquest. This course will cover the major cultures of Mesoamerica, including the Olmec, Aztec, and neighboring groups. Recommended preparation: VIS 21. "
+    },
+    "VIS 126AN": {
+        "prerequisites": [],
+        "name": "Pre-Columbian\n\t\t  Art of Ancient Mexico and Central America",
+        "description": "This course offers a history of Maya society from its formative stages to the eve of the Spanish Conquest through an investigation of its art and archeology. Special attention is given to its unique calendar and writing systems. Recommended preparation: VIS 21. "
+    },
+    "VIS 126BN": {
+        "prerequisites": [],
+        "name": "The\n\t\t  Art and Civilization of the Ancient Maya",
+        "description": "Topics of this seminar will address special problems or areas of research related to the major civilizations of ancient Mexico and Central America. Course offerings will vary to focus upon particular themes, subjects, or interpretive problems. Recommended preparation: VIS 21A. Students may not receive credit for both VIS 126B-C. "
+    },
+    "VIS 126C": {
+        "prerequisites": [],
+        "name": "Problems in Mesoamerican Art History",
+        "description": "This seminar focuses upon the art, architecture, and inscriptions of the ancient Maya. Topics will vary within a range of problems that concern hieroglyphic writing, architecture, and visual symbols the Maya elite used to mediate their social, political, and spiritual words. Recommended preparation: VIS 21A. "
+    },
+    "VIS 126D": {
+        "prerequisites": [],
+        "name": "Problems\n\t\t  in Ancient Maya Iconography and Inscriptions",
+        "description": "This course provides a critical revision to art history of the modern era in the Americas by bringing to the center, as an organizing principle, an expanded understanding and critique of the notion of indigenism. Presenting evidence that the constant iteration of the problem of representation of indigeneity and the indigenous is persistent across the region following a network of exchanges and contacts across art movements and political contexts. "
+    },
+    "VIS 126E": {
+        "prerequisites": [],
+        "name": "Indigenisms I: The Making of the Modern, Nineteenth Century to Mid-Twentieth Century",
+        "description": "Lectures, readings, and discussions will expand the definitions of indigenism and Indianism toward many neo-avantgarde and contemporary strategies of art making that posit the Amerindian as inscription and imaginary\u2014as key localizations from which new languages and art systems emerge. Examples of (neo) indigenisms from Peru, Mexico, the United States, Uruguay, Argentina, Chile, Ecuador, Venezuela, Guatemala, Colombia, and Brazil will be presented and reviewed. "
+    },
+    "VIS 126F": {
+        "prerequisites": [],
+        "name": "Indigenisms II: Contemporary Disseminations, Neo-Avantgarde to the Present",
+        "description": "Explores the art and expressive culture of American Indians of far western United States, including California and Pacific Northwest. Social and cultural contexts of artistic traditions and their relations to the lifeways, ceremonialism, beliefs, and creative visions of their makers. Recommended preparation: VIS 21A. Students may not receive credit for both VIS 126CN and VIS 126HN. "
+    },
+    "VIS 126HN": {
+        "prerequisites": [],
+        "name": "Pacific Coast American Indian Art",
+        "description": "Examines the history, art, and architecture of Navajo, Hopi, Zuni, and other Native American communities of New Mexico and Arizona; the origins of their civilization; and how their arts survived, adapted, and changed in response to Euro-American influences. Recommended preparation: VIS 21A. Students may not receive credit for both VIS 126D and VIS 126I. "
+    },
+    "VIS 126I": {
+        "prerequisites": [],
+        "name": "Southwest American Indian Art",
+        "description": "The dynamic, expressive arts of selected West African societies and their subsequent survival and transformation in the New World will be studied. Emphasis will be placed on Afro-American modes of art and ceremony in the United States, Haiti, Brazil, and Suriname. "
+    },
+    "VIS 126J": {
+        "prerequisites": [],
+        "name": "African and Afro-American Art",
+        "description": "An examination of the relation of art to ritual life, mythology, and social organization in the native Polynesian and Melanesian cultures of Hawaii, New Guinea, the Solomon Islands, and Australia. Recommended preparation: VIS 21A. Students may not receive credit for both VIS 126E and VIS 126K. "
+    },
+    "VIS 126K": {
+        "prerequisites": [],
+        "name": "Oceanic Art",
+        "description": "A survey of major figures and movements in Latin American art from the late-nineteenth century to the mid-twentieth century. "
+    },
+    "VIS 126P": {
+        "prerequisites": [],
+        "name": "Latin American\n\t\t  Art: Modern to Postmodern, 1890\u20131950",
+        "description": "A survey of major figures and movements in Latin American art from the mid-twentieth century to the present. "
+    },
+    "VIS 126Q": {
+        "prerequisites": [],
+        "name": "Latin American\n\t\t  Art: Modern to Postmodern, 1950\u2013Present",
+        "description": "Course will survey major trends in the arts of China from a thematic point of view, explore factors behind the making of works of art, including political and religious meanings, and examine contexts for art in contemporary cultural phenomena. Recommended preparation: VIS 21B. "
+    },
+    "VIS 127B": {
+        "prerequisites": [],
+        "name": "Arts of China",
+        "description": "Course will explore Chinese art of the twentieth century. By examining artworks in different media, we will investigate the most compelling of the multiple realities that Chinese artists have constructed for themselves. Recommended preparation: VIS 21B. "
+    },
+    "VIS 127C": {
+        "prerequisites": [],
+        "name": "Arts of Modern China",
+        "description": "Explore representations of figures and landscapes from the dawn of Chinese painting through the Yuan dynasty, with stress on developments in style and subject matter and relationships to contemporary issues in philosophy, religion, government, society, and culture. "
+    },
+    "VIS 127D": {
+        "prerequisites": [],
+        "name": "Early Chinese Painting",
+        "description": "Explores major schools and artists of the Ming and Qing periods, including issues surrounding court patronage of professional painters, revitalization of art through reviving ancient styles, commercialization\u2019s challenges to scholar-amateur art, and the influences of the West. "
+    },
+    "VIS 127E": {
+        "prerequisites": [],
+        "name": "Later Chinese Painting",
+        "description": "Explore the development of Buddhist art and architecture in Japan. Focus on the role of art in Buddhist practice and philosophy and the function of syncretic elements in Japanese Buddhist art. "
+    },
+    "VIS 127F": {
+        "prerequisites": [],
+        "name": "Japanese Buddhist Art",
+        "description": "This course investigates the multiple realities of art and visual culture in twentieth-century China and explores the ways in which Chinese artists have defined modernity and their tradition against the complex background of China\u2019s history. "
+    },
+    "VIS 127GS": {
+        "prerequisites": [],
+        "name": "Issues in Modern and Contemporary Chinese Art",
+        "description": "Surveys the key works and developments in the modern art and visual culture of Japan from Edo and Meiji to the present and of China from the early-twentieth century to contemporary video, performance, and installation art. Recommended preparation: VIS 21B. "
+    },
+    "VIS 127N": {
+        "prerequisites": [],
+        "name": "Twentieth-Century Art in China and Japan",
+        "description": "Course is a survey of the visual arts of Japan, considering how the arts developed in the context of Japan\u2019s history and discussing how art and architecture were used for philosophical, religious, and material ends. Recommended preparation: VIS 21B. "
+    },
+    "VIS 127P": {
+        "prerequisites": [],
+        "name": "Arts of Japan",
+        "description": "Explore major trends in Japanese pictorial art from the seventh century to the nineteenth century, with focus on function, style, and subject matter, and with particular emphasis on the relationship between Japanese art and that of continental Asia. "
+    },
+    "VIS 127Q": {
+        "prerequisites": [],
+        "name": "Japanese Painting and Prints",
+        "description": "These lecture courses are on topics of special interest to visiting and permanent faculty. Topics vary from term to term and with instructor and many will not be repeated. These courses fulfill upper-division distribution requirements. As the courses under this heading will be offered less frequently than those of the regular curriculum, students are urged to check with the visual arts department academic advising office for availability and descriptions of these supplementary courses. Like the courses listed under VIS 129, below, the letters following the course number designate the general area in which the courses fall. Students may take courses with the same number but of different content, for a total of three times for credit. Recommended preparation: courses in art history (VIS 113AN\u2013129F). \n               "
+    },
+    "VIS 128A\u2013E": {
+        "prerequisites": [],
+        "name": "Topics in Art History and Theory",
+        "description": "A lecture course on a topic of special interest\n\t\t\t\t  in ancient or medieval art. Recommended preparation: courses in art history (VIS 113AN\u2013129F). "
+    },
+    "VIS 128A": {
+        "prerequisites": [],
+        "name": "Topics in Premodern Art History",
+        "description": "A lecture course on a topic of special interest\n\t\t\t\t  on modern or contemporary art. May be taken three times for\n\t\t\t\t  credit. Recommended preparation: courses in art history (VIS 113AN\u2013129F). "
+    },
+    "VIS 128C": {
+        "prerequisites": [],
+        "name": "Topics in Modern Art History",
+        "description": "A lecture course on the topic of special interest in the art of Latin America, the Ancient Americas, or Africa and the Pacific Islands. Students may not receive credit for VIS 128D and VIS 128DN. Recommended preparation: courses in art history (VIS 113AN\u2013129F). May be taken for credit three times. "
+    },
+    "VIS 128D": {
+        "prerequisites": [],
+        "name": "Topics in Art History of the Americas",
+        "description": "A lecture course on the topic of special interest\n\t\t\t\t  in India, China, and Japan. Recommended preparation: courses in art history (VIS 113AN\u2013129F). "
+    },
+    "VIS 128E": {
+        "prerequisites": [
+            "VIS 112"
+        ],
+        "name": "Topics in Art History of Asia",
+        "description": "These seminar courses provide the opportunity for in-depth study of a particular work, artist, subject, period, or issue. Courses offered under this heading may reflect the current research interests of the instructor or treat a controversial theme in the field of art history and criticism. Active student research and classroom participation are expected. Enrollment is limited and preference will be given to majors. The letters following 129 in the course number designate the particular area of art history or theory concerned. Students may take courses with the same number but of different content more than once for credit, with consent of the instructor and/or the program adviser. May be taken three times for credit. "
+    },
+    "VIS 129A\u2013F": {
+        "prerequisites": [
+            "VIS 112"
+        ],
+        "name": "Seminar in Art Criticism and Theory",
+        "description": "A seminar on an advanced topic of special\n\t\t\t\t  interest in ancient or medieval art. "
+    },
+    "VIS 129A": {
+        "prerequisites": [
+            "VIS 112"
+        ],
+        "name": "Seminar in Premodern Art History",
+        "description": "A seminar on an advanced topic of special\n\t\t\t\t  interest in modern or contemporary art. "
+    },
+    "VIS 129C": {
+        "prerequisites": [],
+        "name": "Seminar in Modern Art History",
+        "description": "A seminar on an advanced topic of special\n\t\t\t\t  interest in the Ancient Americas to Africa and the Pacific\n\t\t\t\t  Islands. May be taken three times for credit. Student may not receive credit for VIS 129D and VIS 129DN. Recommended preparation: courses in art history (VIS 113AN\u2013129F) are recommended. VIS 112 is strongly recommended for art history majors. "
+    },
+    "VIS 129D": {
+        "prerequisites": [
+            "VIS 112"
+        ],
+        "name": "Seminar in Art History of the Americas",
+        "description": "A seminar on an advanced topic of special\n\t\t\t\t  interest in India, China, and Japan. "
+    },
+    "VIS 129E": {
+        "prerequisites": [
+            "VIS 112"
+        ],
+        "name": "Seminar in Art History of Asia",
+        "description": "A seminar on an advanced topic of special\n\t\t\t\t  interest in art theory, art criticism, or the history of literature\n\t\t\t\t  on art. "
+    },
+    "VIS 129F": {
+        "prerequisites": [],
+        "name": "Seminar in Art Theory and Criticism",
+        "description": "This research seminar, centered on a series of critical, thematic, theoretical, and/or historical issues that cut across subdisciplinary specializations, provides outstanding advanced students with the opportunity to undertake graduate-level research. The first part of a two-part sequence completed by Art History Honors Directed Group Study (VIS 129H). "
+    },
+    "VIS 129G": {
+        "prerequisites": [],
+        "name": "Art History Honors Seminar",
+        "description": "The second part of the honors program sequence, this course provides a forum for students engaged in research and writing to develop their ideas with the help of a faculty adviser and in conjunction with similarly engaged students. "
+    },
+    "VIS 129H": {
+        "prerequisites": [],
+        "name": "Art History Honors Directed Group Study",
+        "description": "Specific content will vary each quarter. Areas will cover expertise of visiting faculty. May be taken for credit two times. Two production-course limitation.  "
+    },
+    "VIS 130": {
+        "prerequisites": [],
+        "name": "Special Projects in Visual Arts",
+        "description": "Specific content will vary each quarter. Areas will cover expertise of visiting faculty. May be taken for credit two times. Two production-course limitation.  "
+    },
+    "VIS 131": {
+        "prerequisites": [],
+        "name": "Special Projects in Media",
+        "description": "Through discussions and readings, the class will examine the issues and aesthetics of installation art making. Using media familiar to them, students will produce several projects. May be taken for credit two times. Two production-course limitation. "
+    },
+    "VIS 132": {
+        "prerequisites": [
+            "VIS 30"
+        ],
+        "name": "Installation Production and Studio",
+        "description": "This course introduces students to studio-based project methodologies, including qualitative and quantitative design research, data visualization, production and exhibition methodologies, and complex collaborative project management. "
+    },
+    "VIS 135": {
+        "prerequisites": [
+            "VIS 142",
+            "and",
+            "CSE 11",
+            "or",
+            "CSE 8B"
+        ],
+        "name": "Design Research Methods",
+        "description": "Introduces external APIs currently of interest in the arts, extending a common programming language such as C, C++, Python, or Java, and the basics of TCP/IP networking. Students gain API fluency through planning and coding software or software mediated art projects.  Program or materials fees may apply. Two production-course limitation. "
+    },
+    "VIS 141A": {
+        "prerequisites": [
+            "VIS 141A"
+        ],
+        "name": "Computer Programming for the Arts I",
+        "description": "Students extend their programming capabilities to include the creation of reusable software libraries, packages, database APIs, tools, utilities, and applications intended to be publishable and useful to other practicing artists, or as preparatory work for the student\u2019s senior thesis sequence. Two production-course limitation. Program or materials fees may apply.  "
+    },
+    "VIS 141B": {
+        "prerequisites": [],
+        "name": "Computer Programming for the Arts II",
+        "description": "A survey of the conceptual uses and historical precedents for the use of computers in art and design. Preparation for further study in the computing in the arts area by providing an introduction to ideation strategies and critique-based evaluation, and an overview of theoretical issues related to the use of computers by artists and designers. Introduces the students to the program\u2019s computing and production facilities, and basic computer programming skills. Two production-course limitation. Program or materials fees may apply. "
+    },
+    "VIS 142": {
+        "prerequisites": [
+            "VIS 142"
+        ],
+        "name": "Practices in Computing Arts",
+        "description": "Students develop artworks and performances in current virtual environments. Projects may be done individually or in groups in multiplayer games, immersive life platforms, or mixed reality projects and performances. Exploration of theoretical issues involved will underlie acquisition of techniques utilized in the construction of virtual environments. Materials fees required. "
+    },
+    "VIS 143": {
+        "prerequisites": [
+            "VIS 142"
+        ],
+        "name": "Virtual Environments",
+        "description": "Introduces time- and process-based digital media art making. Contemporary and historical works across time- and process-based media will be studied, and projects produced. Topics may include software art, software and hardware interfacing, interaction, and installation in an art context. Recommended preparation: CSE 5A or equivalent programming experience. Materials fees required. May not receive credit for both VIS 145A and ICAM 102. Two production-course limitation. "
+    },
+    "VIS 145A": {
+        "prerequisites": [
+            "VIS 145A"
+        ],
+        "name": "Time- and Process-Based Digital Media I",
+        "description": "Students will implement time- and process-based projects under direction of faculty. Projects such as software and hardware interfacing, computer mediated performance, software art, installation, interactive environments, data visualization and sonification will be produced as advanced study and portfolio project. Program or materials fees may apply. Two production-course limitation. "
+    },
+    "VIS 145B": {
+        "prerequisites": [
+            "VIS 41",
+            "or",
+            "VIS 70N",
+            "or",
+            "VIS 80"
+        ],
+        "name": "ime- and Process-Based Digital Media II",
+        "description": "Develop artworks and installations that utilize digital electronics. Techniques in digital electronic construction and computer interfacing for interactive control of sound, lighting, and electromechanics. Construction of devices that responsively adapt artworks to conditions involving viewer participation, space activation, machine intelligence. Recommended preparation: CSE 8A strongly recommended. Program or materials fees may apply. Purchase of components kit required. Two production-course limitation.  "
+    },
+    "VIS 147A": {
+        "prerequisites": [
+            "VIS 147A"
+        ],
+        "name": "Electronic Technologies for Art I",
+        "description": "Continuation of the electronics curriculum. Design of programmable microcontroller systems for creating artworks that are able to respond to complex sets of input conditions, perform algorithmic and procedural processing, and generate real time output. Program or materials fees may apply. Purchase of components kit required. Two production-course limitation.  "
+    },
+    "VIS 147B": {
+        "prerequisites": [],
+        "name": "Electronic Technologies for Art II",
+        "description": "Artistic practice is a site of critical intervention. Through individual \u201cPractice Diagrams,\u201d students will visualize the issues, motivations, positions, and procedures that inspire and problematize their work, seeking to discover and mobilize new tools, spaces of research, and media experimentation. "
+    },
+    "VIS 148": {
+        "prerequisites": [],
+        "name": "Visualizing Art Practice",
+        "description": "Topics relevant to computer-based art and music making, such as computer methods for making art/music, design of interactive systems, spatialization of visual/musical elements, critical studies. Topics will vary. May be taken for credit three times. Recommended preparation: VIS 145A or MUS 171. Program or materials fees may apply. Two production-course limitation.  "
+    },
+    "VIS 149": {
+        "prerequisites": [
+            "VIS 22",
+            "or",
+            "VIS 84",
+            "or",
+            "VIS 159"
+        ],
+        "name": "Seminar in Contemporary Computer Topics",
+        "description": "Research seminar in film history, theory, and/or criticism. Potential topics: film aesthetics, film criticism, film sound, and film in the digital era, with a focus on a specific period, theme, or context. Class will be devoted to discussion of readings in connection with a film or related art, fiction, or other media. Students will gain advanced knowledge of a specialized aspect of film history, theory, or criticism in a setting that promotes research, reports, and writing. "
+    },
+    "VIS 150A": {
+        "prerequisites": [
+            "VIS 84"
+        ],
+        "name": "Seminar in Film History and Theory",
+        "description": "An inquiry into a specialized alternative history of film, consisting of experimental works made outside the conventions of the movie industry that are closer in their style and nature to experimental work in painting, poetry, the sciences, etc., than to the mainstream theatrical cinema.  Materials fees required. "
+    },
+    "VIS 151": {
+        "prerequisites": [
+            "VIS 22",
+            "or",
+            "VIS 70N",
+            "or",
+            "VIS 159"
+        ],
+        "name": "History of the Experimental Film",
+        "description": "Research seminar in media history, theory, and/or criticism. Potential topics: digital media aesthetics, television or radio, new media, theory of photography and/or other image forms in digital era. Focus on a specific period, theme, or context. Class devoted to discussion of readings in connection with viewing of media and related forms. Students will gain advanced knowledge of a specialized aspect of media history, theory, or criticism in a setting that promotes research, reports, and writing. "
+    },
+    "VIS 151A": {
+        "prerequisites": [
+            "VIS 84"
+        ],
+        "name": "Seminar in Media History and Theory",
+        "description": "This collection of courses gathers, under one cover, films that are strongly marked by one or more of these categories: historical period, politics, language, national context, geography, culture, identity, or movement. Specific topics to be covered will vary by quarter and instructor. May be taken up to two times for credit. Program or material fee may apply. "
+    },
+    "VIS 152": {
+        "prerequisites": [],
+        "name": "Film in Social Context",
+        "description": "Transnational Cinemas examine how US identities and film cultures have been forged through stories of exile, diaspora, and racial and sexual discrimination as well as cultural conflicts that have resonated here and abroad in the global film and media culture of the last century. Program or materials fees may apply. "
+    },
+    "VIS 152D": {
+        "prerequisites": [
+            "VIS 84"
+        ],
+        "name": "Identity through Transnational Cinemas",
+        "description": "Close examination of a group of films on the level of form, technique, style, and/or poetics. Emphasis will be placed on collective film viewing, in-class discussion, and formal and/or narrative analysis. Specific topics to be covered will vary by quarter and instructor. May be taken up to two times for credit. \nMaterials fees required. "
+    },
+    "VIS 154": {
+        "prerequisites": [
+            "VIS 84"
+        ],
+        "name": "Hard Look at the Movies",
+        "description": "Examines the work of a single director or group of directors, considering the aesthetic, social, political, and/or historical aspects of the body of films and, if relevant, the directors\u2019 broader sphere of creative production, which may include photography, art practice, writing, and/or other contributions besides film directing. May be taken up to two times for credit.  Materials fees required. "
+    },
+    "VIS 155": {
+        "prerequisites": [
+            "VIS 84"
+        ],
+        "name": "The Director Series",
+        "description": "This course introduces students to the developing history of cinema in the Latin American region. It explores the multiple authors and film movements that engage cinema as an art form in relation to issues of modernization, development, and political and social crisis. It will regard the history of cinema in the subcontinent as a force generating important cultural transformations within the complex, conflictual processes of modernization. Students may not receive credit for both VIS 156 and VIS 125F. "
+    },
+    "VIS 156": {
+        "prerequisites": [],
+        "name": "Latino American Cinema",
+        "description": "With attention to the ecology of Southern California and selected sites beyond, this course addresses historical and contemporary debates on environmental politics from the critical perspective of aesthetic practitioners, activists, and scholars from the 1960s to today. Art and media historical approaches will be offset by hands-on assignments, excursions, and the development of site-specific and creative works in all media. Program or materials fee may apply. "
+    },
+    "VIS 157": {
+        "prerequisites": [],
+        "name": "Environmentalism in Arts and Media",
+        "description": "Photography is so ubiquitous a part of our culture that it seems to defy any simple historical definition. Accordingly, this course presents a doubled account of the medium; it explores both the historical and cultural specificity of a singular photography as well as some of the multitude of photographies that inhabit our world. Will examine a number of the most important photographic themes from the past two hundred years. "
+    },
+    "VIS 158": {
+        "prerequisites": [],
+        "name": "Histories of Photography",
+        "description": "Aims to provide historical context for computer arts by examining the interaction between the arts, media technologies, and sciences in different historical periods. Topics vary (e.g., Renaissance perspective, futurism and technology, and computer art of the 1950s and 1960s). Materials fees required. "
+    },
+    "VIS 159": {
+        "prerequisites": [
+            "VIS 141B",
+            "or",
+            "VIS 145B",
+            "or",
+            "VIS 147B",
+            "or",
+            "MUS 172"
+        ],
+        "name": "History of Art and Technology",
+        "description": "Students pursue projects of their own design over two quarters with support from faculty in a seminar environment. Project proposals are developed, informed by project development guidelines from real-world examples. Two production-course limitation. Renumbered from ICAM 160A. Students may receive credit for only one of the following: VIS 160A, MUS 160A, or ICAM 160A. "
+    },
+    "VIS 160A": {
+        "prerequisites": [
+            "VIS 160A",
+            "or",
+            "MUS 160A"
+        ],
+        "name": "Senior Project in Computing Arts I",
+        "description": "Continuation of VIS 160A or MUS 160A. Completion and presentation of independent projects along with documentation. Two production-course limitation. Renumbered from ICAM 160B. Students may receive credit for only one of the following: VIS 160B, MUS 160B, or ICAM 160B. "
+    },
+    "VIS 160B": {
+        "prerequisites": [
+            "VIS 135"
+        ],
+        "name": "Senior Project in Computing Arts II",
+        "description": "This course introduces students to the study and design of complex systems and networks at diverse scales, from the nanometric to the planetary (and perhaps beyond). Systems and networks are understood as both physical and conceptual organizations of tangible and intangible actors. These include architectural and urban systems, information and interactive systems, diagrammatic and performative systems, and political and geopolitical systems. "
+    },
+    "VIS 161": {
+        "prerequisites": [
+            "VIS 161"
+        ],
+        "name": "Systems and Networks at Scale",
+        "description": "The course seeks to bring the scientific laboratory into the artist and designers\u2019 studio, and vice versa. It explores intersections of advanced research in art/ design and science/technology. The course will focus on a specific laboratory innovation or a longer-term enduring challenge, and will conceive and prototype possible applications, scenarios, structures, and interventions. Course will be conducted in direct collaborations with other campus laboratories and research units. "
+    },
+    "VIS 162": {
+        "prerequisites": [
+            "VIS 161"
+        ],
+        "name": "Speculative Science and Design Invention",
+        "description": "What is design as a way of knowing? The course examines critical contemporary topics in design theory, epistemology, research, and criticism. Students develop original critical and theoretical discourse. Topics draw from combinations of experimental and conceptual art, philosophy of technology, architectural theory and design, speculative fiction, bioethics and nanoethics, political philosophy of artificial intelligence and robotics, and critical engineering studies. "
+    },
+    "VIS 163": {
+        "prerequisites": [
+            "VIS 60"
+        ],
+        "name": "Design Research and Criticism",
+        "description": "An intermediate course that expands the possibility of photography as an art practice. The students will learn to use and think of photography as a means of expression. Using the languages of contemporary art and photography the student will develop a body of work to be presented and critiqued. The construction of sequences, series, and the art of editing will be an important part of this critique-based course. Program or materials fees may apply. Two production-course limitation. "
+    },
+    "VIS 164": {
+        "prerequisites": [
+            "VIS 60"
+        ],
+        "name": "Photographic Strategies: Art or Evidence",
+        "description": "Course explores both material and conceptual analog photography practices. Course will introduce the students to the history of chemical and ocular processes since the nineteenth century and their impact on image making. Students will learn basic black-and-white darkroom techniques, processing film, proofing, and printing. Course will conclude with a primer in the new photographic hybridity, bringing analog into the digital terrain. Students will be required to create a small portfolio of work. Program or materials fees may apply. Two production-course limitation. "
+    },
+    "VIS 165": {
+        "prerequisites": [
+            "VIS 164",
+            "or",
+            "VIS 165"
+        ],
+        "name": "Camera Techniques: Analog Futures",
+        "description": "The photograph is an empirical object. This course will explore the use of photography as a tool to both understand and represent the world. Students will learn the history of the use of photography as evidence and as a tool of empirical knowledge. In a world where subjectivity is performed the students will be required to make a medium-sized work that engages the social in a creative way. Program or materials fees may apply. Two production-course limitation. "
+    },
+    "VIS 167": {
+        "prerequisites": [
+            "VIS 164",
+            "or",
+            "VIS 165"
+        ],
+        "name": "Social Engagement and Photography",
+        "description": "This course will explore photography as art and its long and complicated relationship with painting. Students will learn and be encouraged to experiment with the medium formally and conceptually. From studio and lighting techniques to collage, montage, constructed realities, installations, and projections. Program or materials fees may apply. Two production-course limitation. "
+    },
+    "VIS 168": {
+        "prerequisites": [
+            "VIS 174"
+        ],
+        "name": "Pictorialism and Constructed Reality",
+        "description": "A digital image is not a film image, and this reality and its technological and conceptual implications are what this course will attempt to map out, exploring its possibilities and the massive overhaul of media aesthetics it implies. Two production-course limitation.  "
+    },
+    "VIS 171": {
+        "prerequisites": [
+            "VIS 70N"
+        ],
+        "name": "Digital Cinema\u2014Theory and Production",
+        "description": "Video medium used both as production technology and as device to explore the fundamental character of filmmaking and time-based computer art practices. Students perform all aspects of production with attention to developing ideas and building analytical/critical skills. Two production-course limitation. "
+    },
+    "VIS 174": {
+        "prerequisites": [
+            "VIS 174"
+        ],
+        "name": "Media Sketchbook",
+        "description": "The evolving aims and grammars of editing practice in film and digital media will be examined. These histories will create a context for exploring contemporary editing strategies. The production projects will be centered on digital editing practice. Two production-course limitation. "
+    },
+    "VIS 175": {
+        "prerequisites": [
+            "VIS 174"
+        ],
+        "name": "Editing\u2014Theory and Production",
+        "description": "A technical foundation and creative theoretical context for film production will be provided. Students will produce a short film with post-synchronized sounds and final mixed-track. Two production-course limitation. "
+    },
+    "VIS 176": {
+        "prerequisites": [
+            "VIS 174"
+        ],
+        "name": "16mm Filmmaking",
+        "description": "Script writing, reading, and analysis of traditional and experimental media productions. The emphasis will be on the structural character of the scripting process and its language. Students will write several short scripts along with analytical papers. Two production-course limitation. "
+    },
+    "VIS 177": {
+        "prerequisites": [
+            "VIS 174"
+        ],
+        "name": "Scripting Strategies",
+        "description": "Sound design plays an increasing role in media production and has opened up new structural possibilities for narrative strategies. A critical and historical review of sound design and a production methodology component. Critical papers and soundtracks for short film projects will be required.  Two production-course limitation. "
+    },
+    "VIS 178": {
+        "prerequisites": [
+            "VIS 174",
+            "and",
+            "VIS 164"
+        ],
+        "name": "Sound\u2014Theory and Production",
+        "description": "Exploration of concepts in representational artworks by critically examining \u201cfound\u201d vs. \u201cmade\u201d recorded material. Advanced film/video, photography, computing work. Issues of narrative and structure; attention to formal aspects of media work emphasized. Two production-course limitation. "
+    },
+    "VIS 180A": {
+        "prerequisites": [
+            "VIS 174",
+            "and",
+            "VIS 164"
+        ],
+        "name": "Documentary Evidence and the Construction of Authenticity in Current Media Practices",
+        "description": "Exploration of choices in invention, emphasizing \u201cmade\u201d over \u201cfound.\u201d Advanced film/video, photography, and computing. Issues of narrative and structure, and formal aspects of media work emphasized. Two production-course limitation. "
+    },
+    "VIS 180B": {
+        "prerequisites": [
+            "VIS 174",
+            "and",
+            "VIS 164"
+        ],
+        "name": "Fiction\n\t\t  and Allegory in Current Media Practices",
+        "description": "Advanced course to gain sophisticated control of lighting and sound recording techniques with understanding of theoretical implications and interrelation between production values and subject matter. Interactions between sound and image in various works in film, video, or installation. Two production-course limitation. "
+    },
+    "VIS 181": {
+        "prerequisites": [
+            "VIS 174",
+            "and",
+            "VIS 164"
+        ],
+        "name": "Sound and Lighting",
+        "description": "Film/video editing and problems of editing from theoretical and practical points-of-view. Films and tapes analyzed on a frame-by-frame, shot-by-shot basis. Edit stock material and generate own materials for editing final project. Aesthetic and technical similarities/differences of film/video. Recommended preparation: VIS 175 Editing-Theory and Production strongly recommended. Two production-course limitation. "
+    },
+    "VIS 182": {
+        "prerequisites": [
+            "VIS 174",
+            "and",
+            "VIS 164"
+        ],
+        "name": "Advanced Editing",
+        "description": "Looks at the way that self-identity is reflected and produced through various media practices. Focus is on rhetorical strategies of biography and autobiography in media, comparing and contrasting these strategies with those drawn from related cultural forms. Two production-course limitation. "
+    },
+    "VIS 183A": {
+        "prerequisites": [
+            "VIS 174",
+            "and",
+            "VIS 164"
+        ],
+        "name": "Strategies of Self",
+        "description": "Looks at difference as it is reflected and constructed in various media practices. Course will examine a wide range of forms and genres such as ethnography, science fiction, crime narratives, documentary film, political drama, and animated shorts. Two production-course limitation. "
+    },
+    "VIS 183B": {
+        "prerequisites": [
+            "VIS 174",
+            "and",
+            "VIS 164"
+        ],
+        "name": "Strategies of Alterity",
+        "description": "Film/video production will be framed through the script writing process, focusing on the problems of longer duration, density, and adaptation from other media. Students will both read and analyze both historical and contemporary scripts and produce a thirty- to sixty-minute script. Recommended preparation: VIS 177 Scripting Strategies. Two production-course limitation. "
+    },
+    "VIS 184": {
+        "prerequisites": [
+            "VIS 174",
+            "and",
+            "VIS 164"
+        ],
+        "name": "Advanced Scripting",
+        "description": "Through instruction and discussion, the class will focus on guiding students through advanced production on a senior project. Students will be expected to initiate and complete production on at least one portfolio-level project. May be taken for credit two times. Two production-course limitation. "
+    },
+    "VIS 185": {
+        "prerequisites": [
+            "VIS 135",
+            "and",
+            "VIS 100"
+        ],
+        "name": "Senior Media Projects",
+        "description": "This advanced course provides students with a unique immersive learning experience, based on design studio/atelier methods. This course develops students\u2019 skills in the ideation, planning, and execution of complex individual and collaborative projects, including historical and contextual research, project ideation, planning and management, coordination of skills and responsibilities, iterative execution, and effective presentation. "
+    },
+    "VIS 190": {
+        "prerequisites": [
+            "VIS 84"
+        ],
+        "name": "Design Master Studio",
+        "description": "This course will explore the path of the deliberately \u201cunreal\u201d in movies. Fantasy in film will be considered both in terms of its psychological manifestations and also in terms of imaginary worlds created in such willfully antirealistic genres as science fiction, horror, and musical films. Offered in Summer Session only. Program or materials fees may apply. May be taken for credit three times. "
+    },
+    "VIS 194S": {
+        "prerequisites": [],
+        "name": "Fantasy in Film",
+        "description": "This advanced-level sequence coordinates three consecutive independent research courses to culminate in a completed thesis project in the third quarter of study. After the project\u2019s public presentation, the faculty involved in the project will determine whether the student will graduate with departmental honors. "
+    },
+    "VIS 197": {
+        "prerequisites": [],
+        "name": "Media Honors Thesis",
+        "description": "Directed group study on a topic or in a group field not included in regular department curriculum, by special arrangement with a faculty member. "
+    },
+    "VIS 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Independent reading, research, or creative work under direction of a faculty member. "
+    }
 }

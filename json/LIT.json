@@ -1,186 +1,746 @@
 {
-    "LTCS 87": [],
-    "LTCS 198": [],
-    "LTCS 199": [],
-    "LTEN 30": [
-        "CAT 2",
-        "and",
-        "or",
-        "DOC 2",
-        "and",
-        "or",
-        "HUM 1",
-        "and",
-        "and",
-        "and"
-    ],
-    "LTEN 87": [],
-    "LTEN 192": [],
-    "LTEN 196": [],
-    "LTEN 198": [],
-    "LTEN 199": [],
-    "LTFR 50": [],
-    "LTFR 115": [],
-    "LTFR 116": [],
-    "LTFR 121": [],
-    "LTFR 122": [],
-    "LTFR 123": [],
-    "LTFR 124": [],
-    "LTFR 125": [],
-    "LTFR 141": [],
-    "LTFR 142": [],
-    "LTFR 143": [],
-    "LTFR 164": [],
-    "LTFR 198": [],
-    "LTFR 199": [],
-    "LTGM 100": [],
-    "LTGM 101": [],
-    "LTGM 130": [],
-    "LTGK 1": [],
-    "LTGK 102": [],
-    "LTGK 103": [],
-    "LTGK 105": [],
-    "LTGK 198": [],
-    "LTGK 199": [],
-    "LTIT 2A": [],
-    "LTIT 2B": [],
-    "LTIT 50": [],
-    "LTIT 100": [],
-    "LTIT 115": [],
-    "LTIT 122": [],
-    "LTIT 137": [],
-    "LTIT 192": [],
-    "LTIT 198": [],
-    "LTIT 199": [],
-    "LTKO 1A": [],
-    "LTKO 1B": [],
-    "LTKO 1C": [],
-    "LTKO 2A-B-C": [],
-    "LTKO 3": [],
-    "LTKO 100": [],
-    "LTKO 149": [],
-    "LTLA 1": [],
-    "LTLA 2": [],
-    "LTLA 3": [],
-    "LTLA 102": [],
-    "\nLTLA 103": [],
-    "\nLTLA 104": [],
-    "\nLTLA 105": [],
-    "LTLA 198": [],
-    "LTLA 199": [],
-    "LTRU 1A": [],
-    "LTRU 1B": [],
-    "LTRU 1C": [],
-    "LTRU 2B": [],
-    "LTRU 104A": [],
-    "\n\t\t\t\tLTRU 104B": [],
-    "LTRU 104C": [],
-    "LTRU 110A": [],
-    "LTRU 110B": [],
-    "LTRU 110C": [],
-    "LTSP 2A": [],
-    "LTSP 2B": [],
-    "LTSP 2C": [],
-    "LTSP 2D": [],
-    "LTSP 2E": [],
-    "LTSP 50A": [],
-    "LTSP 50B": [],
-    "LTSP 50C": [],
-    "LTSP 87": [],
-    "LTSP 100": [],
-    "LTSP 116": [],
-    "LTSP 122": [],
-    "LTSP 123": [],
-    "LTSP 129": [],
-    "LTSP 130B": [],
-    "LTSP 133": [],
-    "LTSP 134": [],
-    "LTSP 135A": [],
-    "LTSP 135B": [],
-    "LTSP 136": [],
-    "LTSP 137": [],
-    "LTSP 138": [],
-    "LTSP 140": [],
-    "LTSP 141": [],
-    "LTSP 142": [],
-    "LTSP 150A": [],
-    "LTSP 150B": [],
-    "LTSP 151": [],
-    "LTSP 154": [],
-    "LTSP 159": [],
-    "LTSP 160": [],
-    "LTSP 162": [],
-    "LTSP 166": [],
-    "LTSP 170": [],
-    "LTSP 171": [],
-    "LTSP 172": [],
-    "LTSP 174": [],
-    "LTSP 175": [],
-    "LTSP 176": [],
-    "LTSP 177": [],
-    "LTSP 196": [],
-    "LTSP 198": [],
-    "LTSP 199": [],
-    "LTWL\n\t\t\t\t  4A-C-D-F-M": [],
-    "LTWL 192": [],
-    "LTWL 194": [],
-    "LTWL 194A": [],
-    "LTWL 196": [],
-    "LTWL 198": [],
-    "LTWL 199": [],
-    "LTWR 8B": [
-        "CAT 2",
-        "and",
-        "or",
-        "DOC 2",
-        "and",
-        "or",
-        "HUM 1",
-        "and",
-        "and",
-        "and"
-    ],
-    "LTWR 8C": [
-        "CAT 2",
-        "and",
-        "or",
-        "DOC 2",
-        "and",
-        "or",
-        "HUM 1",
-        "and",
-        "and",
-        "and"
-    ],
-    "LTWR 100": [
-        "CAT 2",
-        "and",
-        "or",
-        "DOC 2",
-        "and",
-        "or",
-        "HUM 1",
-        "and",
-        "and",
-        "and"
-    ],
-    "LTWR 101": [],
-    "LTWR 102": [],
-    "LTWR 103": [],
-    "LTWR 104A": [],
-    "LTWR 104B": [],
-    "LTWR 106": [],
-    "LTWR 113": [],
-    "LTWR 114": [],
-    "LTWR 115": [],
-    "LTWR 119": [],
-    "LTWR 120": [],
-    "LTWR 121": [],
-    " LTWR 124": [],
-    "LTWR 126": [],
-    "LTWR 148": [],
-    "LTWR 194": [],
-    "LTWR 195": [],
-    "LTWR 198": [],
-    "LTWR 199": []
+    "LTCS 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
+    "LTCS 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Directed group research, under the guidance of a member of the faculty, in an area not covered in courses currently offered by the department. (P/NP only.) "
+    },
+    "LTCS 199": {
+        "prerequisites": [],
+        "name": "Special Studies",
+        "description": "Individual reading in an area not covered in courses currently offered by the department. (P/NP only.) "
+    },
+    "LTEN 30": {
+        "prerequisites": [
+            "CAT 2",
+            "and",
+            "or",
+            "DOC 2",
+            "and",
+            "or",
+            "HUM 1",
+            "and",
+            "and",
+            "and"
+        ],
+        "name": "Poetry for Physicists",
+        "description": "Physicists have spoken of the beauty of equations. The poet John Keats wrote, \u201cBeauty is truth, truth beauty . . .\u201d What did they mean? Students will consider such questions while reading relevant essays and poems. Requirements include one creative exercise or presentation. Students may not receive credit for both LTEN 30 and PHYS 30. "
+    },
+    "LTEN 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
+    "LTEN 192": {
+        "prerequisites": [],
+        "name": "Senior Seminar in Literatures in English",
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in literature (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+    },
+    "LTEN 196": {
+        "prerequisites": [],
+        "name": "Honors Thesis",
+        "description": "Senior thesis research and writing for students who have been accepted for the Literature Honors Program and who have completed LTWL 191. Oral exam. "
+    },
+    "LTEN 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Research seminars and research, under the direction of a member of the staff. May be repeated for credit. (P/NP grades only.) "
+    },
+    "LTEN 199": {
+        "prerequisites": [],
+        "name": "Special Studies",
+        "description": "Tutorial; individual guided reading in an area not normally covered in courses. May be repeated for credit three times. (P/NP grades only.) "
+    },
+    "LTFR 50": {
+        "prerequisites": [],
+        "name": "Intermediate French IV: Textual Analysis",
+        "description": "First course in a three-quarter sequence designed to prepare students for upper-division French courses. The course is taught entirely in French and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. Basic techniques of literary analysis. "
+    },
+    "LTFR 115": {
+        "prerequisites": [],
+        "name": "Themes\n\t\t\t\t  in Intellectual and Literary History",
+        "description": "Second course in a three-quarter sequence designed to prepare students for upper-division French courses. The course is taught entirely in French and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. Basic techniques of literary analysis. "
+    },
+    "LTFR 116": {
+        "prerequisites": [],
+        "name": "Themes\n\t\t\t\t  in Intellectual and Literary History",
+        "description": "Designed to improve writing and conversational skills. Develop written expression in terms of organization or ideas, structure, vocabulary. Grammar review. Discussions of contemporary novel and film. May be taken in lieu of LTFR 50 as a prerequisite for upper-division courses. "
+    },
+    "LTFR 121": {
+        "prerequisites": [],
+        "name": "The Middle Ages and the Renaissance",
+        "description": "Fourth course in a four-quarter sequence designed to prepare students for upper-division French courses. The course is taught entirely in French and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. It also introduces the student to basic techniques of literary analysis. "
+    },
+    "LTFR 122": {
+        "prerequisites": [],
+        "name": "Topics in Seventeenth-Century French Literature",
+        "description": "Course in a two-quarter sequence designed as an introduction to French literature and literary history. Each quarter will center on a specific theme or problem. It is recommended that majors whose primary literature is French take this sequence as early as possible. Course may be repeated up to three times when the topic and the assigned readings are different. "
+    },
+    "LTFR 123": {
+        "prerequisites": [],
+        "name": "Eighteenth Century",
+        "description": "Course in a two-quarter sequence designed as an introduction to French literature and literary history. Each quarter will center on a specific theme or problem. It is recommended that majors whose primary literature is French take this sequence as early as possible. Course may be repeated up to three times when the topic and the assigned readings are different. "
+    },
+    "LTFR 124": {
+        "prerequisites": [],
+        "name": "Nineteenth Century",
+        "description": "Major literary works of the Middle Ages and Renaissance as seen against the historical and intellectual background of the period. Medieval texts in modern French translation. May be repeated for credit as topics vary. "
+    },
+    "LTFR 125": {
+        "prerequisites": [],
+        "name": "Twentieth Century",
+        "description": "This course will cover major literary works and problems of seventeenth-century French literature. May be taken for credit three times as topics vary. "
+    },
+    "LTFR 141": {
+        "prerequisites": [],
+        "name": "Topics in Literatures in French",
+        "description": "Major literary works and problems of the eighteenth century. May be repeated for credit as topics vary. "
+    },
+    "LTFR 142": {
+        "prerequisites": [],
+        "name": "Topics in Literary Genres in French",
+        "description": "Major literary works of the nineteenth century. May be repeated for credit as topics vary. "
+    },
+    "LTFR 143": {
+        "prerequisites": [],
+        "name": "Topics in Major Authors in French",
+        "description": "Major literary works and problems of the twentieth century. May be repeated for credit as topics vary. "
+    },
+    "LTFR 164": {
+        "prerequisites": [],
+        "name": "Topics in Modern French Culture",
+        "description": "Examines one or more periods, themes, authors, and approaches in French literature. Topics will vary with instructor. May be repeated for credit. "
+    },
+    "LTFR 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "An examination of one or more major or minor genres of French literature: for example, drama, novel, poetry, satire, prose poem, essay. "
+    },
+    "LTFR 199": {
+        "prerequisites": [],
+        "name": "Special Studies",
+        "description": "A study in depth of the works of a major French writer. Recommended for students whose primary literature is French. May be repeated for credit as topics vary. "
+    },
+    "LTGM 100": {
+        "prerequisites": [],
+        "name": "German Studies I: Aesthetic Cultures",
+        "description": "LTGM 2A follows the basic language sequence of the Department of Linguistics and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. The course includes grammar review and class discussion of reading and audiovisual materials. Specifically, the course prepares students for LIGM 2B and 2C. "
+    },
+    "LTGM 101": {
+        "prerequisites": [],
+        "name": "German Studies II: National Identities",
+        "description": "LTGM 2B is a continuation of LTGM 2A for those students who intend to practice their skills in reading, listening comprehension, and writing on a more advanced level. The literary texts are supplemented by readings from other disciplines as well as audiovisual materials. "
+    },
+    "LTGM 130": {
+        "prerequisites": [],
+        "name": "German Literary Prose",
+        "description": "A course designed for students who wish to improve their ability to speak and write German. Students will read and discuss a variety of texts and films, and complete the grammar review begun in 2A. 2C emphasizes speaking, writing, and critical thinking, and prepares students for upper-division course work in German. "
+    },
+    "LTGK 1": {
+        "prerequisites": [],
+        "name": "Beginning Greek",
+        "description": "Tutorial; individual guided reading in areas of German literature not normally covered in courses. May be repeated for credit three times. (P/NP grades only.) "
+    },
+    "LTGK 102": {
+        "prerequisites": [],
+        "name": "Greek Poetry",
+        "description": "Continuation of study of ancient Greek, including grammar and reading. "
+    },
+    "LTGK 103": {
+        "prerequisites": [],
+        "name": "Greek Drama",
+        "description": "Continuation of study of ancient Greek, including grammar and reading of texts. "
+    },
+    "LTGK 105": {
+        "prerequisites": [],
+        "name": "Topics in Greek Literature",
+        "description": "\nReadings in Greek from ancient Greek poetry. May be taken for credit four times as topics vary. "
+    },
+    "LTGK 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "\nReadings in Greek from ancient Greek drama. May be taken for credit four times as topics vary. "
+    },
+    "LTGK 199": {
+        "prerequisites": [],
+        "name": "Special Studies",
+        "description": "\nReadings in Greek from ancient Greek prose. May be taken for credit four times as topics vary. "
+    },
+    "LTIT 2A": {
+        "prerequisites": [],
+        "name": "Intermediate Italian I",
+        "description": "\nReadings in Greek covering specific topics in ancient Greek literature. May be taken for credit four times as topics vary. "
+    },
+    "LTIT 2B": {
+        "prerequisites": [],
+        "name": "Intermediate Italian II",
+        "description": "Directed group study in areas of Greek literature not normally covered in courses. May be repeated for credit three times. (P/NP grades only.) "
+    },
+    "LTIT 50": {
+        "prerequisites": [],
+        "name": "Advanced Italian",
+        "description": "Tutorial; individual guided reading in an area not normally covered in courses. May be taken up to three times for credit. (P/NP grades only.) "
+    },
+    "LTIT 100": {
+        "prerequisites": [],
+        "name": "Introduction to Literatures in Italian",
+        "description": "A second-year course in Italian language and literature. Conversation, composition, grammar review, and an introduction to literary and nonliterary texts. "
+    },
+    "LTIT 115": {
+        "prerequisites": [],
+        "name": "Medieval Studies",
+        "description": "Continuation of second-year Italian language and literature. Reading, writing, conversation, grammar review, and an introduction to literary genres and contemporary Italian culture and society. "
+    },
+    "LTIT 122": {
+        "prerequisites": [],
+        "name": "Studies in Modern Italian Culture",
+        "description": "This course constitutes the sixth and final quarter of the Italian language sequence. It offers an intensive study of Italian grammar, drills in conversation and composition, and readings in modern Italian literature. "
+    },
+    "LTIT 137": {
+        "prerequisites": [],
+        "name": "Studies in Modern Italian Prose",
+        "description": "Reading and discussion of selections from representative authors. Review of grammar as needed. May be repeated for credit three times when topics vary. "
+    },
+    "LTIT 192": {
+        "prerequisites": [],
+        "name": "Senior Seminar in Literatures in Italian",
+        "description": "Politics, literature, and cultural issues of twentieth-century Italy. May be repeated for credit when topics vary. "
+    },
+    "LTIT 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Analysis of Italian essays, journalism, literature. Intensive practice in writing and Italian conversation. "
+    },
+    "LTIT 199": {
+        "prerequisites": [],
+        "name": "Special Studies",
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in literature (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+    },
+    "LTKO 1A": {
+        "prerequisites": [],
+        "name": "Beginning Korean: First Year I",
+        "description": "Senior thesis research and writing for students who have been accepted for the literature honors program and who have completed LTWL 191. Oral examination. "
+    },
+    "LTKO 1B": {
+        "prerequisites": [],
+        "name": "Beginning Korean: First Year II",
+        "description": "Directed group study in areas of Italian literature not normally covered in courses. May be repeated for credit three times. (P/NP grades only.) "
+    },
+    "LTKO 1C": {
+        "prerequisites": [],
+        "name": "Beginning Korean: First Year III",
+        "description": "Tutorial; individual guided reading in areas of Italian literature not normally covered in courses. May be repeated for credit three times. (P/NP grades only.) "
+    },
+    "LTKO 2A-B-C": {
+        "prerequisites": [],
+        "name": "Intermediate Korean: Second Year I-II-III",
+        "description": "Students develop beginning-level skills in the Korean language, beginning with an introduction to the writing and sound system. The remainder of the course will focus on basic sentence structures and expressions. "
+    },
+    "LTKO 3": {
+        "prerequisites": [],
+        "name": "Advanced Korean: Third Year",
+        "description": "Students develop beginning-level skills in the Korean language,  with an introduction to the writing and sound system. The remainder of the course will focus on basic sentence structures and expressions. "
+    },
+    "LTKO 100": {
+        "prerequisites": [],
+        "name": "Readings\n\t\t\t\t  in Korean Literature and Culture",
+        "description": "Students develop beginning-level skills in the Korean language, beginning with an introduction to the writing and sound system. The remainder of the course will focus on basic sentence structures and expressions. "
+    },
+    "LTKO 149": {
+        "prerequisites": [],
+        "name": "Readings in Korean Language History and Structure",
+        "description": "This course will help students develop intermediate-level skills in the Korean language. Upon completion of this course, students are expected to have good command of Korean in various daily conversational situations. "
+    },
+    "LTLA 1": {
+        "prerequisites": [],
+        "name": "Beginning Latin",
+        "description": "This course will help students develop advanced-level skills in the Korean language. Upon completion of this course, students are expected to have good command of Korean in various formal settings and to understand daily news broadcasts/newspapers. "
+    },
+    "LTLA 2": {
+        "prerequisites": [],
+        "name": "Intermediate Latin",
+        "description": "Majors issues in modern Korean history from colonial period to present, such as Japanese colonization, division, US/Soviet occupation, the Korean War, and authoritarian rule, industrialization, labor/agrarian movement and cultural/social issues, emerging within the globalized economy in South Korea. "
+    },
+    "LTLA 3": {
+        "prerequisites": [],
+        "name": "Intermediate Latin",
+        "description": "This course is designed to develop cultural understanding and professional/academic level reading skill for students with coverage of materials on Korean language history from the fifteenth century to the present, previous and current writing systems, and Korean language structure. May be taken for credit three times as topics vary. "
+    },
+    "LTLA 102": {
+        "prerequisites": [],
+        "name": "Latin Poetry",
+        "description": "Study of Latin, including grammar and reading. "
+    },
+    "\nLTLA 103": {
+        "prerequisites": [],
+        "name": "Latin Drama",
+        "description": "Study of Latin, including grammar and reading. "
+    },
+    "\nLTLA 104": {
+        "prerequisites": [],
+        "name": "Latin Prose",
+        "description": "Reading and discussion of selections from representative authors of one or more periods. Review of grammar as needed. "
+    },
+    "\nLTLA 105": {
+        "prerequisites": [],
+        "name": "Topics in Latin Literature",
+        "description": "\nReadings in Latin from Latin poetry. May be taken for credit four times as topics vary. "
+    },
+    "LTLA 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "\nReadings in Latin from Latin drama. May be taken for credit four times as topics vary. "
+    },
+    "LTLA 199": {
+        "prerequisites": [],
+        "name": "Special Studies",
+        "description": "\nReadings in Latin from Latin prose. May be taken for credit four times as topics vary. "
+    },
+    "LTRU 1A": {
+        "prerequisites": [],
+        "name": "First-Year Russian",
+        "description": "\nReadings in Latin covering specific topics in Latin literature. May be taken for credit four times as topics vary. "
+    },
+    "LTRU 1B": {
+        "prerequisites": [],
+        "name": "First-Year Russian",
+        "description": "Directed group study in areas of Latin literature not normally covered in courses. May be repeated three times. (P/NP grades only.) "
+    },
+    "LTRU 1C": {
+        "prerequisites": [],
+        "name": "First-Year Russian",
+        "description": "Tutorial; individual guided reading in areas of Latin literature not normally covered in courses. May be repeated for credit three times. (P/NP grades only.) "
+    },
+    "LTRU 2B": {
+        "prerequisites": [],
+        "name": "Second-Year Russian",
+        "description": "First-year Russian, with attention to reading, writing, and speaking. "
+    },
+    "LTRU 104A": {
+        "prerequisites": [],
+        "name": "Advanced Practicum in Russian: Linguistic Skills Development",
+        "description": "First-year Russian, with attention to reading, writing, and speaking. "
+    },
+    "\n\t\t\t\tLTRU 104B": {
+        "prerequisites": [],
+        "name": "Advanced Practicum in Russian: Analysis of Text and Film",
+        "description": "Second-year Russian grammar, with attention to reading, writing, and speaking. "
+    },
+    "LTRU 104C": {
+        "prerequisites": [],
+        "name": "Advanced Practicum in Russian: Analysis of Text and Film",
+        "description": "Second-year Russian grammar, with attention to reading, writing, and speaking. "
+    },
+    "LTRU 110A": {
+        "prerequisites": [],
+        "name": "Survey of Russian and Soviet Literature in Translation, 1800\u20131860",
+        "description": "Advanced Russian grammar taught for varying ability levels. Close work with original texts and film to develop comprehension, production, and analytical skills. May be taken twice for credit. "
+    },
+    "LTRU 110B": {
+        "prerequisites": [],
+        "name": "Survey of Russian and Soviet Literature in Translation, 1860\u20131917",
+        "description": "Development of advanced skills in reading, writing, and conversation. Course based on written and oral texts of various genres and styles. Individualized program to meet specific student needs. May be taken twice for credit. "
+    },
+    "LTRU 110C": {
+        "prerequisites": [],
+        "name": "Survey of Russian and Soviet Literature in Translation, 1917\u2013present",
+        "description": "Development of advanced skills in reading, writing, and conversation. Course based on written and oral texts of various genres and styles. Individualized program to meet specific student needs. May be taken twice for credit. "
+    },
+    "LTSP 2A": {
+        "prerequisites": [],
+        "name": "Intermediate Spanish I: Foundations",
+        "description": "An introduction to Russia\u2019s past and present through the cross-disciplinary study of literature, the visual and performing arts, social and political thought, civic rituals, popular entertainments, values and practices from 1825 to the present. "
+    },
+    "LTSP 2B": {
+        "prerequisites": [],
+        "name": "Intermediate\n\t\t\t\t  Spanish II: Readings and Composition",
+        "description": "Directed group study in areas of Russian literature not normally covered in courses. May be repeated for credit three times. (P/NP grades only.) "
+    },
+    "LTSP 2C": {
+        "prerequisites": [],
+        "name": "Intermediate\n\t\t\t\t  Spanish III: Cultural Topics and Composition",
+        "description": "Tutorial; individual guided reading in areas of Russian literature not normally covered in courses. May be repeated for credit three times. (P/NP grades only.) "
+    },
+    "LTSP 2D": {
+        "prerequisites": [],
+        "name": "Intermediate/Advanced\n\t\t\t\t  Spanish: Spanish for Bilingual Speakers",
+        "description": "Course is taught in Spanish, emphasizing the development of reading ability, listening comprehension, and writing skills. It includes grammar review, weekly compositions, and class discussions. Successful completion of LTSP 2A satisfies the requirement for language proficiency in Revelle College. "
+    },
+    "LTSP 2E": {
+        "prerequisites": [],
+        "name": "Advanced\n\t\t\t\t  Readings and Composition for Bilingual Speakers",
+        "description": "Review of major points of grammar with emphasis on critical reading and interpretation of Spanish texts through class discussions, vocabulary development, and written compositions. It is a continuation of LTSP 2A. "
+    },
+    "LTSP 50A": {
+        "prerequisites": [],
+        "name": "Readings in Peninsular Literature",
+        "description": "Continuation of LTSP 2B, with special emphasis in writing and translation. It includes discussion of cultural topics as well as grammar review and composition, further developing the ability to read articles, essays, and longer pieces of fiction/nonfictional texts. "
+    },
+    "LTSP 50B": {
+        "prerequisites": [],
+        "name": "Readings in Latin American Literature",
+        "description": "Spanish for native speakers. Designed for bilingual students seeking to become biliterate. Reading and writing skills stressed with special emphasis on improvement of written expression and problems of grammar and orthography. Prepares native speakers with little or no formal training in Spanish for more advanced courses. "
+    },
+    "LTSP 50C": {
+        "prerequisites": [],
+        "name": "Readings in Latin American Topics",
+        "description": "Second course in a sequence designed for bilingual students seeking to become biliterate. Special emphasis given to improvement of written expression, grammar, and orthography. Prepares bilingual students with little or no formal training in Spanish for more advanced course work. "
+    },
+    "LTSP 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "An introduction to Peninsular literature, this course offers a selection of authors and genres, introducing students to literary analysis through reading extensive texts in Spanish. Two or more quarters of LTSP 50 are suggested before proceeding to upper-division courses. May be taken for credit three times. "
+    },
+    "LTSP 100": {
+        "prerequisites": [],
+        "name": "Major Works of the Middle Ages",
+        "description": "An introduction to Latin American literature, this course offers a selection of authors and genres, introducing students to literary analysis through reading extensive texts in Spanish. Two or more quarters of LTSP 50 are suggested before proceeding to upper-division courses. May be taken for credit three times. "
+    },
+    "LTSP 116": {
+        "prerequisites": [],
+        "name": "Representations of Spanish Colonialism",
+        "description": "An introduction to major topics in Latin American literature, this course focuses on the literature of a particular region, period, or movement. Introduces students to literary analysis through reading extensive texts in Spanish. May be taken for credit three times. "
+    },
+    "LTSP 122": {
+        "prerequisites": [],
+        "name": "The Romantic Movement in Spain",
+        "description": "Major Spanish literary works of the Middle Ages and Renaissance as seen against the historical and intellectual background of this period. May be taken for credit three times as topics vary.  "
+    },
+    "LTSP 123": {
+        "prerequisites": [],
+        "name": "Topics in Modern Spanish Culture",
+        "description": "Analysis of selected materials that represent the cultural and political relationship between Spain and its colonies. Close reading of literary texts and historical documents. Specific periods covered will fall between the origins of empire in the early sixteenth century to the demise of imperial Spain in 1898; topics may include cultural exchanges between Spain and Latin America, the Philippines, or the US Southwest. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 129": {
+        "prerequisites": [],
+        "name": "Spanish Writing after 1939",
+        "description": "Close reading of the 1605 and 1615 texts with special attention to the social and cultural background of the early seventeenth century in Spain. This course fulfills the pre-1900 requirement for Spanish literature majors. "
+    },
+    "LTSP 130B": {
+        "prerequisites": [],
+        "name": "\t\t\t\t  Development of Latin American Literature",
+        "description": "Investigation of selected topics concerning Spanish cultural production after 1800. Topics might focus on a genre (film, popular novel, theatre) or on the transformations of a theme or metaphor (nation, femininity, the uncanny). May be taken for credit two times as topics vary.  "
+    },
+    "LTSP 133": {
+        "prerequisites": [],
+        "name": "Contemporary\n\t\t\t\t  Latin American Literature",
+        "description": "Analysis and discussion of literary production during and after the Franco dictatorship. May focus on specific genres, subperiod, or issues. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 134": {
+        "prerequisites": [],
+        "name": "Literature of the Southern Cone",
+        "description": "An introduction to the major movements and periods of Spanish literary history, centered on close readings of representative texts, but aimed at providing a sense of the scope of Spanish literature and its relation to the course of Spain\u2019s cultural and social history. This course fulfills the pre-1900 requirement for Spanish literature majors. "
+    },
+    "LTSP 135A": {
+        "prerequisites": [],
+        "name": "Mexican Literature before 1910",
+        "description": "An introduction to major movements and periods in Latin American literature, centered on a study of key works from pre-Columbian to the present time. Texts will be seen within their sociohistorical context and in relation to main artistic trends of the period. This course fulfills the pre-1900 requirement for Spanish literature majors. "
+    },
+    "LTSP 135B": {
+        "prerequisites": [],
+        "name": "Modern Mexican Literature",
+        "description": "A study of the major literary works and problems in Latin America from 1900 to the present as seen against the historical context of the period. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 136": {
+        "prerequisites": [],
+        "name": "Andean Literatures",
+        "description": "Study of movements, traditions, key authors, or major trends in Argentine, Paraguayan, Uruguayan, and Chilean literatures, such as gaucho poetry, the realist novel, modern urban narratives, and the Borges School, etc. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 137": {
+        "prerequisites": [],
+        "name": "Caribbean Literature",
+        "description": "Explores the relationships among cultural production, politics, and societal changes in Mexico before the 1910 Revolution, specifically the roles of intellectuals and popular culture in nation-building and modernization. Readings may include didactic literature and historiographic writings, forms of popular discourse, as well as novels and poetry. May be taken for credit two times as topics vary.  "
+    },
+    "LTSP 138": {
+        "prerequisites": [],
+        "name": "Central American Literature",
+        "description": "Study of popular novels, movements, traditions, key authors, or major trends in modern Mexican literature. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 140": {
+        "prerequisites": [],
+        "name": "Latin American Novel",
+        "description": "Study of movements, traditions, key authors, or major trends in Peruvian, Ecuadorian, and Bolivian literatures, such as indigenismo, urban narrative, and the works of authors such as Vallejo, Icaza, Arguedas, Vargas Llosa. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 141": {
+        "prerequisites": [],
+        "name": "Latin American Poetry",
+        "description": "Study of movements, traditions, key authors, or major trends in Caribbean literature in Spanish, such as the romantic movement, the literature of independence, the essay tradition, Afro-Antillean literature, the historical novel. May be taken for credit four times as topics vary. "
+    },
+    "LTSP 142": {
+        "prerequisites": [],
+        "name": "Latin American Short Story",
+        "description": "Study of movements, traditions, key authors, or major trends in the literatures of Guatemala, El Salvador, Nicaragua, Honduras, Costa Rica, and Panama, such as the anti-imperialist novel, indigenismo, guerrilla poetry, and testimonio. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 150A": {
+        "prerequisites": [],
+        "name": "\t\t\t\t  Early Latino/a-Chicano/a Cultural Production: 1848 to 1960",
+        "description": "A study in depth of selected novelists of Latin America. May be organized around a specific theme or idea that is traced in its development through the narratives. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 150B": {
+        "prerequisites": [],
+        "name": "Contemporary Chicano/a-Latino/a Cultural Production: 1960 to Present",
+        "description": "A critical study of some of the major poets of Latin America, focusing on the poet\u2019s central themes, the evolution of poetic style, and the significance of the poetry to the historical context. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 151": {
+        "prerequisites": [],
+        "name": "Topics in Chicano/a-Latino/a Cultures",
+        "description": "Readings and interpretation of the Latin American short story. Focus is primarily nineteenth and/or twentieth century. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 154": {
+        "prerequisites": [],
+        "name": "Latino/a and Chicano/a Literature",
+        "description": "Cross-disciplinary study of nineteenth- and early twentieth-century Latino/a-Chicano/a literature, folklore, music, testimonio, or other cultural practices. Specific periods covered will fall between the immediate aftermath of the Treaty of Guadalupe Hidalgo to the Cuban revolution. May be taken for credit no more than two times. "
+    },
+    "LTSP 159": {
+        "prerequisites": [],
+        "name": "Methodological Approaches to the Study of History and Culture in Latin America and the Caribbean",
+        "description": "Cross-disciplinary study of late twentieth-century Latino/a-Chicano/a literature, the visual and performing arts, film, or other cultural practices. Specific periods covered will fall between the Kennedy years to the era of neoliberalism and the creation of \u201cHispanic\u201d or Latino identities.  May be taken for credit no more than two times.  "
+    },
+    "LTSP 160": {
+        "prerequisites": [],
+        "name": "Spanish Phonetics",
+        "description": "Cross-disciplinary study of late twentieth-century Chicano/a-Latino/a literature, the visual and performing arts, film, or other cultural practices. Representative areas of study are social movements, revolution, immigration, globalization, gender and sexuality, cultures of the U.S.-Mexican border, and Chicano/a-Mexicano/a literary relations. May be taken up to two times for credit when topics vary. "
+    },
+    "LTSP 162": {
+        "prerequisites": [],
+        "name": "Spanish Language in the United States",
+        "description": "This course will study the representations of a variety of social issues (immigration, racism, class differences, violence, inter/intraethnic relations, etc.) in works written in Spanish by Latino/a and Chicano/a writers. May be taken up to two times for credit when topics vary. "
+    },
+    "LTSP 166": {
+        "prerequisites": [],
+        "name": "Creative Writing",
+        "description": "An introduction to methodological and historical trends in Latin American and Caribbean cultural and literary studies. This course includes cultural representations from Latin America and the Caribbean such as film, literature, art, music, and/or photography. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 170": {
+        "prerequisites": [],
+        "name": "Contemporary Theories of Cultural Production",
+        "description": "A comparative study of the English and Spanish phonetic systems. Includes a study of the organs of articulation, manner of articulation stress and intonation patterns, as well as dialectal variations of Spanish. "
+    },
+    "LTSP 171": {
+        "prerequisites": [],
+        "name": "Studies in Peninsular and/or Latin American Literature and Society",
+        "description": "A sociolinguistic study of the popular dialects in the United States of America and their relation to other Latin American dialects. The course will cover phonological and syntactic differences between the dialects as well as the influences of English on the Southwest dialects. "
+    },
+    "LTSP 172": {
+        "prerequisites": [],
+        "name": "Indigenista\n\t\t\t\t  Themes in Latin American Literature",
+        "description": "A workshop designed to foster and encourage writing in Spanish of students working on short forms of fiction. The workshop will include discussions of techniques and intensive writing. "
+    },
+    "LTSP 174": {
+        "prerequisites": [],
+        "name": "Topics in Culture and Politics",
+        "description": "Selected readings in recent cultural and literary theory. Students will be exposed to a variety of methodologies drawn from the Latin American, European, and US traditions. May be taken up to two times for credit when topics vary. "
+    },
+    "LTSP 175": {
+        "prerequisites": [],
+        "name": "Gender, Sexuality, and Culture",
+        "description": "Focus on the interaction between literary expression and the study of society, covering issues such as the sociology of literature, the historical novel, literature and social change, the writer as the intellectual. May be taken for credit three times as topics vary. "
+    },
+    "LTSP 176": {
+        "prerequisites": [],
+        "name": "Literature and Nation",
+        "description": "Study of the literary modes by which nineteenth- and twentieth-century authors have interpreted the themes of indigenous survival and resistance in Latin America, primarily in Mexico and the Andean region. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 177": {
+        "prerequisites": [],
+        "name": "Literary and Historical Migrations",
+        "description": "Study of the relationships between cultural production (literature, film, popular cultures), social change, and political conflict, covering topics such as colonialism, imperialism, modernization, social movements, dictatorship, revolution. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 196": {
+        "prerequisites": [],
+        "name": "Honors Thesis",
+        "description": "This course will examine issues of gender, sexuality, and culture in Spanish, Latin American, and/or Chicana/o literatures. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Study of literature as a means through which the nation has been imagined and as a site of debates over national identity and citizenship. Course materials may focus on Spain and/or Latin America. May be taken for credit two times as topics vary. "
+    },
+    "LTSP 199": {
+        "prerequisites": [],
+        "name": "Special Studies",
+        "description": "This course will focus on a variety of Latin American and/or Spanish intra- and international migrations throughout the world and on the literature produced by these exiles or immigrants. May be taken for credit two times as topics vary. "
+    },
+    "LTWL\n\t\t\t\t  4A-C-D-F-M": {
+        "prerequisites": [],
+        "name": "Film and Fiction in Twentieth-Century Societies",
+        "description": "An overview of issues in modern critical theory as they pertain to writers. Will focus on issues of textuality, cultural forms, and aesthetics as they impact the process and meaning of writing. "
+    },
+    "LTWL 192": {
+        "prerequisites": [],
+        "name": "Senior\n\t\t\t\t  Seminar in Literatures of the World",
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in literature (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+    },
+    "LTWL 194": {
+        "prerequisites": [],
+        "name": "Capstone Course for Literature Majors",
+        "description": "An advanced seminar open to all literature majors in their senior year. Required for those interested in the Honors Program. It offers an integrative experience by considering key facets of the discipline, including literary theory/historiography, knowledge of neighboring disciplines, and relevance of literature/culture studies in various professions outside of academia. "
+    },
+    "LTWL 194A": {
+        "prerequisites": [],
+        "name": "Honors Practicum",
+        "description": "Honors practicum for those students in the literature department Honors Program. This is a one-unit course for which students in the Honors Program will present their work as part of organized panels at an Honors Program conference (within the department). Students will receive a P/NP grade for LTWL 194A for completing the presentation. "
+    },
+    "LTWL 196": {
+        "prerequisites": [],
+        "name": "Honors Thesis",
+        "description": "Senior thesis research and writing for students who have been accepted for the Literature Honors Program and who have completed LTWL 191. Oral exam. "
+    },
+    "LTWL 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Research seminars and research, under the direction of faculty member. "
+    },
+    "LTWL 199": {
+        "prerequisites": [],
+        "name": "Special Studies",
+        "description": "Tutorial; individual guided reading in areas of literature (in translation) not normally covered in courses. May be repeated for credit three times. (P/NP grades only.) "
+    },
+    "LTWR 8B": {
+        "prerequisites": [
+            "CAT 2",
+            "and",
+            "or",
+            "DOC 2",
+            "and",
+            "or",
+            "HUM 1",
+            "and",
+            "and",
+            "and"
+        ],
+        "name": "Writing Poetry",
+        "description": "Study of fiction in both theory and practice. Narrative technique studied in terms of subjectivity and atmosphere, description, dialogue, and the editing process will be introduced through readings from the history of the novel and short story. Students are required to attend at least three New Writing Series readings during the quarter. "
+    },
+    "LTWR 8C": {
+        "prerequisites": [
+            "CAT 2",
+            "and",
+            "or",
+            "DOC 2",
+            "and",
+            "or",
+            "HUM 1",
+            "and",
+            "and",
+            "and"
+        ],
+        "name": "Writing Nonfiction",
+        "description": "Study and practice of poetry as artistic and communal expression. Techniques of composition (traditional forms, avant garde techniques, dramatic monologue, performance poetry, and new genre) studied through written and spoken examples of poetry. Students are required to attend at least three New Writing Series readings during the quarter. "
+    },
+    "LTWR 100": {
+        "prerequisites": [
+            "CAT 2",
+            "and",
+            "or",
+            "DOC 2",
+            "and",
+            "or",
+            "HUM 1",
+            "and",
+            "and",
+            "and"
+        ],
+        "name": "Short Fiction Workshop",
+        "description": "Study of nonfictional prose in terms of genre and craft. Techniques of composition (journalism, essay, letters, reviews) will be studied through written examples of the genre. "
+    },
+    "LTWR 101": {
+        "prerequisites": [],
+        "name": "Writing Fiction in Spanish",
+        "description": "A workshop for students with some experience and special interest in writing fiction. This workshop is designed to encourage regular writing in the short forms of prose fiction and to permit students to experiment with various forms. There will be discussion of student work, together with analysis and discussion of representative examples of short fiction from the present and previous ages. May be taken for credit three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 102": {
+        "prerequisites": [],
+        "name": "Poetry Workshop",
+        "description": "A workshop for students with some experience and special interest in writing poetry. This workshop is designed to encourage regular writing of poetry. There will be discussion of student work, together with analysis and discussion of representative examples of poetry from the present and previous ages. May be taken for credit three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 103": {
+        "prerequisites": [],
+        "name": "Digital Poetics Workshop",
+        "description": "This workshop includes instruction on using software and writing basic computer code to allow students to create innovative web-based works that experiment with poetic form, draw on rich media resources, and provide more accessibility and interactivity for public audiences. May be taken up to three times for credit. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 104A": {
+        "prerequisites": [],
+        "name": "The Novella I",
+        "description": "A two-quarter workshop for fiction writers ready to explore a longer form and committed to developing a single piece over the course of two consecutive quarters. In addition to analyzing student work, we will read and discuss a wide range of published novellas. Two-quarter sequence; students must complete LTWR 104A and LTWR 104B in order to receive final grade in both courses. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 104B": {
+        "prerequisites": [],
+        "name": "The Novella II",
+        "description": "A continuation of LTWR 104A in which fiction writers complete the novella manuscripts they began during the previous quarter. Each student will produce a novella of at least fifty revised pages by the end of the quarter. We will continue to read and discuss published novellas with a particular emphasis on narrative strategy, structure, and revision. Two-quarter sequence; students must complete LTWR 104A and LTWR 104B in order to receive final grade in both courses. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. \u00a0"
+    },
+    "LTWR 106": {
+        "prerequisites": [],
+        "name": "Science Fiction, Fantasy, and Irrealism Workshop",
+        "description": "In this workshop, students will practice skills of narration, characterization, and style with particular attention to the demands of nonrealistic genres, especially the challenge of suspending disbelief in fictional environments that defy conventional logic. Readings and lectures will accompany writing exercises. May be taken for credit three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 113": {
+        "prerequisites": [],
+        "name": "Intercultural Writing Workshop",
+        "description": "This course is an introduction to modes of writing from other cultural systems vastly different from the cultural-aesthetic assumptions of Anglo American writing. While disclosing the limitations of the English language, this course attempts to provide new language strategies for students. May be taken for credit three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 114": {
+        "prerequisites": [],
+        "name": "Graphic Texts Workshop",
+        "description": "From illuminated manuscripts to digital literature, from alphabets to concrete poems, from artists\u2019 books to comics, this course explores the histories and techniques of combinatory image/word literary arts. The course may emphasize specific movements or genres. May be taken for credit three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 115": {
+        "prerequisites": [],
+        "name": "Experimental Writing Workshop",
+        "description": "This workshop explores writing for which the traditional generic distinctions of prose/poetry, fiction/documentary, narrative/discourse do not apply. Students taking this course will be asked to challenge the boundaries of literature to discover new forms and modes of expression. May be taken for credit three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 119": {
+        "prerequisites": [],
+        "name": "Writing for Performance Worksho",
+        "description": "A workshop and survey of experimental approaches to the writing and production of performance works in a range of literary genres. Emphasis will be placed on the integration of written texts with nonverbal elements from the visual arts, theatre, and music. May be taken up to three times for credit. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 120": {
+        "prerequisites": [],
+        "name": "Personal Narrative Workshop",
+        "description": "A workshop designed to encourage regular writing of all forms of personal experience narrative, including journals, autobiography, firsthand biography, and firsthand chronicle. Instructor and students will discuss student work as well as published personal narratives. May be taken for credit three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 121": {
+        "prerequisites": [],
+        "name": "Media Writing Workshop",
+        "description": "Workshop focusing on the review, the op-ed piece, the column, the blurb, the profile, the interview, and \u201ccontent-providing\u201d for websites. We\u2019ll examine current examples of media writing; students will produce a body of work and critique one another\u2019s productions. May be taken for credit three times.\u00a0Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    " LTWR 124": {
+        "prerequisites": [],
+        "name": "Translation of Literary Texts Workshop",
+        "description": "A writing, reading, and critical-thinking workshop designed to produce nonfiction pieces that fall outside the limits of the essay form. Included are travel narratives, memoir, and information-based writing that transform their own materials into compelling literature. May be repeated for credit three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  "
+    },
+    "LTWR 126": {
+        "prerequisites": [],
+        "name": "Creative Nonfiction Workshop",
+        "description": "Workshop designed to critique and engage the means of distributing literature within culture. Publishing from \u201czine\u201d through mainstream publication; web publishings; readings and \u201cslams\u201d; publicity and funding; colloquia with writers; politics and literature; and the uses of performance and media. May be taken for credit three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department. "
+    },
+    "LTWR 148": {
+        "prerequisites": [],
+        "name": "Theory for Writers/Writing for Theory",
+        "description": "An advanced seminar open to all writing majors in their senior year. Required for those interested in the Honors Program. It offers an integrative experience by considering key facets of the discipline and profession, including relationships between aesthetics/culture and politics, genre writing, craft/technique, literary theories/theories of writing, and distribution/publication. Restricted to major code LT34 or consent of the instructor and department. "
+    },
+    "LTWR 194": {
+        "prerequisites": [],
+        "name": "Capstone Course for Writing Majors",
+        "description": "Undergraduate instruction assistance. A student will 1) assist TA in editing students\u2019 writing for LTWR 8A-B-C during class and outside of class; and 2) prepare a paper and report for the professor at the end of the quarter. May be taken for credit up to two times. "
+    },
+    "LTWR 195": {
+        "prerequisites": [],
+        "name": "Apprentice Teaching",
+        "description": "Senior thesis research and writing for students who have been accepted for the Literature Honors Program. "
+    },
+    "LTWR 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Tutorial; individual guidance in areas of writing not normally covered in courses. (P/NP grades only.) May be taken for credit three times. "
+    },
+    "LTWR 199": {
+        "prerequisites": [],
+        "name": "Special Studies",
+        "description": "This seminar will be organized around any of various topic areas relating to writing (fiction, poetry, cross-genre, theory). Topics might focus on a genre (film, popular novel, theatre) or on the transformations of a theme or metaphor (nation, femininity, the uncanny). S/U grades only. May be taken for credit three times as content varies. "
+    }
 }

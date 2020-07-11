@@ -1,4 +1,12 @@
 {
-    "TWS 197": [],
-    "TWS 198": []
+    "TWS 197": {
+        "prerequisites": [],
+        "name": "Fieldwork",
+        "description": "Directed group study on a topic or in a field not included in the regular department curriculum, by special arrangement with a faculty member. "
+    },
+    "TWS 198": {
+        "prerequisites": [],
+        "name": "Directed Group Studies",
+        "description": "Tutorial, individual guided reading and research projects (to be arranged between student and instructor) in an area not normally covered in courses currently being offered in the department. (P/NP grades only.) "
+    }
 }

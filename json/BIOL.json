@@ -1,262 +1,674 @@
 {
-    "BILD 2": [],
-    "BILD 51": [],
-    "BILD 60": [],
-    "BILD 70": [],
-    "BILD 96": [],
-    "BILD 98": [],
-    "BILD 99": [],
-    "BIBC 100": [
-        "CHEM 40A",
-        "or",
-        "CHEM 140A",
-        "or",
-        "BENG 120",
-        "and",
-        "CHEM 40B",
-        "or",
-        "CHEM 140B",
-        "or",
-        "BENG 120"
-    ],
-    "BIBC 102": [
-        "CHEM 40A",
-        "or",
-        "CHEM 140A",
-        "or",
-        "BENG 120",
-        "and",
-        "CHEM 40B",
-        "or",
-        "CHEM 140B",
-        "or",
-        "BENG 120"
-    ],
-    "BIBC 103": [],
-    "BIBC 120": [
-        "CHEM 114B"
-    ],
-    "BIBC 140": [],
-    "BIBC 151": [
-        "CHEM 114A",
-        "or",
-        "CHEM 114B"
-    ],
-    "BIBC 194": [],
-    "BICD 100": [],
-    "BICD 101": [],
-    "BICD 102": [
-        "CHEM 114A",
-        "or",
-        "CHEM 114B"
-    ],
-    "BICD 110": [],
-    "BICD 112": [],
-    "BICD 120": [],
-    "BICD 123": [],
-    "BICD 124": [],
-    "BICD 130": [],
-    "BICD 136": [],
-    "BICD 140": [],
-    "BICD 145": [
-        "MATH 10A",
-        "or",
-        "MATH 20A"
-    ],
-    "BICD 156": [],
-    "BICD 194": [
-        "MATH 10A",
-        "and",
-        "MATH 10B"
-    ],
-    "BIEB 100": [],
-    "BIEB 102": [
-        "MATH 11",
-        "or",
-        "SIO 187"
-    ],
-    "BIEB 121": [],
-    "BIEB 123": [],
-    "BIEB 126": [],
-    "BIEB 128": [],
-    "BIEB 130": [
-        "MATH 11"
-    ],
-    "BIEB 131": [],
-    "BIEB 134": [],
-    "BIEB 135": [],
-    "BIEB 140": [],
-    "BIEB 143": [],
-    "BIEB 146": [],
-    "BIEB 150": [],
-    "BIEB 152": [],
-    "BIEB 154": [],
-    "BIEB 166": [],
-    "BIEB 167": [],
-    "BIEB 174": [],
-    "BIEB 176": [],
-    "BIEB 182": [],
-    "BIEB 194": [
-        "CHEM 40A",
-        "or",
-        "CHEM 40AH",
-        "or",
-        "BENG 120",
-        "and",
-        "CHEM 40B",
-        "or",
-        "CHEM 40BH",
-        "or",
-        "BENG 120"
-    ],
-    "BIMM 100": [],
-    "BIMM 101": [
-        "CHEM 114A",
-        "or",
-        "CHEM 114B"
-    ],
-    "BIMM 110": [],
-    "BIMM 112": [],
-    "BIMM 114": [
-        "PSYC 2",
-        "or",
-        "PSYC 106"
-    ],
-    "BIMM 116": [],
-    "BIMM 116B": [
-        "CHEM 114A",
-        "or",
-        "CHEM 114B"
-    ],
-    "BIMM 118": [
-        "CHEM 114A",
-        "or",
-        "CHEM 114B",
-        "and"
-    ],
-    "BIMM 120": [],
-    "BIMM 121": [],
-    "BIMM 122": [
-        "CHEM 114A",
-        "or",
-        "CHEM 114B"
-    ],
-    "BIMM 124": [
-        "CHEM 114A",
-        "or",
-        "CHEM 114B"
-    ],
-    "BIMM 130": [],
-    "BIMM 134": [],
-    "BIMM 140": [],
-    "BIMM 143": [
-        "CHEM 114A"
-    ],
-    "BIMM 149": [
-        "CHEM 114A"
-    ],
-    "BIMM 162": [],
-    "BIMM 164": [],
-    "BIMM 170": [],
-    "BIMM 172": [
-        "CSE 100",
-        "or",
-        "MATH 176",
-        "CSE 101",
-        "or",
-        "MATH 188",
-        "or",
-        "CHEM 114C"
-    ],
-    "BIMM 174": [
-        "CSE 100",
-        "or",
-        "MATH 176"
-    ],
-    "BIMM 181": [
-        "BENG 181",
-        "or",
-        "CSE 181",
-        "or",
-        "BENG 182",
-        "or",
-        "CSE 182",
-        "or",
-        "CHEM 182"
-    ],
-    "BIMM 182": [
-        "BENG 181",
-        "or",
-        "CSE 181",
-        "or",
-        "BENG 182",
-        "or",
-        "CSE 182",
-        "BENG 183",
-        "or",
-        "BENG 184",
-        "or",
-        "CSE 184"
-    ],
-    "BIMM 184": [],
-    "BIMM 185": [],
-    "BIMM 194": [],
-    "BIPN 100": [
-        "CHEM 6A-B-C"
-    ],
-    "BIPN 102": [
-        "CHEM 114B"
-    ],
-    "BIPN 105": [],
-    "BIPN 106": [],
-    "BIPN 108": [],
-    "BIPN 120": [],
-    "BIPN 134": [],
-    "BIPN 140": [
-        "MATH 11"
-    ],
-    "BIPN 142": [
-        "MATH 10A",
-        "or",
-        "MATH 20A",
-        "and",
-        "MATH 10B",
-        "or",
-        "MATH 20B",
-        "and",
-        "MATH 11"
-    ],
-    "BIPN 144": [
-        "MATH 10A",
-        "or",
-        "MATH 20A",
-        "and",
-        "MATH 10B",
-        "or",
-        "MATH 20B",
-        "and",
-        "MATH 11"
-    ],
-    "BIPN 145": [],
-    "BIPN 146": [
-        "CHEM 114B"
-    ],
-    "BIPN 147": [],
-    "BIPN 148": [],
-    "BIPN 150": [
-        "PSYC 102",
-        "or",
-        "PSYC 106"
-    ],
-    "BIPN 152": [],
-    "BIPN 160": [],
-    "BIPN 189": [],
-    "BIPN 194": [],
-    "BISP 170": [],
-    "BISP 191": [],
-    "BISP 192": [],
-    "BISP 193": [],
-    "BISP 194": [],
-    "BISP 195": [],
-    "BISP 196": []
+    "BILD 2": {
+        "prerequisites": [],
+        "name": "Multicellular Life",
+        "description": "An introduction to the development and the physiological processes of plants and animals. Included are treatments of reproduction, nutrition, respiration, transport systems, regulation of the internal environment, the nervous system, and behavior. "
+    },
+    "BILD 51": {
+        "prerequisites": [],
+        "name": "Quantitative Biology Project Lab",
+        "description": "Course covers two important aspects: (1) interdisciplinary and research-based education and (2) teaching fundamental experimental and computational skills in quantitative studies of living systems. Participation by application only. Material lab fees will apply.  "
+    },
+    "BILD 60": {
+        "prerequisites": [],
+        "name": "Exploring Issues of Diversity, Equity, and Inclusion in Relation to Human Biology ",
+        "description": "This course will examine diversity, equity, and inclusion beginning with a biological framework. Focus will be on how underlying biological differences have been used to support bias and prejudice against particular groups such as women, African Americans, and Latinos. This course is approved to meet the campus Diversity, Equity, and Inclusion (DEI) requirement.  "
+    },
+    "BILD 70": {
+        "prerequisites": [],
+        "name": "Genomics Research Initiative Lab I",
+        "description": "Students will isolate bacterial viruses or other organisms from the environment and characterize them by methods including electron microscopy and nucleic acid analysis. The genomic DNA will be purified and sent for sequencing. Restricted to student participants in the Phage Genomics Research program. Renumbered from BIMM 171A. Students may not receive credit for BILD 70 and BIMM 171A. Material lab fees will apply. "
+    },
+    "BILD 96": {
+        "prerequisites": [],
+        "name": "Biology: Honors Seminar",
+        "description": "Weekly seminar providing Biological Sciences Scholars Program students with the opportunity to learn more about research and scholarly activities available to them and acquaints them with UC San Diego faculty members. The course will promote student\u2019s participation in research and other scholarly activities on campus. "
+    },
+    "BILD 98": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Investigation of a topic in biological sciences through directed reading and discussion by a small group of students under the supervision of a faculty member. Students must complete a special studies application. Paperwork for a BILD 98 must be submitted to SIS by Friday of the eighth week of the quarter preceding the quarter in which the 98 will be completed. P/NP grades only. May be taken for credit two times. "
+    },
+    "BILD 99": {
+        "prerequisites": [],
+        "name": "Independent Research",
+        "description": "Independent research by special arrangement with a faculty member. (P/NP grades only.) Students must have an overall UC San Diego GPA of at least 3.0 and a minimum of thirty units complete. Students must complete a Special Studies form and a Division of Biological Sciences Research Plan. Credit may not be received for a course numbered 99 subsequent to receiving credit for a course numbered 199. "
+    },
+    "BIBC 100": {
+        "prerequisites": [
+            "CHEM 40A",
+            "or",
+            "CHEM 140A",
+            "or",
+            "BENG 120",
+            "and",
+            "CHEM 40B",
+            "or",
+            "CHEM 140B",
+            "or",
+            "BENG 120"
+        ],
+        "name": "Structural Biochemistry",
+        "description": "The structure and function of biomolecules. Includes protein conformation, dynamics, and function; enzymatic catalysis, enzyme kinetics, and allosteric regulation; lipids and membranes; sugars and polysaccharides; and nucleic acids. "
+    },
+    "BIBC 102": {
+        "prerequisites": [
+            "CHEM 40A",
+            "or",
+            "CHEM 140A",
+            "or",
+            "BENG 120",
+            "and",
+            "CHEM 40B",
+            "or",
+            "CHEM 140B",
+            "or",
+            "BENG 120"
+        ],
+        "name": "Metabolic Biochemistry",
+        "description": "Energy-producing pathways\u2013glycolysis, the TCA cycle, oxidative phosphorylation, photosynthesis, and fatty acid oxidation; and biosynthetic pathways\u2013gluconeogenesis, glycogen synthesis, and fatty acid biosynthesis. Nitrogen metabolism, urea cycle, amino acid metabolism, nucleotide metabolism, and metabolism of macromolecules. "
+    },
+    "BIBC 103": {
+        "prerequisites": [],
+        "name": "Biochemical Techniques",
+        "description": "Introductory laboratory course in current principles and techniques applicable\n\t\t\t\t  to research problems in biochemistry and molecular biology. Techniques\n\t\t\t\t  include protein and nucleic acid purification; identification methods such\n\t\t\t\t  as centrifugation, chromatography, and electrophoresis; immunological,\n\t\t\t\t  spectrophotometric, and enzymatic methods. Material lab fees will apply. "
+    },
+    "BIBC 120": {
+        "prerequisites": [
+            "CHEM 114B"
+        ],
+        "name": "Nutrition",
+        "description": "Elaborates the relationship between diet and human metabolism, physiology, health, and disease. Covers the functions of carbohydrates, lipids, proteins, vitamins, and minerals, and discusses dietary influences on cardiovascular disease, diabetes, obesity, and cancer. "
+    },
+    "BIBC 140": {
+        "prerequisites": [],
+        "name": "Our Energy Future\u2014Sustainable Energy Solutions ",
+        "description": "Course will provide an overview of energy production and utilization and the consequences of this on the economy and environment. The course will introduce renewable energy technologies including biofuels, and explores the social, economic, and political aspects of energy use.  "
+    },
+    "BIBC 151": {
+        "prerequisites": [
+            "CHEM 114A",
+            "or",
+            "CHEM 114B"
+        ],
+        "name": "Chemistry of Biological Interactions",
+        "description": "Nearly all interactions between organisms, including host-pathogen interactions and mate attraction, have a chemical basis. Plants and microorganisms are the dominant life forms on earth and remain a major source of pharmaceutical leads. Students in this course will utilize biochemical methods to extract, fractionate, and analyze plant and microbial compounds of medicinal and ecological significance including antibiotics, growth regulators, toxins, and signaling molecules. Students use own laptops. Course requires field studies. Transportation not provided by the university. Students must comply with all risk management policies and procedures. Course materials fees will be applied. "
+    },
+    "BIBC 194": {
+        "prerequisites": [],
+        "name": "Advanced Topics in Modern Biology: Biochemistry",
+        "description": "An introduction to the principles of heredity emphasizing diploid organisms. Topics include Mendelian inheritance and deviations from classical Mendelian ratios, pedigree analysis, gene interactions, gene mutation, linkage and gene mapping, reverse genetics, population genetics, and quantitative genetics. "
+    },
+    "BICD 100": {
+        "prerequisites": [],
+        "name": "Genetics",
+        "description": "Course implements key concepts in genetics and genomics such as performing and interpreting results of genetic crosses, analyzing mutations and their phenotypic consequences, analyzing the genetic basis of quantitative traits, and analyzing genome sequences in relation to phenotypic variation. Attendance at the first lecture/lab is required. Nonattendance may result in the student being dropped from the course roster. Recommended preparation: BICD 100. "
+    },
+    "BICD 101": {
+        "prerequisites": [],
+        "name": "Eukaryotic Genetics Laboratory",
+        "description": "Students will interact with primary literature in genetics through reading, writing, and in-class discussions. The focus will be to learn to analyze research data and develop critical thinking skills, while applying concepts in genetics to understand scientific discoveries. Topics may vary from quarter to quarter; examples include but are not limited to genetic basis of complex human traits or genetics and evolution of form and function in organisms. "
+    },
+    "BICD 102": {
+        "prerequisites": [
+            "CHEM 114A",
+            "or",
+            "CHEM 114B"
+        ],
+        "name": "Genetic Inquiry",
+        "description": "The structure and function of cells and cell organelles, cell growth and division, motility, cell differentiation and specialization. "
+    },
+    "BICD 110": {
+        "prerequisites": [],
+        "name": "Cell Biology",
+        "description": "Stem cells maintain homeostasis of nearly all organ systems and the regenerative capacity of certain organisms. Course explores the paradigm of the tissue-specific stem cell, the cellular mechanisms of tissue regeneration, the evolution of stem cells and regenerative capacity over time, the basis of induced pluripotency, and how these basic processes can inform new approaches to human health. "
+    },
+    "BICD 112": {
+        "prerequisites": [],
+        "name": "Stem Cells and Regeneration",
+        "description": "Introduction to the biology of plants with a particular focus on the underlying genetic and molecular mechanisms controlling plant development. Topics include the role of plant hormones and stem cells in the formation of embryos, roots, flowers, and fruit. "
+    },
+    "BICD 120": {
+        "prerequisites": [],
+        "name": "Molecular Basis of Plant Development ",
+        "description": "Techniques in plant cell and tissue culture, plant transformation, genetic selection and screening of mutants, host pathogen interactions, gene regulation, organelle isolation, membrane transport. Attendance at the first lecture/lab is required. Nonattendance may result in the student being dropped from the course roster. Recommended preparation: BICD 120. Material lab fees will apply. "
+    },
+    "BICD 123": {
+        "prerequisites": [],
+        "name": "Plant Molecular Genetics and Biotechnology Laboratory",
+        "description": "Plant immunity protects against pathogens and enables symbioses. This course explores the agents of plant disease, the genetics of inherited immunity, mechanisms of pathogenesis and defense, the coordination of plant immunity by plant hormones, and the regulation of symbioses. "
+    },
+    "BICD 124": {
+        "prerequisites": [],
+        "name": "Plant Innate Immunity",
+        "description": "Developmental biology of animals at the tissue,\n\t\t\t\t  cellular, and molecular levels. Basic processes of embryogenesis\n\t\t\t\t  in a variety of invertebrate and vertebrate organisms. Cellular and molecular\n\t\t\t\t  mechanisms that underlie cell fate determination and cell differentiation.\n\t\t\t\t  More advanced topics such as pattern formation and sex determination are\n\t\t\t\t  discussed. Open to upper-division students only. Recommended preparation: BICD 110 and BIMM 100. "
+    },
+    "BICD 130": {
+        "prerequisites": [],
+        "name": "Embryos, Genes, and Development",
+        "description": "An introduction to all aspects of the AIDS epidemic. Topics will include the epidemiology, biology, and clinical aspects of HIV infection, HIV testing, education and approaches to therapy, and the social, political, and legal impacts of AIDS on the individual and society. In order to count for their major, biology majors must take the upper-division course, BICD 136. "
+    },
+    "BICD 136": {
+        "prerequisites": [],
+        "name": "AIDS Science and Society",
+        "description": "Formation and function of the mammalian immune system, molecular and cellular basis of the immune response, infectious diseases and autoimmunity. "
+    },
+    "BICD 140": {
+        "prerequisites": [],
+        "name": "Immunology",
+        "description": "This course focuses upon a molecular and immunological approach to study problems in modern medical research. The emphasis will be on novel approaches in medicine, including lymphocyte biology, cancer biology, and gene transfer. Material lab fees will apply.  "
+    },
+    "BICD 145": {
+        "prerequisites": [
+            "MATH 10A",
+            "or",
+            "MATH 20A"
+        ],
+        "name": "Laboratory in Molecular Medicine",
+        "description": "How do natural selection, mutation, migration, and genetic drift drive evolution? Students will learn how these forces operate and how to describe them quantitatively with simple mathematical models. We will discuss how to apply this knowledge to understand the spread of drug resistance in pathogens, the evolution of beneficial as well as disease traits in our own species, the evolution of engineered organisms, and more. Renumbered from BIEB 156. Students may not receive credit for BICD 156 and BIEB 156. "
+    },
+    "BICD 156": {
+        "prerequisites": [],
+        "name": "Population Genetics",
+        "description": "Course will vary in title and content. Students are expected to actively participate in course discussions, read, and analyze primary literature. Current descriptions and subtitles may be found on the Schedule of Classes and the Division of Biological Sciences website. Students may receive credit in 194 courses a total of four times as topics vary. Students may not receive credit for the same topic. "
+    },
+    "BICD 194": {
+        "prerequisites": [
+            "MATH 10A",
+            "and",
+            "MATH 10B"
+        ],
+        "name": "Advanced Topics in Modern Biology: Cellular Development",
+        "description": "An interactive introduction to estimation, hypothesis testing, and statistical reasoning. Emphasis on the conceptual and logical basis of statistical ideas. Focus on randomization rather than parametric techniques. Topics include describing data, sampling, bootstrapping, and significance. Mandatory one-hour weekly section. Students may not receive credit for both BIEB 100 and SIO 187. "
+    },
+    "BIEB 100": {
+        "prerequisites": [],
+        "name": "Biostatistics",
+        "description": "This course emphasizes principles shaping organisms, habitats, and ecosystems. Topics covered include population regulation, physiological ecology, competition, predation, and human exploitation. This will be an empirical look at general principles in ecology and conservation with emphasis on the unique organisms and habitats of California. "
+    },
+    "BIEB 102": {
+        "prerequisites": [
+            "MATH 11",
+            "or",
+            "SIO 187"
+        ],
+        "name": "Introductory Ecology-Organisms and Habitat",
+        "description": "A laboratory course to familiarize students with ecological problem solving and methods. Students will perform outdoor fieldwork and use a computer for data exploration and analysis. Fieldwork can be expected in this course. Associated travel may be required, and students are responsible for their own transportation. Students may need to provide and use their own laptop. Material lab fees will apply. "
+    },
+    "BIEB 121": {
+        "prerequisites": [],
+        "name": "Ecology Laboratory",
+        "description": "Theory and practice of molecular biology techniques used in evolutionary and ecological research. Includes isolation and genotyping of DNA, PCR, and its applications. Phylogenetics, biodiversity, bioinformatics, and evolutionary and ecological analysis of molecular data. Material lab fees will apply. Students may not enroll in and receive credit for both BIMM 101 and BIEB 123. Attendance at the first lecture/lab is required. Nonattendance may result in the student being dropped from the course roster. "
+    },
+    "BIEB 123": {
+        "prerequisites": [],
+        "name": "Molecular Methods in Evolution and Ecology Lab",
+        "description": "This course begins with an introduction to plant population biology including whole-plant growth and physiology. We then focus on three classes of ecological interactions: plant-plant competition, plant-herbivore coevolution, and plant reproductive ecology including animal pollination and seed dispersal. "
+    },
+    "BIEB 126": {
+        "prerequisites": [],
+        "name": "Plant Ecology",
+        "description": "Course begins with a survey of insect diversity and phylogenetic relationships. Course then addresses issues such as population dynamics (including outbreaks), movement and migration, competition, predation, herbivory, parasitism, insect defense, mimicry complexes, and sociality. Course also includes discussions of pest management, evolution of insecticide resistance, insect-borne diseases, and how insects are responding to global change. "
+    },
+    "BIEB 128": {
+        "prerequisites": [],
+        "name": "Insect Diversity",
+        "description": "Course integrates principles of ecology and marine biology to examine marine biodiversity loss from overexploitation, habitat loss, invasion, climate change, and pollution. We examine consequences of biodiversity loss to marine ecosystems, discuss management regimes, and address global and local ocean conservation problems. Course includes basic overviews of climate, marine biology, and oceanography that may be similar to topics covered in introductory courses at Scripps Institution of Oceanography. "
+    },
+    "BIEB 130": {
+        "prerequisites": [
+            "MATH 11"
+        ],
+        "name": "Marine Conservation Biology",
+        "description": "A laboratory course introducing students to coastal marine ecology. Students will participate in outdoor fieldwork and work in the laboratory gathering and analyzing ecological data. We will focus on ecological communities from a variety of coastal habitats and use them to learn about basic ecological processes as well as issues related to sustainability and conservation of biodiversity. Fieldwork is expected in this course. Associated travel in the San Diego area is required and students are responsible for their own transportation. Material lab fees will apply. "
+    },
+    "BIEB 131": {
+        "prerequisites": [],
+        "name": "Marine Invertebrate Ecology Lab",
+        "description": "(Cross-listed with SIO 134; however, biology majors must take the course as BIEB 134.) Basics for understanding the ecology of marine communities. The approach is process-oriented, focusing on major functional groups of organisms, their food-web interactions and community response to environmental forcing, and contemporary issues in human and climate influences. "
+    },
+    "BIEB 134": {
+        "prerequisites": [],
+        "name": "Introduction to Biological Oceanography",
+        "description": "Course provides overview of physical, chemical, and biological processes that characterize inland waters (lakes and rivers), estuaries, and near-shore environments. Dominant biota of lakes, rivers, and streams, and how they are related to physical and chemical processes of the systems in which they reside will be covered. Methods will be introduced for assessing the chemical composition of water and detecting organisms that affect drinking water quality and coastal water quality management. Course requires field studies. Students should expect to fully participate in field trips; transportation not provided by the university. Students must comply with all risk management policies/procedures. Material lab fees will apply.  "
+    },
+    "BIEB 135": {
+        "prerequisites": [],
+        "name": "Aquatic Ecology Lab",
+        "description": "An introduction to the patterns of geographic distribution and natural history of plants and animals living in terrestrial and marine ecosystems. We will explore ecological and evolutionary processes responsible for generating and maintaining biological diversity; and the nature of extinction both in past and present ecosystem. "
+    },
+    "BIEB 140": {
+        "prerequisites": [],
+        "name": "Biodiversity",
+        "description": "An introduction to computer modeling in evolution and ecology. Students will use the computer language \u201cR\u201d to write code to analyze ecological and evolutionary processes. Topics include natural selection, genetic drift, community ecology, game theory, and chaos.  Students will use their own laptop computers. "
+    },
+    "BIEB 143": {
+        "prerequisites": [],
+        "name": "Computer Modeling in Evolution and Ecology",
+        "description": "Modern sequencing technology has revolutionized our ability to detect how genomes vary in space among individuals, populations, and communities, and over time. This course will review methods and concepts in ecological and evolutionary genomics that help us understand these differences, including their relevance to health (human microbiome, cancer evolution), evolutionary history (ancestor reconstruction, human evolution), and the environment (effect of climate change). "
+    },
+    "BIEB 146": {
+        "prerequisites": [],
+        "name": "Genome Diversity and Dynamics",
+        "description": "Evolutionary processes are discussed in their genetic, historical, and\n\t\t\t\t  ecological contexts. Population genetics, agents of evolution, microevolution,\n\t\t\t\t  speciation, macroevolution. "
+    },
+    "BIEB 150": {
+        "prerequisites": [],
+        "name": "Evolution",
+        "description": "Treating infectious diseases is a uniquely difficult problem since pathogens often evolve, rendering today\u2019s therapies useless tomorrow. This course will provide a review of concepts and methods in evolutionary medicine, with an emphasis on microbial genomics and molecular evolution. "
+    },
+    "BIEB 152": {
+        "prerequisites": [],
+        "name": "Evolution of Infectious Diseases",
+        "description": "Students will investigate selected in-depth topics in evolutionary biology through reading and writing. Students will read books and articles written for a general audience as well as primary literature. Example topics include the origins of novel features, the impact of human activity and environmental changes on evolutionary processes, the rate and intensity of natural selection, and how our own evolutionary history affects human health. "
+    },
+    "BIEB 154": {
+        "prerequisites": [],
+        "name": "Evolutionary Inquiry",
+        "description": "An integrated approach to animal behavior\n\t\t\t\t  focusing on mechanisms of acoustic, visual, and olfactory communication.\n\t\t\t\t  Course covers ethology and the genetics and neurobiology of behavior; orientation\n\t\t\t\t  and navigation; and signal origins, properties, design, and evolution. "
+    },
+    "BIEB 166": {
+        "prerequisites": [],
+        "name": "Animal Behavior and Communication",
+        "description": "Laboratory exercises will introduce students to quantitative methods of visual, auditory, and olfactory signal analysis and to lab and field studies of animal signaling. "
+    },
+    "BIEB 167": {
+        "prerequisites": [],
+        "name": "Animal Communication Lab",
+        "description": "This course will teach the principles of ecosystem ecology in terrestrial and marine systems and will use examples from recent research to help students understand how global environmental changes are altering processes from leaf-level ecophysiology to global cycling of carbon, water, and nutrients.  Fieldwork may be required. "
+    },
+    "BIEB 174": {
+        "prerequisites": [],
+        "name": "Ecosystems and Global Change",
+        "description": "Discussion of the human predicament, biodiversity crisis, and importance of biological conservation. Examines issues from biological perspectives emphasizing new approaches and new techniques for safeguarding the future of humans and other biosphere inhabitants.\u00a0"
+    },
+    "BIEB 176": {
+        "prerequisites": [],
+        "name": "Biology of Conservation\n\t\t\t\t  and the Human Predicament",
+        "description": "This class will focus on ecological and evolutionary responses to three major anthropogenic stressors\u2014climate change, resource exploitation, and urbanization. Students will learn about the eco-evolutionary changes that are currently happening due to anthropogenic impacts and also predictions about future changes due to such impacts. They will also learn about the economic and societal impacts of such changes and some of the strategies for conservation and sustainability in a changing world. "
+    },
+    "BIEB 182": {
+        "prerequisites": [],
+        "name": "Biology of Global Change",
+        "description": "Course will vary in title and content. Students are expected to actively participate in course discussions, read, and analyze primary literature. Current descriptions and subtitles may be found on the Schedule of Classes and the Division of Biological Sciences website. Students may receive credit in 194 courses a total of four times as topics vary. Students may not receive credit for the same topic. "
+    },
+    "BIEB 194": {
+        "prerequisites": [
+            "CHEM 40A",
+            "or",
+            "CHEM 40AH",
+            "or",
+            "BENG 120",
+            "and",
+            "CHEM 40B",
+            "or",
+            "CHEM 40BH",
+            "or",
+            "BENG 120"
+        ],
+        "name": "Advanced Topics in Modern Biology: Ecology, Behavior, Evolution",
+        "description": "Molecular basis of biological processes, emphasizing gene action in context of entire genome. Chromosomes and DNA metabolism: chromatin, DNA replication, repair, mutation, recombination, transposition. Transcription, protein synthesis, regulation of gene activity. Prokaryotes and eukaryotes. Note: Students will not receive credit for both BIMM 100 and CHEM 114C. "
+    },
+    "BIMM 100": {
+        "prerequisites": [],
+        "name": "Molecular Biology",
+        "description": "Theory and practice of recombinant DNA and molecular biology techniques. Includes construction and screening of DNA libraries, DNA sequencing, PCR and its applications, bioinformatics, and RNA analysis. Nonattendance may result in the student\u2019s being dropped from the course roster. Note: Students may not enroll in or receive credit for both BIMM 101 and BIEB 123, or BIMM 101 and CHEM 109. Material lab fees will apply. "
+    },
+    "BIMM 101": {
+        "prerequisites": [
+            "CHEM 114A",
+            "or",
+            "CHEM 114B"
+        ],
+        "name": "Recombinant DNA Techniques",
+        "description": "An examination of the molecular basis of human diseases. Course emphasizes inherited human disorders, and some important diseases caused by viruses. Focus on the application of genetic, biochemical, and molecular biological principles to an understanding of the diseases.  "
+    },
+    "BIMM 110": {
+        "prerequisites": [],
+        "name": "Molecular Basis of Human Disease",
+        "description": "This course explores the mechanisms by which gene activity is regulated in eukaryotes, with an emphasis on transcriptional regulation and chromatin. Topics will include chromatin structure, histone modifications, chromatin dynamics, transcription factors, transcriptional elongation, enhancers, CpG methylation, heterochromatin, and epigenetics. "
+    },
+    "BIMM 112": {
+        "prerequisites": [],
+        "name": "Regulation of Eukaryotic Gene Expressions ",
+        "description": "An introduction to eukaryotic virology, with emphasis on animal virus systems. Topics discussed include the molecular structure of viruses; the multiplication strategies of the major virus families; and viral latency, persistence, and oncology. "
+    },
+    "BIMM 114": {
+        "prerequisites": [
+            "PSYC 2",
+            "or",
+            "PSYC 106"
+        ],
+        "name": "Virology",
+        "description": "(Cross-listed with Psych 133; however, biology majors must take the course as BIMM 116.) This interdisciplinary course provides an overview of the fundamental properties of daily biological clocks of diverse species, from humans to microbes. Emphasis is placed on the relevance of internal time keeping in wide-ranging contexts including human performance, health, and industry. "
+    },
+    "BIMM 116": {
+        "prerequisites": [],
+        "name": "Circadian Rhythms\u2014Biological Clocks",
+        "description": "The BioClock Studio is an innovative course in which a team of undergraduate students, drawn from diverse disciplines, will work collaboratively to develop their scientific and communicative skills to produce creative educational materials that will enhance understanding of circadian biology. Students are expected to attend the annual Circadian Biology Symposium held each winter, to the extent course schedules allow, to conduct interviews with prominent scientists. BIMM 116 is not a prerequisite to enroll in BIMM 116B. May be taken for credit three times. "
+    },
+    "BIMM 116B": {
+        "prerequisites": [
+            "CHEM 114A",
+            "or",
+            "CHEM 114B"
+        ],
+        "name": "BioClock Studio",
+        "description": "Basics of pharmacology such as drug absorption, distribution, metabolism, and elimination. Concepts in toxicology and pharmacognosy are used to survey the major drug categories. "
+    },
+    "BIMM 118": {
+        "prerequisites": [
+            "CHEM 114A",
+            "or",
+            "CHEM 114B",
+            "and"
+        ],
+        "name": "Pharmacology",
+        "description": "A discussion of the structure, growth, physiology, molecular genetics, genomics, and ecology of prokaryotic microorganisms, with emphasis on the genetic and metabolic diversity of bacteria and Archaea and their interactions with hosts and the environment. "
+    },
+    "BIMM 120": {
+        "prerequisites": [],
+        "name": "Microbiology",
+        "description": "Techniques in microbial physiology, microbial genomics, microbial evolution, and microbial ecology will be used to explore the role of microbes in industry, health, and the environment. Inquiry-based experiments will cover the fundamentals of both working with live microscopic organisms at the bench and bioinformatically analyzing their genomes at the computer. Attendance at the first lecture/lab is required. Nonattendance may result in the student being dropped from the course roster.  Material lab fees will apply. "
+    },
+    "BIMM 121": {
+        "prerequisites": [],
+        "name": "Microbiology Laboratory",
+        "description": "Course will consider the organization and function of prokaryotic genomes including content, DNA supercoiling, histone-like proteins, chromosomal dynamics (short-term and long-term), extrachromosomal elements, bacterial sex, transduction, transformation, mobile elements (transposon), epigenetic change, adaptive and directed mutation, transcription and its regulation, sensory transduction, bacterial differentiation, symbiosis, and pathogenesis. "
+    },
+    "BIMM 122": {
+        "prerequisites": [
+            "CHEM 114A",
+            "or",
+            "CHEM 114B"
+        ],
+        "name": "Microbial Genetics",
+        "description": "Encompasses the increasingly important areas\n\t\t\t\t  of viral, bacterial, and parasitic diseases and understanding the complex\n\t\t\t\t  interaction between humans and infectious agents. Covers human-pathogen\n\t\t\t\t  interactions, mechanisms and molecular principles of infectious diseases,\n\t\t\t\t  immune responses, countermeasures by pathogens and hosts, epidemiology,\n\t\t\t\t  and cutting-edge approaches to therapy. "
+    },
+    "BIMM 124": {
+        "prerequisites": [
+            "CHEM 114A",
+            "or",
+            "CHEM 114B"
+        ],
+        "name": "Medical Microbiology",
+        "description": "Prokaryotic cell biology will be discussed primarily from physiological and biochemical standpoints with a focus on conceptual understanding, integration, and mechanism. Topics will vary from year to year but will include the following themes: bioenergetics, cell polarity, cell adhesion, the molecular basis of morphogenesis and differentiation, prokaryotic motility and behavior, rotary and linear molecular machines, bacterial organelles, pheromones and messengers, circadian rhythms, biological warfare, and bioremediation. "
+    },
+    "BIMM 130": {
+        "prerequisites": [],
+        "name": "Microbial Physiology",
+        "description": "Course considers problems in biology that were solved using quantitative biology approaches. Problems will range from the molecular to the population level. Students will learn about the scientific method and process, and how to apply it. "
+    },
+    "BIMM 134": {
+        "prerequisites": [],
+        "name": "Biology of Cancer",
+        "description": "Bioinformatics is the analysis of big data in the biosciences. This course provides a hands-on introduction to the computer-based analysis of biomolecular and genomic data. Major topic areas include advances in sequencing technologies, genome resequencing and variation analysis, transcriptomics, structural bioinformatics, and personal genomics. This course will utilize free, web-based bioinformatics tools and no programming skills are required. "
+    },
+    "BIMM 140": {
+        "prerequisites": [],
+        "name": "Quantitative Principles in Biology",
+        "description": "Course will provide students with the computational tools and problem-solving skills that are increasingly important to the biosciences. Students learn to program in a modern general-purpose programming language and write their own programs to explore a variety of applications in biology including simulations, sequence analysis, phylogenetics, among others. Students will use their own laptop computers. "
+    },
+    "BIMM 143": {
+        "prerequisites": [
+            "CHEM 114A"
+        ],
+        "name": "Bioinformatics Laboratory",
+        "description": "The resolution revolution in cryo-electron microscopy has made this a key technology for the high-resolution determination of structures of macromolecular complexes, organelles, and cells.\u00a0The basic principles of transmission electron microscopy, modern cryo-electron microscopy, image acquisition, and 3-D reconstruction will be discussed. Examples from the research literature using this state-of-the-art technology will also be discussed. May be coscheduled with BGGN 262/CHEM 265. Note: Students may not receive credit for both BIMM 162 and CHEM 165. Recommended preparation: PHYS 1C or 2C. "
+    },
+    "BIMM 149": {
+        "prerequisites": [
+            "CHEM 114A"
+        ],
+        "name": "Computation for Biologists",
+        "description": "An introduction to virus structures, how they are determined,\n                  and how they facilitate the various stages of the viral life\n                  cycle from host recognition and entry to replication, assembly,\n                  release, and transmission to uninfected host cells. "
+    },
+    "BIMM 162": {
+        "prerequisites": [],
+        "name": "3-D Cryo-Electron Microscopy of Macromolecules and Cells ",
+        "description": "Students will characterize the genomic sequence of the organisms isolated in BILD 70 and use molecular and computational tools to resolve ambiguities and close gaps. They will then annotate the DNA sequence to identify protein and RNA coding regions. Renumbered from BIMM 171B. Students may not receive credit for BIMM 170 and BIMM 171B. Material lab fees will apply. "
+    },
+    "BIMM 164": {
+        "prerequisites": [],
+        "name": "Structural Biology of Viruses",
+        "description": "Genomes are the immortal agents of evolution, passing from one individual to another in an unbroken line since the origin of life. This course explores the structure of genomes, the functions of its parts on a genome scale, the mechanisms of genome change, and the applications of genomic methods and knowledge. "
+    },
+    "BIMM 170": {
+        "prerequisites": [],
+        "name": "\t\t\t\t  Genomics Research Initiative Laboratory II",
+        "description": "Imagine a world in which you can input your lifestyle and genomic information into an app to obtain personalized health recommendations. This world is not thirty years in the future but beginning to unfold now. Course reviews how genomic advances are revolutionizing health care. Includes recent developments in personalized medicine, disease screening, targeted immunotherapy, pharmacogenomics, and our emerging understanding of how microbiome and epigenetic factors impact health. "
+    },
+    "BIMM 172": {
+        "prerequisites": [
+            "CSE 100",
+            "or",
+            "MATH 176",
+            "CSE 101",
+            "or",
+            "MATH 188",
+            "or",
+            "CHEM 114C"
+        ],
+        "name": "Genome Science",
+        "description": "This course covers the analysis of nucleic acid and protein sequences, with an emphasis on the application of algorithms to biological problems. Topics include sequence alignments, database searching, comparative genomics, and phylogenetic and clustering analyses. Pairwise alignment, multiple alignment, DNA sequencing, scoring functions, fast database search, comparative genomics, clustering, phylogenetic trees, gene finding/DNA statistics. This course open to bioinformatics majors only. "
+    },
+    "BIMM 174": {
+        "prerequisites": [
+            "CSE 100",
+            "or",
+            "MATH 176"
+        ],
+        "name": "Genomics, Big Data, and Human Health",
+        "description": "This course provides an introduction to the features of biological data, how that data is organized efficiently in databases, and how existing data resources can be utilized to solve a variety of biological problems. Object-oriented databases, data modeling and description, survey of current biological database with respect to above, implementation of database focused on a biological topic. This course open to bioinformatics majors only. "
+    },
+    "BIMM 181": {
+        "prerequisites": [
+            "BENG 181",
+            "or",
+            "CSE 181",
+            "or",
+            "BENG 182",
+            "or",
+            "CSE 182",
+            "or",
+            "CHEM 182"
+        ],
+        "name": "Molecular Sequence Analysis",
+        "description": "This advanced course covers the application\n\t\t\t\t  of machine learning and modeling techniques to biological systems.\n\t\t\t\t  Topics include gene structure, recognition of DNA and protein\n\t\t\t\t  sequence patterns, classification, and protein structure prediction. Pattern\n\t\t\t\t  discovery, hidden Markov models/support vector machines/neural network/profiles,\n\t\t\t\t  protein structure prediction, functional characterization of\n\t\t\t\t  proteins, functional genomics/proteomics, metabolic pathways/gene networks.\t\t\t\t  "
+    },
+    "BIMM 182": {
+        "prerequisites": [
+            "BENG 181",
+            "or",
+            "CSE 181",
+            "or",
+            "BENG 182",
+            "or",
+            "CSE 182",
+            "BENG 183",
+            "or",
+            "BENG 184",
+            "or",
+            "CSE 184"
+        ],
+        "name": "Biological Databases",
+        "description": "This course emphasizes the hands-on application\n\t\t\t\t  of bioinformatics methods to biological problems. Students\n\t\t\t\t  will gain experience in the application of existing software, as well as\n\t\t\t\t  in combining approaches to answer specific biological questions. Sequence\n\t\t\t\t  alignment, fast database search, profiles and motifs, comparative\n\t\t\t\t  genomics, gene finding, phylogenetic trees, protein structure, functional\n\t\t\t\t  characterization of proteins, expression analysis, computational proteomics.\n\t\t\t\t  This course open to bioinformatics majors only. "
+    },
+    "BIMM 184": {
+        "prerequisites": [],
+        "name": "Computational Molecular Biology",
+        "description": "Course will vary in title and content. Students are expected to actively participate in course discussions, read, and analyze primary literature. Current descriptions and subtitles may be found on the Schedule of Classes and the Division of Biological Sciences website. Students may receive credit in 194 courses a total of four times as topics vary. Students may not receive credit for the same topic. "
+    },
+    "BIMM 185": {
+        "prerequisites": [],
+        "name": "Bioinformatics Laboratory",
+        "description": "Course introduces the concepts of physiological regulation, controlled and integrated by the nervous and endocrine systems. Course then examines the muscular, cardiovascular, and renal systems in detail and considers their control through the interaction of nervous activity and hormones. Note: Students may not receive credit for both BIPN 100 and BENG 140A. "
+    },
+    "BIMM 194": {
+        "prerequisites": [],
+        "name": "Advanced Topics in Modern Biology: Molecular Biology",
+        "description": "Course completes a survey of organ systems begun in BIPN 100 by considering the respiratory and gastrointestinal systems. Consideration is given to interactions of these systems in weight and temperature regulation, exercise physiology, stress, and pregnancy and reproduction. Note: Students may not receive credit for both BIPN 102 and BENG 140B. "
+    },
+    "BIPN 100": {
+        "prerequisites": [
+            "CHEM 6A-B-C"
+        ],
+        "name": "Human Physiology I",
+        "description": "This course examines the physiological adaptation\n\t\t\t\t  of animals, invertebrates and vertebrates, to their particular environmental\n\t\t\t\t  and behavioral niches. Structural, functional, and molecular adaptations\n\t\t\t    of the basic organ systems are discussed. "
+    },
+    "BIPN 102": {
+        "prerequisites": [
+            "CHEM 114B"
+        ],
+        "name": "Human Physiology II",
+        "description": "Course addresses the human body\u2019s response to exercise, addressing energy metabolism and the effects of both acute and chronic exercise on function in several important organ systems. Designing training regimes and the role of exercise in health will be considered.  "
+    },
+    "BIPN 105": {
+        "prerequisites": [],
+        "name": "Animal Physiology Lab",
+        "description": "Normal function and diseases of the major hormone systems of the body including the hypothalamus/pituitary axis, the thyroid gland, reproduction and sexual development, metabolism and the pancreas, bone and calcium metabolism, and the adrenal glands. Students may not receive credit for both BIPN 120 and BICD 150. "
+    },
+    "BIPN 106": {
+        "prerequisites": [],
+        "name": "Comparative Physiology",
+        "description": "Course focuses on physiological aspects of the human reproductive systems. Emphasis will be on cellular and systems physiology. Topics will include: reproductive endocrinology, gametogenesis, fertilization and implantation, pregnancy and parturition, development of reproductive systems, and reproductive pathologies. Students may not receive credit for both BIPN 134 and BICD 134. "
+    },
+    "BIPN 108": {
+        "prerequisites": [],
+        "name": "Biology and Medicine of Exercise",
+        "description": "This course covers the biophysics of the resting and active membranes of nerve cells. It also covers the mechanisms of sensory transduction and neuromodulation, as well as the molecular basis of nerve cell function. "
+    },
+    "BIPN 120": {
+        "prerequisites": [],
+        "name": "Endocrinology",
+        "description": "Course will cover integrated networks of nerve cells, including simple circuits like those involved in spinal reflexes.\u00a0Course will study how information and motor output is integrated and processed in the brain. Course will also discuss higher-level neural processing. "
+    },
+    "BIPN 134": {
+        "prerequisites": [],
+        "name": "Human Reproduction",
+        "description": "Molecular basis of neuronal cell fate determination, axon pathfinding, synaptogenesis experience-based refinement of connections, and learning in the brain will be examined. "
+    },
+    "BIPN 140": {
+        "prerequisites": [
+            "MATH 11"
+        ],
+        "name": "Cellular Neurobiology",
+        "description": "Students will gain experience with an array of methods used in modern neurobiology, including electrophysiology, optogenetics, and big data analysis. This laboratory course begins with the electric and chemical underpinnings of the nervous system and then dives into innovative techniques that we can use to study and change it. Attendance at the first lecture/lab is required. Nonattendance may result in the student being dropped from the course roster. Material lab fee will apply. "
+    },
+    "BIPN 142": {
+        "prerequisites": [
+            "MATH 10A",
+            "or",
+            "MATH 20A",
+            "and",
+            "MATH 10B",
+            "or",
+            "MATH 20B",
+            "and",
+            "MATH 11"
+        ],
+        "name": "Systems Neurobiology",
+        "description": "Biophysical models of neurons and small neural circuits, including ion channels, synapses, dendrites, and neuromodulators. Analysis of neurons as nonlinear dynamical systems. This course and BIPN 147 are taught in alternate years. "
+    },
+    "BIPN 144": {
+        "prerequisites": [
+            "MATH 10A",
+            "or",
+            "MATH 20A",
+            "and",
+            "MATH 10B",
+            "or",
+            "MATH 20B",
+            "and",
+            "MATH 11"
+        ],
+        "name": "Developmental Neurobiology",
+        "description": "Models of neural coding and computation in the olfactory, visual, auditory, and somatosensory systems. Models of the motor system including central pattern generators, reinforcement learning, and motor cortex. Models of memory systems including working memory, long term memory, and memory consolidation. This course and BIPN 146 are taught in alternate years. "
+    },
+    "BIPN 145": {
+        "prerequisites": [],
+        "name": "Neurobiology Laboratory",
+        "description": "Course will explore cellular and molecular mechanisms that underlie learning and memory. Topics will include synapse formation and synaptic plasticity, neurotransmitter systems and their receptors, mechanisms of synaptic modification, and effect of experience on neuronal connectivity, and gene expression. "
+    },
+    "BIPN 146": {
+        "prerequisites": [
+            "CHEM 114B"
+        ],
+        "name": "Computational Cellular Neurobiology",
+        "description": "Course will be taught from a research perspective, highlighting the biological pathways impacted by different neurological diseases. Each disease covered will be used to illustrate a key molecular/cellular pathway involved in proper neurological function. "
+    },
+    "BIPN 147": {
+        "prerequisites": [],
+        "name": "Computational Systems Neurobiology",
+        "description": "Covers the clinical symptoms, treatment, and molecular mechanisms of neurological, neurodevelopmental, and neuropsychiatric disorders. Emphasis on understanding methods and developing the ability to read and evaluate the scientific literature. "
+    },
+    "BIPN 148": {
+        "prerequisites": [],
+        "name": "Cellular Basis of Learning and Memory",
+        "description": "The course will cover a broad anatomical and functional description of the human nervous system and explore evidence implicating key brain areas in specific functions. This course will discuss modern techniques and the use of model organisms for dissecting the anatomical organization of the brain. "
+    },
+    "BIPN 150": {
+        "prerequisites": [
+            "PSYC 102",
+            "or",
+            "PSYC 106"
+        ],
+        "name": "Diseases of the Nervous System",
+        "description": "This course provides a survey of natural behaviors, including birdsong, prey capture, localization, electroreception and echolocation, and the neural systems that control them, emphasizing broad fundamental relationships between brain and behavior across species. Note: Students may not receive credit for PSYC 189 and BIPN 189. "
+    },
+    "BIPN 152": {
+        "prerequisites": [],
+        "name": "The Healthy and Diseased Brain",
+        "description": "Course will vary in title and content. Students are expected to actively participate in course discussions, read, and analyze primary literature. Current descriptions and subtitles may be found on the Schedule of Classes and the Division of Biological Sciences website. Students may receive credit in 194 courses a total of four times as topics vary. Students may not receive credit for the same topic. "
+    },
+    "BIPN 160": {
+        "prerequisites": [],
+        "name": "Neuroanatomy",
+        "description": "Course will examine different aspects of a current topic in biology and will include several speakers. Each speaker will introduce the scientific foundation of the chosen theme (\u201cbench\u201d), describe practical applications of their subject (\u201cbedside\u201d), and consider social and ethical implications of the topic (\u201cbeyond\u201d). The theme of the course will vary from year to year, and speakers will come from a variety of disciplines relevant to the theme. May be taken for credit three times. "
+    },
+    "BIPN 189": {
+        "prerequisites": [],
+        "name": "Brain, Behavior, and Evolution",
+        "description": "Course is designed to assist new transfers in making a smooth and informed transition from community college.\u00a0Lectures focus on study skills, academic planning and using divisional and campus resources to help achieve academic, personal and professional goals. Exercises and practicums will develop the problem-solving skills needed to succeed in biology. Attention will be given to research possibilities. Intended for new transfers. "
+    },
+    "BIPN 194": {
+        "prerequisites": [],
+        "name": "Advanced Topics in Modern Biology: Physiology and Neuroscience",
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in biology (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+    },
+    "BISP 170": {
+        "prerequisites": [],
+        "name": "Bioscholars Seminar: From Bench to Bedside and Beyond",
+        "description": "Individual research on a problem in biology education by special arrangement with and under the direction of a faculty member. Projects are expected to involve novel research that examines issues in biology education such as the science of learning, evidence of effective teaching, and equity and inclusion in the classroom. P/PN grades only. May be taken for credit five times. "
+    },
+    "BISP 191": {
+        "prerequisites": [],
+        "name": "Biology Transfers: Strategies for Success",
+        "description": "Course will vary in title and content. Students are expected to actively participate in course discussions, read, and analyze primary literature. Current descriptions and subtitles may be found on the Schedule of Classes and the Division of Biological Sciences website. Students may receive credit in 194 courses a total of four times as topics vary. Students may not receive credit for the same topic. "
+    },
+    "BISP 192": {
+        "prerequisites": [],
+        "name": "Senior Seminar in Biology",
+        "description": "Course for student participants in the senior Honors thesis research program. Students complete individual research on a problem by special arrangement with, and under the direction of, a faculty member. Projects are expected to involve primary, experimental/analytical approaches that augment training in basic biology and that echo the curricular focus of the Division of Biological Sciences. P/NP grades only. May be taken for credit three times. Research to be approved by Honors thesis faculty adviser via application.\u00a0Note: Students must apply to the division via the online system. For complete details, applications, and deadlines, please consult the Division of Biological Sciences website. Application deadlines are strictly enforced. "
+    },
+    "BISP 193": {
+        "prerequisites": [],
+        "name": "Biology Education Research",
+        "description": "Individual research on a problem by special arrangement with, and under the direction of, a UC San Diego faculty member and a selected researcher in industry or at a research institution. Projects are expected to involve primary, experimental/analytical approaches that augment training in basic biology and that echo the curricular focus of the Division of Biological Sciences. Application deadlines are strictly enforced. Consult the Division of Biological Sciences website for deadlines. Students must comply with all risk management policies/procedures. P/NP grades only. May be taken for credit three times. "
+    },
+    "BISP 194": {
+        "prerequisites": [],
+        "name": "Advanced Topics in Modern Biology",
+        "description": "Investigation of a topic in biological sciences through directed reading and discussion by a small group of students under the supervision of a faculty member. P/NP grades only. May be taken for credit two times. "
+    },
+    "BISP 195": {
+        "prerequisites": [],
+        "name": "Undergraduate Instructional Apprenticeship in Biological Sciences ",
+        "description": "Individual research on a problem by special arrangement with, and under the direction of, a faculty member. Projects are expected to involve primary, experimental/analytical approaches that augment training in basic biology and that echo the curricular focus of the Division of Biological Sciences. P/NP grades only. May be taken for credit five times. Note: Students must apply to the division via the online system. For complete details, applications, and deadlines, please consult the Division of Biological Sciences website. Application deadlines are strictly enforced. "
+    },
+    "BISP 196": {
+        "prerequisites": [],
+        "name": "Honors Thesis in Biological Sciences",
+        "description": "Course will cover fundamental\n                  issues in academia, including campus resources, research design,\n                  ethical issues in research, scientific publishing and review,\n                  grant preparation, etc. Required of all first-year doctoral students\n                  in the Division of Biological Sciences. S/U grades only. "
+    }
 }

@@ -1,0 +1,262 @@
+{
+    "BILD 2": [],
+    "BILD 51": [],
+    "BILD 60": [],
+    "BILD 70": [],
+    "BILD 96": [],
+    "BILD 98": [],
+    "BILD 99": [],
+    "BIBC 100": [
+        "CHEM 40A",
+        "or",
+        "CHEM 140A",
+        "or",
+        "BENG 120",
+        "and",
+        "CHEM 40B",
+        "or",
+        "CHEM 140B",
+        "or",
+        "BENG 120"
+    ],
+    "BIBC 102": [
+        "CHEM 40A",
+        "or",
+        "CHEM 140A",
+        "or",
+        "BENG 120",
+        "and",
+        "CHEM 40B",
+        "or",
+        "CHEM 140B",
+        "or",
+        "BENG 120"
+    ],
+    "BIBC 103": [],
+    "BIBC 120": [
+        "CHEM 114B"
+    ],
+    "BIBC 140": [],
+    "BIBC 151": [
+        "CHEM 114A",
+        "or",
+        "CHEM 114B"
+    ],
+    "BIBC 194": [],
+    "BICD 100": [],
+    "BICD 101": [],
+    "BICD 102": [
+        "CHEM 114A",
+        "or",
+        "CHEM 114B"
+    ],
+    "BICD 110": [],
+    "BICD 112": [],
+    "BICD 120": [],
+    "BICD 123": [],
+    "BICD 124": [],
+    "BICD 130": [],
+    "BICD 136": [],
+    "BICD 140": [],
+    "BICD 145": [
+        "MATH 10A",
+        "or",
+        "MATH 20A"
+    ],
+    "BICD 156": [],
+    "BICD 194": [
+        "MATH 10A",
+        "and",
+        "MATH 10B"
+    ],
+    "BIEB 100": [],
+    "BIEB 102": [
+        "MATH 11",
+        "or",
+        "SIO 187"
+    ],
+    "BIEB 121": [],
+    "BIEB 123": [],
+    "BIEB 126": [],
+    "BIEB 128": [],
+    "BIEB 130": [
+        "MATH 11"
+    ],
+    "BIEB 131": [],
+    "BIEB 134": [],
+    "BIEB 135": [],
+    "BIEB 140": [],
+    "BIEB 143": [],
+    "BIEB 146": [],
+    "BIEB 150": [],
+    "BIEB 152": [],
+    "BIEB 154": [],
+    "BIEB 166": [],
+    "BIEB 167": [],
+    "BIEB 174": [],
+    "BIEB 176": [],
+    "BIEB 182": [],
+    "BIEB 194": [
+        "CHEM 40A",
+        "or",
+        "CHEM 40AH",
+        "or",
+        "BENG 120",
+        "and",
+        "CHEM 40B",
+        "or",
+        "CHEM 40BH",
+        "or",
+        "BENG 120"
+    ],
+    "BIMM 100": [],
+    "BIMM 101": [
+        "CHEM 114A",
+        "or",
+        "CHEM 114B"
+    ],
+    "BIMM 110": [],
+    "BIMM 112": [],
+    "BIMM 114": [
+        "PSYC 2",
+        "or",
+        "PSYC 106"
+    ],
+    "BIMM 116": [],
+    "BIMM 116B": [
+        "CHEM 114A",
+        "or",
+        "CHEM 114B"
+    ],
+    "BIMM 118": [
+        "CHEM 114A",
+        "or",
+        "CHEM 114B",
+        "and"
+    ],
+    "BIMM 120": [],
+    "BIMM 121": [],
+    "BIMM 122": [
+        "CHEM 114A",
+        "or",
+        "CHEM 114B"
+    ],
+    "BIMM 124": [
+        "CHEM 114A",
+        "or",
+        "CHEM 114B"
+    ],
+    "BIMM 130": [],
+    "BIMM 134": [],
+    "BIMM 140": [],
+    "BIMM 143": [
+        "CHEM 114A"
+    ],
+    "BIMM 149": [
+        "CHEM 114A"
+    ],
+    "BIMM 162": [],
+    "BIMM 164": [],
+    "BIMM 170": [],
+    "BIMM 172": [
+        "CSE 100",
+        "or",
+        "MATH 176",
+        "CSE 101",
+        "or",
+        "MATH 188",
+        "or",
+        "CHEM 114C"
+    ],
+    "BIMM 174": [
+        "CSE 100",
+        "or",
+        "MATH 176"
+    ],
+    "BIMM 181": [
+        "BENG 181",
+        "or",
+        "CSE 181",
+        "or",
+        "BENG 182",
+        "or",
+        "CSE 182",
+        "or",
+        "CHEM 182"
+    ],
+    "BIMM 182": [
+        "BENG 181",
+        "or",
+        "CSE 181",
+        "or",
+        "BENG 182",
+        "or",
+        "CSE 182",
+        "BENG 183",
+        "or",
+        "BENG 184",
+        "or",
+        "CSE 184"
+    ],
+    "BIMM 184": [],
+    "BIMM 185": [],
+    "BIMM 194": [],
+    "BIPN 100": [
+        "CHEM 6A-B-C"
+    ],
+    "BIPN 102": [
+        "CHEM 114B"
+    ],
+    "BIPN 105": [],
+    "BIPN 106": [],
+    "BIPN 108": [],
+    "BIPN 120": [],
+    "BIPN 134": [],
+    "BIPN 140": [
+        "MATH 11"
+    ],
+    "BIPN 142": [
+        "MATH 10A",
+        "or",
+        "MATH 20A",
+        "and",
+        "MATH 10B",
+        "or",
+        "MATH 20B",
+        "and",
+        "MATH 11"
+    ],
+    "BIPN 144": [
+        "MATH 10A",
+        "or",
+        "MATH 20A",
+        "and",
+        "MATH 10B",
+        "or",
+        "MATH 20B",
+        "and",
+        "MATH 11"
+    ],
+    "BIPN 145": [],
+    "BIPN 146": [
+        "CHEM 114B"
+    ],
+    "BIPN 147": [],
+    "BIPN 148": [],
+    "BIPN 150": [
+        "PSYC 102",
+        "or",
+        "PSYC 106"
+    ],
+    "BIPN 152": [],
+    "BIPN 160": [],
+    "BIPN 189": [],
+    "BIPN 194": [],
+    "BISP 170": [],
+    "BISP 191": [],
+    "BISP 192": [],
+    "BISP 193": [],
+    "BISP 194": [],
+    "BISP 195": [],
+    "BISP 196": []
+}

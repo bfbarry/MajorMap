@@ -1,0 +1,583 @@
+{
+    "MATH 2": [],
+    "MATH 3C": [],
+    "MATH 4C": [
+        "MATH 3C"
+    ],
+    "MATH 10A": [
+        "MATH 3C",
+        "or",
+        "MATH 4C"
+    ],
+    "MATH 10B": [
+        "MATH 10A",
+        "or",
+        "MATH 20A"
+    ],
+    "MATH 10C": [
+        "MATH 10B",
+        "or",
+        "MATH 20B"
+    ],
+    "MATH 11": [
+        "MATH 10B",
+        "or",
+        "MATH 20B"
+    ],
+    "MATH 15A": [
+        "CSE 8B",
+        "or",
+        "CSE 11"
+    ],
+    "MATH 18": [
+        "MATH 3C",
+        "or",
+        "MATH 4C",
+        "or",
+        "MATH 10A",
+        "or",
+        "MATH 20A"
+    ],
+    "MATH 20A": [
+        "MATH 2C",
+        "MATH 4C",
+        "or",
+        "MATH 10A"
+    ],
+    "MATH 20B": [
+        "MATH 20A",
+        "MATH 10B",
+        "MATH 10C"
+    ],
+    "MATH 20C": [
+        "MATH 20B"
+    ],
+    "MATH 20D": [
+        "MATH 20C",
+        "MATH 21C",
+        "or",
+        "MATH 31BH"
+    ],
+    "MATH 20E": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C",
+        "MATH 21C",
+        "or",
+        "MATH 31BH"
+    ],
+    "MATH 31AH": [],
+    "MATH 31BH": [
+        "MATH 31AH"
+    ],
+    "MATH 31CH": [
+        "MATH 31BH"
+    ],
+    "MATH 87": [],
+    "MATH 95": [],
+    "MATH 96": [
+        "MATH 20A"
+    ],
+    "MATH 99R": [],
+    "MATH 100A": [
+        "MATH 31CH",
+        "or",
+        "MATH 109"
+    ],
+    "MATH 100B": [
+        "MATH 100A"
+    ],
+    "MATH 100C": [
+        "MATH 100B"
+    ],
+    "MATH 102": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C"
+    ],
+    "MATH 103A": [
+        "MATH 31CH",
+        "or",
+        "MATH 109"
+    ],
+    "MATH 103B": [
+        "MATH 103A",
+        "or",
+        "MATH 100A"
+    ],
+    "MATH 104A": [
+        "MATH 100B",
+        "or",
+        "MATH 103B"
+    ],
+    "MATH 104B": [
+        "MATH 104A"
+    ],
+    "MATH 104C": [],
+    "MATH 105": [
+        "MATH 31CH",
+        "or",
+        "MATH 109"
+    ],
+    "MATH 106": [
+        "MATH 100B",
+        "or",
+        "MATH 103B"
+    ],
+    "MATH 109": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C"
+    ],
+    "MATH 110": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20D",
+        "and",
+        "MATH 20E",
+        "or",
+        "MATH 31CH"
+    ],
+    "MATH 111A": [
+        "MATH 20D",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 109",
+        "or",
+        "MATH 31CH"
+    ],
+    "MATH 111B": [
+        "MATH 111A"
+    ],
+    "MATH 112A": [
+        "MATH 11",
+        "or",
+        "MATH 180A",
+        "or",
+        "MATH 183",
+        "or",
+        "MATH 186",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20D",
+        "and"
+    ],
+    "MATH 112B": [
+        "MATH 112A",
+        "and",
+        "MATH 110",
+        "and",
+        "MATH 180A"
+    ],
+    "MATH 114": [
+        "MATH 180A"
+    ],
+    "MATH 120A": [
+        "MATH 20E",
+        "or",
+        "MATH 31CH"
+    ],
+    "MATH 120B": [
+        "MATH 120A"
+    ],
+    "MATH 121A": [
+        "EDS 30/MATH"
+    ],
+    "MATH 121B": [
+        "EDS 121A/MATH"
+    ],
+    "MATH 130": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20D"
+    ],
+    "MATH 140A": [
+        "MATH 31CH",
+        "or",
+        "MATH 109"
+    ],
+    "MATH 140B": [
+        "MATH 140A"
+    ],
+    "MATH 140C": [
+        "MATH 140B"
+    ],
+    "MATH 142A": [
+        "MATH 31CH",
+        "or",
+        "MATH 109"
+    ],
+    "MATH 142B": [
+        "MATH 142A",
+        "or",
+        "MATH 140A"
+    ],
+    "MATH 144": [
+        "MATH 140B",
+        "or",
+        "MATH 142B"
+    ],
+    "MATH 146": [
+        "MATH 140B",
+        "or",
+        "MATH 142B"
+    ],
+    "MATH 148": [
+        "MATH 140B",
+        "or",
+        "MATH 142B"
+    ],
+    "MATH 150A": [
+        "MATH 20E",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH"
+    ],
+    "MATH 150B": [
+        "MATH 150A"
+    ],
+    "MATH 152": [
+        "MATH 20D",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH"
+    ],
+    "MATH 153": [
+        "MATH 109",
+        "or",
+        "MATH 31CH"
+    ],
+    "MATH 154": [
+        "MATH 31CH",
+        "or",
+        "MATH 109"
+    ],
+    "MATH 155A": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C"
+    ],
+    "MATH 155B": [
+        "MATH 155A"
+    ],
+    "MATH 157": [
+        "MATH 20D",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH"
+    ],
+    "MATH 158": [
+        "MATH 31CH",
+        "or",
+        "MATH 109"
+    ],
+    "MATH 160A": [
+        "MATH 100A",
+        "or",
+        "MATH 103A",
+        "or",
+        "MATH 140A"
+    ],
+    "MATH 160B": [
+        "MATH 160A"
+    ],
+    "MATH 163": [
+        "MATH 20B"
+    ],
+    "MATH 168A": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C"
+    ],
+    "MATH 170A": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C"
+    ],
+    "MATH 170B": [
+        "MATH 170A"
+    ],
+    "MATH 170C": [
+        "MATH 20D",
+        "and",
+        "MATH 170B"
+    ],
+    "MATH 171A": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C"
+    ],
+    "MATH 171B": [
+        "MATH 171A"
+    ],
+    "MATH 173A": [
+        "MATH 20C",
+        "or",
+        "MATH 31BH",
+        "and",
+        "MATH 20F"
+    ],
+    "MATH 173B": [
+        "MATH 173A"
+    ],
+    "MATH 174": [
+        "MATH 21D",
+        "and",
+        "MATH 20F",
+        "or",
+        "MATH 31AH"
+    ],
+    "MATH 175": [
+        "MATH 174",
+        "or",
+        "MATH 274"
+    ],
+    "MATH 179": [
+        "MATH 174",
+        "or",
+        "MATH 274"
+    ],
+    "MATH 180A": [
+        "MATH 31BH"
+    ],
+    "MATH 180B": [
+        "MATH 20D",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 109",
+        "or",
+        "MATH 31CH",
+        "and",
+        "MATH 180A"
+    ],
+    "MATH 180C": [
+        "MATH 180B"
+    ],
+    "MATH 181A": [
+        "MATH 180A",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C"
+    ],
+    "MATH 181B": [
+        "MATH 181A"
+    ],
+    "MATH 181C": [
+        "MATH 181B"
+    ],
+    "MATH 181D": [
+        "ECE 109",
+        "or",
+        "ECON 120A",
+        "or",
+        "MAE 108",
+        "or",
+        "MATH 181A",
+        "or",
+        "MATH 183",
+        "or",
+        "MATH 186",
+        "or",
+        "MATH 189"
+    ],
+    "MATH 181E": [
+        "MATH 181B"
+    ],
+    "MATH 181F": [
+        "ECE 109",
+        "or",
+        "ECON 120A",
+        "or",
+        "MAE 108",
+        "or",
+        "MATH 11",
+        "or",
+        "MATH 181A",
+        "or",
+        "MATH 183",
+        "or",
+        "MATH 186",
+        "or",
+        "MATH 189"
+    ],
+    "MATH 183": [
+        "MATH 20C",
+        "or",
+        "MATH 31BH"
+    ],
+    "MATH 184": [
+        "MATH 31CH",
+        "or",
+        "MATH 109"
+    ],
+    "MATH 185": [
+        "MATH 11",
+        "or",
+        "MATH 181A",
+        "or",
+        "MATH 183",
+        "or",
+        "MATH 186",
+        "or",
+        "MAE 108",
+        "or",
+        "ECE 109",
+        "or",
+        "ECON 120A",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C"
+    ],
+    "MATH 186": [
+        "MATH 20C",
+        "or",
+        "MATH 31BH"
+    ],
+    "MATH 187A": [],
+    "MATH 187B": [
+        "MATH 187",
+        "or",
+        "MATH 187A",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 31AH",
+        "or",
+        "MATH 20F"
+    ],
+    "MATH 188": [
+        "MATH 31CH",
+        "or",
+        "MATH 109",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 100A"
+    ],
+    "MATH 189": [
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 20C",
+        "and",
+        "BENG 134",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186",
+        "or",
+        "SE 125"
+    ],
+    "MATH 190A": [
+        "MATH 31CH",
+        "or",
+        "MATH 140A",
+        "or",
+        "MATH 142A"
+    ],
+    "MATH 190B": [
+        "MATH 190A"
+    ],
+    "MATH 191": [
+        "MATH 190"
+    ],
+    "MATH 193A": [
+        "MATH 180A",
+        "or",
+        "MATH 183"
+    ],
+    "MATH 193B": [
+        "MATH 193A"
+    ],
+    "MATH 194": [
+        "MATH 20D",
+        "and",
+        "MATH 18",
+        "or",
+        "MATH 20F",
+        "or",
+        "MATH 31AH",
+        "and",
+        "MATH 180A"
+    ],
+    "MATH 195": [],
+    "MATH 196": [],
+    "MATH 197": [],
+    "MATH 199": [],
+    "MATH 199H": []
+}

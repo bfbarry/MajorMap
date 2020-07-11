@@ -1,148 +1,316 @@
 {
-    "NANO 4": [],
-    "NANO 100L": [
-        "NANO 108"
-    ],
-    "NANO 101": [
-        "NANO 1",
-        "or",
-        "NANO 4",
-        "CHEM 6B",
-        "PHYS 2B",
-        "MATH 20C",
-        "and",
-        "NANO 15",
-        "or",
-        "NANO 15R",
-        "or",
-        "MAE 8"
-    ],
-    "NANO 102": [
-        "CHEM 6C",
-        "MATH 20D",
-        "NANO 101",
-        "PHYS 2D",
-        "and",
-        "NANO 106"
-    ],
-    "NANO 103": [
-        "CHEM 6C",
-        "NANO 101",
-        "and",
-        "NANO 102"
-    ],
-    "NANO 104": [
-        "MATH 20D",
-        "NANO 101"
-    ],
-    "NANO 106": [
-        "MATH 20F"
-    ],
-    "NANO 107": [
-        "NANO 15",
-        "NANO 101",
-        "MATH 20B",
-        "or",
-        "MATH 20D",
-        "and",
-        "PHYS 2B"
-    ],
-    "NANO 108": [],
-    "NANO 110": [
-        "MATH 20F",
-        "NANO 102",
-        "NANO 104",
-        "and",
-        "NANO 15",
-        "MAE 8"
-    ],
-    "NANO 111": [
-        "NANO 102"
-    ],
-    "NANO 112": [
-        "NANO 102",
-        "NANO 104",
-        "NANO 111"
-    ],
-    "NANO 114": [
-        "MATH 20F",
-        "and",
-        "NANO 15",
-        "MAE 8"
-    ],
-    "NANO 120A": [
-        "NANO 110"
-    ],
-    "NANO 120B": [
-        "NANO 120A"
-    ],
-    "NANO 134": [],
-    "NANO 141A": [
-        "PHYS 2A"
-    ],
-    "NANO 141B": [
-        "NANO 141A"
-    ],
-    "NANO 146": [
-        "NANO 103",
-        "and"
-    ],
-    "NANO 148": [],
-    "NANO 150": [
-        "NANO 108"
-    ],
-    "NANO 156": [],
-    "NANO 158": [
-        "NANO 108",
-        "and",
-        "NANO 148"
-    ],
-    "NANO 158L": [],
-    "NANO 159": [
-        "CHEM 6A",
-        "CHEM 6B",
-        "CHEM 6C",
-        "CHEM 7L"
-    ],
-    "NANO 161": [
-        "NANO 108"
-    ],
-    "NANO 164": [
-        "NANO 101",
-        "NANO 102",
-        "NANO 148"
-    ],
-    "NANO 168": [
-        "NANO 102",
-        "and",
-        "NANO 104"
-    ],
-    "NANO 174": [
-        "NANO 108"
-    ],
-    "NANO 174L": [
-        "NANO 174"
-    ],
-    "NANO 199": [],
-    "CENG 4": [],
-    "CENG 15": [],
-    "CENG 15R": [],
-    "CENG\n\t\t 100": [],
-    "CENG 101A": [
-        "MAE 170"
-    ],
-    "CENG 101B": [],
-    "CENG 101C": [],
-    "CENG\n\t\t 120": [
-        "MAE 101A-B",
-        "and",
-        "MAE 110A"
-    ],
-    "CENG 134": [],
-    "CENG\n\t\t 176A": [
-        "MAE 101A-B-C"
-    ],
-    "CENG\n\t\t 176B": [
-        "MAE 101A-B-C"
-    ]
+    "NANO 4": {
+        "prerequisites": [],
+        "name": "Experience\u00a0NanoEngineering",
+        "description": "Introduction to NanoEngineering lab-based skills. Hands-on training and experimentation with nanofabrication techniques, integration, and analytical tools. This class is for NANO majors who are incoming freshmen, to be taken their first year.\u00a0This class is for NanoEngineering majors who are incoming freshmen, to be taken their first year. P/NP grades only. "
+    },
+    "NANO 100L": {
+        "prerequisites": [
+            "NANO 108"
+        ],
+        "name": "Physical Properties of Materials Lab",
+        "description": "Experimental investigation of physical properties of materials such as: thermal expansion coefficient, thermal conductivity, glass transitions in polymers, resonant vibrational response, longitudinal and shear acoustic wave speeds, Curie temperatures, UV-VIS absorption and reflection. "
+    },
+    "NANO 101": {
+        "prerequisites": [
+            "NANO 1",
+            "or",
+            "NANO 4",
+            "CHEM 6B",
+            "PHYS 2B",
+            "MATH 20C",
+            "and",
+            "NANO 15",
+            "or",
+            "NANO 15R",
+            "or",
+            "MAE 8"
+        ],
+        "name": "Introduction to NanoEngineering",
+        "description": "Introduction to NanoEngineering; nanoscale fabrication: nanolithography and self-assembly; characterization tools; nanomaterials and nanostructures: nanotubes, nanowires, nanoparticles, and nanocomposites; nanoscale and molecular electronics; nanotechnology in magnetic systems; nanotechnology in integrative systems; nanoscale optoelectronics; nanobiotechnology: biomimetic systems, nanomotors, nanofluidics, and nanomedicine. Priority enrollment given to NanoEngineering majors. "
+    },
+    "NANO 102": {
+        "prerequisites": [
+            "CHEM 6C",
+            "MATH 20D",
+            "NANO 101",
+            "PHYS 2D",
+            "and",
+            "NANO 106"
+        ],
+        "name": "Foundations in NanoEngineering: Chemical Principles ",
+        "description": "Chemical principles involved in synthesis, assembly, and performance of nanostructured materials and devices. Chemical interactions, classical and statistical thermodynamics of small systems, diffusion, carbon-based nanomaterials, supramolecular chemistry, liquid crystals, colloid and polymer chemistry, lipid vesicles, surface modification, surface functionalization, catalysis. Priority enrollment given to NanoEngineering majors. "
+    },
+    "NANO 103": {
+        "prerequisites": [
+            "CHEM 6C",
+            "NANO 101",
+            "and",
+            "NANO 102"
+        ],
+        "name": "Foundations in NanoEngineering: Biochemical Principles",
+        "description": "Principles of biochemistry tailored to nanotechnologies. The structure and function of biomolecules and their specific roles in molecular interactions and signal pathways. Detection methods at the micro and nano scales. Priority enrollment will be given to NanoEngineering majors.  "
+    },
+    "NANO 104": {
+        "prerequisites": [
+            "MATH 20D",
+            "NANO 101"
+        ],
+        "name": "Foundations in NanoEngineering: Physical Principles",
+        "description": "Introduction to quantum mechanics and nanoelectronics. Wave mechanics, the Schr\u00f6dinger equation, free and confined electrons, band theory of solids. Nanosolids in 0D, 1D, and 2D. Application to nanoelectronic devices. Priority enrollment given to NanoEngineering majors "
+    },
+    "NANO 106": {
+        "prerequisites": [
+            "MATH 20F"
+        ],
+        "name": "Crystallography of Materials",
+        "description": "Fundamentals of crystallography, and practice of methods to study material structure and symmetry. Curie symmetries. Tensors as mathematical description of material properties and symmetry restrictions. Introduction to diffraction methods, including X-ray, neutron, and electron diffraction. Close-packed and other common structures of real-world materials. Derivative and superlattice structures.  "
+    },
+    "NANO 107": {
+        "prerequisites": [
+            "NANO 15",
+            "NANO 101",
+            "MATH 20B",
+            "or",
+            "MATH 20D",
+            "and",
+            "PHYS 2B"
+        ],
+        "name": "Electronic Devices and Circuits for Nanoengineers",
+        "description": "Overview of electrical devices and CMOS integrated circuits emphasizing fabrication processes, and scaling behavior. Design, and simulation of submicron CMOS circuits including amplifiers active filters digital logic, and memory circuits. Limitations of current technologies and possible impact of nanoelectronic technologies.\u00a0"
+    },
+    "NANO 108": {
+        "prerequisites": [],
+        "name": "Materials Science and Engineering",
+        "description": "Structure and control of materials: metals, ceramics, glasses, semiconductors, polymers to produce useful properties. Atomic structures. Defects in materials, phase diagrams, micro structural control. Mechanical, rheological, electrical, optical and magnetic properties discussed. Time temperature transformation diagrams. Diffusion. Scale dependent material properties. "
+    },
+    "NANO 110": {
+        "prerequisites": [
+            "MATH 20F",
+            "NANO 102",
+            "NANO 104",
+            "and",
+            "NANO 15",
+            "MAE 8"
+        ],
+        "name": "Molecular Modeling of Nanoscale Systems ",
+        "description": "Principles and applications of molecular modeling and simulations toward NanoEngineering. Topics covered include molecular mechanics, energy minimization, statistical mechanics, molecular dynamics simulations, and Monte Carlo simulations. Students will get hands-on training in running simulations and analyzing simulation results.   "
+    },
+    "NANO 111": {
+        "prerequisites": [
+            "NANO 102"
+        ],
+        "name": "Characterization of NanoEngineering Systems",
+        "description": "Fundamentals and practice of methods to image, measure, and analyze materials and devices that are structured at the nanometer scale. Optical and electron microscopy; scanning probe methods; photon-, ion-, electron-probe methods, spectroscopic, magnetic, electrochemical, and thermal methods. "
+    },
+    "NANO 112": {
+        "prerequisites": [
+            "NANO 102",
+            "NANO 104",
+            "NANO 111"
+        ],
+        "name": "Synthesis and Fabrication of NanoEngineering Systems",
+        "description": "Introduction to methods for fabricating materials and devices in NanoEngineering. Nano-particle, -vesicle, -tube, and -wire synthesis. Top-down methods including chemical vapor deposition, conventional and advanced lithography, doping, and etching. Bottom-up methods including self-assembly. Integration of heterogeneous structures into functioning devices. "
+    },
+    "NANO 114": {
+        "prerequisites": [
+            "MATH 20F",
+            "and",
+            "NANO 15",
+            "MAE 8"
+        ],
+        "name": "Probability and Statistical Methods for Engineers",
+        "description": "Probability theory, conditional probability, Bayes theorem, discrete random variables, continuous random variables, expectation and variance, central limit theorem, graphical and numerical presentation of data, least squares estimation and regression, confidence intervals, testing hypotheses. Cross-listed with CENG 114. Students may not receive credit for both NANO 114 and CENG 114.  "
+    },
+    "NANO 120A": {
+        "prerequisites": [
+            "NANO 110"
+        ],
+        "name": "NanoEngineering System Design I",
+        "description": "Principles of product design and the design process. Application and integration of technologies in the design and production of nanoscale components. Engineering economics. Initiation of team design projects to be completed in NANO 120B. "
+    },
+    "NANO 120B": {
+        "prerequisites": [
+            "NANO 120A"
+        ],
+        "name": "NanoEngineering System Design II",
+        "description": "Principles of product quality assurance in design and production. Professional ethics. Safety and design for the environment. Culmination of team design projects initiated in NANO 120A with a working prototype designed for a real engineering application. "
+    },
+    "NANO 134": {
+        "prerequisites": [],
+        "name": "Polymeric Materials",
+        "description": "Foundations of polymeric materials. Topics: structure of polymers; mechanisms of polymer synthesis; characterization methods using calorimetric, mechanical, rheological, and X-ray-based techniques; and electronic, mechanical, and thermodynamic properties. Special classes of polymers: engineering plastics, semiconducting polymers,\u00a0photoresists, and polymers for medicine. Cross-listed with CENG 134.\u00a0Students may not receive credit for both\u00a0CENG\u00a0134 and\u00a0NANO\u00a0134. "
+    },
+    "NANO 141A": {
+        "prerequisites": [
+            "PHYS 2A"
+        ],
+        "name": "Engineering Mechanics I: Analysis of Equilibrium",
+        "description": "Newton\u2019s laws. Concepts of force and moment vector. Free body diagrams. Internal and external forces. Equilibrium of concurrent, coplanar, and three-dimensional system of forces. Equilibrium analysis of structural systems, including beams, trusses, and frames. Equilibrium problems with friction. "
+    },
+    "NANO 141B": {
+        "prerequisites": [
+            "NANO 141A"
+        ],
+        "name": "Engineering Mechanics II: Analysis of Motion",
+        "description": "Newton\u2019s laws of motion. Kinematic and kinetic \u200bdescription of particle motion. Angular momentum. Energy and work principles. Motion of the system of interconnected particles.\u00a0Mass center. Degrees of freedom. Equations of planar motion of rigid bodies. Energy methods. Lagrange\u2019s equations of motion. Introduction to vibration. Free and forced vibrations of a single degree of freedom system. Undamped and damped vibrations. Application to NanoEngineering problems.\u00a0"
+    },
+    "NANO 146": {
+        "prerequisites": [
+            "NANO 103",
+            "and"
+        ],
+        "name": "Nanoscale Optical Microscopy and Spectroscopy",
+        "description": "Fundamentals in optical imaging and spectroscopy at the nanometer scale. Diffraction-limited techniques, near-field methods, multi-photon imaging and spectroscopy, Raman techniques, Plasmon-enhanced methods, scan-probe techniques, novel sub-diffraction-limit imaging techniques, and energy transfer methods. "
+    },
+    "NANO 148": {
+        "prerequisites": [],
+        "name": "Thermodynamics of Materials",
+        "description": "Fundamental laws of thermodynamics for simple substances; application to flow processes and to nonreacting mixtures; statistical thermodynamics of ideal gases and crystalline solids; chemical and materials thermodynamics; multiphase and multicomponent equilibria in reacting systems; electrochemistry. "
+    },
+    "NANO 150": {
+        "prerequisites": [
+            "NANO 108"
+        ],
+        "name": "Mechanics of Nanomaterials",
+        "description": "Introduction to mechanics of rigid and deformable bodies. Continuum and atomistic models, interatomic forces and intermolecular interactions. Nanomechanics, material defects, elasticity, plasticity, creep, and fracture. Composite materials, nanomaterials, biological materials.  "
+    },
+    "NANO 156": {
+        "prerequisites": [],
+        "name": "Nanomaterials",
+        "description": "Basic principles of synthesis techniques, processing, microstructural control, and unique physical properties of materials in nanodimensions. Nanowires, quantum dots, thin films, electrical transport, optical behavior, mechanical behavior, and technical applications of nanomaterials. Cross-listed with MAE 166. "
+    },
+    "NANO 158": {
+        "prerequisites": [
+            "NANO 108",
+            "and",
+            "NANO 148"
+        ],
+        "name": "Phase Transformations and Kinetics",
+        "description": "Materials and microstructures changes. Understanding of diffusion to enable changes in the chemical distribution and microstructure of materials, rates of diffusion. Phase transformations, effects of temperature and driving force on transformations and microstructure. "
+    },
+    "NANO 158L": {
+        "prerequisites": [],
+        "name": "Materials Processing Laboratory",
+        "description": "Metal casting processes, solidification, deformation processing, thermal processing: solutionizing, aging, and tempering, joining processes such as welding and brazing. The effect of processing route on microstructure and its effect on mechanical and physical properties will be explored.\u00a0NanoEngineering majors have priority enrollment. "
+    },
+    "NANO 159": {
+        "prerequisites": [
+            "CHEM 6A",
+            "CHEM 6B",
+            "CHEM 6C",
+            "CHEM 7L"
+        ],
+        "name": "Electrochemistry: Fundamentals and Applications",
+        "description": "Introduce fundamentals of electrochemical processes and electrode reactions to the principles of electrochemical techniques, instrumental requirements, and their diverse real-life applications in the energy, environmental, and diagnostics areas. "
+    },
+    "NANO 161": {
+        "prerequisites": [
+            "NANO 108"
+        ],
+        "name": "Material Selection in Engineering",
+        "description": "Selection of materials for engineering systems, based on constitutive analyses of functional requirements and material properties. The role and implications of processing on material selection. Optimizing material selection in a quantitative methodology. NanoEngineering majors receive priority enrollment.   "
+    },
+    "NANO 164": {
+        "prerequisites": [
+            "NANO 101",
+            "NANO 102",
+            "NANO 148"
+        ],
+        "name": "Advanced Micro- and Nano-materials for Energy Storage and Conversion",
+        "description": "Materials for energy storage and conversion in existing and future power systems, including fuel cells and batteries, photovoltaic cells, thermoelectric cells, and hybrids. "
+    },
+    "NANO 168": {
+        "prerequisites": [
+            "NANO 102",
+            "and",
+            "NANO 104"
+        ],
+        "name": "Electrical, Dielectric, and Magnetic Properties of Engineering Materials",
+        "description": "Introduction to physical principles of electrical, dielectric, and magnetic properties. Semiconductors, control of defects, thin film, and nanocrystal growth, electronic and optoelectronic devices. Processing-microstructure-property relations of dielectric materials, including piezoelectric, pyroelectric and ferroelectric, and magnetic materials. "
+    },
+    "NANO 174": {
+        "prerequisites": [
+            "NANO 108"
+        ],
+        "name": "Mechanical Behavior of Materials",
+        "description": "Microscopic and macroscopic aspects of the mechanical behavior of engineering materials, with emphasis on recent development in materials characterization by mechanical methods. The fundamental aspects of plasticity in engineering materials, strengthening mechanisms, and mechanical failure modes of materials systems. "
+    },
+    "NANO 174L": {
+        "prerequisites": [
+            "NANO 174"
+        ],
+        "name": "Mechanical Behavior Laboratory",
+        "description": "Experimental investigation of mechanical behavior of engineering materials. Laboratory exercises emphasize the fundamental relationship between microstructure and mechanical properties, and the evolution of the microstructure as a consequence of rate process. "
+    },
+    "NANO 199": {
+        "prerequisites": [],
+        "name": "Independent Study for Undergraduates",
+        "description": "Independent reading or research on a problem by special arrangement with a faculty member. P/NP grades only. "
+    },
+    "CENG 4": {
+        "prerequisites": [],
+        "name": "Experience Chemical Engineering",
+        "description": "Principles of chemical process design and\n\t\t\t\t economics. Process flow diagrams and cost estimation. Computer-aided design\n\t\t\t\t and analysis. Representation of the structure of complex, interconnected\n\t\t\t\t chemical processes with recycle streams. Ethics and professionalism. Health,\n\t\t\t\t safety, and the environmental issues. "
+    },
+    "CENG 15": {
+        "prerequisites": [],
+        "name": "Engineering Computation Using Matlab",
+        "description": "Engineering and economic analysis of integrated\n\t\t\t\t chemical processes, equipment, and systems. Cost estimation, heat and mass\n\t\t\t\t transfer equipment design and costs. Comprehensive integrated plant design.\n\t\t\t\t Optimal design. Profitability. "
+    },
+    "CENG 15R": {
+        "prerequisites": [],
+        "name": "Engineering Computation Using Matlab Online",
+        "description": "Foundations of polymeric materials. Topics: structure of polymers; mechanisms of polymer synthesis; characterization methods using calorimetric, mechanical, rheological, and X-ray-based techniques; and electronic, mechanical, and thermodynamic properties. Special classes of polymers: engineering plastics, semiconducting polymers, photoresists, and polymers for medicine.\u00a0Cross-listed with\u00a0NANO\u00a0134. Students may not receive credit for both\u00a0CENG\u00a0134 and\u00a0NANO\u00a0134. "
+    },
+    "CENG\n\t\t 100": {
+        "prerequisites": [],
+        "name": "Material and Energy Balances ",
+        "description": "Brief introduction to solid-state materials and devices. Crystal growth and purification. Thin film technology. Application of chemical processing to the manufacture of semiconductor devices. Topics to be covered: physics of solids, unit operations of solid state materials (bulk crystal growth, oxidation, vacuum science, chemical and physical vapor deposition, epitaxy, doping, etching).\u00a0"
+    },
+    "CENG 101A": {
+        "prerequisites": [
+            "MAE 170"
+        ],
+        "name": "Introductory Fluid Mechanics",
+        "description": "Laboratory projects in the areas of applied\n\t\t\t\t chemical research and unit operations. Emphasis on applications of engineering\n\t\t\t\t concepts and fundamentals to solution of practical and research problems. "
+    },
+    "CENG 101B": {
+        "prerequisites": [],
+        "name": "Heat Transfer",
+        "description": "Training in planning research projects, execution\n\t\t\t\t of experimental work, and articulation (both oral and\n\t\t\t\t written) of the research plan and results in the areas of applied chemical\n\t\t\t\t technology and engineering operations related to mass, momentum, and heat\n\t\t\t  transfer. "
+    },
+    "CENG 101C": {
+        "prerequisites": [],
+        "name": "Mass Transfer",
+        "description": "Independent reading or research on a problem\n\t\t\t\t by special arrangement with a faculty member. P/NP grades only. "
+    },
+    "CENG\n\t\t 120": {
+        "prerequisites": [
+            "MAE 101A-B",
+            "and",
+            "MAE 110A"
+        ],
+        "name": "Chemical Process Dynamics and Control",
+        "description": "Basic conservation laws, flow kinematics. The Navier-Stokes equations and some of its exact solutions, nondimensional parameters and different flow regimes, vorticity dynamics. Cross-listed with MAE 210A. "
+    },
+    "CENG 134": {
+        "prerequisites": [],
+        "name": "Polymeric Materials",
+        "description": "Expanded mathematical analysis of topics introduced in CENG\n         212. Introduction of both analytical and numerical methods\n         through application to problems in NanoEngineering. Nanoscale\n         systems of interest include colloidal systems, block-copolymer\n         based self-assembled materials, molecular motors made out of\n         DNA, RNA, or proteins, etc. Nanoscale phenomena including self-assembly\n         at the nanoscale, phase separation within confined spaces,\n         diffusion through nanopores and nanoslits, etc. Modeling techniques\n         include quantum mechanics, diffusion and kinetics theories,\n         molecular dynamics, etc. Cross-listed with NANO 204. Students may not receive credit for both CENG 214 and NANO 204. "
+    },
+    "CENG\n\t\t 176A": {
+        "prerequisites": [
+            "MAE 101A-B-C"
+        ],
+        "name": "Chemical Engineering Process Laboratory I",
+        "description": "Conduction, convection, and radiation heat transfer development of energy conservation equations. Analytical and numerical solutions to heat transport problems. Specific topics and applications vary.  Cross-listed with MAE 221A. "
+    },
+    "CENG\n\t\t 176B": {
+        "prerequisites": [
+            "MAE 101A-B-C"
+        ],
+        "name": "Chemical Engineering Process Laboratory II",
+        "description": "Fundamentals of diffusive and convective mass transfer and mass transfer with chemical reaction. Development of mass conservation equations. Analytical and numerical solutions to mass transport problems. Specific topics and applications will vary.  Cross-listed with MAE 221B. "
+    }
 }

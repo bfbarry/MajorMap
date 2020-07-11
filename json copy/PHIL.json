@@ -1,0 +1,97 @@
+{
+    "PHIL 27": [
+        "CAT 2",
+        "and",
+        "or",
+        "DOC 2",
+        "and",
+        "and",
+        "HUM 1",
+        "and",
+        "and",
+        "and"
+    ],
+    "PHIL 28": [
+        "PHIL 27",
+        "or",
+        "POLI 27"
+    ],
+    "PHIL 87": [],
+    "PHIL 90": [],
+    "PHIL 100": [],
+    "PHIL 101": [],
+    "PHIL 102": [
+        "PHIL 32"
+    ],
+    "PHIL 105": [],
+    "PHIL 106": [],
+    "PHIL 107": [],
+    "PHIL 108": [],
+    "PHIL 109": [
+        "PHIL 110",
+        "and"
+    ],
+    "PHIL 110": [
+        "PHIL 111",
+        "and"
+    ],
+    "PHIL 111": [],
+    "PHIL 112": [
+        "PHIL 10"
+    ],
+    "PHIL 115": [
+        "PHIL 120"
+    ],
+    "PHIL 120": [
+        "PHIL 120"
+    ],
+    "PHIL 122": [
+        "PHIL 120"
+    ],
+    "PHIL 123": [],
+    "PHIL 124": [],
+    "PHIL 130": [],
+    "PHIL 131": [],
+    "PHIL 132": [],
+    "PHIL 134": [],
+    "PHIL 136": [],
+    "PHIL 137": [],
+    "PHIL 138": [],
+    "PHIL 139": [],
+    "PHIL 140": [],
+    "PHIL 141": [],
+    "PHIL 145": [],
+    "PHIL 146": [],
+    "PHIL 147": [],
+    "PHIL 148": [],
+    "PHIL 149": [],
+    "PHIL 150": [],
+    "PHIL 152": [],
+    "PHIL 155": [],
+    "PHIL 156": [],
+    "PHIL 160": [],
+    "PHIL 161": [],
+    "PHIL 162": [],
+    "PHIL 163": [],
+    "PHIL 164": [],
+    "PHIL 165": [],
+    "PHIL 166": [],
+    "PHIL 167": [],
+    "PHIL 168": [],
+    "PHIL 169": [],
+    "PHIL 170": [],
+    "PHIL 173": [],
+    "PHIL 174": [],
+    "PHIL 175": [],
+    "PHIL 177": [
+        "PHIL 178"
+    ],
+    "PHIL 178": [],
+    "PHIL 179": [],
+    "PHIL 180": [],
+    "PHIL 181": [],
+    "PHIL 183": [],
+    "PHIL 185": [],
+    "PHIL 191A": [],
+    "PHIL 191B": []
+}

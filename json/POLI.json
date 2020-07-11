@@ -1,138 +1,510 @@
 {
-    "POLI 27": [
-        "CAT 2",
-        "and",
-        "DOC 2",
-        "and",
-        "and",
-        "HUM 1",
-        "and",
-        "and"
-    ],
-    "POLI 28": [],
-    "POLI 99H": [],
-    "POLI 100E": [],
-    "POLI 100I": [],
-    "POLI 100J": [],
-    "POLI 100K": [],
-    "POLI 100M": [],
-    "POLI 100N": [],
-    "POLI 100O": [],
-    "POLI 100P": [],
-    "POLI 100V": [],
-    "POLI 100W": [],
-    "POLI 100Y": [],
-    "POLI 102J": [],
-    "POLI 102K": [],
-    "POLI 102L": [],
-    "POLI 103B": [],
-    "POLI 103C": [],
-    "POLI 103D": [],
-    "POLI 104C": [],
-    "POLI 104E": [],
-    "POLI 104F": [
-        "POLI 104A-B"
-    ],
-    "POLI 104G": [],
-    "POLI 104J": [
-        "POLI 104A"
-    ],
-    "POLI 104K": [
-        "POLI 104J"
-    ],
-    "POLI 104M": [],
-    "POLI 104P": [],
-    "POLI 105A": [],
-    "POLI 108": [],
-    "POLI 110ED": [],
-    "POLI 110K": [],
-    "POLI 110M": [],
-    "POLI 112A": [],
-    "POLI 112C": [],
-    "POLI 113A": [],
-    "POLI 113B": [],
-    "POLI 115A": [],
-    "POLI 116A": [],
-    "POLI 117": [],
-    "POLI 120D": [],
-    "POLI 120P": [],
-    "POLI 120Q": [],
-    "POLI 121B": [],
-    "POLI 122": [],
-    "POLI 122D": [],
-    "POLI 125B": [],
-    "POLI 125E": [],
-    "POLI 126": [
-        "POLI 11"
-    ],
-    "POLI 126AA": [],
-    "POLI 126AB": [],
-    "POLI 128": [],
-    "POLI 130B": [],
-    "POLI 133G": [],
-    "POLI 133J": [
-        "POLI 11"
-    ],
-    "POLI 134B": [],
-    "POLI 134D": [],
-    "POLI 134I": [],
-    "POLI 134J": [],
-    "POLI 135": [],
-    "POLI 136": [],
-    "POLI 136A": [],
-    "POLI 137": [],
-    "POLI 138D": [],
-    "POLI 140A": [],
-    "POLI 140B": [],
-    "POLI 140C": [],
-    "POLI 140D": [
-        "POLI 12"
-    ],
-    "POLI 142M": [],
-    "POLI 142N": [],
-    "POLI 142Q": [],
-    "POLI 144": [
-        "POLI 12"
-    ],
-    "POLI 145A": [],
-    "POLI 147B": [],
-    "POLI 150A": [
-        "POLI 12"
-    ],
-    "POLI 154": [
-        "POLI 10"
-    ],
-    "POLI 160AA": [
-        "POLI 160AA"
-    ],
-    "POLI 168": [
-        "POLI 30",
-        "or",
-        "POLI 30D"
-    ],
-    "POLI 170A": [
-        "POLI 5",
-        "ECON 5",
-        "and",
-        "POLI 30"
-    ],
-    "POLI 171": [
-        "POLI 5",
-        "ECON 5",
-        "and",
-        "POLI 30"
-    ],
-    "POLI 172": [],
-    "POLI 173": [],
-    "POLI 191A\u2013B": [],
-    "POLI 192": [],
-    "POLI 194": [],
-    "POLI 194RA": [],
-    "POLI 194SD": [],
-    "POLI 195": [],
-    "POLI 197I": [],
-    "POLI 197SD": [],
-    "POLI 198": [],
-    "POLI 198RA": [],
-    "POLI 199": []
+    "POLI 27": {
+        "prerequisites": [
+            "CAT 2",
+            "and",
+            "DOC 2",
+            "and",
+            "and",
+            "HUM 1",
+            "and",
+            "and"
+        ],
+        "name": "Ethics and Society",
+        "description": "An examination of ethical\n\t\t\t\t  principles (e.g., utilitarianism, individual rights, etc.)\n\t\t\t\t  and their social and political applications to contemporary\n\t\t\t\t  issues such as abortion, environmental protection, and affirmative action.\n\t\t\t\t  Ethical principles will also be applied to moral dilemmas familiar in government,\n\t\t\t\t  law, business, and the professions. Satisfies the Warren College\n\t\t\t\t  ethics and society requirement. "
+    },
+    "POLI 28": {
+        "prerequisites": [],
+        "name": "Ethics and Society II",
+        "description": "An examination of a single set of major contemporary social, political, or economic issues (e.g., environmental ethics, international ethics) in light of ethical and moral principles and values. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement. "
+    },
+    "POLI 99H": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "Independent study or research under direction of a member of the faculty. "
+    },
+    "POLI 100E": {
+        "prerequisites": [],
+        "name": "Interest Group Politics",
+        "description": "The theory and practice of interest group politics in the United States. Theories of pluralism and collective action, the behavior and influence of lobbies, the role of political action committees, and other important aspects of group action in politics are examined. "
+    },
+    "POLI 100I": {
+        "prerequisites": [],
+        "name": "Participation and Inequality",
+        "description": "This course examines the causes and consequences of the unequal participation and representation of groups in US politics. "
+    },
+    "POLI 100J": {
+        "prerequisites": [],
+        "name": "Race in American Political Development",
+        "description": "Readings examine how the multiracial character of the United States has shaped the broad outlines of American politics. Cases include the founding/the Constitution, southern politics, social organization in formerly Mexican regions, the New Deal, consequences of limited suffrage. "
+    },
+    "POLI 100K": {
+        "prerequisites": [],
+        "name": "Railroads and American Politics",
+        "description": "The railroads transformed the economy and politics of the United States in the nineteenth century. The railroads were the first big businesses, and their sheer size led inevitably to conflict with governments at all levels. This conflict shaped modern politics. "
+    },
+    "POLI 100M": {
+        "prerequisites": [],
+        "name": "Political Psychology",
+        "description": "We begin with hypotheses about how people develop political attitudes, and methods to test those hypotheses. The second half focuses on emerging cognitive neuroscience insights, including brain imaging, and asks how these inform theories of political cognition, affect, and behavior. "
+    },
+    "POLI 100N": {
+        "prerequisites": [],
+        "name": "Politics in Washington",
+        "description": "Examines Washington as a political community, its institutions, culture, and history. In addition to its elected officeholders and senior government officials, it examines Washington\u2019s subcommunities: the national news industry, diplomatic service, the representation of interests. "
+    },
+    "POLI 100O": {
+        "prerequisites": [],
+        "name": "Perspectives on Race",
+        "description": "This course looks at race in American politics from a variety of perspectives. We may consider psychological, genetic, neuroscience, economic, political, sociological, and legal views of what drives powerful dynamics of race in our country. "
+    },
+    "POLI 100P": {
+        "prerequisites": [],
+        "name": "Economic Entrepreneurs and American Politics",
+        "description": "This course is concerned with the interaction between representative democracy and capitalism in American political history. The key to understanding this interaction is the role of the entrepreneur in the economy and how unexpected economic change shapes politics. "
+    },
+    "POLI 100V": {
+        "prerequisites": [],
+        "name": "Organized Interests",
+        "description": "This course provides a theoretical and practical examination of political parties, interest groups, and social movements in the United States. "
+    },
+    "POLI 100W": {
+        "prerequisites": [],
+        "name": "Politics, Policy, and Educational Inequality ",
+        "description": "Education is often thought of as \u201cthe great equalizer\u201d but in the U.S. and around the world, many governments fail to ensure that all citizens have access to high-quality educational opportunities. Why? This course will give students the conceptual tools to understand who shapes education policy decisions, through what channels, and how those policy decisions affect the quality and equity of education. Emphasis is on the U.S., but analyzed in comparative perspective. "
+    },
+    "POLI 100Y": {
+        "prerequisites": [],
+        "name": "Asian American Politics in the United States",
+        "description": "This class is a survey of historical and contemporary issues in Asian American politics in the U.S.; race and ethnicity in the context of US politics; comparisons of racial and ethnic group experiences in the U.S. with those experienced by racial and ethnic groups elsewhere; Asian American access to the political system through political participation. "
+    },
+    "POLI 102J": {
+        "prerequisites": [],
+        "name": "Advanced Topics in Urban Politics",
+        "description": "(Same as USP 110) Building upon the introductory urban politics course, the advanced topics course explores issues such as community power, minority empowerment, and the politics of growth. A research paper is required. Students may not receive credit for both POLI 102J and USP 110. "
+    },
+    "POLI 102K": {
+        "prerequisites": [],
+        "name": "The Urban Underclass",
+        "description": "The lives of individuals living in ghetto poverty in the United States. Causes and consequences of ghetto poverty. Political debates surrounding the underclass and different possible solutions. "
+    },
+    "POLI 102L": {
+        "prerequisites": [],
+        "name": "The Politics of Regulation",
+        "description": "Politics and policy-making issues in regulation. Themes: regulation versus legislation; general versus specific grants of regulatory power; market versus command mechanisms; private property; and risk assessment. Emphasis on American regulatory policy, examples from current regulatory debates (e.g., health care and environment). "
+    },
+    "POLI 103B": {
+        "prerequisites": [],
+        "name": "Politics and Policymaking in Los Angeles",
+        "description": "(Same as USP 113) This course examines politics and policymaking in the five-county Los Angeles region. It explores the historical development of the city, suburbs, and region; politics, power, and governance; and major policy challenges facing the city and metropolitan area. "
+    },
+    "POLI 103C": {
+        "prerequisites": [],
+        "name": "Politics and Policymaking in San Diego",
+        "description": "(Same as USP 115) This course examines how\n\t\t\t\t  major policy decisions are made in San Diego. It analyzes the region\u2019s\n\t\t\t\t  power structure (including the roles of nongovernmental organizations\n\t\t\t\t  and the media), governance systems and reform efforts, and the politics\n\t\t\t\t  of major infrastructure projects. "
+    },
+    "POLI 103D": {
+        "prerequisites": [],
+        "name": "California Local Government: Finance and Administration",
+        "description": "(Same as USP 116) This course surveys public finance and administration. It focuses upon California local governments\u2014cities, counties, and special districts\u2014and also examines state and federal relationships. Topics explored include revenue, expenditure, indebtedness, policy responsibilities, and administrative organization and processes. "
+    },
+    "POLI 104C": {
+        "prerequisites": [],
+        "name": "Civil Liberties\u2014The Rights of the Accused and Minorities ",
+        "description": "Examines the legal issues surrounding the rights of criminal suspects, as well as the rights of \u201cmarginal\u201d groups such as aliens, illegal immigrants, and the mentally ill. Also includes a discussion of the nature of discrimination in American society. "
+    },
+    "POLI 104E": {
+        "prerequisites": [],
+        "name": "Environmental Law and Policy",
+        "description": "The course is an introduction to US environmental law at the federal level. It emphasizes issues and current controversies involving natural resources, such as wilderness, biodiversity, water, and climate change. "
+    },
+    "POLI 104F": {
+        "prerequisites": [
+            "POLI 104A-B"
+        ],
+        "name": "Constitutional Law",
+        "description": "This course provides an intensive examination of a major issue in constitutional law. Students will be required to do legal research on a topic, write a legal brief, and argue a case to the class. "
+    },
+    "POLI 104G": {
+        "prerequisites": [],
+        "name": "Election Law",
+        "description": "A detailed analysis of the legislative and judicial history of election related topics including registration laws, election administration, candidate requirements, voting rights, party organizational rules, nomination procedures, redistricting, and campaign finance. "
+    },
+    "POLI 104J": {
+        "prerequisites": [
+            "POLI 104A"
+        ],
+        "name": "Introduction to Legal Reasoning",
+        "description": "The ability to write and argue is one of the noted benefits of a legal education. Students will learn the basics of legal research and reasoning by learning to read and brief case law and write persuasive and objective memorandums. "
+    },
+    "POLI 104K": {
+        "prerequisites": [
+            "POLI 104J"
+        ],
+        "name": "Legal Argument Formulation",
+        "description": "This course examines the role that legal arguments have in the US court system. Students will utilize legal reasoning and research skills to craft arguments in both written and oral formats, and then participate in a moot court final. "
+    },
+    "POLI 104M": {
+        "prerequisites": [],
+        "name": "Law and Sex",
+        "description": "How law regulates and impacts sexuality and orientation with focus on constitutional law in areas of privacy, free speech, association, regulation of sexual conduct under criminal law pornography, procreation, reproductive rights, and regulation of family status. "
+    },
+    "POLI 104P": {
+        "prerequisites": [],
+        "name": "Science, Technology, and the Law",
+        "description": "Science advances exponentially. The law is slower to follow. This course examines legal issues created by today\u2019s scientific breakthroughs and explores what future legal challenges might await tomorrow\u2019s scientific discoveries, from privacy on the internet to the meaning of life. "
+    },
+    "POLI 105A": {
+        "prerequisites": [],
+        "name": "Latino Politics in the U.S.",
+        "description": "This course examines contemporary issues in Latino politics in the U.S.; comparisons of racial and ethnic group experiences in the U.S.; Latino access to the political system through political participation. "
+    },
+    "POLI 108": {
+        "prerequisites": [],
+        "name": "Politics of Multiculturalism",
+        "description": "This course will examine central issues in debates about race, ethnicity, and multiculturalism in the United States. It will look at relations not only between whites and minorities, but also at those among racial and ethnic communities. "
+    },
+    "POLI 110ED": {
+        "prerequisites": [],
+        "name": "Seminar in American Political Thought",
+        "description": "This seminar explores debates over ideals, institutions, and identities in American political thought. Themes and topics will vary. Readings will include political pamphlets, philosophical treatises, court decisions, and works of literature. "
+    },
+    "POLI 110K": {
+        "prerequisites": [],
+        "name": "Liberty and Equality",
+        "description": "Leading theories of environmental justice, ethics, and politics since 1960. Thinkers such as Dauvergne, Dobson, Dryzek, Eckersley, Latour, Plumwood, and Simon on ecosystems, climate change, sustainability, preservation, human welfare, nonhuman animals, place, feminism, state, market, and green political movements. "
+    },
+    "POLI 110M": {
+        "prerequisites": [],
+        "name": "Green Political Thought",
+        "description": "Nationalist ideologies. Examination of the rhetoric of nationalist mobilization. Theories about the relationship between nationalist movements and democracy, capitalism, warfare, and the state. "
+    },
+    "POLI 112A": {
+        "prerequisites": [],
+        "name": "Economic Theories of Political Behavior",
+        "description": "The course explores the modes of political thinking found in arts, especially in drama and literature. It may include ends and means, political leadership, and political economy. Students may not receive credit for both POLI 112CS and POLI 112C. "
+    },
+    "POLI 112C": {
+        "prerequisites": [],
+        "name": "Political Theory and Artistic Vision",
+        "description": "This course examines the major traditions of East Asian thought in comparative perspective. Topics include Confucianism, Taoism, Buddhism, and contemporary nationalist and East Asian political thought. Throughout, focused comparisons and contrasts will be made between western and eastern thought. "
+    },
+    "POLI 113A": {
+        "prerequisites": [],
+        "name": "East\n\t\t  Asian Thought in Comparative Perspective",
+        "description": "Examines philosophical traditions of ancient and modern China and Japan, to understand how these have been reflected in Chinese and Japanese development. Course will be in English; however, students with Chinese or Japanese language skills will have opportunity to use these. Graduate students will be required to complete a seminar-length research paper; undergraduate students will write a paper. "
+    },
+    "POLI 113B": {
+        "prerequisites": [],
+        "name": "Chinese and Japanese Political Thought I",
+        "description": "A continuation of 113B, which follows political philosophical themes in China and Japan through the twentieth century. Important topics include Buddhism and Confucianism as they changed in each context in response to internal and external stimuli. "
+    },
+    "POLI 115A": {
+        "prerequisites": [],
+        "name": "Gender and Politics",
+        "description": "Readings in historical and contemporary feminist theory; development of gender as a category of political analysis; alternative perspectives on core concepts and categories in feminist thought. "
+    },
+    "POLI 116A": {
+        "prerequisites": [],
+        "name": "Feminist Theory",
+        "description": "(Same as SIO 109.) Climate change is an urgent global problem affecting the lives of hundreds of millions of people, now and for the foreseeable future. This course will empower students to confront climate change as critical actors to innovate creative cross-disciplinary solutions. Students may not receive credit for POLI 117 and SIO 109. "
+    },
+    "POLI 117": {
+        "prerequisites": [],
+        "name": "Bending the Curve: Solutions to Climate Change",
+        "description": "This course introduces students to game theory and its uses in political science. Topics covered include the concepts of Nash equilibrium, dominant strategies, subgame perfection and backwards induction, and the applications of those concepts to the study of voting, electoral competition, public goods provision, legislatures, and collective action. An emphasis is placed on developing students' analytical reasoning and problem-solving skills through weekly problem sets and in-class exercises. "
+    },
+    "POLI 120D": {
+        "prerequisites": [],
+        "name": "Germany: Before, During, and After Division",
+        "description": "Introduction to the politics and societies of the Scandinavian states (Denmark, Finland, Norway, and Sweden). Focuses on historical development, political culture, constitutional arrangements, political institutions, parties and interest groups, the Scandinavian welfare states, and foreign policy. "
+    },
+    "POLI 120P": {
+        "prerequisites": [],
+        "name": "Africa\u2019s Success Stories",
+        "description": "This course introduces students to the comparative study of ethnic politics. It examines the relationships between ethnicity on one hand, and mobilization, political contestation, violence, trust, and pork on the other. It draws from analysis from a variety of contexts and regions, such as sub-Saharan Africa, Eastern Europe, North America, South Asia, and Western Europe. "
+    },
+    "POLI 120Q": {
+        "prerequisites": [],
+        "name": "Ethnic Politics ",
+        "description": "This course examines general themes affecting the region (social structure and regime type, religion and modernization, bonds and tensions), the character of major states, and efforts to resolve the conflict between Israel and its Arab and Islamic neighbors. "
+    },
+    "POLI 121B": {
+        "prerequisites": [],
+        "name": "Politics in Israel",
+        "description": "What do we mean by \u201cinternational\n                  human rights\u201d?\n                  Are they universal? This course examines human rights abuse\n                  and redress over time, and across different regions of the\n                  world. From this empirically grounded perspective, we\n                  critically evaluate contemporary human rights debates. "
+    },
+    "POLI 122": {
+        "prerequisites": [],
+        "name": "Politics of Human Rights",
+        "description": "Power, a crucial part of politics, can be, and often is, abused. This course discusses the nature of power and surveys a variety of abuses, including agenda manipulation, rent extraction, fraud, extortion, corruption, exploitation, and gross political oppression. "
+    },
+    "POLI 122D": {
+        "prerequisites": [],
+        "name": "Abuse of Power",
+        "description": "In between \u201crises\u201d and \u201cdeclines,\u201d empires are political entities with highly heterogeneous populations that must be governed. The course examines the similarities and differences in imperial governance, comparing the internal and external political dynamics of traditional (Roman, Ottoman), modernizing (Habsburg), and modern (British) empires. "
+    },
+    "POLI 125B": {
+        "prerequisites": [],
+        "name": "The Politics of Food in a Global Economy",
+        "description": "Conservation in developing countries concerns resources that are extremely important to policymakers, militaries, environmental organizations, communities, and individuals. This course examines these groups' struggle for control over wildlife and forests\u2014from the capital to the village\u2014on several continents. "
+    },
+    "POLI 125E": {
+        "prerequisites": [],
+        "name": "The Politics of Conservation in Developing Countries",
+        "description": "Why are some countries rich and others poor? This course examines how political and economic factors shape development trajectories, focusing on Africa, Asia, and Latin America. Topics include the impact of democracy, corruption, oil, and foreign aid on economic development. "
+    },
+    "POLI 126": {
+        "prerequisites": [
+            "POLI 11"
+        ],
+        "name": "Political Economy of Development",
+        "description": "This course explores how economic factors affect political institutions and how political action affects economic behavior in the United States and Western Europe. Particular attention is given to relations between business and labor, economic policy choices, and the impact of international trade. "
+    },
+    "POLI 126AA": {
+        "prerequisites": [],
+        "name": "Fundamentals\n\t\t  of Political Economy: Modern Capitalism",
+        "description": "This course explores the interrelationship of politics and economics in Eastern Europe, analyzing the historic evolution of the area, the socialist period, and contemporary political and economic change there. "
+    },
+    "POLI 126AB": {
+        "prerequisites": [],
+        "name": "Politics and Economics in Eastern Europe",
+        "description": "This course critically examines central concepts and theories of development, and assesses their utility in understanding political, economic, and social change in the developing world. Central case studies are drawn from three regions: Latin America, Sub-Saharan Africa, and Southeast Asia. "
+    },
+    "POLI 128": {
+        "prerequisites": [],
+        "name": "Autocracy, Democracy, and Prosperity",
+        "description": "Examine the role of elections in new and fragile democracies, explore how politicians construct elections to suppress increased levels of democracy, the techniques used to undermine free and fair elections, and the strategic responses to these actions by domestic/international actors. "
+    },
+    "POLI 130B": {
+        "prerequisites": [],
+        "name": "Politics in the People\u2019s Republic of China",
+        "description": "The course gives an overview of Indian politics since 1947. It addresses the following: (1) To what extent is India a full-fledged democracy in which all citizens enjoy political equality? (2) Why has political violence occurred in some parts of India, and at certain times, but not others? (3) How well have the country's institutions fared in alleviating poverty? "
+    },
+    "POLI 133G": {
+        "prerequisites": [],
+        "name": "Postwar US-Japan Relations",
+        "description": "This course is primarily about the politics and political economy of South Korea, but will also briefly look at politics and political economy of North Korea as well as foreign and unification policies of the two Koreas. "
+    },
+    "POLI 133J": {
+        "prerequisites": [
+            "POLI 11"
+        ],
+        "name": "Korean Politics",
+        "description": "Comparative analysis of contemporary political systems and developmental profiles of selected Latin American countries, with special reference to the ways in which revolutionary and counter-revolutionary movements have affected the political, economic, and social structures observable in these countries today. Analyzes the performance of \u201crevolutionary\u201d governments in dealing with problems of domestic political management, reducing external economic dependency, redistributing wealth, creating employment, and extending social services. Introduction to general theoretical works on Latin American politics and development. "
+    },
+    "POLI 134B": {
+        "prerequisites": [],
+        "name": "Politics in Mexico",
+        "description": "A comparative analysis of contemporary political issues in Latin America. Material to be drawn from two or three countries. Among the topics: development, nationalism, neoimperialism, political change. May be taken for credit two times. "
+    },
+    "POLI 134D": {
+        "prerequisites": [],
+        "name": "Selected Topics in Latin American Politics",
+        "description": "This course is a comparative analysis of twentieth-century political developments and issues in the southern cone of Latin America: Argentina, Chile, and Uruguay. The course will also examine the social and economic content and results of contrasting political experiments. "
+    },
+    "POLI 134I": {
+        "prerequisites": [],
+        "name": "Politics\n\t\t  in the Southern Cone of Latin America",
+        "description": "Students will study the origins and direction of the Cuban revolution and the actions and personality of Castro. Additional topics will include the Cuban economy today, Cuban political organizations and public opinion, important social issues including health care and public education, and Cuban foreign policy and relations between the U.S. and Cuba. The class will instruct students on Cuban contemporary social media and conclude with an examination of alternative scenarios for Cuba's future. "
+    },
+    "POLI 134J": {
+        "prerequisites": [],
+        "name": "Cuba: Revolution and Reform",
+        "description": "This course is designed to expose students to the study of LGBT politics, focusing specifically on the formation of LGBT movements, the presence (or absence) of political opportunities to advance their desired goals, as well as their political success (or lack thereof). Although the course will initially examine the US LGBT movement, the course will also examine the formation (and political success/failure) of LGBT movements in other democratic political systems. "
+    },
+    "POLI 135": {
+        "prerequisites": [],
+        "name": "Comparative LGBT Politics",
+        "description": "The political impact of major religious traditions\u2014including Christianity, Islam, Hinduism, and Confucianism\u2014around the world. "
+    },
+    "POLI 136": {
+        "prerequisites": [],
+        "name": "Religion and Politics",
+        "description": "An examination of nationalist politics as practiced by opposition movements and governments in power. Appropriate case studies from around the world will be selected. "
+    },
+    "POLI 136A": {
+        "prerequisites": [],
+        "name": "Nationalism and Politics",
+        "description": "Sports analytics is a fast-growing field. It uses data and statistical methods to measure performance in competitive sports. The approach's popularity has generated a wealth of data that can be used to shed light on social science questions in interesting ways. We will focus on topics such as violent behavior, discrimination, cultural/ethnic diversity, corruption, and cognitive biases using examples from baseball, basketball, figure skating, football, hockey, soccer, and sumo wrestling. "
+    },
+    "POLI 137": {
+        "prerequisites": [],
+        "name": "A Sports Analytics Approach to the Social Sciences",
+        "description": "This course serves as an introduction to the comparative study of political parties and interest groups as well as an analytical introduction to parties, interest groups, and their role in democratic representation. "
+    },
+    "POLI 138D": {
+        "prerequisites": [],
+        "name": "Special Topics in Comparative Politics",
+        "description": "International law is central to the efforts to create a world order to limit armed conflict, regulate world economy, and set minimum standards for human rights. This course introduces international law and explains theories advanced by academic analysts and practitioners to explain its role. "
+    },
+    "POLI 140A": {
+        "prerequisites": [],
+        "name": "International Law",
+        "description": "Introduction to the analytical and comparative study of revolutionary movements and related forms of political violence. Topics include the classical paradigm, types of revolutionary episodes, psychological theories, ideology and belief systems, coups, insurgencies, civil wars, and terrorism and revolutionary outcomes. "
+    },
+    "POLI 140B": {
+        "prerequisites": [],
+        "name": "Concepts and Aspects of Revolution",
+        "description": "A survey of international peacekeeping and peace enforcement in civil conflicts with a simulation of international diplomacy. "
+    },
+    "POLI 140C": {
+        "prerequisites": [],
+        "name": "International Crisis Diplomacy",
+        "description": "International migration creates a distinct set of human rights challenges. This course examines the conflict between international legal obligations and domestic politics of citizenship, human rights, asylum, and human trafficking. "
+    },
+    "POLI 140D": {
+        "prerequisites": [
+            "POLI 12"
+        ],
+        "name": "International Human Rights Law: Migrant Populations",
+        "description": "United States foreign policy from the colonial period to the present era. Systematic analysis of competing explanations for US policies\u2014strategic interests, economic requirements, or the vicissitudes of domestic politics. Interaction between the U.S., foreign states (particularly allies), and transnational actors are examined. "
+    },
+    "POLI 142M": {
+        "prerequisites": [],
+        "name": "US Foreign Policy/Regional Security",
+        "description": "An introduction to analytic techniques for assessing policy options in the field of national security. "
+    },
+    "POLI 142N": {
+        "prerequisites": [],
+        "name": "American Defense Policy",
+        "description": "This course examines the most critical areas in contemporary world politics. While the emphasis will be placed on American involvement in each crisis, an effort will be made to acquaint the student with its historical and political background. "
+    },
+    "POLI 142Q": {
+        "prerequisites": [],
+        "name": "Cold War",
+        "description": "How has warfighting evolved over the centuries? How has it varied across cultures? What has war been like for soldiers and civilians? How do societies mobilize for war, and how do they change in the short and long term from fighting? "
+    },
+    "POLI 144": {
+        "prerequisites": [
+            "POLI 12"
+        ],
+        "name": "International Political Economy",
+        "description": "This course will consider major theories purporting to explain and predict the workings of the international order from the point of view of political economy. An extended discussion of one aspect of the economic order (e.g., the multinational corporation) will serve as the test case. One quarter of economics recommended. "
+    },
+    "POLI 145A": {
+        "prerequisites": [],
+        "name": "International Politics and Drugs",
+        "description": "The nature of international politics appears to have changed dramatically since 1989. This course applies different theoretical approaches to enhance our understanding of the new international environment, future prospects for peace and war, and current problems of foreign policy. "
+    },
+    "POLI 147B": {
+        "prerequisites": [],
+        "name": "Russian-American Relations",
+        "description": "Comparative analysis of attempts by the United States and other industrialized countries to initiate, regulate and reduce immigration from Third World countries. Social and economic factors shaping outcomes of immigration policies, public opinion toward immigrants, anti-immigration movements, and immigration policy reform options in industrialized countries. "
+    },
+    "POLI 150A": {
+        "prerequisites": [
+            "POLI 12"
+        ],
+        "name": "Politics of Immigration",
+        "description": "Surveys the theory and function\n                    of IOs (UN, NATO, EU, World Bank, IMF) in promoting international\n                    cooperation in security, peacekeeping, trade, environment,\n                    and human rights. We\n                  discuss why IOs exist, how they work, and what challenges they\n                  face. "
+    },
+    "POLI 154": {
+        "prerequisites": [
+            "POLI 10"
+        ],
+        "name": "Special Topics in International Relations",
+        "description": "(Same as USP 101) This course will explore the process by which the preferences of individuals are converted into public policy. Also included will be an examination of the complexity of policy problems, methods for designing better policies, and a review of tools used by analysts and policy makers. "
+    },
+    "POLI 160AA": {
+        "prerequisites": [
+            "POLI 160AA"
+        ],
+        "name": "Introduction to Policy Analysis",
+        "description": "In this course, students will use their knowledge of the political and economic foundations of public policy making to conduct research in a wide variety of public policy problems. "
+    },
+    "POLI 168": {
+        "prerequisites": [
+            "POLI 30",
+            "or",
+            "POLI 30D"
+        ],
+        "name": "Policy Assessment",
+        "description": "This course is an advanced introductory course for undergraduates. It will acquaint students with statistical methodology as it is used in the social sciences. It is assumed that the student has the mathematical background to progress through the materials a bit faster than in a true introductory course. "
+    },
+    "POLI 170A": {
+        "prerequisites": [
+            "POLI 5",
+            "ECON 5",
+            "and",
+            "POLI 30"
+        ],
+        "name": "Applied Data Analysis for Political Science ",
+        "description": "This class explores how we can make policy recommendations using data. We attempt to establish causal relationships between policy intervention and outcomes based on statistical evidence. Hands-on examples will be provided throughout the course. "
+    },
+    "POLI 171": {
+        "prerequisites": [
+            "POLI 5",
+            "ECON 5",
+            "and",
+            "POLI 30"
+        ],
+        "name": "Making Policy with Data",
+        "description": "An accelerated course in computer programming and data analytics for collecting, analyzing, and understanding data in the social world. Students engage in hands-on learning with applied social science problems, developing statistical and computational skills for sophisticated data manipulation, analysis, visualization. "
+    },
+    "POLI 172": {
+        "prerequisites": [],
+        "name": "Advanced Social Data Analytics",
+        "description": "This class introduces tools for analyzing social networks including graph visualization, egocentric and sociocentric network measures, network simulation, and data management. "
+    },
+    "POLI 173": {
+        "prerequisites": [],
+        "name": "Social Network Analysis",
+        "description": "Special topics course in quantitative methods for political science and broader social sciences. May be taken for credit up to three times. "
+    },
+    "POLI 191A\u2013B": {
+        "prerequisites": [],
+        "name": "\t\t  Senior Honors Seminar: Frontiers of Political Science",
+        "description": "The Senior Seminar is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in political science at the upper-division level. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+    },
+    "POLI 192": {
+        "prerequisites": [],
+        "name": "Senior Seminar in Political Science",
+        "description": "(Same as COMM 194, USP 194, HITO 193, SOCI 194, COGS 194) Course attached to six-unit internship taken by students participating in the UCDC Program. Involves weekly seminar meetings with faculty and teaching assistant and a substantial research paper. "
+    },
+    "POLI 194": {
+        "prerequisites": [],
+        "name": "Research Seminar in Washington, DC",
+        "description": "Preparation of a major paper from research conducted while participating in the Research Apprenticeship (POLI 198RA). Presentations to and participation in weekly seminar meetings also required. Students can enroll in POLI 194RA only if they have previously taken or are simultaneously enrolled in 198RA. "
+    },
+    "POLI 194RA": {
+        "prerequisites": [],
+        "name": "Research Apprenticeship Seminar",
+        "description": "The Local Internship Research Seminar will be paired with a Local Internship in Political Science (POLI 197SD) in the same quarter. The linkage to this research seminar will provide advanced academic training in analytic skills appropriate to the internship experience and requires a substantial paper based on original research. "
+    },
+    "POLI 194SD": {
+        "prerequisites": [],
+        "name": "Local Internship Research Seminar",
+        "description": "Teaching and tutorial activities associated with courses and seminars. Limited to advanced political science majors with at least a 3.5 GPA in upper-division political science courses. P/NP grades only. May be taken for credit two times, but only four units may be used for major credit. "
+    },
+    "POLI 195": {
+        "prerequisites": [],
+        "name": "Apprentice Teaching",
+        "description": "This internship is attached to the UCDC Program. Students participating in the UCDC Program are placed in an internship in the Washington, DC, area requiring approximately seventeen to twenty-three hours per week. "
+    },
+    "POLI 197I": {
+        "prerequisites": [],
+        "name": "Political Science Washington Internship",
+        "description": "Individual placements for field learning integrated with political science. A written contract involving all parties with learning objectives, a project outline, and a means of supervision and progress evaluation must be filed with the faculty adviser and department undergraduate coordinator prior to the beginning of the internship. P/NP grades only. May be taken for credit two times. "
+    },
+    "POLI 197SD": {
+        "prerequisites": [],
+        "name": "Local Internship in Political Science",
+        "description": "Directed group study in an area not presently covered by the departmental curriculum. P/NP grades only. "
+    },
+    "POLI 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Students conduct directed research as part of a principal investigator\u2019s project and under the supervision of a department mentor. Students may conduct research with a department mentor for up to two quarters. This course is part of the Research Apprenticeship program in political science. P/NP grades only. May be taken for credit two times. "
+    },
+    "POLI 198RA": {
+        "prerequisites": [],
+        "name": "Research Apprenticeship",
+        "description": "Independent reading in advanced political science by individual students. (P/NP grades only.) "
+    },
+    "POLI 199": {
+        "prerequisites": [],
+        "name": "Independent Study for Undergraduates",
+        "description": "An introduction to the theoretical concepts in the discipline of political science that are commonly used across various subfields. Each week will introduce the core concept(s) and discuss applications from several, if not all subfields in the department. "
+    }
 }

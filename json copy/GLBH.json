@@ -1,0 +1,21 @@
+{
+    "GLBH 102": [
+        "COGS 14B",
+        "or",
+        "MATH 11",
+        "or",
+        "PSYC 60",
+        "and",
+        "GLBH 20",
+        "or",
+        "FMPH 40"
+    ],
+    "GLBH 150A": [],
+    "GLBH 150B": [
+        "GLBH 150A"
+    ],
+    "GLBH 160": [],
+    "GLBH 181": [],
+    " GLBH 198": [],
+    "GLBH 199": []
+}
