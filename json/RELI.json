@@ -1,4 +1,24 @@
 {
+    "RELI 1": {
+        "prerequisites": [],
+        "name": "Introduction to Religion",
+        "description": "An introduction to the comparative study of religion, focusing on religious traditions of global significance. Although historical aspects of these traditions will be studied, emphasis will be placed on religious beliefs and practices as manifested in the contemporary world."
+    },
+    "RELI 2": {
+        "prerequisites": [],
+        "name": "Comparative World Religions",
+        "description": "The aim of this course is to introduce students to the complex relationship between \u201ctechnoscience,\u201d as a broad field of inquiry into the global human practices of technology combined with scientific methods, ranging from biology to computer sciences and robotics, with religion in its complex social manifestations."
+    },
+    "RELI 3": {
+        "prerequisites": [],
+        "name": "Technoscience and Religion",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic related to the study of religion with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen."
+    },
+    "RELI 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar in Religion",
+        "description": "This course provides an advanced introduction to assumptions and norms that shape the study of religion as an academic field; to significant debates within the field; and to tools and methods used for professional research within the field."
+    },
     "RELI 101": {
         "prerequisites": [],
         "name": "Tools and Methods in the Study of Religion",
@@ -89,6 +109,16 @@
         "name": "African American Religions",
         "description": "This course will survey questions surrounding the \u201ccoevolution\u201d of human and technics and ways such processes are making new worlds of which we often feel a sense of perpetual disruption. We investigate posthuman not only in terms of new technological practices but spiritual  experiences that bring about new understandings of being human in the world. "
     },
+    "RELI 156": {
+        "prerequisites": [],
+        "name": "Posthuman Spirituality",
+        "description": "This course examines Japanese religions by studying various traditions including Buddhism, Christianity, and Shintoism and their influence on Japanese culture such as anime and cinema. Students must apply and be accepted into the Global Seminar Program."
+    },
+    "RELI 157GS": {
+        "prerequisites": [],
+        "name": "Religion in Japan",
+        "description": "This course looks at the relationship between literature and spirituality in Japan. The course explores this relationship in the works of Shusaku Endo, Hiromi Ito, Yasunari Kawabata, Haruki Murakami, and others. Students must apply and be accepted into the Global Seminar Program."
+    },
     "RELI 158GS": {
         "prerequisites": [],
         "name": "Japanese Literature and Spirituality",
@@ -108,6 +138,11 @@
         "prerequisites": [],
         "name": "Special Topics in Religion",
         "description": "This seminar requires the intensive analysis of critical problems in the study of religion or the history of particular religions. May be repeated for credit up to three times when topics vary. "
+    },
+    "RELI 189": {
+        "prerequisites": [],
+        "name": "Seminar in Religion",
+        "description": "The senior seminar is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in religion at the upper-division level. Topics will vary from quarter to quarter. Senior seminars may be taken for credit up to four times, with a change in topic and permission of the department. Enrollment is limited to twenty students, with preference given to seniors."
     },
     "RELI 192": {
         "prerequisites": [

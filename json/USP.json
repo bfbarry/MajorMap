@@ -1,4 +1,44 @@
 {
+    "USP 1": {
+        "prerequisites": [],
+        "name": "History of US Urban Communities",
+        "description": "This course charts the development of urban communities across the United States both temporally and geographically. It examines the patterns of cleavage, conflict, convergence of interest, and consensus that have structured urban life. Social, cultural, and economic forces will be analyzed for the roles they have played in shaping the diverse communities of America\u2019s cities. "
+    },
+    "USP 2": {
+        "prerequisites": [],
+        "name": "Urban World System",
+        "description": "Examines cities and the environment in a global context. Emphasizes how the world\u2019s economy and the earth\u2019s ecology are increasingly interdependent. Focuses on biophysical and ethicosocial concerns rooted in the contemporary division of labor among cities, Third World industrialization, and the post-industrial transformation of US cities. "
+    },
+    "USP 3": {
+        "prerequisites": [],
+        "name": "The City and Social Theory",
+        "description": "An introduction to the sociological study of cities, focusing on urban society in the United States. Students in the course will examine theoretical approaches to the study of urban life; social stratification in the city; urban social and cultural systems\u2013ethnic communities, suburbia, family life in the city, religion, art, and leisure.\t\t"
+    },
+    "USP 4": {
+        "prerequisites": [],
+        "name": "Introduction to Geographic Information Systems",
+        "description": "This course provides an entry-level introduction to Geographic Information Systems (GIS) and using GIS to make decisions: acquiring data and organizing data in useful formats, demographic mapping, and geocoding."
+    },
+    "USP 5": {
+        "prerequisites": [],
+        "name": "Introduction to the Real Estate and Development Process",
+        "description": "This course introduces students to the terminology, concepts, and basic practices of real estate finance and development. It surveys real estate law, appraisal, marketing, brokerage, management, finance, investment analysis, and taxation."
+    },
+    "USP 15": {
+        "prerequisites": [],
+        "name": "Applied Urban Economics for Planning and Development",
+        "description": "This course explores how economics contributes to understanding and solving urban problems using a \u201clearn by doing\u201d approach. Economic analysis will be applied to important issues that planners and developers must deal with, such as land markets, housing, and zoning.\n        "
+    },
+    "USP 25": {
+        "prerequisites": [],
+        "name": "Real Estate and Development Principles and Analysis",
+        "description": "This course will analyze the concepts related to the planning, development, leasing, valuation, and financing of real estate. There will be special emphasis on critical thinking and analytical decision-making by solving real estate problems primarily using Excel and Argus."
+    },
+    "USP 50": {
+        "prerequisites": [],
+        "name": "Real Estate and Development Colloquium",
+        "description": "In this course, students will attend weekly seminars presented by leading researchers and practitioners in the field of real estate and development. Students will learn about best practices and innovative case studies from the field. Recommended for students interested in the real estate and development minor or major."
+    },
     "USP 100": {
         "prerequisites": [],
         "name": "Introduction to Urban Planning",

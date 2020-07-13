@@ -1,4 +1,9 @@
 {
+    "ECON 1": {
+        "prerequisites": [],
+        "name": "Principles of Microeconomics",
+        "description": "Introduction to the study of the economic system. Course will introduce the standard economic models used to examine how individuals and firms make decisions in perfectly competitive markets, and how these decisions affect supply and demand in output markets."
+    },
     "ECON 2": {
         "prerequisites": [
             "ECON 1"
@@ -12,6 +17,21 @@
         ],
         "name": "Principles of Macroeconomics",
         "description": "Introductory macroeconomics: unemployment, inflation, business cycles, monetary and fiscal policy.  "
+    },
+    "ECON 4": {
+        "prerequisites": [],
+        "name": "Financial Accounting",
+        "description": "(Cross-listed with MGT 4.) Recording, organizing, and communicating financial information relating to business entities. Credit not allowed for both ECON 4 and MGT 4. "
+    },
+    "ECON 5": {
+        "prerequisites": [],
+        "name": "Data Analytics for the Social Sciences",
+        "description": "(Cross-listed with POLI 5D.) Introduction to probability and analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. Basics of probability, visual display of data, data collection and management, hypothesis testing, and computation. Students may receive credit for only one of the following courses: ECON 5, POLI 5, or POLI 5D."
+    },
+    "ECON 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to\n\t\t\t\t  provide new students with the opportunity to explore an intellectual\n\t\t\t\t  topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate\n\t\t\t\t  colleges, and topics vary from quarter to quarter. Enrollment\n\t\t\t\t  is limited to fifteen to twenty students, with preference given\n\t\t\t\t  to entering freshmen. May be repeated when course topics vary.\n\t\t\t\t  (P/NP grades only.) "
     },
     "ECON 100A": {
         "prerequisites": [

@@ -1,4 +1,49 @@
 {
+    "PHIL 1": {
+        "prerequisites": [],
+        "name": "Introduction to Philosophy",
+        "description": "A general introduction to some of the fundamental questions, texts, and\n\t\t\t\t  methods of philosophy. Multiple topics will be covered, and may include\n\t\t\t\t  the existence of God, the nature of mind and body, free will, ethics and\n\t\t\t\t  political philosophy, knowledge and skepticism."
+    },
+    "PHIL 10": {
+        "prerequisites": [],
+        "name": "Introduction to Logic",
+        "description": "Basic concepts and techniques in both informal and formal logic and reasoning, including a discussion of argument, inference, proof, and common fallacies, and an introduction to the syntax, semantics, and proof method in sentential (propositional) logic. May be used to fulfill general-education requirements for Warren and Eleanor Roosevelt Colleges."
+    },
+    "PHIL 12": {
+        "prerequisites": [],
+        "name": "Scientific Reasoning",
+        "description": "Strategies of scientific inquiry: how elementary logic, statistical inference, and experimental design are integrated to evaluate hypotheses in the natural and social sciences. May be used to fulfill general-education requirements for Marshall, Warren, and Eleanor Roosevelt Colleges."
+    },
+    "PHIL 13": {
+        "prerequisites": [],
+        "name": "Introduction to Philosophy: Ethics",
+        "description": "An inquiry into the nature of morality and its role in personal or social life by way of classical and/or contemporary works in ethics. May be used to fulfill general-education requirements for Muir and Marshall Colleges."
+    },
+    "PHIL 14": {
+        "prerequisites": [],
+        "name": "Introduction\n\t\t\t\t  to Philosophy: The Nature of Reality",
+        "description": "A survey of central issues and figures in\n\t\t\t\t  the Western metaphysical tradition. Topics include the mind-body problem,\n\t\t\t\t  freedom and determinism, personal identity, appearance and reality, and\n\t\t\t    the existence of God. "
+    },
+    "PHIL 15": {
+        "prerequisites": [],
+        "name": "Introduction\n\t\t\t\t  to Philosophy: Knowledge and Its Limits",
+        "description": "A study of the grounds and scope of human\n\t\t\t\t  knowledge, both commonsense and scientific, as portrayed in the competing\n\t\t\t\t  traditions of Continental rationalism, British empiricism, and contemporary\n\t\t\t    cognitive science. "
+    },
+    "PHIL 16": {
+        "prerequisites": [],
+        "name": "Science Fiction and Philosophy",
+        "description": "An introduction to philosophy which uses science fiction to make abstract philosophical problems vivid. Science fiction themes may include time travel, teleportation, virtual reality, super-intelligent robots, futuristic utopias, and parallel universes. These scenarios raise philosophical questions about knowledge, reality, ethics, and the mind."
+    },
+    "PHIL 25": {
+        "prerequisites": [],
+        "name": "Science, Philosophy, and the Big Questions",
+        "description": "An inquiry into fundamental questions at the intersection\n                  of science and philosophy. Topics can include Einstein\u2019s universe;\n                  scientific revolutions; the mind and the brain."
+    },
+    "PHIL 26": {
+        "prerequisites": [],
+        "name": "Science, Society, and Values",
+        "description": "An exploration of the interaction between scientific theory\n                  and practice on the one hand, and society and values on the\n                  other. Topics can include the relationship between science\n                  and religion, global climate change, DNA, medicine, and ethics. "
+    },
     "PHIL 27": {
         "prerequisites": [
             "CAT 2",
@@ -23,6 +68,31 @@
         ],
         "name": "Ethics and Society II",
         "description": "An examination of a single set of major contemporary social, political, or economic issues (e.g., environmental ethics, international ethics) in light of ethical and moral principles and values. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement. "
+    },
+    "PHIL 31": {
+        "prerequisites": [],
+        "name": "Introduction\n\t\t\t\t  to Ancient Philosophy",
+        "description": "A survey of classical Greek philosophy with\n\t\t\t\t  an emphasis on Socrates, Plato and Aristotle, though some consideration\n\t\t\t    may be given to Pre-Socratic and/or Hellenistic philosophers. "
+    },
+    "PHIL 32": {
+        "prerequisites": [],
+        "name": "Philosophy and the Rise of Modern Science ",
+        "description": "An exploration of central philosophical issues as they have been taken up in the diverse philosophical traditions of the Americas, such as indigenous philosophy, Latin American philosophy, American Pragmatism, and the Civil Rights movement, among others. Topics may include ethics, social and political philosophy, colonialism, philosophy of race and gender, environmentalism, and issues in philosophy of language."
+    },
+    "PHIL 33": {
+        "prerequisites": [],
+        "name": "Philosophy between Reason and Despair",
+        "description": "A survey of philosophical issues concerning law and society, such as the rule of law, the moral limits of the law, individual rights, judicial review in a constitutional democracy, the justification of punishment, and responsibility."
+    },
+    "PHIL 35": {
+        "prerequisites": [],
+        "name": "Philosophy in the Americas",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen."
+    },
+    "PHIL 50": {
+        "prerequisites": [],
+        "name": "Law and Society",
+        "description": "An investigation of a selected philosophical topic through\n                  readings, discussions, and written assignments. May be taken\n                  for credit twice, when topics vary."
     },
     "PHIL 87": {
         "prerequisites": [],
@@ -210,6 +280,11 @@
         "name": "Philosophy of the Cognitive Sciences",
         "description": "Philosophical issues of method and substance in the social sciences, such as causal and interpretive models of explanation, structuralism and methodological individualism, value neutrality, and relativism. "
     },
+    "PHIL 151": {
+        "prerequisites": [],
+        "name": "Philosophy of Neuroscience",
+        "description": "Introduction to Mexican philosophy with discussion of the work of such figures as Las Casas, Sor Juana Ines de la Cruz, Vasconcelos, Uranga, Zea, Villoro, Dussel, Hierro, Lara, and Hurtado. Topics may include historical movements, such as scholasticism, positivism, Mexican existentialism, and indigenous thought, as well as contemporary developments and the relationship to philosophy in the United States, Europe, and elsewhere."
+    },
     "PHIL 152": {
         "prerequisites": [],
         "name": "Philosophy of Social Science",
@@ -341,5 +416,15 @@
         "prerequisites": [],
         "name": "The Honors Essay",
         "description": "Directed individual study by special arrangement with and under the supervision of a faculty member. (P/NP grades only.) "
+    },
+    "PHIL 195": {
+        "prerequisites": [],
+        "name": "Introduction to Teaching Philosophy",
+        "description": "Introduction to philosophical methods of analysis through study of classic historical or contemporary texts. Writing intensive. Enrollment limited to philosophy entering graduate students. "
+    },
+    "PHIL 199": {
+        "prerequisites": [],
+        "name": "Directed Individual Study",
+        "description": "A study of selected texts or topics in the history of philosophy. Usually the focus will be on a single major text. May be taken for credit nine times with changed content. "
     }
 }

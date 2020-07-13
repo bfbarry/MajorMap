@@ -1,4 +1,19 @@
 {
+    "CGS 2A": {
+        "prerequisites": [],
+        "name": "Introduction to Critical Gender Studies: Key Terms and Concepts ",
+        "description": "This course will be a general introduction to the key terms, issues, and concepts in the fields of gender and sexuality studies. "
+    },
+    "CGS 2B": {
+        "prerequisites": [],
+        "name": "Introduction to Critical Gender Studies: Social Formations ",
+        "description": "An introduction to the social relations of power that are shaped by and that shape gender and sexuality. It will build more on the basic concepts and skills introduced in CGS 2A. "
+    },
+    "CGS 87": {
+        "prerequisites": [],
+        "name": "Critical\n\t\t  Gender Studies Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small, seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
     "CGS 100A": {
         "prerequisites": [
             "CGS 2A-B",
@@ -17,6 +32,16 @@
         "name": "Gender, Modernity, and Globalization",
         "description": "Examines the different methodologies and disciplinary histories that together constitute the interdisciplinary project called queer studies. Of particular interest will be how these different methodologies and history construe and construct the relations between gender, race, class, and nation. "
     },
+    "CGS 105": {
+        "prerequisites": [],
+        "name": "Queer Theory",
+        "description": "Explores the legal treatment of discrimination on the basis of gender, including equal protection doctrine and some statutory law such as Title VII. Topics include the meaning of gender equality in such areas as single-sex education, military service, sexual harassment, discrimination on the basis of pregnancy, and other current issues. "
+    },
+    "CGS 106": {
+        "prerequisites": [],
+        "name": "Gender and the Law",
+        "description": "(Cross-listed with LTCS 108.) This course explores the idea of artificial intelligence in both art and science, its relation to the quest to identify what makes us human, and the role gender and race have played in both. Students may not receive credit for CGS 108 and LTCS 108."
+    },
     "CGS 108": {
         "prerequisites": [],
         "name": "Gender, Race, and Artificial Intelligence",
@@ -31,6 +56,31 @@
         "prerequisites": [],
         "name": "Sexuality and Nation",
         "description": "Examines gender and sexuality in artistic practices: music, theatre, dance, performance, visual arts, and new media. Topics may include study of specific artists, historical moments, genres, cross-cultural analyses, and multiculturalism. May be taken three times when topics vary. "
+    },
+    "CGS 113": {
+        "prerequisites": [],
+        "name": "Gender and Sexuality in the Arts",
+        "description": "(Cross-listed with ETHN 183.) Gender is often neglected in studies of ethnic/racial politics. This course explores the relationship of race, ethnicity, class, and gender by examining the participation of working-class women of color in community politics and how they challenge mainstream political theory."
+    },
+    "CGS 114": {
+        "prerequisites": [],
+        "name": "Gender, Race, Ethnicity, and Class",
+        "description": "(Cross-listed with ANSC 117.) This course contrasts mainstream Anglo-American conceptualizations of transgenderism with ethnographic accounts of the experiences and practices of gender expansive people of color (African, Native, Asian/Pacific Islander, and Latinx Americans) in the United States and abroad. It will question the idea of transgenderism as a crossing from one gender to another one, the distinction between gender identity and sexuality, and the analytic of intersectionality. Students will not receive credit for both CGS 117 and ANSC 117."
+    },
+    "CGS 117": {
+        "prerequisites": [],
+        "name": "Transgenderisms",
+        "description": "(Cross-listed with ANSC 186.) This course investigates the ways in which forces of racism, gendered violence, and state control intersect in the penal system. The prison-industrial complex is analyzed as a site where certain types of gendered and racialized bodies are incapacitated, neglected, or made to die. Students may not receive credit for CGS 118 and ANSC 186. "
+    },
+    "CGS 118": {
+        "prerequisites": [],
+        "name": "Gender and Incarceration",
+        "description": "(Cross-listed with LTCS 119.) The course explores the politics of pleasure in relation to the production, reception, and performance of Asian American identities in the mass media of film, video, and the internet. The course considers how the \"deviant\" sexuality of Asian Americans (e.g., hypersexual women and emasculated men) does more than uniformly harm and subjugate Asian American subjects. The texts explored alternate between those produced by majoritarian culture and the interventions made by Asian American filmmakers. Students may not receive credit for LTCS 119 and CGS 119."
+    },
+    "CGS 119": {
+        "prerequisites": [],
+        "name": "Asian American Film, Video, and New Media: The Politics of Pleasure",
+        "description": "(Cross-listed with ANSC 180.)\u00a0Drawing insight from anti-colonial and queer of color critique, this course critically examines the demands capitalism makes on us to perform gender, and how that relates to processes of exploitation and racialization. We will explore alternatives and develop strategies for navigating jobs in this system. Students may receive credit for one of the following: CGS 120, CGS 180, and ANSC 180."
     },
     "CGS 120": {
         "prerequisites": [
@@ -153,5 +203,10 @@
         "prerequisites": [],
         "name": "Directed Group Study",
         "description": "Tutorial; independent study on a topic not generally included in the curriculum. "
+    },
+    "CGS 199": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "This course, the first in the graduate specialization in Critical Gender Studies, is designed to give students a broad but advanced survey of historical and current research in studies of gender and sexuality in the arts, humanities, and social sciences. "
     }
 }

@@ -28,6 +28,11 @@
         "name": "Modern Culture",
         "description": "Challenges to liberalism posed by such movements as socialism, imperialism, and nationalism; the growth of new forms of self-expression and new conceptions of individual psychology. Revelle students must take course for letter grade. "
     },
+    "HUM 119": {
+        "prerequisites": [],
+        "name": "Special Topics in Humanities",
+        "description": "An in-depth study of topics in the humanities. Subject matter varies, focusing on one author, intellectual topic, or specific historical tradition. May be repeated up to three times for credit when topics vary. (F) "
+    },
     "HUM 195": {
         "prerequisites": [],
         "name": "Methods of Teaching Humanities",

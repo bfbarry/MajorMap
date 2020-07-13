@@ -1,8 +1,78 @@
 {
+    "BILD 1": {
+        "prerequisites": [],
+        "name": "The Cell",
+        "description": "An introduction to cellular structure and function, to biological molecules, bioenergetics, to the genetics of both prokaryotic and eukaryotic organisms, and to the elements of molecular biology. Recommended preparation: prior completion of high school- or college-level chemistry course. "
+    },
     "BILD 2": {
         "prerequisites": [],
         "name": "Multicellular Life",
         "description": "An introduction to the development and the physiological processes of plants and animals. Included are treatments of reproduction, nutrition, respiration, transport systems, regulation of the internal environment, the nervous system, and behavior. "
+    },
+    "BILD 3": {
+        "prerequisites": [],
+        "name": "Organismic and Evolutionary Biology",
+        "description": "The first principles of evolutionary theory, classification, ecology,\n\t\t\t\t  and behavior; a phylogenetic synopsis of the major groups of organisms\n\t\t\t\t  from viruses to primates."
+    },
+    "BILD 4": {
+        "prerequisites": [],
+        "name": "Introductory Biology Lab",
+        "description": "Students gain hands-on experience and learn the theoretical basis of lab techniques common to a variety of biological disciplines such as biochemistry, molecular biology, cell biology, and bioinformatics. Students will work in groups, learning how to collect, analyze, and present data while using the scientific method to conduct inquiry-based laboratory experiments. Material lab fees will apply."
+    },
+    "BILD 7": {
+        "prerequisites": [],
+        "name": "The Beginning of Life",
+        "description": "An introduction to the basic principles of plant and animal development, emphasizing the similar strategies by which diverse organisms develop. Practical applications of developmental principles as well as ethical considerations arising from these technologies will be discussed."
+    },
+    "BILD 10": {
+        "prerequisites": [],
+        "name": "Fundamental Concepts of Modern Biology",
+        "description": "An introduction to the biochemistry and genetics of cells and organisms; illustrations are drawn from microbiology and human biology. This course is designed for nonbiology students and does not satisfy a lower-division requirement for any biology major. Open to nonbiology majors only.  Note: Students may not receive credit for BILD\n\t\t\t\t  10 after receiving credit for BILD 1. "
+    },
+    "BILD 12": {
+        "prerequisites": [],
+        "name": "Neurobiology and Behavior",
+        "description": "Course will focus on issues such as global warming, species extinction, and human impact on the oceans and forests. History and scientific projections will be examined in relation to these events. Possible solutions to these worldwide processes and a critical assessment of their causes and consequences will be covered."
+    },
+    "BILD 18": {
+        "prerequisites": [],
+        "name": "Human Impact on the Environment",
+        "description": "Fundamentals of human genetics and introduction to modern genetic technology\n\t\t\t\t  such as gene cloning and DNA finger printing. Applications of these techniques,\n\t\t\t\t  such as forensic genetics, genetic screening, and genetic engineering.\n\t\t\t\t  Social impacts and ethical implications of these applications. This course\n\t\t\t\t  is designed for nonbiology students and does not satisfy a lower-division\n\t\t\t\t  requirement for any biology major. Open to nonbiology majors only. Note: Students may\n\t\t\t\t  not receive credit for BILD 20 after receiving credit for BICD 100. "
+    },
+    "BILD 20": {
+        "prerequisites": [],
+        "name": "Human Genetics in Modern Society",
+        "description": "A survey of our understanding of the basic\n\t\t\t\t  chemistry and biology of human nutrition; discussions of all aspects of\n\t\t\t\t  food: nutritional value, diet, nutritional diseases, public health, and\n\t\t\t\t  public policy. This course is designed for nonbiology students and does\n\t\t\t\t  not satisfy a lower-division requirement for any biology major. Open to nonbiology majors only.  Note: Students\n  may not receive credit for BILD 22 after receiving credit for BIBC 120. "
+    },
+    "BILD 22": {
+        "prerequisites": [],
+        "name": "Human Nutrition",
+        "description": ""
+    },
+    "BILD 26": {
+        "prerequisites": [],
+        "name": "Human Physiology",
+        "description": "An introduction to diseases caused by viruses, bacteria, and parasites, and the impact of these diseases on human society. Topics include the biology of infectious disease, epidemiology, and promising new methods to fight disease. Open to nonbiology majors only. Note: Students will not receive credit for BILD 30 if taken after BIMM 120."
+    },
+    "BILD 30": {
+        "prerequisites": [],
+        "name": "Biology of Plagues: Past and Present",
+        "description": ""
+    },
+    "BILD 36": {
+        "prerequisites": [],
+        "name": "AIDS Science and Society",
+        "description": "An introduction to all aspects of the AIDS epidemic. Topics will include the epidemiology, biology, and clinical aspects of HIV infection; HIV testing; education and approaches to therapy; and the social, political, and legal impacts of AIDS on the individual and society. This course is designed for nonbiology students and does not satisfy a lower-division requirement for any biology major. Open to nonbiology majors only. Note: Students may not receive credit for BILD 36 after receiving credit for BICD 136. "
+    },
+    "BILD 38": {
+        "prerequisites": [],
+        "name": "Dementia, Science, and Society",
+        "description": "Introduction to basic human neuroscience leading to a discussion of brain diseases classified under the rubric Dementia. Topics include basic brain structure and function, diseases of the aging brain and their economic, social, political and ethical impacts on society."
+    },
+    "BILD 40": {
+        "prerequisites": [],
+        "name": "Introduction to Biomedical Research",
+        "description": "Course introduces students to some of the research approaches employed by physicians and scientists at the UC San Diego School of Medicine to investigate the etiology, biology, prevention and treatment of human diseases, including cancer, diabetes, and others. P/NP grades only."
     },
     "BILD 51": {
         "prerequisites": [],
@@ -18,6 +88,26 @@
         "prerequisites": [],
         "name": "Genomics Research Initiative Lab I",
         "description": "Students will isolate bacterial viruses or other organisms from the environment and characterize them by methods including electron microscopy and nucleic acid analysis. The genomic DNA will be purified and sent for sequencing. Restricted to student participants in the Phage Genomics Research program. Renumbered from BIMM 171A. Students may not receive credit for BILD 70 and BIMM 171A. Material lab fees will apply. "
+    },
+    "BILD 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": ""
+    },
+    "BILD 91": {
+        "prerequisites": [],
+        "name": "Biology Freshmen: Strategies for Success",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen.\t\t"
+    },
+    "BILD 92": {
+        "prerequisites": [],
+        "name": "Professional Development Topics in the Biological Sciences",
+        "description": "Course is designed to assist new freshmen in making a smooth and informed transition from high school. Lectures focus on study skills, academic planning and using divisional and campus resources to help achieve academic, personal and professional goals. Exercises and practicums will develop the problems solving skills needed to succeed in biology. Attention will be given to research possibilities. Intended for new freshmen."
+    },
+    "BILD 95": {
+        "prerequisites": [],
+        "name": "Undergraduate Workshops",
+        "description": "The workshops will be restricted to lower-division undergraduates. The course will introduce students to the methods of scientific research and to a variety of research topics in the biological/biomedical sciences. Examples of topics are: Introduction to Scientific Research, AIDS, Medical and Social Aspects, Is the Mind the Same as the Brain, Wildlife Conservation. "
     },
     "BILD 96": {
         "prerequisites": [],
@@ -670,5 +760,20 @@
         "prerequisites": [],
         "name": "Honors Thesis in Biological Sciences",
         "description": "Course will cover fundamental\n                  issues in academia, including campus resources, research design,\n                  ethical issues in research, scientific publishing and review,\n                  grant preparation, etc. Required of all first-year doctoral students\n                  in the Division of Biological Sciences. S/U grades only. "
+    },
+    "BISP 197": {
+        "prerequisites": [],
+        "name": "Biology Internship Program",
+        "description": "Introduction to the computational methods most frequently used in neuroscience research. Aimed at first-year graduate students in neuroscience and related disciplines. Minimal quantitative background will be assumed. Topics include Poisson processes, Markov Chains, auto- and cross-correlation analysis, Fourier/Spectral analysis, principal components/linear algebra, signal detection theory, information theory, Bayes Theorem, hypothesis testing. Nongraduate students may enroll with consent of instructor."
+    },
+    "BISP 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Discussions cover professional preparation for future scientists. Topics include how to read/write/publish papers, to write grant and fellowship proposals, to give oral presentations, and how to apply for research positions. Behind-the-scenes look at reviewing papers, grant and fellowship proposals. Discussions of career options in biological sciences will be included. Scientific content is in the area of eukaryotic gene expression, but knowledge is applicable to all areas of biology. Undergraduate students with senior standing may enroll with consent of instructor. "
+    },
+    "BISP 199": {
+        "prerequisites": [],
+        "name": "Individual Research for Undergraduates",
+        "description": "The course teaches different topics on theory and key concepts in ecology, behavior, and evolution. Students will read materials in depth, attend weekly discussions, and explore relevant topics, theories, and models with advanced analytical tools. S/U grades only. May be taken for credit three times when topics vary."
     }
 }

@@ -1,10 +1,100 @@
 {
+    "COGS 1": {
+        "prerequisites": [],
+        "name": "Introduction to Cognitive Science",
+        "description": "A team-taught course highlighting development of the field and the broad range of topics covered in the major. Example topics include addiction, analogy, animal cognition, human-computer interaction, language, neuroimaging, neural networks, reasoning, robots, and real-world applications. "
+    },
+    "COGS 2": {
+        "prerequisites": [],
+        "name": "Cognitive Neuroeconomics",
+        "description": "This course is an introduction to the neuroscience behind the principles of economic decision-making. The topics in this course are aimed at exploring the underlying cognitive and neural mechanisms that drive the decisions behind traditional economic models. "
+    },
+    "COGS 3": {
+        "prerequisites": [],
+        "name": "Introduction to Computing",
+        "description": "Covers the fundamental concepts that underlie all programming languages and provides an introduction to the essential information about algorithms and data structures. Students design and implement web applications using HTML5, CSS3, JavaScript, and Photoshop. No previous programming experience is required. "
+    },
+    "COGS 8": {
+        "prerequisites": [],
+        "name": "Hands-on Computing",
+        "description": "Introductory-level course that will give students insight into the fundamental concepts of algorithmic thinking and design. The course will provide the students with first-person, hands-on experience programming a web crawler and simple physical robots. "
+    },
+    "COGS 9": {
+        "prerequisites": [],
+        "name": "Introduction to Data Science",
+        "description": "Concepts of data and its role in science will be introduced, as well as the ideas behind data-mining, text-mining, machine learning, and graph theory, and how scientists and companies are leveraging those methods to uncover new insights into human cognition."
+    },
+    "COGS 10": {
+        "prerequisites": [],
+        "name": "Cognitive Consequences of Technology",
+        "description": "This course examines the interrelationships of cognition and technology from the perspective of cognitive science. We address questions of importance for our increasingly technological society: How does technology shape our minds? How should what we know about our minds shape technology?"
+    },
+    "COGS 11": {
+        "prerequisites": [],
+        "name": "Minds and Brains",
+        "description": "How damaged and normal brains influence the way humans solve problems, remember or forget, pay attention to things; how they affect our emotions, and the way we use language in daily life. "
+    },
+    "COGS 12": {
+        "prerequisites": [],
+        "name": "Language, Culture, and Cognition",
+        "description": "Do people who speak different languages think differently? Does learning new languages change the way you think? Are some thoughts unthinkable without language? Course will bring together ideas and findings from psychology, linguistics, anthropology, neuroscience, and philosophy."
+    },
+    "COGS 13": {
+        "prerequisites": [],
+        "name": "Field Methods: Studying Cognition in the Wild",
+        "description": "This course introduces students to multiple methods to investigate cognition and behavior in natural settings. Students will learn about ethnography, videography (video data collection, coding, and analysis), surveys design and conducting interviews, and how to move from observations to modeling."
+    },
+    "COGS 14A": {
+        "prerequisites": [],
+        "name": "Introduction to Research Methods",
+        "description": "Introduction to the scientific method. Methods of knowledge acquisition, research questions, hypotheses, operational definitions, variables, control. Observation, levels of measurement, reliability, validity. Experimentation and design: between-groups, within-subjects, quasi-experimental, factorial, single-subject. Correlational and observational studies. Ethics in research."
+    },
     "COGS 14B": {
         "prerequisites": [
             "COGS 14A"
         ],
         "name": "Introduction to Statistical Analysis",
         "description": "Introduction to descriptive and inferential statistics. Tables, graphs, measures of central tendency and variability. Distributions, Z-scores, correlation, regression. Probability, sampling, logic of inferential statistics, hypothesis testing, decision theory. T-test, one and two-way Anova, nonparametric tests (Chi-square). \n\t\t\t"
+    },
+    "COGS 15": {
+        "prerequisites": [],
+        "name": "What the *#!?: An Uncensored Introduction to Language",
+        "description": "This course uses the study of swearing to introduce topics in language: how children learn it, why it changes over time, and how people pronounce and understand it. Students who believe they could be offended by the study of swearing and other taboo language might not find this course appropriate for them."
+    },
+    "COGS 17": {
+        "prerequisites": [],
+        "name": "Neurobiology of Cognition",
+        "description": "Introduction to the organization and functions of the nervous system. Topics include molecular, cellular, developmental, systems, and behavioral neurobiology. Specifically, structure and function of neurons, peripheral and central nervous systems, sensory, motor, and control systems, learning and memory mechanisms. (Students may not receive credit for both BILD12 and COGS 17. This course fulfills general-education requirements for Marshall and Roosevelt Colleges as well as Warren by petition.) "
+    },
+    "COGS 18": {
+        "prerequisites": [],
+        "name": "Introduction to Python ",
+        "description": "This class will teach fundamental Python programming skills and practices, including the \u201cZen of Python.\u201d Students will focus on scientific computing and learn to write functions and tests, as well as how to debug code using the Jupyter Notebook programming environment. Students with limited computing experience may take COGS 3 for preparation."
+    },
+    "COGS 20": {
+        "prerequisites": [],
+        "name": "Exploring the Musical Mind",
+        "description": "(Cross-listed with MUS 20.) How do we transform complex sounds into comprehensible and meaningful music? What physiological, neurological, cognitive, and cultural systems are involved? Why do we make music in such diverse ways around the globe? Does music have evolutionary or ecological significance? What is the relationship between music, motion, and emotions? This course explores contemporary understandings of how we hear and how we become musical and invites students to listen to new music in new ways. Students may not receive credit for both COGS 20 and MUS 20."
+    },
+    "COGS 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
+    "COGS 90": {
+        "prerequisites": [],
+        "name": "Undergraduate Seminar",
+        "description": "Special topics in cognitive science are discussed. P/NP grades only. (May be repeated when topics vary.)"
+    },
+    "COGS 91": {
+        "prerequisites": [],
+        "name": "SCANS Presents",
+        "description": "The department faculty and the Students for Cognitive and Neurosciences (SCANS) offer this seminar exploring issues in cognitive science. It includes informal faculty research presentations, investigations of topics not covered in the curriculum, and discussions on graduate school and careers. (May be repeated when topics vary.) "
+    },
+    "COGS 92": {
+        "prerequisites": [],
+        "name": "Resiliency in the Face of Adversity",
+        "description": "Psychological resiliency will be addressed both scientifically and pragmatically. Students will explore the way cognitive and behavioral factors contribute to one\u2019s ability to cope with the stresses of life and emerge from them stronger than before. P/NP only. "
     },
     "COGS 99": {
         "prerequisites": [],

@@ -1,4 +1,49 @@
 {
+    "MGT 3": {
+        "prerequisites": [],
+        "name": "Quantitative Methods in Business",
+        "description": "Introduction to techniques to develop/analyze data for informed tactical and strategic management decisions: statistical inference, probability, regression analysis, and optimization. Using these analytic approaches, theory-based formulas, and spreadsheets, students explore managerial applications across all areas of business activity."
+    },
+    "MGT 4": {
+        "prerequisites": [],
+        "name": "Financial Accounting",
+        "description": "Cross-listed with ECON 4. Recording, organizing, and communicating\n    financial information to business entities. "
+    },
+    "MGT 5": {
+        "prerequisites": [],
+        "name": "Managerial Accounting",
+        "description": "Internal accounting fundamentals, including cost behavior, cost application\n  methods, overhead allocation methods, break-even analysis, budgeting, cost\n  variance analysis, inventory management, and capital budgeting."
+    },
+    "MGT 12": {
+        "prerequisites": [],
+        "name": "Personal Financial Management",
+        "description": "Course examines management of personal financial assets: savings and checking accounts, fixed assets, and credit cards. Budgeting, loan applications, payment terms, and statement reconciliation will be covered as will credit ratings, cash management, compound interest, bank operations, and contract obligations."
+    },
+    "MGT 16": {
+        "prerequisites": [],
+        "name": "Personal Ethics at Work",
+        "description": "Course examines the ethical foundation for choices individuals make every day both in the workplace and in their private lives, the connection between economic and ethical obligations with examples related to privacy, reporting, whistle-blowing, workplace relationships, confidentiality, and intellectual property. "
+    },
+    "MGT 18": {
+        "prerequisites": [],
+        "name": "Managing Diverse Teams",
+        "description": "The modern workplace includes people different in culture, gender, age, language, religion, education, and more. Students will learn why diverse teams make better decisions and are often integral to the success of organizations. Topics include challenges of diversity, and the impact of emotional, social, and cultural intelligence on team success. Content will include significant attention to the experiences of Asian Americans and African Americans as members and leaders of such diverse teams. Students will not receive credit for both MGT 18 and MGT 18GS.  "
+    },
+    "MGT 18GS": {
+        "prerequisites": [],
+        "name": "Managing Diverse Teams",
+        "description": "The modern workplace includes people different in culture, gender, age, language, religion, education, and more. Students will learn why diverse teams make better decisions and are often integral to the success of organizations. Topics include challenges of diversity, and the impact of emotional, social, and cultural intelligence on team success. Content will include significant attention to the experiences of Asian Americans and African Americans as members and leaders of such diverse teams. Students must submit applications to the International Center Programs Abroad Office and be accepted into the Global Seminar Program. Students will not receive credit for both MGT 18 and MGT 18GS. Program or materials fees may apply."
+    },
+    "MGT 45": {
+        "prerequisites": [],
+        "name": "Principles of Accounting",
+        "description": "Covers the principles, methods and applications of general accounting, cost accounting and investment ROI.\u00a0Development of the three key financial reports and their interrelations, cost identification, product costing, inventory control, operational performance, and investment return MGT 52. Test and Measurement in the Workplace (4)\nThis course introduces students to the psychometric, legal, ethical, and practical considerations of using tests and measurements for evidence-based decision-making in the workplace. Emphasis is given to selection and performance measurements for individual, team, business unit and organization-wide use in marketing, STEM, and operations. Student teams will develop managerial recommendations following company specific research and analysis.\nUpper-Division Undergraduate Courses\n"
+    },
+    "MGT 52": {
+        "prerequisites": [],
+        "name": "Test and Measurement in the Workplace",
+        "description": "This course introduces students to the psychometric, legal, ethical, and practical considerations of using tests and measurements for evidence-based decision-making in the workplace. Emphasis is given to selection and performance measurements for individual, team, business unit and organization-wide use in marketing, STEM, and operations. Student teams will develop managerial recommendations following company specific research and analysis."
+    },
     "MGT 103": {
         "prerequisites": [],
         "name": "Product Marketing and Management",

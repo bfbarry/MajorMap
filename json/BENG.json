@@ -9,6 +9,11 @@
         "name": "Introductory Computer Programming and Matlab",
         "description": "Introduction to Matlab is designed to give students fluency in Matlab, including popular toolboxes. Consists of interactive lectures with a computer running Matlab for each student. Topics: variables, operations, and plotting; visualization and programming; and solving equations and curve fitting. "
     },
+    "BENG 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. (F,W,S) "
+    },
     "BENG 97": {
         "prerequisites": [],
         "name": "Internship/Field Studies",

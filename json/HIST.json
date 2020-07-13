@@ -1,13 +1,278 @@
 {
+    "HILD 2A-B-C": {
+        "prerequisites": [],
+        "name": "United States",
+        "description": "A yearlong lower-division course that will provide students with a background in United States history from colonial times to the present, concentrating on social, economic, and political developments. (Satisfies Muir College humanities requirement and American History and Institutions requirement.) "
+    },
+    "HILD 7A-B-C": {
+        "prerequisites": [],
+        "name": "Race and Ethnicity in the United States",
+        "description": "Lectures and discussions surveying the topics of race, slavery, demographic patterns, ethnic variety, rural and urban life in the United States, with special focus on European, Asian, and Mexican immigration. "
+    },
+    "HILD 7A": {
+        "prerequisites": [],
+        "name": "Race and Ethnicity in the United States",
+        "description": "A lecture-discussion course on the comparative ethnic history of the United States. Of central concern will be the African American, slavery, race, oppression, mass migrations, ethnicity, city life in industrial America, and power and protest in modern America. "
+    },
+    "HILD 7B": {
+        "prerequisites": [],
+        "name": "Race and Ethnicity in the United States",
+        "description": "A lecture-discussion course on the comparative ethnic history of the United States. Of central concern will be the Asian American and white ethnic groups, race, oppression, mass migrations, ethnicity, city life in industrial America, and power and protest in modern America. "
+    },
+    "HILD 7C": {
+        "prerequisites": [],
+        "name": "Race and Ethnicity in the United States",
+        "description": "A lecture-discussion course on the comparative ethnic history of the United States. Of central concern will be the Mexican American, race, oppression, mass migrations, ethnicity, city life in industrial America, and power and protest in modern America. "
+    },
+    "HILD 7GS": {
+        "prerequisites": [],
+        "name": "Race and Ethnicity in the Global World",
+        "description": "Lectures and discussions surveying the topics of race, slavery, demographic patterns, ethnic variety, and rural and urban life in the United States, with special focus on European, Asian, and Mexican immigration. Program or materials fees may apply. May be taken for credit up to three times. Students must apply and be accepted into the Global Seminars Program."
+    },
+    "HILD 8GS": {
+        "prerequisites": [],
+        "name": "Race and Ethnicity in the United States",
+        "description": "A lecture-discussion course on the comparative ethnic history of the United States. Of central concern will be the Mexican American, race, oppression, mass migrations, ethnicity, city life in industrial America, and power and protest in modern America. Students may not receive credit for HILD 8GS and HILD 7C. Program or materials fees may apply. Students must apply and be accepted into the Global Seminars Program."
+    },
+    "HILD 10": {
+        "prerequisites": [],
+        "name": "East Asia: The Great Tradition",
+        "description": "The East Asia survey compares and contrasts the development of China, Korea, and Japan from ancient times to the present. This course explores the evolution of civilization from the first writing through classical Hei\u2019an Japan, aristocratic Koryo, and late imperial Song China. Primary and secondary readings on basic ideas, institutions, and practices of the Confucian, Daoist, and Buddhist paths and of the state and family."
+    },
+    "HILD 11": {
+        "prerequisites": [],
+        "name": "East Asia and the West, 1279\u20131911",
+        "description": "The East Asia survey compares and contrasts the development of China, Korea, and Japan from ancient times to the present. From the Mongol conquests through China\u2019s and Korea\u2019s last dynasties, and the rise of Meiji Japan, this course examines political, institutional, and cultural ruptures and continuities as East Asia responded to the challenges of Western imperialism with defense, reform, conservative reaction, and creative imitation."
+    },
+    "HILD 12": {
+        "prerequisites": [],
+        "name": "Twentieth-Century East Asia",
+        "description": "The East Asia survey compares and contrasts the development of China, Korea, and Japan from ancient times to the present. This course examines the emergence of a regionally dominant Japan before and after World War II; the process of revolution and state-building in China during the nationalist and communist eras; and Korea\u2019s encounter with colonialism, nationalism, war, revolution, and industrialization."
+    },
+    "HILD 14": {
+        "prerequisites": [],
+        "name": "Film and History in Latin America",
+        "description": "Students watch films on Latin America and compare them to historical research on similar episodes or issues. Films will vary each year but will focus on the social and psychological consequences of colonialism, forced labor, religious beliefs, and \u201cModernization.\u201d "
+    },
+    "HILD 20": {
+        "prerequisites": [],
+        "name": "World History I: Ancient to Medieval",
+        "description": "This course provides an introduction to the culture, environmental context, and sociopolitical outlook of ancient civilizations, and traces historical change, from the emergence of classical empires to their collapse and transformation into medieval forms. The course also explores the development and spread of major world religions. Students may not receive credit for both HILD 20 and HILD 20R."
+    },
+    "HILD 20R": {
+        "prerequisites": [],
+        "name": "World History I: Ancient to Medieval",
+        "description": "This online course provides an introduction to the culture, environmental context, and sociopolitical outlook of ancient civilizations, and traces historical change, from the emergence of classical empires to their collapse and transformation into medieval forms. The online course also explores the development and spread of major world religions. Students may not receive credit for both HILD 20 and HILD 20R."
+    },
+    "HILD 30": {
+        "prerequisites": [],
+        "name": "History of Public Health",
+        "description": "Explores the history of public health, from the plague hospitals of Renaissance Italy to the current and future prospects for global health initiatives, emphasizing the complex biological, cultural, and social dimensions of health, sickness, and medicine across time and space."
+    },
+    "HILD 40": {
+        "prerequisites": [],
+        "name": "Anthropocene 1: The Neolithic",
+        "description": "Examines controversial hypothesis that humans have had a significant impact on the Earth\u2019s climate and ecosystems over the past 8,000 years by focusing on the origins of settled agriculture and its environmental implications, including effects on greenhouse gas emissions. +"
+    },
+    "HILD 41": {
+        "prerequisites": [],
+        "name": "Anthropocene 2: The Columbian Exchange, 1400\u20131750",
+        "description": "Examines the reintegration of the eastern and western hemispheres following 1492, tracking the movements of peoples, foodstuffs, livestock, and diseases, and assessing the vast and irreversible environmental and social impact of these transformations. +"
+    },
+    "HILD 42": {
+        "prerequisites": [],
+        "name": "Anthropocene 3: The Industrial Revolutions",
+        "description": "This course explores the fossil fuel age, from the steam engine to aerial warfare, analyzing the economics of coal and oil, the environmental impacts of industrial agriculture, deep-pit mining and extractive imperialism, and the building of the electrical grid."
+    },
+    "HILD 43": {
+        "prerequisites": [],
+        "name": "Anthropocene 4: The Great Acceleration, 1945\u2013Present",
+        "description": "Explores the intensification of industrialization and urbanization and their environmental impact, including skyrocketing greenhouse gas emissions, air and water pollution, soil depletion, and deforestation. Also, analyzes different environmentalisms and imagines futures distinct from climate catastrophe."
+    },
+    "HILD 50": {
+        "prerequisites": [],
+        "name": "Introduction to Law and Society",
+        "description": "A survey of contemporary issues concerning law and society, with emphasis on historical analysis and context. Satisfies the lower-division requirement for the law and society minor."
+    },
+    "HIAF 111": {
+        "prerequisites": [],
+        "name": "Modern Africa since 1880",
+        "description": "A survey of African history dealing with the European scramble for territory, primary resistance movements, the rise of nationalism and the response of metropolitan powers, the transfer of power, self-rule and military coups, and the quest for identity and unity."
+    },
+    "HIAF 112": {
+        "prerequisites": [],
+        "name": "West Africa since 1880",
+        "description": "West Africa from the nineteenth century onwards and examines the broad outlines of historical developments in the subregion through the twentieth century, including such themes as religious, political, and social changes."
+    },
+    "HIAF 113": {
+        "prerequisites": [],
+        "name": "Small\n\t\t  Wars and the Global Order: Africa and Asia",
+        "description": "Examines the traumas, interrelation, and global repercussions of national conflicts (\u201csmall wars\u201d) in the postcolonial world. Focus on Africa and Asia from the Cold War to the present with particular attention to the intersection of foreign interests, insurgency, and geopolitics. "
+    },
+    "HIAF 120": {
+        "prerequisites": [],
+        "name": "History of South Africa",
+        "description": "The origins and the interaction between the peoples of South Africa. Special attention will be devoted to industrial development, urbanization, African and Afrikaner nationalism, and the origin and development of apartheid and its consequences."
+    },
+    "HIAF 123": {
+        "prerequisites": [],
+        "name": "West Africa from Earliest Times to 1800",
+        "description": "Plant and animal domestication, ironworking and the distribution of ethnic/language groups, urbanization, regional and long-distance commerce, and the rise of medieval kingdoms.\u00a0+ "
+    },
+    "HIAF 161": {
+        "prerequisites": [],
+        "name": "Special Topics in African History",
+        "description": "This colloquium is intended for students with sufficient background in African history. Topics, which vary from year to year, will include traditional political, economic, and religious systems, and theory and practice of indirect rule, decolonization, African socialism, and pan-Africanism. May be taken for credit up to five times. Department approval required; may be coscheduled with HIAF 261."
+    },
     "HIAF 199": {
         "prerequisites": [],
         "name": "Independent Study in African History",
         "description": "Directed readings for undergraduates. "
     },
+    "HIEA 111": {
+        "prerequisites": [],
+        "name": "Japan:\n\t\t  Twelfth to Mid-Nineteenth Centuries",
+        "description": "Covers important political issues\u2014such as the medieval decentralization of state power, unification in the sixteenth and seventeenth centuries, the Tokugawa system of rule, and conflicts between rulers and ruled\u2014while examining long-term changes in economy, society, and culture.\u00a0+ "
+    },
+    "HIEA 112": {
+        "prerequisites": [],
+        "name": "Japan:\n\t\t  From the Mid-Nineteenth Century through the US Occupation",
+        "description": "Topics include the Meiji Restoration, nationalism, industrialization, imperialism, Taisho Democracy, and the Occupation. Special attention will be given to the costs as well as benefits of \u201cmodernization\u201d and the relations between dominant and subordinated cultures and groups within Japan. "
+    },
+    "HIEA 113": {
+        "prerequisites": [],
+        "name": "The\n\t\t  Fifteen-Year War in Asia and the Pacific",
+        "description": "Lecture-discussion course approaching the\n\t\t\t\t  1931\u20131945 war through various \u201clocal,\u201d rather than simply national,\n\t\t\t\t  experiences. Perspectives examined include those of marginalized groups\n\t\t\t\t  within Japan, Japanese Americans, Pacific Islanders, and other elites and\n\t\t\t\t  nonelites in Asian and Pacific settings. "
+    },
+    "HIEA 114": {
+        "prerequisites": [],
+        "name": "Postwar Japan",
+        "description": "Examines social, cultural, political, and economic transformations and continuities in Japan since World War II. Emphases will differ by instructor."
+    },
+    "HIEA 115": {
+        "prerequisites": [],
+        "name": "Social\n\t\t  and Cultural History of Twentieth-Century Japan",
+        "description": "Japanese culture and society changed dramatically\n\t\t\t\t  during the twentieth century. This course will focus on the\n\t\t\t\t  transformation of cultural codes into what we know as \u201cJapanese,\u201d the politics\n\t\t\t\t  of culture, and the interaction between individuals and society. "
+    },
+    "HIEA 116": {
+        "prerequisites": [],
+        "name": "Japan-U.S. Relations",
+        "description": "Survey of relations between Japan and the United States in the nineteenth and twentieth centuries. Although the focus will be on these nation-states, the course will be framed within the global transformation of societies. Topics include cultural frameworks, political and economic changes, colonialism and imperialism, and migration. "
+    },
+    "HIEA 117": {
+        "prerequisites": [],
+        "name": "Ghosts in Japan",
+        "description": "By examining the roles of ghosts in Japanese belief systems in a nonscientific age, this course addresses topics including folk beliefs and ghost stories, religiosity, early science, tools of amelioration and authoritative knowledge, and the relationship between myth and history."
+    },
     "HIEA 122": {
         "prerequisites": [],
         "name": "Late\n\t\t  Imperial Chinese Culture and Society",
         "description": "We read primary and secondary sources to study aspects of culture, society, religions, economy, government, family, gender, class, and individual lives from the tenth through the eighteenth centuries, Song through Qing. Recommended preparation: previous course work on China helpful but not required. May be taken for credit four times with department approval. "
+    },
+    "HIEA 123": {
+        "prerequisites": [],
+        "name": "China under the Ming Dynasty",
+        "description": "Ming history from its beginnings under Mongol rule until its fall to rebels and the Manchus. We study government and society under each of the sixteen emperors, and major events like the Zheng He voyages and the first Sino-Japanese War. Recommended preparation: HILD 11.\u00a0+\u00a0 "
+    },
+    "HIEA 124": {
+        "prerequisites": [],
+        "name": "Life in Ming China",
+        "description": "We read primary and secondary sources to explore the experiences, worldview, and relationships of Ming men and women, variously including emperors and empresses, scholar-officials, upper-class wives, merchants, weavers, painters, eunuchs, Daoists, fighting monks, farmers, actors, gardeners, courtesans, soldiers, and pirates. + "
+    },
+    "HIEA 125": {
+        "prerequisites": [],
+        "name": "Women and Gender in East Asia",
+        "description": "The impact of modern transformations on female roles and gender relations in China, Japan, and Korea, focusing on the late imperial/early modern periods through the twentieth century."
+    },
+    "HIEA 126": {
+        "prerequisites": [],
+        "name": "The\n\t\t  Silk Road in Chinese and Japanese History",
+        "description": "This course studies the peoples, cultures, religions, economics, arts, and technologies of the trade routes known collectively as the Silk Road from c. 200 BCE to 1000 CE. We will use an interdisciplinary approach. Primary sources will include written texts and visual materials. We will examine these trade routes as an early example of globalization.\u00a0+ "
+    },
+    "HIEA 129": {
+        "prerequisites": [],
+        "name": "Faces of the Chinese Past",
+        "description": "Through primary and secondary readings on the lives of individual prominent and ordinary men and women from China\u2019s past, we explore the relation of the individual to social structures and accepted norms; personal relationships; and the creation of historical sources. +"
+    },
+    "HIEA 130": {
+        "prerequisites": [],
+        "name": "End of the Chinese Empire, 1800\u20131911",
+        "description": "From the Opium War to the 1911 Revolution. Key topics include ethnic identity under Manchu rule, the impact of Western imperialism, the Taiping and other rebellions, overseas Chinese, social change and currents of reform, and the rise of Chinese nationalism."
+    },
+    "HIEA 131": {
+        "prerequisites": [],
+        "name": "China in War and Revolution, 1911\u20131949",
+        "description": "An exploration of the formative period of the twentieth-century Chinese Revolution: the New Culture Movement, modern urban culture, the nature of Nationalist (Guomindang) rule, war with Japan, revolutionary nationalism, and the Chinese Communist rise to power."
+    },
+    "HIEA 132": {
+        "prerequisites": [],
+        "name": "Mao\u2019s China, 1949\u20131976",
+        "description": "This course analyzes the history of the PRC from 1949 to the present. Special emphasis is placed on the problem of postrevolutionary institutionalization, the role of ideology, the tension between city and countryside, Maoism, the Great Leap Forward, the Cultural Revolution. "
+    },
+    "HIEA 133": {
+        "prerequisites": [],
+        "name": "Twentieth-Century\n\t\t  China: Cultural History",
+        "description": "This course looks at how the historical problems of twentieth-century China are treated in the popular and elite cultures of the Nationalist and Communist eras. Special emphasis is placed on film and fiction."
+    },
+    "HIEA 134": {
+        "prerequisites": [],
+        "name": "History\n\t\t  of Thought and Religion in China: Confucianism",
+        "description": "Course will take up one of the main traditions of Chinese thought or religion, Confucianism, and trace it from its origins to the present. The course will explain the system of thought and trace it as it changes through history and within human lives and institutions.\u00a0+ "
+    },
+    "HIEA 137": {
+        "prerequisites": [],
+        "name": "Women\n\t\t  and the Family in Chinese History",
+        "description": "The course explores the institutions of family and marriage, and women\u2019s roles and experiences within the family and beyond, from classical times to the early twentieth century.\u00a0+ "
+    },
+    "HIEA 138": {
+        "prerequisites": [],
+        "name": "Women and the Chinese Revolution",
+        "description": "Examines women\u2019s roles and experiences in the twentieth-century Chinese revolution, the ways in which women participated in the process of historical change, the question of to what extent the revolution \u201cliberated\u201d women from \u201cConfucian tradition.\u201d"
+    },
+    "HIEA 139GS": {
+        "prerequisites": [],
+        "name": "An Introduction to Southeast Asia",
+        "description": "This course provides an overview of Southeast Asian culture and history from 800 to the age of imperialism. It addresses regional geography, diversity, religion, political and social structures, mercantile and cultural ties abroad, the arrival of Islam, and the region\u2019s changing relationship with European and Asian power. Students must apply and be accepted into the Global Seminars Program."
+    },
+    "HIEA 140": {
+        "prerequisites": [],
+        "name": "China since 1978",
+        "description": "Examines China\u2019s attempts to manage the movements of people, ideas, and trade across its borders since 1900. How much control do individual countries such as China have over global processes? Special emphasis will be placed on global contexts and the impacts of China\u2019s decision to reintegrate its society and economy with capitalist countries since 1978. Recommended preparation: previous course work on China helpful but not required."
+    },
+    "HIEA 144": {
+        "prerequisites": [],
+        "name": "Topics in East Asian History",
+        "description": "Selected topics in East Asian History. Course may be taken for credit up to three times as topics vary."
+    },
+    "HIEA 150": {
+        "prerequisites": [],
+        "name": "Modern Korea, 1800\u20131945",
+        "description": "This course examines Korea\u2019s entrance into the modern world. It\n                  utilizes both textual and audio-visual materials to explore\n                  local engagements with global phenomenon, such as imperialism,\n                  nationalism, capitalism, and socialism. HILD 10, 11,\n                  and/or 12 recommended. "
+    },
+    "HIEA 151": {
+        "prerequisites": [],
+        "name": "The Two Koreas, 1945\u2013Present",
+        "description": "This course traces the peninsula\u2019s division into two rival\n                  regimes. It utilizes both textual and audio-visual materials\n                  to reveal the varied experiences of North and South Koreans\n                  with authoritarianism, industrialization, and globalization.\n                  HILD 10, 11, and/or 12 recommended."
+    },
+    "HIEA 152": {
+        "prerequisites": [],
+        "name": "History and Cultures of the Korean Diaspora",
+        "description": "This course places the Korean diaspora in national, regional, and global frames from the imperial age to our globalized present. It traces migrant experiences and community formations on the peninsula and in Japan, the United States, China, and the former USSR."
+    },
+    "HIEA 153": {
+        "prerequisites": [],
+        "name": "Social and Cultural History of Twentieth-Century Korea",
+        "description": "This course explores the cultural and social structures that dominated twentieth-century Korea: imperialism, ethnonationalism, heteropatriarchy, capitalism, socialism, and militarism. It also uses individual and collective engagements with these hegemonic structures to demonstrate contentious interactions between individuals and society."
+    },
+    "HIEA 154": {
+        "prerequisites": [],
+        "name": "Korean History Through Film",
+        "description": "Recognizing that the past is a multi-media process of knowledge production, this course uses a variety of films (i.e., features, shorts, and documentaries) to study how directors have visualized modern Korean history. Students will juxtapose the narratives of Korean films with academic accounts of Korean history to understand how representations of the past are produced, disseminated, contested, and interpreted. Writing exercise will develop students\u2019 critical and analytical skills."
+    },
+    "HIEA 155": {
+        "prerequisites": [],
+        "name": "China and the Environment",
+        "description": "This course covers key themes in the history of interactions between humans and the environment in China over the past 3,000 years, generating a fuller understanding of China\u2019s present-day environmental problems by situating them in a broader historical context. +"
     },
     "HIEA 163/263": {
         "prerequisites": [],
@@ -29,6 +294,11 @@
         "name": "Topics in Classical and Medieval Chinese History",
         "description": "Chinese society, thought, religion, culture, economy and politics from the Shang through the Song dynasties, through primary and secondary sources. Topics vary; may be repeated for credit. Requirements differ for undergraduate, MA and PhD students. Graduate students will be required to submit a more substantial piece of work or an additional paper. "
     },
+    "HIEA 170": {
+        "prerequisites": [],
+        "name": "Love and Marriage in Chinese History",
+        "description": "Examines ideas and practices of love and marriage in Chinese history, including changes and continuities in China\u2019s twentieth-century revolution and reform. Course readings range from literary and philosophical sources to personal records from the classical age to the modern era. Department approval required. May be coscheduled with HIEA 270. +"
+    },
     "HIEA\n\t\t  171/271": {
         "prerequisites": [],
         "name": "Society and Culture in Premodern China",
@@ -39,10 +309,365 @@
         "name": "Topics in Modern Korean History",
         "description": "This colloquium will examine selected topics in modern Korean\n                  history through both primary sources (in translation) and secondary\n                  sources. Topics will vary year to year. "
     },
+    "HIEA 190M/HIEA 290M": {
+        "prerequisites": [],
+        "name": "Special Topics in East Asian Modern History",
+        "description": "This course looks at topics in East Asian history in the modern era (post 1800). May be coscheduled with HIEA 290M. May be taken for credit up to five times. Topics will vary from year to year. Department approval required."
+    },
+    "HIEA 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Directed group study on a topic not generally included in the regular curriculum. Students must make arrangements with individual faculty members. May be taken for credit up to three times. Department approval required."
+    },
     "HIEA 199": {
         "prerequisites": [],
         "name": "Independent\n\t\t  Study in East Asian History",
         "description": "Directed reading for undergraduates under the supervision of various faculty members. "
+    },
+    "HIEU 100": {
+        "prerequisites": [],
+        "name": "Byzantine History",
+        "description": "This course examines the political, religious, and social history of the Byzantine Empire between 300 and 1453 AD. +"
+    },
+    "HIEU 102": {
+        "prerequisites": [],
+        "name": "Roman History",
+        "description": "The course treats the history of Rome from the foundation of the city in the eighth century BC until the end of the Flavian dynasty in 96 AD. It focuses particularly on the political, social, and cultural elements that fueled Roman development and expansion. +"
+    },
+    "HIEU 102A": {
+        "prerequisites": [],
+        "name": "Ancient Roman Civilization",
+        "description": "The political, economic, and intellectual history of the Roman world from the foundation of Rome to the disintegration of the Western empire. This course will emphasize the importance of the political and cultural contributions of Rome to modern society. +"
+    },
+    "HIEU 103": {
+        "prerequisites": [],
+        "name": "Decline and Fall of the Roman Empire",
+        "description": "This course discusses the history of imperial Rome and its successor states between the second and seventh centuries AD. It considers whether the Roman Empire fell or if one should instead speak of Roman continuity amidst political and religious change. +"
+    },
+    "HIEU 104": {
+        "prerequisites": [],
+        "name": "Byzantine Empire",
+        "description": "A survey course of the history of the Byzantine state from the reign of Constantine to the fall of Constantinople. This course will emphasize the importance of the Byzantine state within a larger European focus, its relationship to the emerging Arab states, its political and cultural contributions to Russia and the late medieval west.\u00a0+ "
+    },
+    "HIEU 105": {
+        "prerequisites": [],
+        "name": "The Early Christian Church",
+        "description": "A study of the origin and development of early Christian thought, literature, and institution from the New Testament period to the Council of Chalcedon.\u00a0+"
+    },
+    "HIEU 105S": {
+        "prerequisites": [],
+        "name": "Devotions, Doctrines, and Divisions: Religion in Early Modern European Society",
+        "description": "Multiple reformations of the European Christian Church confronted with the rise of universities, colonial exploration, absolutism, scientific revolutions, and the Enlightenment. Focused attention will be given to early modern Europe (Muslims, Jews, and Protestant sects). "
+    },
+    "HIEU 106": {
+        "prerequisites": [],
+        "name": "Egypt, Greece, and Rome",
+        "description": "This course is a survey of the political, social, and cultural history of the ancient Mediterranean. It focuses on the ancient empires in the Near East (Sumer, Babylon, Assyria, Persia), Egypt, Greece, and Rome. +"
+    },
+    "HIEU 106GS": {
+        "prerequisites": [],
+        "name": "Constantinople: Imperial Capital",
+        "description": "This course examines Constantinople in its imperial period (Byzantine and Ottoman) when it served as the political, cultural, economic, and religious center of empire. We examine continuity and change in areas such as urban space, demography, institutions, and art and architecture. Students must apply and be accepted into the Global Seminar Program. +"
+    },
+    "HIEU 107": {
+        "prerequisites": [],
+        "name": "Pagan Europe and its Christian Aftermath",
+        "description": "Cross-listed with RELI 147. This course explores the history of how Western Europe was converted from its indigenous pagan religions to the imported religion we know as Christianity. We will discuss conversion by choice and by force, partial or blended conversions, and the relationships between belief and culture. Students may not receive credit for both HIEU 107 and RELI 147.\u00a0+"
+    },
+    "HIEU 108": {
+        "prerequisites": [],
+        "name": "Sex and Politics in the Ancient World",
+        "description": "A history of approaches to sexual practices, sexual identity, and sexual morality in the Roman Empire between the first and fifth centuries of the Common Era. We will examine how political, religious, and medical transformations during this period changed the ways in which people thought of issues like sexual freedom, same-sex relations, marriage and celibacy, sexual violence, and more. +"
+    },
+    "HIEU 109": {
+        "prerequisites": [],
+        "name": "Blood, Soil, Boundaries: Nationalism in Europe ",
+        "description": "This course will explore the history of nationalism as idea and political movement in European history, from the French Revolution to the present.\u00a0+"
+    },
+    "HIEU 110": {
+        "prerequisites": [],
+        "name": "The Rise of Europe",
+        "description": "The development of European society and culture\n\t    from the decline of the Roman Empire to 1050. +"
+    },
+    "HIEU 111": {
+        "prerequisites": [],
+        "name": "Europe in the Middle Ages",
+        "description": "The development of European society and culture from 1050 to 1400. +"
+    },
+    "HIEU 112S": {
+        "prerequisites": [],
+        "name": "Ancient Explorers",
+        "description": "Ancient travel into unexplored regions of the world and the discovery of new civilizations. Look at actual voyages, focusing on the remarkable figures who braved the unknown, the objects of their journeys, and their crude equipment and knowledge. +"
+    },
+    "HIEU 114GS": {
+        "prerequisites": [],
+        "name": "Athens: A City in History",
+        "description": "This course examines how Athenians during different epochs have dealt and still deal with the realities of everyday life and death. The topics covered by the course include work, war, religion, politics, and death. Students must apply and be accepted into the Global Seminar Program. +"
+    },
+    "HIEU 115": {
+        "prerequisites": [],
+        "name": "The Pursuit of the Millennium",
+        "description": "The year 2000 provokes questions about the transformation of time, culture, and society. Taking the year 1000 as a touchstone, this class examines the history of apocalyptic expectations in the Middle Ages through a close scrutiny of both texts and art.\u00a0+"
+    },
+    "HIEU 116A": {
+        "prerequisites": [],
+        "name": "Greece and the Balkans in the Age of Ottoman Expansion",
+        "description": "This course examines the history of Greece and the Balkans (1350\u20131683). Topics covered: the rise of the Ottoman Empire, conquest of the Balkans, the Ottoman system of rule, religious life, rural and urban society, law and order, and material culture.\u00a0+"
+    },
+    "HIEU 116B": {
+        "prerequisites": [],
+        "name": "Greece and the Balkans in the Age of Nationalism",
+        "description": "This course examines the history of Greece and the Balkans (1683\u20131914). Topics covered: social and economic development in the eighteenth century, nationalism, independence wars, state-nation formation, interstate relations, the Eastern Question, rural society, urbanization, emigration, and the Balkan Wars. Students may not get credit for both HIEU 116B and HIEU 117A. "
+    },
+    "HIEU 116C": {
+        "prerequisites": [],
+        "name": "Greece and the Balkans during the Twentieth Century",
+        "description": "This course examines the history of Greece and the Balkans (1914\u20132001). Topics covered: World War I, population exchanges, authoritarianism, modernization, World War II, civil wars, Cold War, Greek-Turkish relations, Cyprus, collapse of communism, 1990s conflicts, and EU expansion. Students may not get credit for both HIEU 116C and HIEU 116CD."
+    },
+    "HIEU 116CD": {
+        "prerequisites": [],
+        "name": "Greece and the Balkans during the Twentieth Century",
+        "description": "This course examines the history of Greece and the Balkans (1914\u20132001). Topics covered: World War I, population exchanges, authoritarianism, modernization, World War II, civil wars, Cold War, Greek-Turkish relations, Cyprus, collapse of communism, 1990s conflicts, and EU expansion. Students may not get credit for both HIEU 116C and HIEU 116CD, or HIEU 116CD and HIEU 117B."
+    },
+    "HIEU 117A": {
+        "prerequisites": [],
+        "name": "\t\t  Greece and the Balkans in the Age of Nationalism",
+        "description": "This course examines the history of Greece and the Balkans (1683\u20131914). Topics covered: social and economic development in the eighteenth century, nationalism, independence wars, state-nation formation, interstate relations, the Eastern Question, rural society, urbanization, emigration, and the Balkan Wars."
+    },
+    "HIEU 117B": {
+        "prerequisites": [],
+        "name": "\t\t  Greece and the Balkans during the Twentieth Century",
+        "description": "This course examines the history of Greece and the Balkans (1914\u20132001). Topics covered: World War I, population exchanges, authoritarianism, modernization, World War II, resistance, civil wars, Cold War, Greek-Turkish relations, Cyprus, collapse of Communism, 1990s conflicts, and EU expansion. "
+    },
+    "HIEU 118": {
+        "prerequisites": [],
+        "name": "Americanization in Europe",
+        "description": "Examines problems surrounding the transfer of American culture, values, and styles to Europe in the twentieth and twenty-first centuries. Topics may include consumer society, popular culture, commercial and business practices, \u201cMcDonaldization,\u201d political and military influence, democratization, and resistance to Americanization. Students may not receive credit for both HIEU 117S and HIEU 118."
+    },
+    "HIEU 119": {
+        "prerequisites": [],
+        "name": "Death and Afterlife in the Middle Ages",
+        "description": "This class investigates the ways in which medieval people understood death as well as the various ways in which they imagined the afterlife. We will discuss the cult of martyrs and saints; encounters with ghosts and revenants; the formation of the doctrine of purgatory; visionary journeys to the other world; and early medical discourses defining the death of the body. +"
+    },
+    "HIEU 120": {
+        "prerequisites": [],
+        "name": "The Renaissance in Italy",
+        "description": "The social, political, and cultural transformation of late-medieval Italy from the heyday of mercantile expansion before the plague to the dissolution of the Italian state system with the French invasions of 1494. Special focus upon family, associational life and factionalism in the city, the development of the techniques of capitalist accumulation, and the spread of humanism.\u00a0+ "
+    },
+    "HIEU 121GS": {
+        "prerequisites": [],
+        "name": "Scotland and the English Civil War, 1601\u20131689",
+        "description": "A lecture-discussion course that examines the role of Scotland in the English Civil War during the first half of the seventeenth century, 1601\u20131689. +"
+    },
+    "HIEU 122": {
+        "prerequisites": [],
+        "name": "Ancient Greece from the Bronze Age to the Peloponnesian War",
+        "description": "This course treats the history of the Greek world from the Mycenaeans to the aftermath of the Peloponnesian War. It focuses on the rise of the polis, the development of the Athenian democracy and imperialism, and the Peloponnesian War. +"
+    },
+    "HIEU 123": {
+        "prerequisites": [],
+        "name": "Ancient Greece from Classical Athens to Cleopatra",
+        "description": "This course explores the dramatic political, social, and cultural changes in the Greek world and the Eastern Mediterranean from the fourth century BCE and the rise of Alexander the Great to the death of Cleopatra. +"
+    },
+    "HIEU 123GS": {
+        "prerequisites": [],
+        "name": "Origins of Law and Religious Freedom in England and America, 1530\u20131971",
+        "description": "A lecture-discussion course that examines the origins and evolution of religious freedom from the age of Tudors to the adoption of the Bill of Rights in the United States in 1791. Course materials fee may be required. Students must apply and be accepted into the Global Seminar Program."
+    },
+    "HIEU 124GS": {
+        "prerequisites": [],
+        "name": "The City Italy",
+        "description": "Language and cultural study in Italy. Course considers the social, political, economic, and religious aspects of civic life that gave rise to the unique civic art, the architecture of public buildings, and the design of the urban environment of such cities as Florence, Venice, or Rome. Course materials fee may be required. Students may not receive credit for both HIEU 124 and HIEU 124GS. Students must apply and be accepted into the Global Seminar Program."
+    },
+    "HIEU 125": {
+        "prerequisites": [],
+        "name": "Reformation Europe",
+        "description": "The intellectual and social history of the Reformation and Counter-Reformation from the French invasions to the Edict of Nantes. Emphasis is upon reform from below and above, the transformation of grassroots spirituality into institutional control.\u00a0+ "
+    },
+    "HIEU 127": {
+        "prerequisites": [],
+        "name": "Sport in the Modern World",
+        "description": "This course looks at the phenomenon of sport in all of its social, cultural, political, and economic aspects. The starting point will be the emergence of modern sport in nineteenth-century Britain, but the focus will be global. Since the approach will be topical rather than chronological, students should already have a good knowledge of world history in the nineteenth and twentieth centuries."
+    },
+    "HIEU 127D": {
+        "prerequisites": [],
+        "name": "Sport in the Modern World",
+        "description": "This course looks at sport in all of its social, cultural, political, and economic aspects. The starting point will be the emergence of modern sport in nineteenth-century Britain, but the focus will be global. Since the approach will be topical rather than chronological, students should already have a good knowledge of world history in the nineteenth and twentieth centuries. Students may not get credit for both HIEU 127 and HIEU 127D."
+    },
+    "HIEU 128": {
+        "prerequisites": [],
+        "name": "Europe since 1945",
+        "description": "An analysis of European history since the end of the Second World War. Focus is on political, social, economic, and cultural developments within European societies as well as on Europe\u2019s relationship with the wider world (the Cold War, decolonization). "
+    },
+    "HIEU 129": {
+        "prerequisites": [],
+        "name": "Paris, Past and Present",
+        "description": "This course surveys the historical and cultural significance of Paris from about 1500 to the present. The focus is on interactions between political, architectural, and urban evolutions, and the changing populations of Paris in times of war, revolutions, and peace.\u00a0+ "
+    },
+    "HIEU 130": {
+        "prerequisites": [],
+        "name": "Europe in the Eighteenth Century",
+        "description": "A lecture-discussion course focusing on Europe\n\t\t\t\t  from 1688 to 1789. Emphasis is on the social, cultural, and intellectual history\n\t\t\t\t  of France, Germany, and England. Topics considered will include family\n\t\t\t\t  life, urban and rural production and unrest, the poor, absolutism, and\n\t\t\t\t  the Enlightenment from Voltaire to Rousseau.\u00a0+ "
+    },
+    "HIEU 131": {
+        "prerequisites": [],
+        "name": "The French Revolution: 1789\u20131814",
+        "description": "This course examines the Revolution in France and its impact in Europe and the Caribbean. Special emphasis will be given to the origins of the Revolution, the development of political and popular radicalism and symbolism from 1789 to 1794, the role of political participants (e.g., women, sans-culottes, Robespierre), and the legacy of revolutionary wars and the Napoleonic system on Europe.\u00a0+ "
+    },
+    "HIEU 132": {
+        "prerequisites": [],
+        "name": "Germany from Luther to Bismarck",
+        "description": "How Germany, from being a maze of tiny states rife with religious conflict, became a nation. Did the nations-building process lead to Nazism? Students may not get credit for both HIEU 132 and HIEU 132D. +"
+    },
+    "HIEU 132D": {
+        "prerequisites": [],
+        "name": "Germany from Luther to Bismarck",
+        "description": "How Germany, from being a maze of tiny states rife with religious conflict, became a nation. Did the nations-building process lead to Nazism? Students may not get credit for both HIEU 132 and HIEU 132D."
+    },
+    "HIEU 134": {
+        "prerequisites": [],
+        "name": "The\n\t\t  Formation of the Russian Empire, 800\u20131855",
+        "description": "State-building and imperial expansion among the peoples of the East Slavic lands of Europe and Asia from the origins of the Russian state in ninth-century Kiev, through Peter the Great\u2019s empire up to the middle of the nineteenth century.\u00a0+ "
+    },
+    "HIEU 135": {
+        "prerequisites": [],
+        "name": "Sun, Sea, Sand, and Sex:\u00a0Tourism and Tourists in the Contemporary World",
+        "description": "Major developments in modern tourism history, focusing on post-1945 Europe in its broader global context. Topics include tourism\u2019s relationship to cultural change and transfers, globalization, international politics, business, economics, wealth distribution, the environment, sexuality and sex tourism, and national identity."
+    },
+    "HIEU 135GS": {
+        "prerequisites": [],
+        "name": "Sun, Sea, Sand, and Sex: Tourism and Tourists in the Contemporary World",
+        "description": "Major developments in modern tourism history, focusing on post-1945 Europe in its broader global context. Topics include tourism\u2019s relationship to cultural change and transfers, globalization, international politics, business, economics, wealth distribution, the environment, sexuality and sex tourism, and national identity. Program or materials fees may apply. Students may not receive credit for HIEU 135 and HIEU 135GS. Students must apply and be accepted to the Global Seminars Program."
+    },
+    "HIEU 136B": {
+        "prerequisites": [],
+        "name": "\t\t  European Society and Social Thought, 1870\u20131989",
+        "description": "A lecture and discussion course on European political and cultural development and theory from 1870\u20131989. Important writings will be considered both as responses to and as provocations for political and cultural change. "
+    },
+    "HIEU 137": {
+        "prerequisites": [],
+        "name": "History of Colonialism: From New Imperialism to Decolonization",
+        "description": "This course surveys the age of colonialism in the nineteenth and twentieth century. The course will focus on the debates on colonialism in the metropolis as well as on the conflicts inside the colonies. Considerable emphasis will be placed on colonialism in Africa."
+    },
+    "HIEU 139": {
+        "prerequisites": [],
+        "name": "Sex and Gender from the Renaissance to the French Revolution",
+        "description": "This course places gender and sexuality at the center of European history from the Renaissance to the French Revolution. We examine the distinct roles that men and women played in the period\u2019s major events. We track how practices and understandings of gender and sexuality shifted during the four centuries between 1500 and 1800. +"
+    },
+    "HIEU 140": {
+        "prerequisites": [],
+        "name": "History of Women and Gender in Europe: From the French Revolution to the Present",
+        "description": "This course explores the diverse history of women from the French Revolution to the present, with an emphasis on the variety of women\u2019s experience, the formation of gender identities, and the shifting relationship between gender and power over the course of the modern period. Topics include women and citizenship, science and gender, feminist movements, and the evolution of women\u2019s work."
+    },
+    "HIEU 140GS": {
+        "prerequisites": [],
+        "name": "Art and Society in Nineteenth-Century London",
+        "description": "This course examines English responses to the French Revolution, industrialization, and engagement with other cultures during the eighteenth and nineteenth centuries. Readings from high, popular, and folk literature, both serious and satirical, illuminate life in the London metropolis. Program or materials fees may apply. Students must apply and be accepted to the Global Seminars Program."
+    },
+    "HIEU 141": {
+        "prerequisites": [],
+        "name": "European Diplomatic History, 1870\u20131945",
+        "description": "European imperialism, alliances, and the outbreak of the First World War. The postwar settlement and its breakdown. The advent of Hitler and the disarray of the western democracies. The Second World War and the emergence of the super powers. "
+    },
+    "HIEU 142": {
+        "prerequisites": [],
+        "name": "European\n\t\t  Intellectual History, 1780\u20131870",
+        "description": "European thought from the late Enlightenment and the French Revolution to Marx and Baudelaire, emphasizing the origins of romanticism, idealism, and positivism in England, Germany, and France."
+    },
+    "HIEU 143": {
+        "prerequisites": [],
+        "name": "European\n\t\t  Intellectual History, 1870\u20131945",
+        "description": "A lecture-discussion course on the crisis of bourgeois culture, the redefinition of Marxist ideology, and the transformation of modern social theory. Readings will include Nietzsche, Sorel, Weber, Freud, and Musil. (This course satisfies the minor in the Humanities Program.)"
+    },
+    "HIEU 144": {
+        "prerequisites": [],
+        "name": "Topics in European History",
+        "description": "Selected topics in European history. Course may be taken for credit up to three times as topics vary."
+    },
+    "HIEU 145": {
+        "prerequisites": [],
+        "name": "The Holocaust as Public History",
+        "description": "We will study historical accounts, memoirs, diaries, and oral histories to master the Holocaust epoch. We will contrast scholarly narratives to personal experience as different ways to learn about the past. Students will design projects for public education."
+    },
+    "HIEU 146": {
+        "prerequisites": [],
+        "name": "Fascism, Communism, and the Crisis of Liberal Democracy: Europe 1919\u20131945",
+        "description": "A consideration of the political, social, and cultural crisis that faced Western liberal democracies in the interwar period, with emphasis on the mass movements that opposed bourgeois liberalism from both the left and the right. "
+    },
+    "HIEU 146S": {
+        "prerequisites": [],
+        "name": "The Meaning of Life in the Modern World: Existentialism, Fascism, and Genocide",
+        "description": "Examines existentialism as a way of thinking from the late nineteenth to mid-twentieth century. Explores the historical context of existentialism in Germany and France, e.g., World War II, the Holocaust, fascism, and communism. Selections from Heidegger, Sartre, Camus, and de Beauvoir. "
+    },
+    "HIEU 150": {
+        "prerequisites": [],
+        "name": "Modern British History",
+        "description": "Emphasis on changes in social structure and corresponding shifts in political power. The expansion and the end of empire. Two World Wars and the erosion of economic leadership."
+    },
+    "HIEU 151": {
+        "prerequisites": [],
+        "name": "Spain since 1808",
+        "description": "Social, political, cultural history of Spain since Napoleon. Features second Spanish Republic, the Civil War, Franco era, and transition to democracy."
+    },
+    "HIEU 151GS": {
+        "prerequisites": [],
+        "name": "History of Modern Spain, 1808\u2013Present",
+        "description": "Social, political, cultural history of Spain since Napoleon. Features second Spanish Republic, the Civil War, Franco era, and transition to democracy. It will also include excursions to various sites of historical significance in and around Madrid. Program or materials fees may apply. Students may not receive credit for HIEU 151 and HIEU 151GS. Students must apply and be accepted to the Global Seminars Program."
+    },
+    "HIEU 152": {
+        "prerequisites": [],
+        "name": "The Worst of Times: Everyday Life in Authoritarian and Dictatorial Societies",
+        "description": "Examines how ordinary citizens coped with the problems of life under Europe\u2019s authoritarian regimes. Topics may include Nazism, fascism, and quasi-fascist societies (e.g., Franco\u2019s Spain, Salazar\u2019s Portugal), and communist practice from Leninism to Stalinism to the milder Titoism of Yugoslavia."
+    },
+    "HIEU 153": {
+        "prerequisites": [],
+        "name": "Topics in Modern European History",
+        "description": "Selected topics in modern European history. Course may be taken for credit up to three times as topic vary."
+    },
+    "HIEU 153A": {
+        "prerequisites": [],
+        "name": "Nineteenth-Century France",
+        "description": "A study of the social, intellectual, and political currents in French history from the end of the French Revolution to the eve of the First World War. Lectures, slides, films, readings, and discussions. "
+    },
+    "HIEU 154": {
+        "prerequisites": [],
+        "name": "Modern\n\t\t  German History: From Bismarck to Hitler",
+        "description": "An analysis of the volatile course of German history from unification to the collapse of the Nazi dictatorship. Focus is on domestic developments inside Germany as well as on their impact on European and global politics in the twentieth century. "
+    },
+    "HIEU 154GS": {
+        "prerequisites": [],
+        "name": "Modern Germany: From Bismarck to Hitler",
+        "description": "An analysis of the volatile course of German history from unification to the collapse of the Nazi dictatorship. Focus is on domestic developments inside Germany as well as on their impact on European and global politics in the twentieth century. Students may not receive credit for both HIEU 154 and HIEU 154GS. Program or materials fees may apply. Students must apply and be accepted to the Global Seminars Program."
+    },
+    "HIEU 154XL": {
+        "prerequisites": [],
+        "name": "HIEU 154 Foreign Language Section",
+        "description": "Students will exercise advanced German language skills to read and discuss materials in HIEU 154. Must be enrolled in HIEU 154."
+    },
+    "HIEU 156": {
+        "prerequisites": [],
+        "name": "History of the Soviet Union, 1905\u20131991",
+        "description": "This course explores war, revolution, development, and terror in the Soviet Union from 1905\u20131991. "
+    },
+    "HIEU 157": {
+        "prerequisites": [],
+        "name": "Religion\n\t\t  and the Law in Modern European History",
+        "description": "Comparative examination of the relationship between religious commitments and legal norms in Europe from the Reformation to the present. Topics may include government sponsorship; religious expression; conflicts with secular law; religious rights as human rights; and religious and cultural politics."
+    },
+    "HIEU 158": {
+        "prerequisites": [],
+        "name": "Why Hitler? How Auschwitz?",
+        "description": "Why did Germany in 1919 produce an Adolf Hitler;\n\t\t\t\t  how did the Nazis take power in 1933; and why did the Third Reich last\n\t\t\t\t  until 1945? Why did the war against the Jews become industrial and absolute?"
+    },
+    "HIEU 159": {
+        "prerequisites": [],
+        "name": "Three Centuries of Zionism, 1648\u20131948",
+        "description": "For centuries, the land of Israel was present in Jewish minds and hearts. Why and how did the return to Zion become a reality? Which were the vicissitudes of Jewish life in Palestine?"
+    },
+    "HIEU 159S": {
+        "prerequisites": [],
+        "name": "Three Centuries of Zionism 1648\u20131948",
+        "description": "For centuries, the land of Israel was present in Jewish minds and hearts. Why and how did the return to Zion become a reality? Which were the vicissitudes of Jewish life in Palestine?"
     },
     "HIEU 160": {
         "prerequisites": [],
@@ -63,6 +688,21 @@
         "prerequisites": [],
         "name": "Special Topics in Medieval History",
         "description": "Intensive study of special problems or periods in the history of medieval Europe. Topics vary from year to year, and students may therefore repeat the course for credit. "
+    },
+    "HIEU 164/264": {
+        "prerequisites": [],
+        "name": "Special Topics in Early Modern Europe",
+        "description": "This course looks at the European and non-European in the early modern era. Topics will vary year to year. May be taken for credit three times."
+    },
+    "HIEU 166/HIEU 266": {
+        "prerequisites": [],
+        "name": "Living on the Edge: Mediterranean Environmental History",
+        "description": "What defines a \u201cMediterranean climate\u201d? Plentiful sunshine, hot, dry summers, and cool, wet winters? In fact, within the Mediterranean, there are countless microclimates. Some produce conditions of plenty, while others are precarious for human habitation. This colloquium examines the environmental history of the premodern Mediterranean focusing on the intersection between climate and human societies, particularly how humans respond to climate shifts in precariously arid zones. +\n\t    "
+    },
+    "HIEU 167/267": {
+        "prerequisites": [],
+        "name": "Special Topics in the Social History of Early Modern Europe",
+        "description": "Topics will vary and may include political, socioeconomic, and cultural developments in the era from 1650 to 1850. Some years the emphasis will be on the theory and practice of revolutions and their impact on Europe and the world. Graduate students will be required to submit an additional piece of work. "
     },
     "HIEU\n\t\t  171/271": {
         "prerequisites": [],
@@ -119,6 +759,166 @@
         "name": "Independent Study in European History",
         "description": "Directed readings for undergraduates under the supervision of various faculty members. "
     },
+    "HIGL 101": {
+        "prerequisites": [],
+        "name": "Jews, Christians, and Muslims",
+        "description": "The course will explore the cultural, religious, and social relationships between the three major religious groups in the medieval Mediterranean: Muslims, Christians, and Jews from the sixth through sixteenth centuries AD. Renumbered from HITO 101. Students may not receive credit for HIGL 101 and HITO 101."
+    },
+    "HIGL 104": {
+        "prerequisites": [],
+        "name": "The Jews and Judaism in the Ancient and Medieval Worlds",
+        "description": "The political and cultural history of the Jews through the early modern period. Life under ancient empires, Christianity and Islam. The post-biblical development of the Jewish religion and its eventual crystallization into the classical, rabbinic model. Renumbered from HITO 104. Students may not receive credit for HIGL 104 and HITO 104. +"
+    },
+    "HILA 100": {
+        "prerequisites": [],
+        "name": "Conquest and Empire: The Americas ",
+        "description": "Lecture-discussion survey of Latin America from the pre-Columbian era to 1825. It addresses such issues as the nature of indigenous cultures, the implanting of colonial institutions, native resistance and adaptations, late colonial growth and the onset of independence. Students may not receive credit for both HILA 100 and HILA 100D.\u00a0+ "
+    },
+    "HILA 100D": {
+        "prerequisites": [],
+        "name": "Latin America: Colonial Transformation",
+        "description": "Lecture-discussion survey of Latin America from the pre-Columbian era to 1825. It addresses such issues as the nature of indigenous cultures, the implanting of colonial institutions, native resistance and adaptation, late colonial growth, and the onset of independence. "
+    },
+    "HILA 101": {
+        "prerequisites": [],
+        "name": "Nation-State Formation, Ethnicity, and Violence in Latin America",
+        "description": "Survey of Latin America in the nineteenth century. It addresses such issues as the collapse of colonial practices in the society and economy as well as the creation of national governments, political instability, disparities among regions within particular countries, and of economies oriented toward the export of goods to Europe and the United States. "
+    },
+    "HILA 102": {
+        "prerequisites": [],
+        "name": "Latin America in the Twentieth Century",
+        "description": "This course surveys the history of the region by focusing on two interrelated phenomena\u2014the absence of democracy in most nations and the region\u2019s economic dependence on more advanced countries, especially the United States. Among the topics discussed will be the Mexican Revolution, the military in politics, labor movements, the wars in Central America, liberation theology, and the current debt crisis. "
+    },
+    "HILA 102D": {
+        "prerequisites": [],
+        "name": "Latin America in the Twentieth Century",
+        "description": "This course surveys the history of the region by focusing on two interrelated phenomena\u2014the absence of democracy in most nations and the region\u2019s economic dependence on more advanced countries, especially the United States. Among the topics discussed will be the Mexican Revolution, the military in politics, labor movements, the wars in Central America, liberation theology, and the current debt crisis. "
+    },
+    "HILA 103": {
+        "prerequisites": [],
+        "name": "Revolution in Modern Latin America",
+        "description": "A political, economic, and social examination of the causes and consequences of the Mexican, Cuban, and Nicaraguan revolutions. Also examine guerrilla movements that failed to gain power in their respective countries, namely the Shining Path in Peru, FARC in Colombia, and the Zapatistas in Mexico."
+    },
+    "HILA 104": {
+        "prerequisites": [],
+        "name": "Drugs in Latin America",
+        "description": "This course examines drugs in Latin America from the 1900s to the present. Brazil, Central America, Columbia, Mexico, and Peru are studied along with some short articles in other nations. We'll also explore aspects of US intervention regarding drugs during and after the Cold War. "
+    },
+    "HILA 106": {
+        "prerequisites": [],
+        "name": "Changes and Continuities in Latin American History",
+        "description": "Reviews the historical processes Latin American countries underwent after political independence from Spain/Portugal in the nineteenth century. Each country built its future, but there also were continuities. Assessing changes and continuities and their present-day consequences will be our goal. "
+    },
+    "HILA 113": {
+        "prerequisites": [],
+        "name": "Lord and Peasant in Latin America",
+        "description": "Examination of the historical roots of population problems, social conflict, and revolution in Latin America, with emphasis on man-land relationships. Special emphasis on modern reform efforts and on Mexico, Cuba, Brazil, and Argentina. Lecture, discussion, reading, and films. "
+    },
+    "HILA 113D": {
+        "prerequisites": [],
+        "name": "Lord and Peasant in Latin America",
+        "description": "Examination of the historical roots of population problems, social conflict, and revolution in Latin America, with emphasis on man-land relationships. Special emphasis on modern reform efforts and on Mexico, Cuba, Brazil, and Argentina. Lecture, discussion, reading, and films. "
+    },
+    "HILA 114": {
+        "prerequisites": [],
+        "name": "Dictatorships in Latin America",
+        "description": "How did dictatorships come about? Who were the authoritarian leaders? How did they organize their regimes and what were the consequences? Recent publications on dictators in Latin America allow for comparisons across countries and throughout time to answer these questions."
+    },
+    "HILA 114D": {
+        "prerequisites": [],
+        "name": "Dictatorship in Latin America",
+        "description": "How did dictatorships come about? Who were the authoritarian leaders? How did they organize their regimes and what were the consequences? Recent publications on dictators in Latin America allow for comparisons across countries and throughout time to answer these questions. "
+    },
+    "HILA 115": {
+        "prerequisites": [],
+        "name": "The Latin American City, a History",
+        "description": "A survey of the development of urban forms of Latin America and of the role that cities played in the region as administrative and economic centers. After a brief survey of pre-Columbian centers, the lectures will trace the development of cities as outposts of the Iberian empires and as \u201ccity-states\u201d that formed the nuclei of new nations after 1810. The course concentrates primarily on the cities of South America, but some references will be made to Mexico City. It ends with a discussion of modern social ills and Third World urbanization. Lima, Santiago de Chile, Buenos Aires, Rio de Janeiro, and Sao Paulo are its principal examples."
+    },
+    "HILA 117": {
+        "prerequisites": [],
+        "name": "Indians, Blacks, and Whites: Family Relations in Latin America",
+        "description": "The development of family structures and relations among different ethnic groups. State and economy define and are defined by family relations. Thus this family approach also provides an understanding to broader socioeconomic processes and cultural issues."
+    },
+    "HILA 118": {
+        "prerequisites": [],
+        "name": "Subverting Sovereignty: US Aggression in Latin America, 1898\u2013Present",
+        "description": "This course will focus on several instances of US aggression in Latin America since 1898, covering military invasions, covert actions, and economic forms of coercion. Specific case studies will include events in Mexico in 1914, Cuba in 1933 and 1959\u20131962, Guatemala in 1954, and Chile in 1973."
+    },
+    "HILA 120": {
+        "prerequisites": [],
+        "name": "History of Argentina",
+        "description": "A survey from the colonial period to the present, with an emphasis on the nineteenth and twentieth centuries. Among the topics covered: the expansion of the frontier, the creation of a cosmopolitan, predominately European culture, and the failure of industrialization to provide an economic basis for democracy."
+    },
+    "HILA 121A": {
+        "prerequisites": [],
+        "name": "History of Brazil through 1889 ",
+        "description": "A lecture-discussion course on the historical roots of revolutionary Cuba, with special emphasis on the impact of the United States on the island\u2019s development and society."
+    },
+    "HILA 121B": {
+        "prerequisites": [],
+        "name": "History of Brazil, 1889 to Present",
+        "description": "The Incas called their realm Tahuantinsuyu (Land of the Four Quarters). But the Incas were only one of the many ethnic groups in the Andean region. Many different other groups became a part of the Tahuantinsuyu in the wake of Inca expansion. Over the past decade, new and fascinating information on these processes have been published and allow for a rereading of Inca history between 900 and 1535. +"
+    },
+    "HILA 122": {
+        "prerequisites": [],
+        "name": "Cuba: From Colony to Socialist Republic",
+        "description": "The course surveys Chile\u2019s basic developments beginning with the era of nitrate exports. Students will have the opportunity to address a specific issue of his or her own choosing and develop the topic for class presentation and a final paper. The course will cover politics, cultural changes, class struggles, Allende\u2019s revolutionary movement, and Pinochet\u2019s dictatorship to the present."
+    },
+    "HILA 123": {
+        "prerequisites": [],
+        "name": "The Incas and Their Ancestors",
+        "description": "A broad historical overview of Latin American women\u2019s history focusing on issues of gender, sexuality, and the family as they relate to women, as well as the historiographical issues in Latin American and Chicana women\u2019s history."
+    },
+    "HILA 124": {
+        "prerequisites": [],
+        "name": "The History of Chile 1880\u2013Present",
+        "description": "Exploration of the relationships between socioeconomic and cultural development in Caribbean history; slavery and empire; nationalism and migration; vodun and Rastafarianism, and the literary arts.  "
+    },
+    "HILA 124A": {
+        "prerequisites": [],
+        "name": "\t\t  History of Women and Gender in Latin America",
+        "description": "A century of Mexican history, 1821\u20131924: the\n\t\t\t\t  quest for political unity and economic solvency, the forging of a nationality,\n\t\t\t\t  the Gilded Age and aftermath, the ambivalent Revolution of Zapata and his\n\t\t\t\t  enemies."
+    },
+    "HILA 126": {
+        "prerequisites": [],
+        "name": "From Columbus to Castro: Caribbean Culture and Society",
+        "description": "The social and political history of twentieth-century Mexico from the outbreak of revolution to the current \u201cwar on drugs.\u201d Highlights include the Zapatista calls for land reform, the muralist movement, and the betrayal of revolutionary ideals by a conservative elite. We will also study the Mexican urban experience and environmental degradation. Students may not receive credit for both HILA 132 and HILA 132GS."
+    },
+    "HILA 131": {
+        "prerequisites": [],
+        "name": "A History of Mexico",
+        "description": "The social and political history of twentieth-century Mexico from the outbreak of revolution to the current \u201cwar on drugs.\u201d Highlights include the Zapatista calls for land reform, the muralist movement, and the betrayal of revolutionary ideals by a conservative elite. We will also study the Mexican urban experience and environmental degradation."
+    },
+    "HILA 132": {
+        "prerequisites": [],
+        "name": "Modern Mexico: From Revolution to Drug War Violence ",
+        "description": "The social and political history of twentieth-century Mexico from the outbreak of revolution to the current \u201cwar on drugs.\u201d Highlights include the Zapatista calls for land reform, the muralist movement, and the betrayal of revolutionary ideals by a conservative elite. We will also study the Mexican urban experience and environmental degradation. Students may not receive credit for both HILA 132 and HILA 132GS. Program or materials fees may apply. Students must apply and be accepted to the Global Seminars Program."
+    },
+    "HILA 132D": {
+        "prerequisites": [],
+        "name": "Modern Mexico: From Revolution to Drug War Violence",
+        "description": "This course surveys guerrilla movements in Latin America from the Cuban Revolution through the Zapatista movement in Mexico, comparing and contrasting the origins, trajectories, and legacies of armed insurgencies, and focusing on the politics of defining \u201cinsurgents,\u201d \u201crevolutionaries,\u201d and \u201cterrorists.\u201d "
+    },
+    "HILA 132GS": {
+        "prerequisites": [],
+        "name": "Modern Mexico: From Revolution to Drug War Violence",
+        "description": "This course surveys the history of the native peoples of Mexico and the Andes from Iberian contact to the late colonial period (1492\u20131800). It focuses on changes and continuities in postconquest society, exploring topics such as gender, sexuality, and resistance. \u00a0"
+    },
+    "HILA 133S": {
+        "prerequisites": [],
+        "name": "Guerrillas and Revolution in Latin America",
+        "description": "Selected topics in Latin American history. Course may be taken for credit up to three times as topics vary (the course subtitle will be different for each distinct topic). Students who repeat the same topic in HILA 144 will have the duplicate credit removed from their academic record."
+    },
+    "HILA 134": {
+        "prerequisites": [],
+        "name": "Indians of Colonial Latin America",
+        "description": "Recordings of Amazonia\u2019s past before Iberian adventurers searched for El Dorado are scarce. Environmental significance and the continued existence of large fluvial societies, read through the lenses of chroniclers, scientists, missionaries, and colonizers, allows a reconstruction of humankind\u2019s relationship to nature."
+    },
+    "HILA 144": {
+        "prerequisites": [],
+        "name": "Topics in Latin American History",
+        "description": "A broad historical overview of Latin American women\u2019s history of focusing on the issues of gender, sexuality, and the family as they relate to women, as well as the historiographical issues in Latin American and Chicana women\u2019s history.\n        "
+    },
     "HILA 145": {
         "prerequisites": [],
         "name": "People and Nature in Amazonia: An Unwritten History",
@@ -149,10 +949,135 @@
         "name": "Scholarship on Latin American History in the Colonial Period",
         "description": "Introduction to the historiography on Latin America for the twentieth century: agrarian reforms, unionization, industrialization by import substitution, the political left, social development, and international relations. Requirements will vary for undergraduate, MA, and PhD students. Graduate students are required to submit an additional research paper. "
     },
+    "HILA 168/268": {
+        "prerequisites": [],
+        "name": "Scholarship on Latin American History in the Nineteenth Century",
+        "description": "Topics may vary from year to year. May be repeated for credit. Requirements will vary for undergraduates, MA, and PhD students. Graduate students are required to submit a more substantial piece of work."
+    },
+    "HILA 169/269": {
+        "prerequisites": [],
+        "name": "Scholarship on Latin American History in the Twentieth Century",
+        "description": "Directed group study on a topic not generally included in the regular curriculum. Students must make arrangements with individual faculty members."
+    },
     "HILA 171/271": {
         "prerequisites": [],
         "name": "Topics in Latin American History Since 1910",
         "description": "Directed readings for undergraduates under the supervision of various faculty members. "
+    },
+    "HILA 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "The history and literature of ancient Israel c. 1300 to 300 BCE. Reading from the Bible, historical and archaeological surveys, and studies of authorship.\u00a0+"
+    },
+    "HILA 199": {
+        "prerequisites": [],
+        "name": "Independent\n\t\t  Study in Latin American History",
+        "description": "Based on biblical and nonbiblical sources, a reconstruction of Israelite institutions, beliefs, and practices and their evolution over time.\u00a0+"
+    },
+    "HINE 100": {
+        "prerequisites": [],
+        "name": "The Hebrew Bible and History",
+        "description": "The Jews in Israel from the sixth century BCE to the seventh century CE. Statehood, nationalism, and autonomy within the framework of the Persian empire, the Hellenistic kingdoms, and the Roman-Byzantine empire. Cultural and religious developments will be explored.\u00a0+ "
+    },
+    "HINE 101": {
+        "prerequisites": [],
+        "name": "The Religion of Ancient Israel",
+        "description": "The Jews outside their homeland and in pre-Islamic times, concentrating on the Greco-Roman West and the Parthian-Sasanian East. Topics include assimilation and survival; anti-Semitism and missionizing; patterns of organization and autonomy; cultural and religious developments.\u00a0+ "
+    },
+    "HINE 102": {
+        "prerequisites": [],
+        "name": "The\n\t\t  Jews in Their Homeland in Antiquity",
+        "description": "Cross-listed with JUDA 136. This course examines biblical attitudes toward hetero- and homosexuality, rape, incest, bestiality, prostitution, marriage, and adultery in a variety of texts drawn from the Old Testament. "
+    },
+    "HINE 103": {
+        "prerequisites": [],
+        "name": "The Jewish Diaspora in Antiquity",
+        "description": "The peoples, politics, and cultures of Southwest Asia and Egypt from the sixth century BCE to the seventh century CE. The Achaemenid Empire, the Ptolemaic and Seleucid kingdoms, the Roman Orient, the Parthian and Sasanian states.\u00a0+ "
+    },
+    "HINE 104": {
+        "prerequisites": [],
+        "name": "Sex in the Bible",
+        "description": "A survey of the history of the Middle East, in particular, the Ottoman Empire, from 1200\u20131800. The course examines the emergence of a new political and religious order following the Mongol conquests and its long-lasting effect on the region. +"
+    },
+    "HINE 108": {
+        "prerequisites": [],
+        "name": "The Middle East before Islam",
+        "description": "Explore the ancient sources for the life of Jesus. Students will learn about various modern approaches to reconstructing the historical Jesus and will examine the difficulties inherent in such a task. "
+    },
+    "HINE 109": {
+        "prerequisites": [],
+        "name": "History of the Middle East",
+        "description": "This class covers the history of the Middle East and the larger Mediterranean from 500 to 1400. It surveys the birth of Islam, the ride of the early Islamic empires stretching from Central Asia to Spain, and the impact of the Crusades and the Mongol conquests. +"
+    },
+    "HINE 110": {
+        "prerequisites": [],
+        "name": "Jesus, the Gospels, and History",
+        "description": "A close reading of select prose narratives from the Hebrew Bible/Old Testament.\u00a0+"
+    },
+    "HINE 111": {
+        "prerequisites": [],
+        "name": "History of the Medieval Middle East",
+        "description": "Students with advanced Hebrew can study the texts in HINE 112A in the original language."
+    },
+    "HINE 112A": {
+        "prerequisites": [],
+        "name": "Great Stories from the Hebrew Bible",
+        "description": "A close reading of select poetic passages from the Hebrew Bible/Old Testament.\u00a0+"
+    },
+    "HINE 112AL": {
+        "prerequisites": [],
+        "name": "\t\t  Great Stories from the Hebrew Bible/Foreign Language",
+        "description": "Students with advanced Hebrew can study the texts in HINE 112B in the original language."
+    },
+    "HINE 112B": {
+        "prerequisites": [],
+        "name": "Great Poems from the Hebrew Bible",
+        "description": "Course will analyze and compare major myths\n\t\t\t\t  from Egypt, Israel, Ugarit, and Mesopotamia, employing a variety of modern\n\t\t\t\t  approaches.\u00a0+"
+    },
+    "HINE 112BL": {
+        "prerequisites": [],
+        "name": "\t\t  Great Poems from the Hebrew Bible/Foreign Language",
+        "description": "A survey of the Middle East from the rise of Islam to the region\u2019s economic, political, and cultural integration into the West (mid-nineteenth century). Emphasis on socioeconomic and political change in the early Arab empires and the Ottoman state.\u00a0+ "
+    },
+    "HINE 113": {
+        "prerequisites": [],
+        "name": "Ancient Near East Mythology",
+        "description": "Exploration of ideas, beliefs, and practices pertaining to death from a variety of ancient cultures: Near Eastern, Israelite, Greek, Roman, Jewish, and early Christian. Themes include immortality, afterlife, care for the dying, suicide, funerary rituals, martyrdom, and resurrection. +"
+    },
+    "HINE 114": {
+        "prerequisites": [],
+        "name": "History of the Islamic Middle East",
+        "description": "Examines the contacts of the late Ottoman\n\t\t\t\t  Empire and Qajar Iran with Europe from the Napoleonic invasion\n\t\t\t\t  of Egypt to World War I, the diverse facets of the relationship\n\t\t\t\t  with the West, and the reshaping of the institutions of the\n\t\t\t\t  Islamic states and societies. "
+    },
+    "HINE 115": {
+        "prerequisites": [],
+        "name": "Death and Dying in Antiquity",
+        "description": "An introduction to the history of the Middle East since 1914. Themes such as nationalism, imperialism, the oil revolution, and religious revivalism will be treated within a broad chronological and comparative framework drawing on the experience of selected countries. "
+    },
+    "HINE 116": {
+        "prerequisites": [],
+        "name": "The Middle East in the Age of European Empires",
+        "description": "An examination of post-WWII Middle East conflicts, including the Israeli-Arab conflicts, the Lebanese Civil War, and the Gulf War of the 1980s. The roles of the superpowers and Middle Eastern states during the period. "
+    },
+    "HINE 118": {
+        "prerequisites": [],
+        "name": "The\n\t\t  Middle East in the Twentieth Century",
+        "description": "An examination of the conflicts, changes, and continuities in the Middle East since 2000. The course includes inspection of the US role in Iraq and the region generally."
+    },
+    "HINE 119": {
+        "prerequisites": [],
+        "name": "US\n\t\t\t\t  Mid-East Policy Post-WWII",
+        "description": "A history of Jews and Judaism from 300 BCE to 500 CE, emphasizing cultural and religious exchanges and interactions of Jews with Greece and Rome. Among the topics covered in class: Hellenism and the emergence of Jewish identity; political resistance and cultural adaptation; the beginnings of Christianity and varieties of Jewish belief and practice in antiquity. +"
+    },
+    "HINE 120": {
+        "prerequisites": [],
+        "name": "The Middle East in the New Century",
+        "description": "Iran\u2019s social and political history\n\t\t\t\t  in the twentieth century with emphasis on the Constitutional movement of\n\t\t\t\t  the late Qajar period, formation and development of the Pahlavi state,\n\t\t\t\t  anatomy of the 1978\u201379 Revolution, and a survey of the Islamic Republic."
+    },
+    "HINE 125": {
+        "prerequisites": [],
+        "name": "Jews in the Greek and Roman World",
+        "description": "Eastern problems on the example of Turkey and with special attention to collective identities, state-society dynamics, foreign and regional policies, and varieties of modernity. "
     },
     "HINE 126": {
         "prerequisites": [],
@@ -163,6 +1088,26 @@
         "prerequisites": [],
         "name": "History of Modern Turkey",
         "description": "Cross-listed with JUDA 131. This course will study the prophetic and poetic books of the Hebrew Bible (in English), through a literary-historical approach. Students may not receive credit for both HINE 131 and JUDA 131. (Formerly known as JUDA 100B.) "
+    },
+    "HINE 130": {
+        "prerequisites": [],
+        "name": "Introduction to the Old Testament: The Historical Books",
+        "description": "This course introduces the students to contemporary Israeli society. Among the topics explored: Israeli-Arab conflict; relations between European, Arab, Russian, and Ethiopian Jews; between secular and religious Jews; between Jews and Arabs; and between Israel and World Jewry."
+    },
+    "HINE 131": {
+        "prerequisites": [],
+        "name": "Introduction to the Old Testament: The Poetic Books",
+        "description": "This course explores the evolution of Zionism from its late nineteenth-century origins to the present. Among the topics explored: political, cultural, spiritual and social varieties of Zionism; and the contending narratives about its nature, meaning, and accomplishments."
+    },
+    "HINE 135GS": {
+        "prerequisites": [],
+        "name": "Introduction to Contemporary Israeli Society and Culture",
+        "description": "Selected topics in the history of the Middle East. May be taken for credit three times."
+    },
+    "HINE 136GS": {
+        "prerequisites": [],
+        "name": "Zionism and Post Zionism",
+        "description": "A survey of the history of science in the Middle East from 600 to the present day. The course examines the relationship between science, learning, and religion in Islamic societies and its connections to other regions of the globe. +\t\t\t\t"
     },
     "HINE 144": {
         "prerequisites": [],
@@ -189,10 +1134,120 @@
         "name": "The Colonial Mandates in the Middle East",
         "description": "This course studies a period or theme in Jewish history. Topics will vary from year to year. "
     },
+    "HINE 166/266": {
+        "prerequisites": [],
+        "name": "Nationalism in the Middle East",
+        "description": "Selected topics in the history of Judaism and Christianity in the first through fourth centuries CE, with emphasis on the shared origins and mutual relations of the two religions. May be taken for credit up to two times. +"
+    },
+    "HINE 170/270": {
+        "prerequisites": [],
+        "name": "Special Topics in Jewish History",
+        "description": "Focused study of historical roots of contemporary problems in the Middle East: Islamic modernism and Islamist movements; contacts with the West; ethnic and religious minorities; role of the military; economic resources and development. Department stamp and permission of instructor. "
+    },
+    "HINE 171/271": {
+        "prerequisites": [],
+        "name": "Topics in Early Judaism and Christianity",
+        "description": "Directed group study on a topic not generally included in the regular curriculum. Students must make arrangements with individual faculty members."
+    },
     "HINE\n\t\t  186/286": {
         "prerequisites": [],
         "name": "Special Topics in Middle Eastern History",
         "description": "Directed readings for undergraduates under the supervision of various faculty members. "
+    },
+    "HINE 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Technology as an agent of change. How have humans harnessed the power of nature? What factors have contributed to successes and failures? How has technology changed human life? How should we evaluate the quality of these changes?"
+    },
+    "HINE 199": {
+        "prerequisites": [],
+        "name": "Independent\n\t\t  Study in Near Eastern History",
+        "description": "History of women\u2019s struggles and strategies for access and equality in professional science. Questions related to gender bias in science\u2014as a social institution and as an epistemological enterprise\u2014will be addressed in light of the historical and biographical readings."
+    },
+    "HISC 102": {
+        "prerequisites": [],
+        "name": "Technology in World History",
+        "description": "Historical aspects of the popularization of science. The changing relation between expert science and popular understanding. The reciprocal impact of scientific discoveries and theories, and popular conceptions of the natural world."
+    },
+    "HISC 103": {
+        "prerequisites": [],
+        "name": "Gender\n\t\t  and Science in Historical Perspective",
+        "description": "History of human effects on the natural environment, with emphasis on understanding the roles of the physical and biological sciences in providing insights into environmental processes."
+    },
+    "HISC 104": {
+        "prerequisites": [],
+        "name": "History of Popular Science",
+        "description": "A cultural history of the formation of early modern science in the sixteenth and seventeenth centuries: the social forms of scientific life; the construction and meaning of the new cosmologies from Copernicus to Newton; the science of politics and the politics of science; the origins of experimental practice; how Sir Isaac Newton restored law and order to the West.\u00a0+ "
+    },
+    "HISC 105": {
+        "prerequisites": [],
+        "name": "History of Environmentalism",
+        "description": "The development of the modern conception of the sciences, and of the modern social and institutional structure of scientific activity, chiefly in Europe, during the eighteenth and nineteenth centuries."
+    },
+    "HISC 106": {
+        "prerequisites": [],
+        "name": "The Scientific Revolution",
+        "description": "The history of twentieth-century life sciences, with an emphasis on the way in which model organisms such as fruit flies, guinea pigs, bacteriophage, and zebra fish shaped the quest to unlock the secrets of heredity, evolution, and development."
+    },
+    "HISC 107": {
+        "prerequisites": [],
+        "name": "The Emergence of Modern Science",
+        "description": "Explores the origins of the idea of the \u201ctropics\u201d and \u201ctropical disease\u201d as a legacy of European conquest and colonization and introduces students to themes in the history of colonialism, tropical medicine, and global public health."
+    },
+    "HISC 108": {
+        "prerequisites": [],
+        "name": "Life Sciences in the Twentieth Century",
+        "description": "There was no such thing as a single, unchanging relationship between science and religion, and this is a course about it. Topics include the \u201cConflict Thesis,\u201d natural theology, the Galileo Affair, Darwinism, the antievolution crusade, creationism, secularization, atheism, and psychoanalysis. +"
+    },
+    "HISC 109": {
+        "prerequisites": [],
+        "name": "Invention of Tropical Disease",
+        "description": "Development of nuclear science and weapons\u20141930s to present\u2014including the discovery of radioactivity and fission, the Manhattan project, the bombings of Hiroshima and Nagasaki and end of WWII, the H-bomb, and legacies of nuclear proliferation, environmental damage, and radioactive waste."
+    },
+    "HISC 110": {
+        "prerequisites": [],
+        "name": "Historical Encounters of Science and Religion",
+        "description": "Explores the origin of clinical method, the hospital, internal surgery, and the medical laboratory, as well as the historical roots of debates over health-care reform, genetic determinism, and the medicalization of society."
+    },
+    "HISC 111": {
+        "prerequisites": [],
+        "name": "The Atomic Bomb and the Atomic Age",
+        "description": "The story behind the postwar rise of bioethics\u2014medical\n\t\t\t\t  scandals breaking in the mass media, the development of novel technologies\n\t\t\t\t  for saving and prolonging life, the emergence of new diseases, the unprecedented\n\t\t\t\t  scope for manipulation opened up by biology."
+    },
+    "HISC 115": {
+        "prerequisites": [],
+        "name": "History of Modern Medicine",
+        "description": "A survey of the history of the neurosciences from the seventeenth century to the present, exploring the political, philosophical, cultural, aesthetic and ethical aspects of research into the workings of the human brain."
+    },
+    "HISC 116": {
+        "prerequisites": [],
+        "name": "History of Bioethics",
+        "description": "Analyzes the history of sexology as a series of episodes in the science of human difference, from the European reception of the first translation of the Kama Sutra in 1883 to the search for the \u201cgay gene\u201d in the 1990s."
+    },
+    "HISC 117": {
+        "prerequisites": [],
+        "name": "History of the Neurosciences",
+        "description": "This course explores contemporary issues in biology, ethics, and society. We will start by examining early cases of biopolitics, like social Darwinism and eugenics, and proceed to more recent issues, such as genetic engineering, patenting life, and the pharmaceutical industry."
+    },
+    "HISC 118": {
+        "prerequisites": [],
+        "name": "History of Sexology",
+        "description": "The role of technology in American history through the Civil War. Indigenous and colonial development, transportation infrastructures, and industrialization are explored to understand the connections among technology, society, and culture.\u00a0+ "
+    },
+    "HISC 119": {
+        "prerequisites": [],
+        "name": "Biology and Society",
+        "description": "Science and law are two of the most powerful establishments of modern Western culture. Science organizes our knowledge of the world; law directs our action in it. Will explore the historical roots of the interplay between them."
+    },
+    "HISC 120A": {
+        "prerequisites": [],
+        "name": "Technology in America I",
+        "description": "Through scientific and technological innovation Israel came to be known as the \u201cStart-up Nation.\u201d This course will explore the reasons why scientific and technological innovation became fundamental to Israeli society and their social, cultural, and economic implications. Students may not receive credit for HISC 132 and HISC 132GS."
+    },
+    "HISC 131": {
+        "prerequisites": [],
+        "name": "Science, Technology, and Law",
+        "description": "Through scientific and technological innovation Israel came to be known as the \u201cStart-up Nation.\u201d This course will explore the reasons why scientific and technological innovation became fundamental to Israeli society and their social, cultural, and economic implications. Students may not receive credit for HISC 132GS and HISC 132. Program or materials fees may apply. Students must apply and be accepted into the Global Seminar Program."
     },
     "HISC 132": {
         "prerequisites": [],
@@ -224,15 +1279,155 @@
         "name": "Seminar on Darwin and Darwinisms",
         "description": "A critical analysis of the host of \u201chistorical\n\t\t\t\t  sciences\u201d that developed over the course of the long nineteenth\n\t\t\t\t  century, from archaeology and paleontology to psychoanalysis and craniotomy,\n\t\t\t\t  including the science of history itself. Graduate students will be required\n\t\t\t\t  to submit an additional paper. "
     },
+    "HISC\n\t\t  174/274": {
+        "prerequisites": [],
+        "name": "History of Localization of Brain Function",
+        "description": "This course introduces students to new and classic works in the history of medicine in East and Southeast Asia. Topics will include epidemic disease and state vaccination campaigns; opium and drug control; mental illness and asylums; earthquakes and disaster technologies; colonialism and public health; venereal disease and prostitution. Special emphasis will be placed on the role of experts and institutions and forms of scientific exchange and collaboration across the region."
+    },
+    "HISC\n\t\t  175/275": {
+        "prerequisites": [],
+        "name": "The Historical Sciences in the Nineteenth Century",
+        "description": "This course will explore the evolution of the institutions, ideologies, procedures, standards, and expertise that modern democratic societies have used in applying science to generate and legitimate public policy."
+    },
+    "HISC 176": {
+        "prerequisites": [],
+        "name": "History of Medicine in East and Southeast Asia",
+        "description": "Directed group study on a topic not generally included in the regular curriculum. Students must make arrangements with individual faculty members."
+    },
     "HISC 180/280": {
         "prerequisites": [],
         "name": "Science and Public Policy",
         "description": "Directed readings for undergraduates under the supervision of various faculty members. "
     },
+    "HISC 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "This course introduces students to new and classic works in the history of medicine in East and Southeast Asia. Topics will include epidemic disease and state vaccination campaigns; opium and drug control; mental illness and asylums; earthquakes and disaster technologies; colonialism and public health; venereal disease and prostitution. Special emphasis will be placed on the role of experts and institutions and forms of scientific exchange and collaboration across the region."
+    },
+    "HISC 199": {
+        "prerequisites": [],
+        "name": "Independent\n\t\t  Study in the History of Science",
+        "description": "\u201cWas ist Aufklarung?\u201d asked Kant in 1748 and the question remains hotly debated ever since. In this course we will pursue this question in tandem with another: \u201cWhat is Enlightenment science?\u201d The answer to which is equally debated. +"
+    },
+    "HITO 87": {
+        "prerequisites": [],
+        "name": "Special Freshman Seminar",
+        "description": "This course will examine the development of Gnostic Christianity in the first four centuries CE. Students will also explore similar non-Christian religious movements that claimed to have special knowledge (gnosis) of the self, the material world, and the divine. "
+    },
+    "HITO 99": {
+        "prerequisites": [],
+        "name": "Independent\n\t\t  Study on History Topics",
+        "description": "Topics include the political emancipation of the Jews of Europe; the emergence of Reform, Conservative, and Modern Orthodox Judaism; Hasidism; modern anti-Semitism; Jewish socialism; Zionism; the Holocaust; the American Jewish community; the State of Israel. "
+    },
     "HITO 103S": {
         "prerequisites": [],
         "name": "Gnosis and Gnosticism",
         "description": "This course explores Jewish women\u2019s experiences from the seventeenth century to the present, covering Europe, the United States, and Israel. Examines work, marriage, motherhood, spirituality, education, community, and politics across three centuries and three continents.\u00a0"
+    },
+    "HITO 105": {
+        "prerequisites": [],
+        "name": "Jewish Modernity from 1648 to 1948 ",
+        "description": "Students will produce creative video projects by conducting interviews and drawing from relevant texts, lectures, archival resources, and other materials to expand and deepen their understanding of the Holocaust and help contribute to the body of work documenting this period in history."
+    },
+    "HITO 106": {
+        "prerequisites": [],
+        "name": "Love and Family in the Jewish Past",
+        "description": "This course introduces students to the history of modern Vietnam, starting with the Tay Son rebellion in the late eighteenth century and ending with the economic reforms of the 1980s. Topics include the expansion and consolidation of the French colonial state, the rise of anticolonialism and nationalism, the development of Vietnamese communism, World War II, and the First and Second Indochina Wars. A special emphasis will be focused on the place of Vietnam within wider regional and global histories."
+    },
+    "HITO 107": {
+        "prerequisites": [],
+        "name": "Holocaust Video Production",
+        "description": "The Cold War is often understood as a superpower rivalry between the U.S. and the Soviet Union. Yet, the second half of the twentieth century witnessed civil wars, revolutions, decolonization movements, and state violence throughout the world that do not fit in this bipolar framework. Focusing on these other events, this course reexamines the Cold War in global and comparative perspective, with a particular focus on political developments in Asia, Africa, and Latin America. "
+    },
+    "HITO 114": {
+        "prerequisites": [],
+        "name": "History of Modern Vietnam",
+        "description": "Sources for reconstructing ancient history present special challenges. Introduce and examine critically some basic myths and chronicles of the eastern Mediterranean and ancient Near East and assess the challenges to today\u2019s historian in reconstructing these histories. "
+    },
+    "HITO 115/115GS": {
+        "prerequisites": [],
+        "name": "The Global Cold War",
+        "description": "How did cars come to dominate the world? This course provides a survey of the world since 1900 to the near future through the history of cars and their impacts on politics, economics, society, and the environment."
+    },
+    "HITO 115S": {
+        "prerequisites": [],
+        "name": "Myth, History, and Archaeology",
+        "description": "This course examines the interaction between\n\t\t\t\t  sections of the globe after 1200. It emphasizes factors operating on a\n\t\t\t\t  transcontinental scale (disease, climate, migration) and historical/cultural\n\t\t\t\t  phenomena that bridge distance (religion, trade, urban systems). This is\n\t\t\t\t  not narrative history, but a study of developments that operated on a global\n\t\t\t\t  scale and constituted the first phase of globalization.\u00a0+ "
+    },
+    "HITO 116": {
+        "prerequisites": [],
+        "name": "Car Wars: A Global History of the World since 1900 through Cars",
+        "description": "Explores where human rights come from and what they mean by integrating them into a history of modern society, from the Conquest of the Americas and the origins of the Enlightenment, to the Holocaust and the contemporary human rights regime."
+    },
+    "HITO 117": {
+        "prerequisites": [],
+        "name": "World History 1200\u20131800",
+        "description": "The most popular sport in the world is soccer. The game\u2019s growth and expansion was thoroughly enmeshed with the spread of modernity. It was a product of the industrial and political revolutions of the nineteenth and twentieth centuries. It has been an engine of nationalism and gender formation. The link of this sport to politics will be a central theme."
+    },
+    "HITO\n\t\t  119/HMNR 100": {
+        "prerequisites": [],
+        "name": "Human Rights l: Introduction to Human Rights and Global Justice ",
+        "description": "The course examines multiform mystical traditions in world religions and cultures, including Greco-Roman philosophy, Judaism, Christianity, Islam, Hinduism, and Buddhism by studying classics of mystical literature and secondary sources; also addressed are mystical beliefs and practices in contemporary society."
+    },
+    "HITO 123": {
+        "prerequisites": [],
+        "name": "The Global History of Soccer",
+        "description": "This course will examine the different ways that attitudes toward children have changed throughout history. By focusing on the way that the child was understood, we will examine the changing role of the family, the role of culture in human development, and the impact of industrialization and modern institutions on the child and childhood. "
+    },
+    "HITO 124": {
+        "prerequisites": [],
+        "name": "Mystical Traditions",
+        "description": "An examination of the Second World War in Europe, Asia, and the United States. Focus will be on the domestic impact of the war on the belligerent countries as well as on the experiences of ordinary soldiers and civilians."
+    },
+    "HITO 126": {
+        "prerequisites": [],
+        "name": "A History of Childhood",
+        "description": "An examination of the Second World War in Europe, Asia, and the United States. Focus will be on the domestic impact of the war on the belligerent countries as well as on the experiences of ordinary soldiers and civilians."
+    },
+    "HITO 133": {
+        "prerequisites": [],
+        "name": "War and Society: The Second World War",
+        "description": "Comparative study of genocide and war crimes, stressing European developments since 1900 with reference to cases elsewhere. Topics include historical precedents; evolving legal concepts; and enforcement mechanisms. Emphasis on the Holocaust, the USSR under Stalin, ex-Yugoslavia, and the Armenian genocide. Students may not receive credit for both HITO 134 and ERC 102. "
+    },
+    "HITO 133D": {
+        "prerequisites": [],
+        "name": "War and Society: The Second World War",
+        "description": "Explore contrasts and parallels between African Americans and Jews from the seventeenth century to the present. Investigate slavery, the Civil War, shared music, political movements, urban geography, and longings to return to a homeland in Africa or Palestine."
+    },
+    "HITO 134": {
+        "prerequisites": [],
+        "name": "International\n\t\t  Law\u2014War Crimes and Genocide",
+        "description": "An examination of the history of emotions from the early modern period to the present with a focus on Europe and North America. Analysis of different approaches to emotions as well as of specific emotions (love, honor, shame, fear, guilt)."
+    },
+    "HITO 136": {
+        "prerequisites": [],
+        "name": "Jews and African Americans:\u00a0Slavery, Diaspora, Ghetto",
+        "description": "A lecture-discussion course on the philosophical, political, and economic ideas that shaped the Scottish Enlightenment in the eighteenth century, especially the ideas of David Hume, Adam Smith, and John Witherspoon, and their impact upon the American Revolution and the Constitution of the United States."
+    },
+    "HITO 140": {
+        "prerequisites": [],
+        "name": "History of Emotions",
+        "description": "This course tracks the worldwide interplay of sport and race. We begin with patterns of exclusion and participation on the part of African Americans, Latinos, and Native Americans. We then examine patterns of inequality across the globe."
+    },
+    "HITO 150GS": {
+        "prerequisites": [],
+        "name": "The Scottish Enlightenment and the Founding of the United States",
+        "description": "Comparative study of American and European multicultural politics and policy, focusing on developments since 1945. Coverage includes policies aimed at members of the African American, Native American, Latino/Chicano/Hispanic, and Asian/Pacific Islander communities and comparable European groups. Students will not receive credit for both HITO 156 and HITO 156GS."
+    },
+    "HITO 155": {
+        "prerequisites": [],
+        "name": "Race, Sport, and Inequality in the Twentieth Century",
+        "description": "Comparative study of America and European multicultural politics and policy, focusing on developments since 1945. Coverage includes policies aimed at members of the African American, Native American, Latino/Chicano/Hispanic, and Asian/Pacific Islander communities and comparable European groups. Students must submit applications to the International Center, Programs Abroad Office, and be accepted into the Global Seminar Program. Program or material fee may apply. Students will not receive credit for both HITO 156 and HITO 156GS. "
+    },
+    "HITO 156": {
+        "prerequisites": [],
+        "name": "Diversity, Equity, and Inclusion in the United States and Europe: Multiple Multiculturalisms",
+        "description": "A course on Hong Kong's political, economic, and cultural transformation alongside its incorporation into the global capitalist economy, with a focus on transnational migrants laboring and living in diaspora. Topics include Opium Wars, world system, export-processing zones, and anti-globalization movements. Students must submit applications to the International Center, Programs Abroad Office, and be accepted into the Global Seminar Program. Program or material fee may apply. "
+    },
+    "HITO 156GS": {
+        "prerequisites": [],
+        "name": "Diversity, Equity, and Inclusion in the United States and Europe: Multiple Multiculturalisms",
+        "description": "In this course we compare the Jewish experience to other religious minorities in American history. Topics include motives and rates of immigration, education and work patterns, religious experiences, women\u2019s roles, family life, and representations in popular and high culture."
     },
     "HITO 160GS": {
         "prerequisites": [],
@@ -289,6 +1484,11 @@
         "name": "Research Seminar in Washington, DC",
         "description": "Independent study under the supervision of a faculty member leading to the preparation of an honors essay. A letter grade for both HITO 194 and 195 will be given at the completion of this quarter. "
     },
+    "HITO 194": {
+        "prerequisites": [],
+        "name": "History Honors",
+        "description": "The nature and uses of history are explored through the study of the historian\u2019s craft based on critical analysis of historical literature relating to selected topics of concern to all historians. Required of all candidates for history honors and open to other interested students with the instructor\u2019s consent. Department stamp required. "
+    },
     "HITO 195": {
         "prerequisites": [],
         "name": "The Honors Essay",
@@ -298,6 +1498,306 @@
         "prerequisites": [],
         "name": "Honors Seminar",
         "description": "Independent study on a topic not generally included in the regular curriculum. Students must make arrangements with individual faculty members. (P/NP grades only.) "
+    },
+    "HITO 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Medieval and early modern origins of constitutional ideas and institutions. The question of the course is: Where did the ideas and institutions embodied in the constitutions of the U.S. (1787) and of France (1791) come from? Requirements will vary for undergraduate, MA, and PhD students. Graduate students are required to submit a more substantial piece of work. "
+    },
+    "HITO 199": {
+        "prerequisites": [],
+        "name": "Independent Study in Historical Topics",
+        "description": "The upheavals that transformed the early modern Atlantic emphasizing the United States, Caribbean, and Great Britain. Topics: struggles to define democracy, the reorganization of the Atlantic state system, the Enlightenment, and international responses to the American and French Revolutions.\u00a0+ "
+    },
+    "HIUS 103/ETHN 103A": {
+        "prerequisites": [],
+        "name": "The United States and the Pacific World",
+        "description": "Examines foreign relations of the United States from acquisition of a formal overseas empire in the aftermath of the Spanish-American War to the end of the Cold War. Topics cover a range of public and private interactions with the world."
+    },
+    "HIUS 104": {
+        "prerequisites": [],
+        "name": "The Revolutionary Atlantic",
+        "description": "Examine the development of apocalyptic Jewish movements in the Second Temple period and the influence these movements had on Rabbinic Judaism and early Christianity. "
+    },
+    "HIUS 106A": {
+        "prerequisites": [],
+        "name": "American Foreign Relations, to 1900",
+        "description": "This course examines the history of the Native Americans in the United States with emphasis on the lifeways, mores, warfare, cultural adaptation, and relations with the European colonial powers and the emerging United States until 1870.\u00a0+"
+    },
+    "HIUS 106B": {
+        "prerequisites": [],
+        "name": "\t\t  American Foreign Relations, since 1900",
+        "description": "This course examines the history of the Native Americans in the United States with emphasis on the lifeways, mores, warfare, cultural adaptation, and relations with the United States from 1870 to the present."
+    },
+    "HIUS 106S": {
+        "prerequisites": [],
+        "name": "Apocalyptic Judaism",
+        "description": "A lecture course that explores the evolution of the interaction between the United States and the world from the American Revolution to the First World War, with particular emphasis upon the role of diplomacy, war, and economic change. "
+    },
+    "HIUS 108A/ETHN\n\t\t  112A": {
+        "prerequisites": [],
+        "name": "History of Native Americans in the United States I",
+        "description": "A lecture course that explores the evolution of the interaction between the United States and the world from 1914 to the present, with special attention to the era of the Great Depression, the Cold War, Vietnam, and the post 9/11 war on terror."
+    },
+    "HIUS 108B/ETHN\n\t\t  112B": {
+        "prerequisites": [],
+        "name": "History of Native Americans in the United States II",
+        "description": "The course addresses the causes, course, and consequences of the US Civil War. We will explore such themes as how Unionists and Confederates mobilized their populations and dealt with dissension, the war\u2019s effects on gender and race relations, and the transformation of the federal government."
+    },
+    "HIUS 110": {
+        "prerequisites": [],
+        "name": "America and the World: Revolution to World War I",
+        "description": "This course explores the history of the largest minority population in the United States, focusing on the legacies of the Mexican War, the history of Mexican immigration and US-Mexican relations, and the struggle for citizenship and civil rights."
+    },
+    "HIUS 111": {
+        "prerequisites": [],
+        "name": "America and the World: World War I to the Present",
+        "description": "This course surveys the history of California from the period just before Spanish contact in 1542 through California\u2019s admission to the Union in 1850. +"
+    },
+    "HIUS 112": {
+        "prerequisites": [],
+        "name": "The US Civil War",
+        "description": " This course surveys the history of California from 1850 to the present.\n                "
+    },
+    "HIUS 113/ETHN 154": {
+        "prerequisites": [],
+        "name": "History of Mexican America",
+        "description": "Constructions of sex and sexuality in the United States from the time of precontact Native America to the present, focusing on sexual behaviors, sexual ideologies, and the uses of sexuality for social control. "
+    },
+    "HIUS 114A": {
+        "prerequisites": [],
+        "name": "California History 1542\u20131850",
+        "description": "This course examines the history of Los Angeles from the early nineteenth century to the present. Particular issues to be addressed include urbanization, ethnicity, politics, technological change, and cultural diversification. "
+    },
+    "HIUS 114B": {
+        "prerequisites": [],
+        "name": "California History, 1850\u2013Present",
+        "description": "This course explores the history of Jews in America from the colonial period to the present, focusing on both the development of Jewish communities primarily as a result of immigration and evolving relations between Jews and the larger American society."
+    },
+    "HIUS 115": {
+        "prerequisites": [],
+        "name": "History of Sexuality in the United States",
+        "description": "Topics will include Quaker origins of the American peace movements and examples of opposition to wars in the twentieth century from World Wars I and II, Vietnam, antinuclear movements, and intervention in Central America to Iraq."
+    },
+    "HIUS 117": {
+        "prerequisites": [],
+        "name": "History of Los Angeles",
+        "description": "(Cross-listed with ETHN 120D.) This course examines the history of racial and ethnic communities in San Diego. Drawing from historical research and interdisciplinary scholarship, we will explore how race impacted the history and development of San Diego and how \u201cordinary\u201d folk made sense of their racial identity and experiences. Toward these ends, students will conduct oral history and community-based research, develop public and digital humanities skills, and preserve a collection of oral histories for future scholarship. Concurrent enrollment in an Academic Internship Program course strongly recommended. Students may not receive credit for HIUS 120D and ETHN 120D. "
+    },
+    "HIUS 118": {
+        "prerequisites": [],
+        "name": "How Jews Became American",
+        "description": "A lecture-discussion course utilizing written texts and films to explore major themes in American politics and culture from the Great Depression through the 1990s. Topics will include the wars of America, McCarthyism, the counterculture of the 1960s, and the transformation of race and gender relations."
+    },
+    "HIUS 120": {
+        "prerequisites": [],
+        "name": "Peace Movements in America",
+        "description": "New York City breathes history. Whether it is in the music,\n                  the literature, or the architecture, the city informs our most\n                  basic conceptions of American identity. This course examines\n                  the evolution of Gotham from the colonial era to today."
+    },
+    "HIUS 120D": {
+        "prerequisites": [],
+        "name": "Race and Oral History in San Diego",
+        "description": "Explore how Asian Americans were involved in the political, economic, and cultural formation of United States society. Topics include migration; labor systems; gender, sexuality and social organization; racial ideologies and anti-Asian movements; and nationalism and debates over citizenship. "
+    },
+    "HIUS 122": {
+        "prerequisites": [],
+        "name": "History and Hollywood: America and the Movies since the Great Depression",
+        "description": "History of Asian American activism from the late-nineteenth century to the present, with an emphasis on interethnic, interracial, and transnational solidarity practices. Topics include struggles for civil rights and labor rights; immigration reform; antiwar and anticolonial movements; hate crimes; and police brutality. Students may receive credit for one of the following: HIUS 125, HIUS 125GS, or ETHN 163J."
+    },
+    "HIUS 123/USP 167": {
+        "prerequisites": [],
+        "name": "History of New York City",
+        "description": "History of Asian American activism from the late-nineteenth century to the present, with an emphasis on interethnic, interracial, and transnational solidarity practices. Topics include struggles for civil rights and labor rights; immigration reform; antiwar and anticolonial movements; hate crimes; and police brutality. Students must apply and be accepted into the Global Seminars Program. Students may receive credit for one of the following: HIUS 125GS, HIUS 125, or ETHN 163J."
+    },
+    "HIUS 124/ETHN 125": {
+        "prerequisites": [],
+        "name": "Asian American History",
+        "description": "Examines key periods, events, and processes throughout the twentieth century that shaped the way Americans thought about race. Also examines the historical development of the category of race and racism, as well as how it is lived in everyday life."
+    },
+    "HIUS 125/ETHN 163J": {
+        "prerequisites": [],
+        "name": "Asian American Social Movements",
+        "description": "This course sketches the shifting experience persons of African descent have had with the law in the United States. Films, cases, articles, and book excerpts are used to convey the complex nature of this four-hundred-year journey."
+    },
+    "HIUS 125GS": {
+        "prerequisites": [],
+        "name": "Asian American Social Movements",
+        "description": "This class examines the history of racial and ethnic groups in American cities. It looks at major forces of change such as immigration to cities, political empowerment, and social movements, as well as urban policies such as housing segregation."
+    },
+    "HIUS 126": {
+        "prerequisites": [],
+        "name": "The History of Race in the United States",
+        "description": "This course will explore connections between American culture and the transformations of class relations, gender ideology, and political thought. Topics will include the transformations of religious perspectives and practices, republican art and architecture, artisan and working-class culture, the changing place of art and artists in American society, antebellum reform movements, antislavery and proslavery thought.\u00a0+ "
+    },
+    "HIUS 128": {
+        "prerequisites": [],
+        "name": "African American Legal History",
+        "description": "This course will focus on the transformation of work and leisure and the development of consumer culture. Students consider connections among culture, class, racial and gender ideologies, and politics. Topics include labor management and radicalism, organized sports, museums, commercial entertainment, world fairs, reactionary movements, and imperialism. "
+    },
+    "HIUS 129/USP 106": {
+        "prerequisites": [],
+        "name": "The History of Race and Ethnicity in American Cities",
+        "description": "This course will focus on the transformation of work and leisure and development of consumer culture. Students will consider connections between culture, class relations, gender ideology, and politics. Topics will include labor radicalism, Taylorism, the development of organized sports, the rise of department stores, and the transformation of middle-class sexual culture of the Cold War. "
+    },
+    "HIUS 130": {
+        "prerequisites": [],
+        "name": "Cultural\n\t\t  History from 1607 to 1865",
+        "description": "This course considers how cultural processes have shaped histories of the Civil War and Reconstruction. Students will analyze the relationship between popular culture and major themes of the era through the use of literature, texts, film, television, and print images. Students who took HIUS 132 cannot repeat this course. "
+    },
+    "HIUS 131": {
+        "prerequisites": [],
+        "name": "Cultural\n\t\t  History from 1865 to 1917",
+        "description": "This interdisciplinary lecture course focuses on the history and literature of global piracy in the English-speaking world from Sir Francis Drake to Blackbeard and how this Golden Age was remembered in the popular fiction of the nineteenth and twentieth centuries.\u00a0Students may not receive credit for HIUS 133 and HIUS 133GS.\u00a0+"
+    },
+    "HIUS 131D": {
+        "prerequisites": [],
+        "name": "Cultural History from the Civil War to the Present",
+        "description": "This interdisciplinary lecture course focuses on the history and literature of global piracy in the English-speaking world from Sir Francis Drake to Blackbeard and how this Golden Age was remembered in the popular fiction of the nineteenth and twentieth centuries. Program or materials fees may apply. Students must apply and be accepted into the Global Seminars Program. Students may not receive credit for HIUS 133 and HIUS 133GS."
+    },
+    "HIUS 132S": {
+        "prerequisites": [],
+        "name": "The Civil War and Reconstruction in Popular Culture",
+        "description": "Explore the politics of black culture in the postwar period. Topics include the dynamic interplay of social factors (migration, civil rights, black power, deindustrialization, globalization) and the production of African American culture, including music, film, and literature."
+    },
+    "HIUS 133": {
+        "prerequisites": [],
+        "name": "The Golden Age of Piracy",
+        "description": "This course focuses on the role the Atlantic played in bringing together in both volatile and beneficial ways the remarkably different cultures of four continents from the Columbian Exchange to the Haitian Revolution. Students may not receive credit for HIUS 135 and 135A or 135B.\u00a0+"
+    },
+    "HIUS 133GS": {
+        "prerequisites": [],
+        "name": "The Golden Age of Piracy",
+        "description": "This course traces the history of the institution of US citizenship in the last century, tracing changing notions of racial, cultural, and gender differences, the evolution of the civil rights struggle, and changes in laws governing citizenship and access to rights."
+    },
+    "HIUS 134": {
+        "prerequisites": [],
+        "name": "From\n\t\t  Bebop to Hip-Hop: African American Cultural History since 1945",
+        "description": "This course examines the critical role mining played in the economic, political, and social history of the United States since the late 1800s. Topics discussed in the course will include labor movements, engineering, science and industry, foreign policy, and natural resource dependence."
+    },
+    "HIUS 135": {
+        "prerequisites": [],
+        "name": "The Atlantic World, 1492\u20131803",
+        "description": "This course examines the transformation of African America across the expanse of the long twentieth century: imperialism, migration, urbanization, desegregation, and deindustrialization. Special emphasis will be placed on issues of culture, international relations, and urban politics. "
+    },
+    "HIUS 136/ETHN 153": {
+        "prerequisites": [],
+        "name": "Citizenship and Civil Rights in the Twentieth Century",
+        "description": "The United States as a raw materials producer, as an agrarian society, and as an industrial nation. Emphasis on the logic of the growth process, the social and political tensions accompanying expansion, and nineteenth- and early twentieth-century transformations of American capitalism. "
+    },
+    "HIUS 137": {
+        "prerequisites": [],
+        "name": "Mining and American History",
+        "description": "The United States as modern industrial nation. Emphasis on the logic of the growth process, the social and political tensions accompanying expansion, and twentieth-century transformations of American capitalism. "
+    },
+    "HIUS 139/ETHN 149": {
+        "prerequisites": [],
+        "name": "African American History in the Twentieth Century",
+        "description": "Examines the political, economic, and social history of the American people from the turn of the twentieth century to the end of World War II. Topics: progressive movement, impact of the Great Depression, and the consequences of two world wars."
+    },
+    "HIUS 140/ECON 158": {
+        "prerequisites": [],
+        "name": "Economic History of the United States I",
+        "description": "Examines the political, economic and social history of the American people from the end of World War II to present. Topics: origins of the Cold War, struggle for racial justice and the rise of American conservatism since the 1980s. "
+    },
+    "HIUS 141/ECON 159": {
+        "prerequisites": [],
+        "name": "Economic History of the United States II",
+        "description": "An examination of urban and regional planning as well as piecemeal change in the built environment. Topics include urban and suburban housing, work environments, public spaces, transportation and utility infrastructures, utopianism."
+    },
+    "HIUS 142A": {
+        "prerequisites": [],
+        "name": "\t\t  United States in the Twentieth Century, 1900\u20131945",
+        "description": "An examination of urban and regional planning as well as piecemeal change in the built environment. Topics include urban and suburban housing, work environments, public spaces, transportation and utility infrastructures, and utopianism. Program or materials fees may apply. Students must apply and be accepted into the Global Seminars Program. Students may not receive credit for HIUS 143 and HIUS 143GS."
+    },
+    "HIUS 142B": {
+        "prerequisites": [],
+        "name": "\t\t  United States in the Twentieth Century, 1945 to the Present",
+        "description": "Selected topics in US history. Course may be taken for credit up to three times as topics vary.\u00a0"
+    },
+    "HIUS 143": {
+        "prerequisites": [],
+        "name": "The Built Environment in the Twentieth Century",
+        "description": "This course will examine the economic, social, and political changes underway in the United States from 1917 to 1945. Topics will include the 1920s, the Great Depression, the New Deal and the consequences of two World Wars.\u00a0"
+    },
+    "HIUS 143GS": {
+        "prerequisites": [],
+        "name": "The Built Environment in the Twentieth Century",
+        "description": "Examining the history of urban riots in the United States since the late nineteenth century. Exploring how different groups of Americans have constructed competing notions of race, gender, labor, and national belonging by participating in street violence.\n\t\t\t    "
+    },
+    "HIUS 144": {
+        "prerequisites": [],
+        "name": "Topics in US History",
+        "description": "This course focuses on the phenomenon of modern American urbanization. Case studies of individual cities will help illustrate the social, political, and environmental consequences of rapid urban expansion, as well as the ways in which urban problems have been dealt with historically. "
+    },
+    "HIUS 145": {
+        "prerequisites": [],
+        "name": "From New Era to New Deal",
+        "description": "An overview of the social and political developments that polarized American society in the tumultuous decade of the 1960s. Themes include the social impact of the postwar baby boom, the domestic and foreign policy implications of the Cold War; the evolution of the civil rights and women\u2019s movements; and the transformation of American popular culture. "
+    },
+    "HIUS 146": {
+        "prerequisites": [],
+        "name": "Race, Riots, and Violence in the U.S.",
+        "description": "The history of American law and legal institutions. This quarter focuses on crime and punishment in the colonial era, the emergence of theories of popular sovereignty, the forging of the Constitution and American federalism, the relationship between law and economic change, and the crisis of slavery and Union.\u00a0+ "
+    },
+    "HIUS 148/USP\n\t\t  103": {
+        "prerequisites": [],
+        "name": "The American City in the Twentieth Century",
+        "description": "The history of American law and legal institutions. This course examines race relations and law, the rise of big business, the origins of the modern welfare state during the Great Depression, the crisis of civil liberties produced by two world wars and McCarthyism, and the Constitutional revolution wrought by the Warren Court. HIUS 150 is not a prerequisite for HIUS 151."
+    },
+    "HIUS 149": {
+        "prerequisites": [],
+        "name": "The United States in the 1960s",
+        "description": "The historical development of constitutional thought and practice in the United States from the era of the American Revolution through the Civil War, with special attention to the role of the Supreme Court under Chief Justices Marshall and Taney."
+    },
+    "HIUS 150": {
+        "prerequisites": [],
+        "name": "American Legal History to 1865",
+        "description": "The historical development of constitutional\n\t\t\t\t  thought and practice in the United States since 1865, with special attention\n\t\t\t    to the role of the Supreme Court from Chief Justices Chase to Rehnquist.\u00a0+ "
+    },
+    "HIUS 151": {
+        "prerequisites": [],
+        "name": "American Legal History since 1865",
+        "description": "Survey of politicized criminal trials and\n\t\t\t\t  impeachments from Colonial times to the 1880s. Examines politically motivated\n\t\t\t\t  prosecutions and trials that became subjects of political controversy,\n\t\t\t\t  were exploited by defendants for political purposes, or had\n\t\t\t\t  their outcomes determined by political considerations.\u00a0+ "
+    },
+    "HIUS 152A": {
+        "prerequisites": [],
+        "name": "A Constitutional History of the United States to 1865",
+        "description": "Tracing popular cultural production and consumption in the United States since World War II. It historicizes popular culture as an arena where social relations are negotiated and where race, class, and gender identities are constructed, transformed, and contested."
+    },
+    "HIUS 152B": {
+        "prerequisites": [],
+        "name": "A Constitutional History of the United States since 1865",
+        "description": "Selected problems in the history of the relationship between religious beliefs and practice and legal institutions in the Anglo American world. Topics include the English background, religion in the age of the American Revolution and the antebellum period.\u00a0+ "
+    },
+    "HIUS 153": {
+        "prerequisites": [],
+        "name": "American Political Trials",
+        "description": "Selected problems in the history of the relationship between religious beliefs and practice and legal institutions in America from the Civil War to the present. Topics include the religion and government aid; sacred duties and the law; and religion and cultural politics."
+    },
+    "HIUS 155": {
+        "prerequisites": [],
+        "name": "From\n\t\t  Zoot Suits to Hip-Hop: Race and Popular Culture since World War II",
+        "description": "This course explores the emergence of a dominant ideology of womanhood in America in the early nineteenth century and contrasts the ideal with the historically diverse experience of women of different races and classes, from settlement to 1870. Topics include witchcraft, evangelicalism, cult of domesticity, sexuality, rise of industrial capitalism and the transformation of women\u2019s work, the Civil War, and the first feminist movement.\u00a0+ "
+    },
+    "HIUS 155A": {
+        "prerequisites": [],
+        "name": "Religion and Law in American History: Foundations to the Civil War",
+        "description": "This course explores the emergence of a dominant ideology of womanhood in America in the early nineteenth century and contrasts the ideal with the historically diverse experience of women of different races and classes, from settlement to 1870. Topics include witchcraft, evangelicalism, cult of domesticity, sexuality, rise of industrial capitalism and the transformation of women\u2019s work, the Civil War, and the first feminist movement."
+    },
+    "HIUS 155B": {
+        "prerequisites": [],
+        "name": "\t\t  Religion and Law in American History: Civil War to the Present",
+        "description": "This course explores the making of the ideology of womanhood in modern America and the diversity of American women\u2019s experience from 1870 to the present. Topics include the suffrage movement, the struggle for reproductive rights and the ERA; immigrant and working-class women, women\u2019s work, and labor organization; education, the modern feminist movement and the contemporary politics of reproduction, including abortion and surrogate motherhood.\u00a0 "
+    },
+    "HIUS 156": {
+        "prerequisites": [],
+        "name": "American\n\t\t  Women, American Womanhood",
+        "description": "This course examines the history of the Spanish and Mexican borderlands (what became the US Southwest) from roughly 1400 to the end of the U.S.-Mexico War in 1848, focusing specifically on the area\u2019s social, cultural, and political development.\u00a0+ "
+    },
+    "HIUS 156D": {
+        "prerequisites": [],
+        "name": "American Women, American Womanhood",
+        "description": "Cross-listed as Ethnic Studies 131. This\n\t\t\t\t  course examines the history of the American Southwest from\n\t\t\t\t  the U.S.-Mexican War in 1846\u201348 to the present, focusing on\n\t\t\t\t  immigration, racial and ethnic conflict, and the growth of Chicano national\n\t\t\t\t  identity. "
     },
     "HIUS 157": {
         "prerequisites": [],
@@ -349,6 +1849,11 @@
         "name": "Race and Sexual Politics",
         "description": "A colloquium dealing with special topics in US history from 1900 to the present. Themes will vary from year to year. "
     },
+    "HIUS 178/278": {
+        "prerequisites": [],
+        "name": "The Atlantic World, 1400\u20131800",
+        "description": "Cultural and political construction of the American nation. Topics include how citizenship and national community were imagined and contested; importance of class, gender, and race in the nation\u2019s public sphere; debates over slavery, expansion, and democracy in defining national purpose. Requirements will vary for undergraduates, MA, and PhD students. Graduate students are required to submit a more substantial paper. "
+    },
     "HIUS 180/280/ETHN\n\t\t  134": {
         "prerequisites": [],
         "name": "Immigration and Ethnicity in Modern American Society",
@@ -369,14 +1874,29 @@
         "name": "Topics in African American History",
         "description": "Colloquium on select topics in culture and politics in the United States. Topics will vary from quarter to quarter. Graduate students will be required to submit an additional piece of work. "
     },
+    "HIUS 185/285": {
+        "prerequisites": [],
+        "name": "In the Public Interest",
+        "description": "Directed group study on United States history under the supervision of a member of the faculty on a topic not generally included in the regular curriculum. Students must make arrangements with individual faculty members."
+    },
     "HIUS 186": {
         "prerequisites": [],
         "name": "Topics in US Economic History",
         "description": "Directed readings for undergraduates under the supervision of various faculty members. "
     },
+    "HIUS 188/288": {
+        "prerequisites": [],
+        "name": "Topics in Culture and Politics",
+        "description": "This course examines the legal and cultural constructions of \u201cfreedom\u201d in American history, with a focus on its inherent limitations and exclusions. We will examine how marginalized groups have engaged in political struggles in pursuit of more expansive notions of freedom."
+    },
     "HIUS 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
         "description": "This seminar examines race and war in US history, with an emphasis on their intersections and co-constitutions. Topics include frontier wars and \u201cmanifest destiny\u201d; border enforcement; antiradicalism; the war on drugs and mass incarceration; and the war on terror. May be coscheduled with HIUS 174. "
+    },
+    "HIUS 199": {
+        "prerequisites": [],
+        "name": "Independent\n\t\t  Study in United States History",
+        "description": "This course introduces students to the field of Asian American history, with an emphasis on historiographical shifts and debates. It includes a wide range of topics and methodologies that cross disciplinary boundaries."
     }
 }

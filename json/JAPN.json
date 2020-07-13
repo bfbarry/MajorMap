@@ -1,4 +1,9 @@
 {
+    "JAPN 190": {
+        "prerequisites": [],
+        "name": "Selected Topics in Contemporary Japanese Studies",
+        "description": "This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over seventy-five characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture."
+    },
     "JAPN 10A": {
         "prerequisites": [],
         "name": "First-Year Japanese",

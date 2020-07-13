@@ -84,6 +84,11 @@
         "name": "Experiences in Oceanic and Atmospheric Sciences",
         "description": "Oceanic and atmospheric sciences are introduced through a series of modules where students learn basic principles in the classroom and then have hands-on experiences demonstrating these principles. The course will include trips to the beach, the Ellen Browning Scripps Memorial Pier, and laboratories at Scripps Institution of Oceanography. "
     },
+    "SIO 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide the new students with the opportunity to explore and intellectual topic with a faculty member in a small setting. Topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. (P/NP grades only). "
+    },
     "SIO 90": {
         "prerequisites": [],
         "name": "Undergraduate Seminar",
@@ -164,6 +169,16 @@
         ],
         "name": "Introduction to Paleoclimatology",
         "description": "An introduction to basic principles and applications of paleoclimatology, the study of climate and climate changes that occurred prior to the period of instrumental records. A review of processes and archives of climate data will be investigated using examples from Earth history. "
+    },
+    "SIO 109": {
+        "prerequisites": [],
+        "name": "Bending the Curve: Climate Change Solutions",
+        "description": "(Cross-listed with POLI 117). This course will focus on scalable solutions for carbon neutrality and climate stability. The course adopts climate change mitigation policies, technologies, governance, and actions that California, the UC system, and cities around the world have adopted as living laboratories and challenges students to identify locally and globally scalable solutions. Students may only receive credit for one of the following: POLI 117, POLI 117R, SIO 109, or SIO 109R."
+    },
+    "SIO 109R": {
+        "prerequisites": [],
+        "name": "Bending the Curve Online: Climate Change Solutions",
+        "description": "(Cross-listed with POLI 117R). This online course focuses on developing urgent climate change solutions that integrate technology, policy and governance, finance, land-use, and social/educational dimensions. Students may only receive credit for one of the following: POLI 117, POLI 117R, SIO 109, or SIO 109R."
     },
     "SIO 110": {
         "prerequisites": [],
@@ -455,6 +470,11 @@
         "name": "Structural Geology",
         "description": "Principles of stratigraphy and structural geology applicable to field geologic studies. Discussion and laboratory exercises. Two to three field trips required. Program and/or materials fees may apply. "
     },
+    "SIO 164": {
+        "prerequisites": [],
+        "name": "Underwater Archaeology: From Atlantis to Science",
+        "description": "Underwater archaeology provides access to ancient environmental and cultural data concerning human adaptation to climate and environmental change. Provides an overview of methods, theories, and practice of marine archaeology including\u2014environmental characteristics of coastal and underwater settings; the nature of ports, navigation, maritime culture, submerged landscapes, shipbuilding; methods of research in underwater settings; and legislative issues regarding underwater and coastal heritage. Students may not receive credit for both ANAR 164 and SIO 164."
+    },
     "SIO 166": {
         "prerequisites": [],
         "name": "Introduction to Environmental Archaeology\u2014Theory and Method of Socioecodynamics and Human Paleoecology",
@@ -647,6 +667,11 @@
         "name": "Pollution, Environment and Health",
         "description": "A seminar course designed to treat emerging or topical subjects in the earth, ocean, or atmospheric sciences. Involves lectures, reading from the literature, and student participation in discussion. Topics vary from year to year. May be taken for credit two times. Enrollment by consent of instructor. "
     },
+    "SIO 190": {
+        "prerequisites": [],
+        "name": "Special Topics in Earth, Oceans, and Atmosphere",
+        "description": "The Senior Seminar Program is designed to allow Scripps Institution of Oceanography senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in Scripps Oceanography (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+    },
     "SIO 192": {
         "prerequisites": [],
         "name": "Senior Seminar\n\t\t\t\t in Scripps Institution of Oceanography",
@@ -678,6 +703,11 @@
         "prerequisites": [],
         "name": "Birch Aquarium Internship",
         "description": "This course covers a variety of directed group studies in areas not covered by formal Scripps Oceanography courses. (P/NP grades only.) "
+    },
+    "SIO 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Independent reading or research on a problem. By special arrangement with a faculty member. (P/NP grades only.)\n"
     },
     "SIO 199": {
         "prerequisites": [],

@@ -1,4 +1,59 @@
 {
+    "ANTH 1": {
+        "prerequisites": [],
+        "name": "Introduction to Culture",
+        "description": "An introduction to the anthropological approach to understanding human behavior, with an examination of data from a selection of societies and cultures.  "
+    },
+    "ANTH 2": {
+        "prerequisites": [],
+        "name": "Human Origins",
+        "description": "An introduction to human evolution from the perspective of physical anthropology, including evolutionary theory and the evolution of the primates, hominids, and modern humans. Emphasis is placed on evidence from fossil remains and behavioral studies of living primates. "
+    },
+    "ANTH 3": {
+        "prerequisites": [],
+        "name": "Global Archaeology ",
+        "description": "This course examines theories and methods used by archaeologists to investigate the origins and nature of human culture and its materiality. Case studies from the past and present, and digital heritage are explored. Recommended for many upper-division archaeology courses."
+    },
+    "ANTH 4": {
+        "prerequisites": [],
+        "name": "Words and Worlds: Introduction to the Anthropology of Language",
+        "description": "How does one\u2019s language mutually interact with the social, cultural, and conceptual worlds one inhabits and mutually constructs with others? This course will introduce the comparative study of social life through the lens of the uniquely human capacity for language."
+    },
+    "ANTH 5": {
+        "prerequisites": [],
+        "name": "The Human Machine: The Skeleton Within ",
+        "description": "Course will provide an introduction to bones as a tissue, to different bones in the body, and the ligaments and muscles surrounding major joints. You will learn how the skeleton, ligaments, and muscles support our mode of locomotion; the differences between male and female skeletons; and the differences across human populations. You\u2019ll see how nutrition and disease can affect bones. Course examines functional areas within the body."
+    },
+    "ANTH 21": {
+        "prerequisites": [],
+        "name": "Race and Racisms",
+        "description": "Why does racism still matter? How is racism experienced in the United States and across the globe? With insights from the biology of human variation, archaeology, colonial history, and sociocultural anthropology, we examine how notions of race and ethnicity structure contemporary societies. "
+    },
+    "ANTH 23": {
+        "prerequisites": [],
+        "name": "Debating Multiculturalism: Race, Ethnicity, and Class in American Societies",
+        "description": "This course focuses on the debate about multiculturalism in American society. It examines the interaction of race, ethnicity, and class, historically and comparatively, and considers the problem of citizenship in relation to the growing polarization of multiple social identities. "
+    },
+    "ANTH 42": {
+        "prerequisites": [],
+        "name": "Primates in a Human-Dominated World ",
+        "description": "Major primate field studies will be studied to illustrate common features of primate behavior and behavioral diversity. Topics will include communication, female hierarchies, protocultural behavior, social learning and tool use, play, cognition, and self-awareness."
+    },
+    "ANTH 43": {
+        "prerequisites": [],
+        "name": "Introduction to Biology and Culture of Race",
+        "description": "This course examines conceptions of race from evolutionary and sociocultural perspectives. We will critically examine how patterns of current human genetic variation map onto conceptions of race. We will also focus on the history of the race concept and explore ways in which biomedical researchers and physicians use racial categories today. Finally, we will examine the social construction of race, and the experiences and consequences of racism on health in the  United States and internationally."
+    },
+    "ANTH 44": {
+        "prerequisites": [],
+        "name": "Gender, Sexuality, and New Media Fandom in the Korean Wave",
+        "description": "This course examines new media fandoms through the representation and reception of gender and sexuality in Korean media consumed around the world by highlighting how Korean images are differently interpreted by other national groups. Contrasting various understandings of masculinity, homosexuality, and transgenderism, we explore how the meanings attached to gender and sexuality are not fixed by the productive frame of Korean society, but cocreated and reimagined by international audiences. "
+    },
+    "ANTH 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges. Topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
     "ANTH 101": {
         "prerequisites": [],
         "name": "Foundations of Social Complexity",
@@ -466,6 +521,26 @@
         "prerequisites": [],
         "name": "Paleofantasy: The Evidence for Our Early Ancestors",
         "description": "(Cross-listed with GLBH 105.) Why is there variation of health outcomes across the world? We will discuss health and illness in context of culture and address concerns in cross-national health variations by comparing healthcare systems in developed, underdeveloped, and developing countries. In addition, we\u2019ll study the role of socioeconomic and political change in determining health outcomes and examine social health determinants in contemporary global health problems: multidrug resistance to antibiotics, gender violence, human trafficking, etc. Students may receive credit for one of the following: ANSC 105GS, ANSC 105S, ANSC 105, or GLBH 105. "
+    },
+    "ANSC 100": {
+        "prerequisites": [],
+        "name": "Special Topics in Sociocultural Anthropology",
+        "description": "Why is there variation of health outcomes across the world? We will discuss health and illness in context of culture and address concerns in cross-national health variations by comparing health-care systems in developed, underdeveloped, and developing countries. In addition, we\u2019ll study the role of socioeconomic and political change in determining health outcomes, and examine social health determinants in contemporary global health problems\u2014multidrug resistance to antibiotics, gender violence, human trafficking, etc. Students may receive credit for one of the following: ANSC 105GS, ANSC 105S, ANSC 105, or GLBH 105. Program or materials fees may apply. Students must apply at http://globalseminars.ucsd.edu."
+    },
+    "ANSC 101": {
+        "prerequisites": [],
+        "name": "Aging: Culture and Health in Late Life Human Development",
+        "description": "Why is there variation of health outcomes across the world? We will discuss health and illness in context of culture and address concerns in cross-national health variations by comparing healthcare systems in developed, underdeveloped, and developing countries. In addition, we\u2019ll study the role of socioeconomic and political change in determining health outcomes, and examine social health determinants in contemporary global health problems: multidrug resistance to antibiotics, gender violence, and human trafficking, etc. Students must apply to the Study Abroad Program online at http://anthro.ucsd.edu. Program or materials fees may apply. Students may receive credit for one of the following: ANSC 105GS, ANSC 105S, ANSC 105, or GLBH 105."
+    },
+    "ANSC 104": {
+        "prerequisites": [],
+        "name": "The US-Mexico Border",
+        "description": "Drawing on medical anthropology ethnography, students will explore a variety of forms of healing among rural and urban indigenous communities. A particular focus on intercultural health will allow the students to analyze contemporary medical landscapes where patients encounter indigenous and Western medicine. Students will learn about the complexities of urban and rural indigenous healing settings and their sociopolitical significance in contexts of state biomedical interventions. Students may not receive credit for ANSC 106 and ANSC 106S. Freshmen and sophomores cannot enroll without consent of the instructor."
+    },
+    "ANSC 105": {
+        "prerequisites": [],
+        "name": "Global Health and Inequality",
+        "description": "Drawing on medical anthropology ethnography, students will explore a variety of forms of healing among rural and urban indigenous communities. A particular focus on intercultural health will allow the students to analyze contemporary medical landscapes where patients encounter indigenous and Western medicine. Students will learn about the complexities of urban and rural indigenous healing settings and their sociopolitical significance in contexts of state biomedical interventions. Students may not receive credit for ANSC 106 and ANSC 106S.  Students must apply to the Study Abroad UC San Diego program online at http://anthro.ucsd.edu."
     },
     "ANSC 105GS": {
         "prerequisites": [],

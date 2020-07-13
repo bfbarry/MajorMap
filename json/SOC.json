@@ -1,4 +1,54 @@
 {
+    "SOCI 1": {
+        "prerequisites": [],
+        "name": "Introduction to Sociology ",
+        "description": "An introduction to the organizing themes and ideas, empirical concerns, and analytical approaches of the discipline of sociology. The course focuses on both classical and contemporary views of modern society, on the nature of community, and on inequality, with special attention to class, race, and gender. Materials include both theoretical statements and case studies. Will not receive credit for SOCI 1 and SOCL 1A. "
+    },
+    "SOCI 2": {
+        "prerequisites": [],
+        "name": "The Study of Society",
+        "description": "A continuation of Sociology/L 1A. The focus here is on socialization processes, culture, social reproduction and social control, and collective action. As in 1A, materials include both theoretical statements and case studies. While 1B may be taken as an independent course, it is recommended that students take 1A and 1B in sequence, as the latter builds on the former. Will not receive credit for SOCI 2 and SOCL 1B."
+    },
+    "SOCI 10": {
+        "prerequisites": [],
+        "name": "American Society: Social Structure and Culture in the\n\t\t\t\t    U.S.",
+        "description": "An introduction to American society in historical, comparative,\n                  and contemporary perspectives. Topics will include American\n                  cultural traditions; industrialization; class structure; the\n                  welfare state; ethnic, racial, and gender relations; the changing\n                  position of religion; social movements; and political trends.\n                  Will not receive credit for SOCI 10 and SOCL 10. "
+    },
+    "SOCI 20": {
+        "prerequisites": [],
+        "name": "Social Change in the Modern World",
+        "description": "A survey of the major economic, political, and social forces that have shaped the contemporary world. The course will provide an introduction to theories of social change, as well as prepare the student for upper-division work in comparative-historical sociology. Will not receive credit for SOCI 20 and SOCL 20. "
+    },
+    "SOCI 30": {
+        "prerequisites": [],
+        "name": "Science, Technology, and Society",
+        "description": "A series of case studies of the relations between society and modern science, technology, and medicine. Global warming, reproductive medicine, AIDS, and other topical cases prompt students to view science-society interactions as problematic and complex. Will not receive credit for SOCI 30 and SOCL 30. "
+    },
+    "SOCI 40": {
+        "prerequisites": [],
+        "name": "Sociology of Health-Care Issues",
+        "description": "Designed as a broad introduction to medicine as a social institution and its relationship to other institutions as well as its relation to society. It will make use of both micro and macro sociological work in this area and introduce students to sociological perspectives of contemporary health-care issues. Will not receive credit for SOCI 40 and SOCL 40. "
+    },
+    "SOCI 50": {
+        "prerequisites": [],
+        "name": "Introduction to Law and Society",
+        "description": "Interrelationships between law and society, in the U.S. and other parts of the world. We examine law\u2019s norms, customs, culture, and institutions, and explain the proliferation of lawyers in the U.S. and the expansion of legal \u201crights\u201d worldwide. Will not receive credit for SOCI 50 and SOCL 50. "
+    },
+    "SOCI 60": {
+        "prerequisites": [],
+        "name": "The Practice of Social Research",
+        "description": "This course introduces students to the fundamental principles of the design of social research. It examines the key varieties of evidence, sampling methods, logic of comparison, and causal reasoning researchers use in their study of social issues. Will not receive credit for SOCI 60 and SOCL 60. "
+    },
+    "SOCI 70": {
+        "prerequisites": [],
+        "name": "General Sociology for Premedical Students",
+        "description": "This introductory course is specifically designed for premedical students and will provide them with a broad introduction to sociological concepts and research, particularly as applied to medicine."
+    },
+    "SOCI 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminar topics will vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
     "SOCI 98": {
         "prerequisites": [],
         "name": "Directed Group Study",
@@ -169,6 +219,11 @@
         "name": "Immigration, Race, and Ethnicity",
         "description": "Examination of the role that race and ethnicity play in immigrant group integration. Topics include theories of integration, racial and ethnic identity formation, racial and ethnic change, immigration policy, public opinion, comparisons between contemporary and historical waves of immigration. "
     },
+    "SOCI 128": {
+        "prerequisites": [],
+        "name": "Religion and Popular Culture in East Asia",
+        "description": "(Same as HIEA 119.) Historical, social, and cultural relationships between religion and popular culture. Secularization of culture through images, worldviews, and concepts of right and wrong which may either derive from, or pose challenges to, the major East Asian religions."
+    },
     "SOCI 129": {
         "prerequisites": [],
         "name": "The Family",
@@ -298,6 +353,11 @@
         "prerequisites": [],
         "name": "Political Sociology",
         "description": "Course focuses on the interaction between state and society. It discusses central concepts of political sociology (social cleavages, mobilization, the state, legitimacy), institutional characteristics, causes, and consequences of contemporary political regimes (liberal democracies, authoritarianism, communism), and processes of political change. Students cannot receive credit in this course if they have already taken SOCI 148. "
+    },
+    "SOCI 149": {
+        "prerequisites": [],
+        "name": "Sociology of the Environment",
+        "description": "The environment as a socially and technically shaped milieu in which competing values and interests play out. Relation of humanity to nature, conflicts between preservation and development, environmental pollution and contested illnesses. Will not receive credit for SOCI 149 and SOCC 149. "
     },
     "SOCI 150": {
         "prerequisites": [],

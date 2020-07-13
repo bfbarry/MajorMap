@@ -1,4 +1,19 @@
 {
+    "DOC 1": {
+        "prerequisites": [],
+        "name": "Dimensions of Culture: Diversity",
+        "description": "This course focuses on sociocultural diversity in examining class, ethnicity, race, gender, and sexuality as significant markers of differences among persons. Emphasizing American society, it explores the cultural understandings of diversity and its economic, moral, and political consequences. Three hours of lecture, one hour of discussion. Open to Marshall College students only. (Letter grade only.) (F) "
+    },
+    "DOC 2": {
+        "prerequisites": [],
+        "name": "Dimensions of Culture: Justice",
+        "description": "This course considers the nature of justice in philosophical, historical, and legal terms. Topics include racial justice, political representation, economic justice, gender and justice, the rights of cultural minorities, and crime and punishment. The course offers intensive instruction in writing university-level expository prose. Three hours of lecture, two hours of discussion and writing instruction. Open to Marshall College students only. (Letter grade only.) Prerequisite: completion of UC Entry Level Writing requirement. (W) "
+    },
+    "DOC 3": {
+        "prerequisites": [],
+        "name": "Dimensions of Culture: Imagination",
+        "description": "Using the arts, this course examines the evolution of pluralistic culture to the modern period. There is a special emphasis on the interdisciplinary study of twentieth-century American culture, including music, literature, art, film, and photography. The course offers intensive instruction in writing university-level expository prose. Three hours of lecture, two hours of discussion and writing instruction. Open to Marshall College students only. (Letter grade only.) Prerequisite: completion of UC Entry Level Writing requirement. (S)"
+    },
     "DOC 100D": {
         "prerequisites": [],
         "name": "Dimensions of Culture: Promises and Contradictions in US Culture",

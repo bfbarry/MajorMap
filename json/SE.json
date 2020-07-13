@@ -1,4 +1,9 @@
 {
+    "SE 1": {
+        "prerequisites": [],
+        "name": "Introduction to Structures and Design",
+        "description": "Introduction to fundamentals of structures and how structures work. Overview of structural behavior and structural design process through hands-on projects. Lessons learned from structural failures. Professional ethics. Role and responsibility of structural engineers. Introduction to four structural engineering focus sequences. Program or materials fees may apply. Priority enrollment given to structural engineering majors."
+    },
     "SE 2": {
         "prerequisites": [
             "CHEM 6A",
@@ -47,6 +52,11 @@
         "prerequisites": [],
         "name": "Independent Study",
         "description": "Independent study or research under direction of a faculty member. "
+    },
+    "SE 101A": {
+        "prerequisites": [],
+        "name": "Mechanics I: Statics",
+        "description": "\u00a0"
     },
     "SE 101B": {
         "prerequisites": [

@@ -1,4 +1,14 @@
 {
+    "COMM 10": {
+        "prerequisites": [],
+        "name": "Introduction to Communication",
+        "description": "Introduction to the history, theory, and practice of communication, including language and literacy, representation and semiotics, mediated technologies and institutional formations, and social interaction. Integrates the study of communication with a range of media production (for example, writing, electronic media, film, performance). COMM 10 may be taken concurrently with the COMM A-B-C courses and intermediate electives. Course is offered fall, winter, and summer quarters."
+    },
+    "COMM 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen."
+    },
     "COMM 100A": {
         "prerequisites": [
             "COMM 10"

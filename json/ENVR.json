@@ -4,6 +4,11 @@
         "name": "Environmental Issues: Natural Sciences",
         "description": "Examines global and regional environmental issues. The approach is to consider the scientific basis for policy options. Simple principles of chemistry and biology are introduced. The scope of problems includes: air and water pollution, climate modification, solid waste disposal, hazardous waste treatment, and environmental impact assessment. "
     },
+    "ENVR 87": {
+        "prerequisites": [],
+        "name": "Environmental Studies Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
     "ENVR 102": {
         "prerequisites": [],
         "name": "Selected Topics in Environmental Studies",
@@ -28,6 +33,11 @@
         "prerequisites": [],
         "name": "Wilderness and Human Values",
         "description": "\u201cWilderness\u201d plays a central role in the consciousness of\n  American environmentalists and serves as focal point for public\n  policies, recreation, and political activism. This course explores\n  its evolving historical, philosophical, ecological, and aesthetic\n  meanings and includes guest speakers and a field component. "
+    },
+    "ENVR 141": {
+        "prerequisites": [],
+        "name": "Wilderness and Human Values Workshop",
+        "description": "Instructor will define assistant\u2019s responsibilities in preparing class presentations, leading students\u2019 discussions, and evaluating students\u2019 work. May be taken two times for credit."
     },
     "ENVR 195": {
         "prerequisites": [],

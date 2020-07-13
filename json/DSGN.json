@@ -1,4 +1,14 @@
 {
+    "DSGN 1": {
+        "prerequisites": [],
+        "name": "Design of Everyday Things",
+        "description": "A project-based course examining how principles from cognitive science apply to the design of things simple (doors) and complex (new technology). Learn about affordances, constraints, mappings, and conceptual models. Learn observational and design skills. Become a human-centered design thinker. "
+    },
+    "DSGN 90": {
+        "prerequisites": [],
+        "name": "Undergraduate Seminar",
+        "description": "Special topics in design are discussed. P/NP grades only. May be taken for credit four times when topics vary."
+    },
     "DSGN 99": {
         "prerequisites": [],
         "name": "Independent Study",

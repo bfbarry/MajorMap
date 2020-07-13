@@ -49,6 +49,11 @@
         "name": "Information Technologies in Art History",
         "description": "This seminar introduces fundamentals of art historical practice such as descriptive and analytical writing, compiling annotated bibliographies with traditional and online resources, defining research topics, and writing project proposals. "
     },
+    "VIS 30": {
+        "prerequisites": [],
+        "name": "Introduction to Speculative Design",
+        "description": "Note: Prerequisite for VIS 112 and highly recommended for all other seminars. Must be taken within a year of declaring major or transferring into the art history program. "
+    },
     "VIS 41": {
         "prerequisites": [],
         "name": "Design Communication",
@@ -1034,5 +1039,10 @@
         "prerequisites": [],
         "name": "Directed Group Study",
         "description": "Independent reading, research, or creative work under direction of a faculty member. "
+    },
+    "VIS 199": {
+        "prerequisites": [],
+        "name": "Special Studies in the Visual Arts",
+        "description": "An exploration of a range of issues important on the contemporary critical scene through readings and writing assignments. Topics will vary from year to year. (Required, MFA) "
     }
 }

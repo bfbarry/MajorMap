@@ -14,6 +14,11 @@
         "name": "The Linguistics of Invented Languages",
         "description": "Introduction to the study of language through the investigation of invented languages, whether conscious (Elvish, Klingon, Esperanto) or unconscious (creoles, twin/sibling languages). Students will participate in the invention of a language fragment. Topics discussed include language structure, history, culture, and writing systems. "
     },
+    "LIGN 6": {
+        "prerequisites": [],
+        "name": "Computers and Language",
+        "description": "Computers and \u201cvirtual assistants\u201d are increasingly expected to understand, process, and interact with us using natural human language. This course will focus on the difficult computational and linguistic problems that working with natural language presents; and learn to implement some of the basic computational techniques used to model, process, and produce human language in Python."
+    },
     "LIGN 7": {
         "prerequisites": [],
         "name": "Sign Language and Their Cultures",
@@ -33,6 +38,11 @@
         "prerequisites": [],
         "name": "Making and Breaking Codes",
         "description": "A rigorous analysis of symbolic systems and their interpretations. Students will learn to encode and decode information using progressively more sophisticated methods; topics covered include ancient and modern phonetic writing systems, hieroglyphics, computer languages, and ciphers (secret codes). "
+    },
+    "LIGN 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen.\t\t"
     },
     "LIGN 101": {
         "prerequisites": [],
@@ -129,6 +139,11 @@
         "name": "Historical Linguistics",
         "description": "Language is constantly changing. This course\n\t\t\t\t investigates the nature of language change, how to determine\n\t\t\t\t a language\u2019s\n\t\t\t\t history, its relationship to other languages, and the search\n\t\t\t\t for common ancestors or \u201cprotolanguage.\u201d "
     },
+    "LIGN 152": {
+        "prerequisites": [],
+        "name": "Indigenous Languages of the Americas",
+        "description": "This course is an introduction to the study of the indigenous languages of the Americas. Its goals are to offer orientation in a broad field and to prepare students for possible future research. Topics covered include grammatical structures, genetic classification, characteristics of major language families, and factors affecting language use and mother tongue transmission of these languages in contemporary societies. Recommended preparation: LIGN 101. "
+    },
     "LIGN 154": {
         "prerequisites": [],
         "name": "Language and Consciousness",
@@ -163,6 +178,11 @@
         "prerequisites": [],
         "name": "Child Language Acquisition",
         "description": "A central cognitive, developmental mystery is how children learn their first language. Overview of research in the learning of sound systems, word forms and word meanings, and word combinations. Exploration of the relation between cognitive and language development. "
+    },
+    "LIGN 174": {
+        "prerequisites": [],
+        "name": "Gender and Language in Society",
+        "description": "(Same as SOCI 116.) This course examines how language contributes to the social construction of gender identities, and how gender impacts language use and ideologies. Topics include the ways language and gender interact across the life span, within ethnolinguistic minority communities in the United States, across sexual orientations and cultures. Recommended preparation: LIGN\n\t\t\t\t 101, or upper-division standing, or consent of instructor.  "
     },
     "LIGN 175": {
         "prerequisites": [],
@@ -374,6 +394,11 @@
         "name": "",
         "description": "This course concentrates on those language skills essential for communication: listening comprehension, conversation, reading, writing, and grammar analysis. UC San Diego students: LIFR 5A is equivalent to LIFR 1A/1AX, LIFR 5B to LIFR 1B/1BX, LIFR 5C to LIFR 1C/1CX, and LIFR 5D to LIFR 1D/1DX. Enrollment is limited. "
     },
+    "Linguistics/French (LIFR) 5B, 5C, 5D": {
+        "prerequisites": [],
+        "name": "",
+        "description": "A self-instructional program designed to prepare graduate students to meet reading requirements in French. After a one-week introduction to French orthography/ sound correspondence, students work with a self-instructional textbook. Midterm and final examinations. (F,W,S) "
+    },
     "Linguistics/French (LIFR) 11": {
         "prerequisites": [],
         "name": "",
@@ -413,6 +438,11 @@
         "prerequisites": [],
         "name": "",
         "description": "Practice of the grammatical functions indispensable for comprehensible communication in the language. The course is taught entirely in German. Must be taken in conjunction with LIGM 1D. Successful completion of LIGM 1D and LIGM 1DX satisfies the requirement for language proficiency in Eleanor Roosevelt and Revelle Colleges. "
+    },
+    "Linguistics/German (LIGM) 1DX": {
+        "prerequisites": [],
+        "name": "",
+        "description": "A self-instructional program designed to prepare graduate students to meet reading requirements in German. After a one-week introduction to German orthography/sound correspondences, students work with a self-instructional textbook. Midterm and final examinations. (F,W,S) "
     },
     "Linguistics/German (LIGM) 11": {
         "prerequisites": [],
@@ -823,5 +853,10 @@
         "prerequisites": [],
         "name": "",
         "description": "An intermediate-level course on Spanish as used in the health sciences, especially in clinical and field settings. Attention to listening, speaking, relevant vocabulary, cultural knowledge, reading, and writing. May be taken for credit up to two times. "
+    },
+    "Linguistics/Spanish (LISP) 18": {
+        "prerequisites": [],
+        "name": "",
+        "description": "Introductory-level study of a language in the language laboratory on a self-instructional basis. Depending on the availability of appropriate study materials, the course may be taken in blocks of two or four units of credit and may be repeated up to the total number of units available for that language. "
     }
 }

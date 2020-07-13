@@ -4,6 +4,16 @@
         "name": "Introduction to Environmental Systems",
         "description": "This course explores the interdisciplinary\n\t\t\t\t  character of environmental issues through an examination of\n\t\t\t\t  a particular topic (climate change, for example) from numerous disciplinary\n\t\t\t\t  perspectives (e.g., biology, chemistry, physics, political science, and\n\t\t\t\t  economics). "
     },
+    "ESYS 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate college, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students with preference given to entering freshmen. "
+    },
+    "ESYS 90": {
+        "prerequisites": [],
+        "name": "Perspectives on Environmental Issues",
+        "description": "Provides an introduction to environmental systems. Faculty members from departments in the natural sciences, geosciences, and social sciences will offer perspectives in these areas. (F) "
+    },
     "ESYS 101": {
         "prerequisites": [],
         "name": "Environmental Biology",
@@ -36,5 +46,10 @@
         ],
         "name": "Environmental Systems Senior Seminar",
         "description": "The seminar provides a venue for the development, presentation, and evaluation of the Environmental Systems Integrative Project. The seminar will include work on research methods as well as paper presentation skills. "
+    },
+    "ESYS 199": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "Individually guided readings or projects in the area of environmental systems. "
     }
 }

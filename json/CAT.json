@@ -39,10 +39,20 @@
         "name": "Sixth College Practicum",
         "description": "Students initiate, plan, and carry out community-based and/or research-based projects that connect classroom-based experiences and knowledge to the outlying community, and that explicitly explore the interplay of culture, art, and technology. "
     },
+    "CAT 125": {
+        "prerequisites": [],
+        "name": "Public Rhetoric and Practical Communication",
+        "description": ""
+    },
     "CAT 192": {
         "prerequisites": [],
         "name": "Senior Seminar in Culture, Art, and Technology",
         "description": "Upper-division composition course in public rhetoric and practical communication, including oral presentation, writing in print formats, and digital content creation. This course also focuses on how writing can support and extend experiential learning before, during or after students do their practicum project. "
+    },
+    "CAT 195": {
+        "prerequisites": [],
+        "name": "Apprentice Teaching",
+        "description": ""
     },
     "CAT 197": {
         "prerequisites": [],

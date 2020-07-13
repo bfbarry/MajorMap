@@ -280,5 +280,10 @@
         "prerequisites": [],
         "name": "Directed\n\t\t\t    Group Study in Chinese Studies",
         "description": "This course introduces the primary sources\n\t\t\t\t  used by historians of the late Imperial and twentieth-century\n\t\t\t\t  Chinese history. Reading material includes diaries, newspaper articles,\n\t\t\t\t  Qing documents, gazetteers, essays, speeches, popular fiction, journal\n\t\t\t\t  articles, scholarly prose, and field surveys. May be repeated for credit.\n\t\t\t\t  (P/NP grades only) "
+    },
+    "CHIN 199": {
+        "prerequisites": [],
+        "name": "Independent Study in Chinese Studies",
+        "description": "(Cross-listed with MED 269.) This introductory\n\t\t\t\t  course is designed to develop a working knowledge of medical\n\t\t\t\t  Mandarin that will enable the student to communicate with Mandarin-speaking\n\t\t\t\t  patients. There will be instruction in basic medical vocabulary and grammar,\n\t\t\t\t  with a focus on taking a medical history. This is only a conversational\n\t\t\t\t  course and no previous knowledge of Mandarin is required. (S/U only.) "
     }
 }

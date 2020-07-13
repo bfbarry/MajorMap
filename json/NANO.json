@@ -1,8 +1,23 @@
 {
+    "NANO 1": {
+        "prerequisites": [],
+        "name": "NanoEngineering Seminar",
+        "description": "Overview of NanoEngineering. Presentations and discussions of basic knowledge and career opportunities in nanotechnology for professional development. Introduction to campus library resources. P/NP grades only."
+    },
     "NANO 4": {
         "prerequisites": [],
         "name": "Experience\u00a0NanoEngineering",
         "description": "Introduction to NanoEngineering lab-based skills. Hands-on training and experimentation with nanofabrication techniques, integration, and analytical tools. This class is for NANO majors who are incoming freshmen, to be taken their first year.\u00a0This class is for NanoEngineering majors who are incoming freshmen, to be taken their first year. P/NP grades only. "
+    },
+    "NANO 15": {
+        "prerequisites": [],
+        "name": "Engineering Computation Using Matlab",
+        "description": "Introduction to the solution of engineering problems using computational methods. Formulating problem statements, selecting algorithms, writing computer programs, and analyzing output using Matlab. Computational problems from NanoEngineering, chemical engineering, and materials science are introduced. The course requires no prior programming skills. Cross-listed with CENG 15."
+    },
+    "NANO 15R": {
+        "prerequisites": [],
+        "name": "Engineering Computation Using Matlab Online",
+        "description": "Introduction to solution of engineering problems using computational methods. Formulating problem statements, selecting algorithms, writing computer programs, and analyzing output using Matlab. Computational problems from NanoEngineering, chemical engineering, and materials science are introduced. This is a fully online, self-paced course that utilizes multi-platform instructional techniques (video, text, and instructional coding environments). The course requires no prior programming skills. Students may not receive credit for both CENG 15 and NANO 15. Cross-listed with CENG 15R. Students may only receive credit for one of the following: NANO 15R, NANO 15, CENG 15R, or CENG 15."
     },
     "NANO 100L": {
         "prerequisites": [
@@ -285,6 +300,21 @@
         "name": "Mass Transfer",
         "description": "Independent reading or research on a problem\n\t\t\t\t by special arrangement with a faculty member. P/NP grades only. "
     },
+    "CENG 102": {
+        "prerequisites": [],
+        "name": "Chemical Engineering Thermodynamics",
+        "description": "Each graduate student in chemical engineering is expected\n\t\t\t\t to attend one seminar per quarter, of his or her choice, dealing with current\n\t\t\t  topics in chemical engineering. Topics will vary. P/NP grades only. May be taken for credit four times."
+    },
+    "CENG 113": {
+        "prerequisites": [],
+        "name": "Chemical Reaction Engineering",
+        "description": "Introduction to nanomedicine; diffusion and\n\t\t\t\t drug dispersion; diffusion in biological systems; drug permeation\n\t\t\t\t through biological barriers; drug transport by fluid motion;\n\t\t\t\t pharmacokinetics of drug distribution; drug delivery systems;\n\t\t\t\t nanomedicine in practice: cancers, cardiovascular diseases,\n\t\t\t\t immune diseases, and skin diseases. Cross-listed with NANO 243. Students may not receive credit for both CENG 207 and NANO 243."
+    },
+    "CENG 114": {
+        "prerequisites": [],
+        "name": "Probability and Statistical Methods for Engineers",
+        "description": "Basic engineering principles of nanofabrication.\n\t\t\t\t Topics include photo, electron beam, and nanoimprint lithography, block\n\t\t\t\t copolymers and self-assembled monolayers, colloidal assembly, biological\n\t\t\t\t nanofabrication. Cross-listed with NANO 208. Students may not receive credit for both CENG 208 and NANO 208."
+    },
     "CENG\n\t\t 120": {
         "prerequisites": [
             "MAE 101A-B",
@@ -294,10 +324,30 @@
         "name": "Chemical Process Dynamics and Control",
         "description": "Basic conservation laws, flow kinematics. The Navier-Stokes equations and some of its exact solutions, nondimensional parameters and different flow regimes, vorticity dynamics. Cross-listed with MAE 210A. "
     },
+    "CENG 122": {
+        "prerequisites": [],
+        "name": "Separation Processes",
+        "description": "Understanding nanotechnology,\n         broad implications; miniaturization: scaling laws; nanoscale\n         physics; types and properties of nanomaterials; nanomechanical\n         oscillators, nano(bio)electronics, nanoscale heat transfer;\n         fluids at nanoscale; machinery cell; applications of nanobiotechnology\n         and nanobiotechnology. Cross-listed with NANO 201. Students may not receive credit for both CENG 211 and NANO 201."
+    },
+    "CENG 124A": {
+        "prerequisites": [],
+        "name": "Chemical Plant and Process Design I",
+        "description": "Development of quantitative understanding of the different\n         intermolecular forces between atoms and molecules and how these\n         forces give rise to interesting phenomena at the nanoscale,\n         such as flocculation, wetting, and self-assembly in biological\n         (natural) and synthetic systems.\u00a0Cross-listed with NANO 202. Students may not receive credit for both CENG 212 and NANO 202."
+    },
+    "CENG\n\t\t 124B": {
+        "prerequisites": [],
+        "name": "Chemical Plant and Process Design II",
+        "description": "Examination of nanoscale\n          synthesis\u2014top-down and bottom-up; physical deposition; chemical\n          vapor deposition; plasma processes; sol-gel processing; soft-lithography;\n          self-assembly and layer-by-layer; molecular synthesis.\u00a0Nanoscale\n          characterization; microscopy (optical and electron: SEM,\n          TEM); scanning probe microscopes (SEM, AFM); profilometry;\n          reflectometry, and ellipsometry; X-ray diffraction; spectroscopies\n          (EDX, SIMS, Mass spec, Raman, XPS); particle size analysis;\n         electrical, optical, magnetic, mechanical, thermal. Cross-listed with NANO 203. Students may not receive credit for both CENG 213 and NANO 203. "
+    },
     "CENG 134": {
         "prerequisites": [],
         "name": "Polymeric Materials",
         "description": "Expanded mathematical analysis of topics introduced in CENG\n         212. Introduction of both analytical and numerical methods\n         through application to problems in NanoEngineering. Nanoscale\n         systems of interest include colloidal systems, block-copolymer\n         based self-assembled materials, molecular motors made out of\n         DNA, RNA, or proteins, etc. Nanoscale phenomena including self-assembly\n         at the nanoscale, phase separation within confined spaces,\n         diffusion through nanopores and nanoslits, etc. Modeling techniques\n         include quantum mechanics, diffusion and kinetics theories,\n         molecular dynamics, etc. Cross-listed with NANO 204. Students may not receive credit for both CENG 214 and NANO 204. "
+    },
+    "CENG 157": {
+        "prerequisites": [],
+        "name": "Process Technology in the Semiconductor Industry",
+        "description": "Discussion of scaling issues\n          and how to carry out the effective hierarchical assembly\n          of diverse molecular and nanoscale components into higher\n          order structures that retain the desired electronic/photonic,\n         structural, mechanical, or catalytic properties at the microscale\n         and macroscale levels. Novel ways to combine the best aspects\n         of both top-down and bottom-up processes to create a totally\n         unique paradigm change for the integration of heterogeneous\n         molecules and nanocomponents into higher order structures. Cross-listed with NANO 205. Students may not receive credit for both CENG 215 and NANO 205.\u00a0"
     },
     "CENG\n\t\t 176A": {
         "prerequisites": [
@@ -312,5 +362,10 @@
         ],
         "name": "Chemical Engineering Process Laboratory II",
         "description": "Fundamentals of diffusive and convective mass transfer and mass transfer with chemical reaction. Development of mass conservation equations. Analytical and numerical solutions to mass transport problems. Specific topics and applications will vary.  Cross-listed with MAE 221B. "
+    },
+    "CENG\n\t\t 199": {
+        "prerequisites": [],
+        "name": "Independent Study for Undergraduates",
+        "description": "Advanced topics in characterizing nanomaterials using synchrotron X-ray sources. Introduction to synchrotron sources, X-ray interaction with matter, spectroscopic determination of electronic properties of nanomagnetic, structural determination using scattering techniques and X-ray imaging techniques.  Cross-listed with NANO 230. Students may not receive credit for both CENG 230 and NANO 230."
     }
 }

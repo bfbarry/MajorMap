@@ -24,6 +24,21 @@
         "name": "Success and Satisfaction in the Second Year of Higher Education: Research Trends and Conclusions",
         "description": "Course focuses on challenges that confront college students in their second year of higher education and solutions. Emphasis on historically underrepresented students of color with more complex adjustment to college. Analysis of national trends from research including High Impact Practices. "
     },
+    "EDS 25": {
+        "prerequisites": [],
+        "name": "American Higher Education and the Collegiate Experience",
+        "description": "This course is designed to help students think critically about multicultural issues in higher education, as well as the purpose of higher education within the larger context of society. Topics include American higher education history, organization, policy, curricula, and access."
+    },
+    "EDS 30/MATH 5": {
+        "prerequisites": [],
+        "name": "Introduction to Math Teaching",
+        "description": "Revisit students\u2019 learning difficulties in mathematics in more depth to prepare students to make meaningful observations of how K\u201312 teachers deal with these difficulties. Explore how instruction can use students\u2019 knowledge to pose problems that stimulate students\u2019 intellectual curiosity. "
+    },
+    "EDS 31/CHEM 96": {
+        "prerequisites": [],
+        "name": "\t\t  Introduction to Teaching Science",
+        "description": "Explores routine challenges and exceptional difficulties students often have in learning science. Prepares students to make meaningful observations of how K\u201312 teachers deal with difficulties. Explores strategies that teachers may use to pose problems that stimulate students\u2019 intellectual curiosity. "
+    },
     "EDS 38": {
         "prerequisites": [],
         "name": "Explorations in Education",
@@ -129,6 +144,11 @@
         "name": "Language, Culture, and Education",
         "description": "The mutual influence of language, culture, and education will be explored; explanations of students\u2019 school successes and failures that employ linguistic and cultural variables will be considered; bilingualism and cultural transmission through education. This course is offered in Quito, Ecuador. It will integrate field experiences gained through organized class excursions and individual experiences of students. Program or materials fees may apply. Students may not receive credit for EDS 117GS and EDS 117 and SOCI 117. "
     },
+    "EDS 118": {
+        "prerequisites": [],
+        "name": "Adolescent Development and Education",
+        "description": "This course introduces prospective secondary teachers to the cognitive, social, and emotional development of adolescents, including developmental learning theory, the teaching/learning process, effective learning environments, and cross-cultural variation in development. Implications for classroom practice are drawn. "
+    },
     "EDS/LIGN 119": {
         "prerequisites": [],
         "name": "First and Second Language Learning: From Childhood through Adolescence",
@@ -215,6 +235,11 @@
         "prerequisites": [],
         "name": "Teaching Computational Thinking for Everyone",
         "description": "Examine issues in computing education (e.g., access and equity). Conceptual and skill development with core programming concepts (flow of control, abstraction, algorithms) using a novice programming framework. Computer science teaching and assessment methods for deep understanding. "
+    },
+    "EDS 125": {
+        "prerequisites": [],
+        "name": "History, Politics, and Theory of Bilingual Education",
+        "description": "This course provides a historical overview and models of bilingual education in the United States. Students will examine socio-cultural, theoretical, and policy issues associated with native language and second-language instruction, and legal requirements for public bilingual program. "
     },
     "EDS 126": {
         "prerequisites": [],

@@ -1,4 +1,19 @@
 {
+    "LATI 10": {
+        "prerequisites": [],
+        "name": "Reading North by South: Latin American Studies and the US Liberation Movements",
+        "description": "The purpose of this class is to study the multilayered relations between Latin American studies and the US liberation movements, particularly Third World movements, the Chicano movement, the black liberation movement, the indigenous movement, human rights activism, and trans-border activism. Students may not receive credit for LATI 100 and LATI 10."
+    },
+    "LATI 50": {
+        "prerequisites": [],
+        "name": "Introduction to Latin America",
+        "description": "Interdisciplinary overview of society and culture in Latin America\u2014including Mexico, the Caribbean, and South America: legacies of conquest, patterns of economic development, changing roles of women, expressions of popular culture, cycles of political change, and US-Latin American relations. "
+    },
+    "LATI 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
     "LATI 122A": {
         "prerequisites": [],
         "name": "Field Research Methods for Migration Studies: Seminar",

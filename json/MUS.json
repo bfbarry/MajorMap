@@ -156,10 +156,75 @@
         "name": "Introduction to Composition III",
         "description": "Third part of course sequence for students pursuing a composition emphasis. Course continues the development of skills in instrumentation and analysis. It includes a survey of advanced techniques in contemporary composition, with additional focus on notation, part-preparation, and the art of writing for small groups of instruments. "
     },
+    "MUS 43": {
+        "prerequisites": [],
+        "name": "Department Seminar",
+        "description": "The department seminar serves both as a general department meeting and as a forum for the presentation of research and performances by visitors, faculty, and students. Required of all undergraduate music and music humanities majors every quarter a student is a declared music major. Four units or four quarters of enrollment are required of all undergraduate ICAM music majors who choose the MUS 43. Department Seminar option for their Visitor Series requirement. P/NP grades only. May be taken for credit up to twelve times."
+    },
+    "MUS 80": {
+        "prerequisites": [],
+        "name": "Special Topics in Music",
+        "description": "This course presents selected topics in music and consists of lecture and listening sessions. No prior technical knowledge is necessary. The course will be offered during  summer session. "
+    },
+    "MUS 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
     "MUS 95": {
         "prerequisites": [],
         "name": "Ensemble Performance",
         "description": "Performance in an ensemble appropriate to student abilities and interests. Normally each section requires student participation for the whole academic year, with credit for participation each quarter. Sections of MUS 95W have included: African drumming, Korean percussion, Indian sitar and tabla, koto, and Indonesian flute. Not all sections will be offered every year. May be repeated for credit. Grading on participation level, individual testing, comparative papers on repertoire covered, etc. "
+    },
+    "MUS 101A": {
+        "prerequisites": [],
+        "name": "Music Theory and Practice I",
+        "description": "Note: Students in the MUS 95 series courses may enroll with a letter grade option a total of twelve units for registered music majors and a total of six units for all other students; after which students may continue to enroll in MUS 95 courses, but only with a P/NP grade option. There is one exception to the above grading policy. MUS 95G, Gospel Choir, can only be taken for a P/NP grading option."
+    },
+    "MUS 101B": {
+        "prerequisites": [],
+        "name": "Music Theory and Practice II",
+        "description": "Section B. Instrument Choir"
+    },
+    "MUS 101C": {
+        "prerequisites": [],
+        "name": "Music Theory and Practice III",
+        "description": "Section C. Concert Choir"
+    },
+    "MUS 102": {
+        "prerequisites": [],
+        "name": "Topics in Music Theory",
+        "description": "Section D. Symphonic Chorus"
+    },
+    "MUS 103A": {
+        "prerequisites": [],
+        "name": "Seminar in Composition I",
+        "description": "Section E. Chamber Orchestra"
+    },
+    "MUS 103B": {
+        "prerequisites": [],
+        "name": "Seminar in Composition II",
+        "description": "Section G. Gospel Choir"
+    },
+    "MUS 103C": {
+        "prerequisites": [],
+        "name": "Seminar in Composition III",
+        "description": "Section JC. Jazz Chamber Ensembles"
+    },
+    "MUS 103D-E-F": {
+        "prerequisites": [],
+        "name": "Honors Seminar in Composition",
+        "description": "Section K. Chamber Singers "
+    },
+    "MUS 105": {
+        "prerequisites": [],
+        "name": "Jazz Composition",
+        "description": "Section L. Wind Ensemble "
+    },
+    "MUS 106": {
+        "prerequisites": [],
+        "name": "Topics in Musical Analysis",
+        "description": "Section W. World Music Ensembles  "
     },
     "MUS 107": {
         "prerequisites": [
@@ -402,6 +467,11 @@
         ],
         "name": "Computer Music II",
         "description": "Advanced individual projects for senior music majors pursuing honors in jazz and music of the African diaspora. Projects will be critically reviewed in seminar with fellow students and jazz faculty. Third course of a yearlong sequence; continuation of 137E. "
+    },
+    "MUS 173": {
+        "prerequisites": [],
+        "name": "Electronic Music Production and Composition ",
+        "description": "The department seminar serves both as a general department meeting and as a forum for the presentation of research and performances by visitors, faculty, and students. Required of all undergraduate music majors every quarter. "
     },
     "MUS 174A": {
         "prerequisites": [

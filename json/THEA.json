@@ -1,4 +1,9 @@
 {
+    "TDAC 1": {
+        "prerequisites": [],
+        "name": "Introduction to Acting",
+        "description": "The subject codes are"
+    },
     "TDAC 101": {
         "prerequisites": [],
         "name": "Acting I",
@@ -89,6 +94,11 @@
         "name": "Introduction to Design for the Theatre",
         "description": "Participation in a fully staged season production that is directed by a faculty member or guest for the Department of Theatre and Dance. Admission by audition only. A maximum of four units may be used for major credit. "
     },
+    "TDDE 101": {
+        "prerequisites": [],
+        "name": "Theatre Process\u2014Scenery",
+        "description": "A survey of contemporary and historical concepts and practices in the visual arts of the theatre; studies in text analysis, studio processes and technical production; elementary work in design criticism, scale model making, and costume design. A course serving as an introduction to theatre design and production. "
+    },
     "TDDE 102": {
         "prerequisites": [],
         "name": "Advanced Scenic Design",
@@ -160,6 +170,11 @@
         "prerequisites": [],
         "name": "Stage Management",
         "description": "For the advanced design/production student.\n\t\t\t\t  Concentration on a particularly challenging design or theatre production\n\t\t\t\t  assignment, including such areas as assistant designer (scenery, lighting,\n\t\t\t\t  or costumes), technical director, master cutter, or master electrician.\n\t\t\t\t  May be repeated one time for credit. A maximum of eight units of major\n\t\t\t\t  project study, regardless of area (design, directing, or stage management)\n\t\t\t\t  may be used to fulfill major requirements. May be taken for credit two times. "
+    },
+    "TDDR 108": {
+        "prerequisites": [],
+        "name": "Text Analysis for Actors and Directors",
+        "description": "Discussion and research into the duties, responsibilities, and roles of a stage manager. Work to include studies in script analysis, communication, rehearsal procedures, performance skills, and style and conceptual approach to theatre. THGE or TDGE 1, THAC or TDAC 1, and THDE or TDDE 1 recommended. "
     },
     "TDDR 111": {
         "prerequisites": [],

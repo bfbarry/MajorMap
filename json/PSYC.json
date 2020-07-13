@@ -1,4 +1,34 @@
 {
+    "PSYC 1": {
+        "prerequisites": [],
+        "name": "Psychology",
+        "description": "This course provides an overview of the basic concepts in psychology. Topics may include human information processing, learning and memory, motivation, development, language acquisition, social psychology, and personality. "
+    },
+    "PSYC 2": {
+        "prerequisites": [],
+        "name": "General Psychology: Biological Foundations",
+        "description": "This course provides an introduction to the basic concepts of cognitive psychology. Topics include perception, attention, memory, language, and thought. The relation of cognitive psychology to cognitive science and to neuropsychology is also covered. "
+    },
+    "PSYC 3": {
+        "prerequisites": [],
+        "name": "General Psychology: Cognitive Foundations",
+        "description": "This course provides an introduction to behavioral psychology. Topics include classical conditioning, operant conditioning, animal learning, and motivation and behavior modification. "
+    },
+    "PSYC 4": {
+        "prerequisites": [],
+        "name": "General Psychology: Behavioral Foundations",
+        "description": "This course provides an introduction to social psychology. Topics may include emotion, aesthetics, behavioral medicine, person perception, attitudes and attitude change, and behavior in social organizations. "
+    },
+    "PSYC 6": {
+        "prerequisites": [],
+        "name": "General Psychology: Social Foundations",
+        "description": "This course provides an introduction to theories and research results in developmental psychology, covering infancy through adulthood. "
+    },
+    "PSYC 7": {
+        "prerequisites": [],
+        "name": "General Psychology: Developmental Foundations",
+        "description": "This course provides an introduction to both descriptive and inferential statistics, core tools in the process of scientific discovery and the interpretation of research. "
+    },
     "PSYC 60": {
         "prerequisites": [
             "PSYC 60"
@@ -20,6 +50,26 @@
         ],
         "name": "Laboratory in Psychological Research Methods",
         "description": "This course provides students the opportunity to learn about the intricate relationship that exists between brain and behavior, as well as the evolutionary forces that shape this interaction. Lectures for this course aim to introduce students to some of the best examples in the literature that highlight these issues, while a parallel component of the course aims to introduce students to performing research on the topic. "
+    },
+    "PSYC 81": {
+        "prerequisites": [],
+        "name": "Laboratory in Brain, Behavior, and Evolution",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen."
+    },
+    "PSYC 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "This course provides an overview of how to practice well-being, with principles based on mindfulness, positive psychology, cognitive therapy, and neuroscience. Each week, there is a short lecture on a given topic, combined with workshop-style exercises. "
+    },
+    "PSYC 88": {
+        "prerequisites": [],
+        "name": "Learning Sustainable Well-being",
+        "description": "This seminar introduces the various subdisciplines in psychology and their research methods, and also explores career and graduate school opportunities. This includes informal presentations by faculty, graduate students, and other professionals. "
+    },
+    "PSYC 90": {
+        "prerequisites": [],
+        "name": "Undergraduate Seminar",
+        "description": "Selected topics in the field of psychology. May be repeated for credit as topics vary. "
     },
     "PSYC 93": {
         "prerequisites": [],
@@ -344,6 +394,11 @@
         "name": "Criminology",
         "description": "This course provides a survey of the major trends and figures in the development of psychology as a field. Topics may include the mind-body problem, nativism vs. empiricism, and the genesis of behaviorism. "
     },
+    "PSYC 166": {
+        "prerequisites": [],
+        "name": "History of Psychology",
+        "description": "This seminar explores how psychologists think about and study the imagination\u2014the capacity to mentally transcend time, place, and circumstance to think about what might have been, plan and anticipate the future, create and become absorbed in fictional worlds, and consider alternatives to actual experiences. You will learn how to evaluate psychological evidence, and how to read, interpret, discuss, present, and write about scientific literature. PC25, PC26, PS28, PC29, PC30, PC31, PC32, PC33, PC34, PC35, HD01, HD02, HD25, HD26, or CG32 major only."
+    },
     "PSYC 167": {
         "prerequisites": [],
         "name": "Science of Imagination",
@@ -516,5 +571,15 @@
         "prerequisites": [],
         "name": "Research Seminar",
         "description": "Independent study or laboratory research under direction of faculty in the Department of Psychology. P/NP grades only. May be taken for credit nine times. "
+    },
+    "PSYC 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study in Psychology",
+        "description": "\u00a0 "
+    },
+    "PSYC 199": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "The first part of a series of intensive courses in statistical methods and the mathematical treatment of data, with special reference to research in psychology."
     }
 }

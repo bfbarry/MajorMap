@@ -1,4 +1,24 @@
 {
+    "CHEM 1": {
+        "prerequisites": [],
+        "name": "The Scope of Chemistry and Biochemistry",
+        "description": "This seminar connects first-year students with the chemistry community (peers, staff, faculty, and other researchers) as they explore learning resources, study strategies, professional development, and current areas of active research. With an emphasis on academic and career planning, the series will feature guest lectures by UC San Diego faculty and staff, as well as industrial scientists and representatives from professional organizations such as the American Chemical Society (ACS). P/NP grades only."
+    },
+    "CHEM 4": {
+        "prerequisites": [],
+        "name": "Basic Chemistry",
+        "description": "Offers less well-prepared science majors the fundamental skills necessary to succeed in CHEM 6. Emphasizes quantitative problems. Topics include nomenclature, stoichiometry, basic reactions, bonding, and the periodic table. May not receive credit for both CHEM 4 and CHEM 11. Includes a laboratory/discussion each week. Recommended: concurrent enrollment in MATH 3C, 4C or 10A or higher. Restricted to freshmen and sophomores.  "
+    },
+    "CHEM 6A": {
+        "prerequisites": [],
+        "name": "General Chemistry I",
+        "description": "First quarter of a three-quarter sequence intended for science and engineering majors. Topics include atomic theory, bonding, molecular geometry, stoichiometry, types of reactions, and thermochemistry. May not be taken for credit after CHEM 6AH. Recommended: proficiency in high school chemistry and/or physics. Corequisite: MATH 10A or 20A or prior enrollment. "
+    },
+    "CHEM 6AH": {
+        "prerequisites": [],
+        "name": "Honors General Chemistry I",
+        "description": "First quarter of a three-quarter honors sequence intended for well-prepared science and engineering majors. Topics include quantum mechanics, molecular orbital theory, and bonding. An understanding of nomenclature, stoichiometry, and other fundamentals is assumed. Students completing 6AH may not subsequently take 6A for credit. Recommended: completion of a high school physics course strongly recommended. Concurrent enrollment in MATH 20A or higher."
+    },
     "CHEM 6B": {
         "prerequisites": [
             "CHEM 6A",
@@ -51,12 +71,22 @@
         "name": "General Chemistry Laboratory for Majors",
         "description": "Condenses a year of introductory training in analytical, inorganic, physical, and synthetic techniques into one intensive quarter. Students may not receive credit for both CHEM 7L and CHEM 7LM. A materials fee is required. A safety exam must be passed. Enrollment preference given to chemistry and biochemistry majors, followed by other science/engineering majors. "
     },
+    "CHEM 11": {
+        "prerequisites": [],
+        "name": "The Periodic Table",
+        "description": "Introduction to the material world of atoms and small inorganic molecules. Intended for nonscience majors. Students may not receive credit for both CHEM 4 and CHEM 11."
+    },
     "CHEM 12": {
         "prerequisites": [
             "CHEM 11"
         ],
         "name": "Molecules and Reactions",
         "description": "Introduction to molecular bonding and structure and chemical reactions, including organic molecules and synthetic polymers. Intended for nonscience majors. Cannot be taken for credit after any organic chemistry course. "
+    },
+    "CHEM 13": {
+        "prerequisites": [],
+        "name": "Chemistry of Life",
+        "description": "Introduction to biochemistry for nonscience majors. Topics include carbohydrates, lipids, amino acids and proteins, with an introduction to metabolic pathways in human physiology.\t\t\t\t"
     },
     "CHEM 40A": {
         "prerequisites": [
@@ -123,6 +153,16 @@
         ],
         "name": "Organic Chemistry Laboratory for Majors",
         "description": "Organic chemistry laboratory for chemistry majors; nonmajors with strong background in CHEM 40A or 140A may also enroll, though preference will be given to majors. Similar to CHEM 43A, but emphasizes instrumental methods of product identification, separation, and analysis. A materials fee is required. Students must pass a safety exam. CHEM 43AM is renumbered from CHEM 143AH. Students may only receive credit for one of the following: CHEM 43AM, 143AM, 43A, or 143A. "
+    },
+    "CHEM 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar in Chemistry and Biochemistry",
+        "description": "This seminar will present topics in chemistry at a level appropriate for first-year students. "
+    },
+    "CHEM 96": {
+        "prerequisites": [],
+        "name": "Introduction to Teaching Science",
+        "description": "(Cross-listed with EDS 31.) Explores routine challenges and exceptional\n\t\t\t\t  difficulties students often have in learning science. Prepares students\n\t\t\t\t  to make meaningful observations of how K\u201312 teachers deal with difficulties. Explores\n\t\t\t\t  strategies that teachers may use to pose problems that stimulate students\u2019\n\t\t\t\t  intellectual curiosity."
     },
     "CHEM 99": {
         "prerequisites": [],
@@ -585,6 +625,11 @@
         "name": "Capstone Seminar in Science Education",
         "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in chemistry or biochemistry. May be taken for credit up to four times, with a change in topic, and permission of the department. P/NP grades only. "
     },
+    "CHEM 192": {
+        "prerequisites": [],
+        "name": "Senior Seminar\n\t\t  in Chemistry and Biochemistry",
+        "description": "Selected topics in the field of chemistry. Course will vary in title and content. Students are expected to actively participate in course discussions, read, and analyze primary literature. Current subtitles will be listed on the Schedule of Classes. May be taken for credit up to four times as topics vary. Students may not receive credit for the same topic."
+    },
     "CHEM 194": {
         "prerequisites": [],
         "name": "Special Topics in Chemistry",
@@ -609,5 +654,10 @@
         "prerequisites": [],
         "name": "Directed Group Study",
         "description": "Independent literature or laboratory research by arrangement with, and under the direction of, a member of the Department of Chemistry and Biochemistry faculty. Students must register on a P/NP basis. "
+    },
+    "CHEM 199": {
+        "prerequisites": [],
+        "name": "Reading and Research",
+        "description": "Fundamental theoretical principles, capabilities, applications, and limitations of modern analytical instrumentation used for qualitative and quantitative analysis. Students will learn how to define the nature of an analytical problem and how to select an appropriate analytical method. Letter grades only. Recommended preparation: background equivalent to CHEM 100A and introductory optics and electricity from physics.  (W)"
     }
 }
