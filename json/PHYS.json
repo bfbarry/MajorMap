@@ -214,7 +214,7 @@
             "and"
         ],
         "name": "Directed Group Study",
-        "description": "This is a basic course in fluid dynamics for advanced students. The course consists of core fundamentals and modules on advanced applications to physical and biological phenomena. Core fundamentals include Euler and Navier-Stokes equations, potential and Stokesian flow, instabilities, boundary layers, turbulence, and shocks. Module topics include MHD, waves, and the physics of locomotion and olfaction. May be coscheduled with PHYS 216. Students with equivalent prerequisite knowledge may use the Enrollment Authorization System (EASy) to request approval to enroll. "
+        "description": "This is a basic course in fluid dynamics for advanced students. The course consists of core fundamentals and modules on advanced applications to physical and biological phenomena. Core fundamentals include Euler and Navier-Stokes equations, potential and Stokesian flow, instabilities, boundary layers, turbulence, and shocks. Module topics include MHD, waves, and the physics of locomotion and olfaction. May be coscheduled with PHYS 216. Students with equivalent prerequisite knowledge may use the Enrollment Authorization System (EASy) to request approval to enroll.  ** Department approval required ** "
     },
     "PHYS 99": {
         "prerequisites": [
@@ -385,6 +385,7 @@
         "prerequisites": [
             "PHYS 120",
             "and",
+            "BILD 1",
             "and",
             "CHEM 7L"
         ],
@@ -432,12 +433,12 @@
     "PHYS 163": {
         "prerequisites": [],
         "name": "Galaxies and Quasars",
-        "description": "Directed group study on a topic or in a field not included in the regular departmental curriculum. (P/NP grades only.) "
+        "description": "Directed group study on a topic or in a field not included in the regular departmental curriculum. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "PHYS 164": {
         "prerequisites": [],
         "name": "Observational Astrophysics Research Lab",
-        "description": "Independent reading or research on a problem by special arrangement with a faculty member. (P/NP grades only.) "
+        "description": "Independent reading or research on a problem by special arrangement with a faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "PHYS 170": {
         "prerequisites": [],

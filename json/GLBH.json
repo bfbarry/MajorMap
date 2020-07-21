@@ -87,14 +87,14 @@
     "GLBH 150A": {
         "prerequisites": [],
         "name": "Global Health Capstone Seminar I",
-        "description": "Course will consist of intensive reading and discussion in fields related to each student\u2019s primary interest and building on their Global Health Field Experience. The course is oriented toward producing a senior thesis that serves as credential for students applying for postgraduate or professional training. "
+        "description": "Course will consist of intensive reading and discussion in fields related to each student\u2019s primary interest and building on their Global Health Field Experience. The course is oriented toward producing a senior thesis that serves as credential for students applying for postgraduate or professional training.  ** Department approval required ** "
     },
     "GLBH 150B": {
         "prerequisites": [
             "GLBH 150A"
         ],
         "name": "Global Health Capstone Seminar II",
-        "description": "Course will be a workshop with critical input from all participants focused on preparing a senior thesis. The course is oriented toward producing a senior thesis that serves as credential for students applying for postgraduate or professional training. "
+        "description": "Course will be a workshop with critical input from all participants focused on preparing a senior thesis. The course is oriented toward producing a senior thesis that serves as credential for students applying for postgraduate or professional training.  ** Department approval required ** "
     },
     "GLBH 160": {
         "prerequisites": [],
@@ -114,21 +114,21 @@
     "GLBH 195": {
         "prerequisites": [],
         "name": "Instructional Apprenticeship in Global Health",
-        "description": "Course gives students experience in teaching global health courses. Students, under direction of instructor, lead discussion sections, attend lectures, review course readings, and meet regularly to prepare course materials and to evaluate examinations and papers. Students will need to apply for the undergraduate instructional apprentice position through ASES, fulfill the Academic Senate regulations, and receive the approval of the department, instructor, department chair, and Academic Senate. May be taken for credit up to two times. Course cannot be used to fulfill requirements for the global health major or minor."
+        "description": "Course gives students experience in teaching global health courses. Students, under direction of instructor, lead discussion sections, attend lectures, review course readings, and meet regularly to prepare course materials and to evaluate examinations and papers. Students will need to apply for the undergraduate instructional apprentice position through ASES, fulfill the Academic Senate regulations, and receive the approval of the department, instructor, department chair, and Academic Senate. May be taken for credit up to two times. Course cannot be used to fulfill requirements for the global health major or minor. ** Department approval required ** "
     },
     "GLBH 197": {
         "prerequisites": [],
         "name": "Global Health Academic Internship Program",
-        "description": "Offers global health students the opportunity to intern and gain credit for their global health field experience requirement. Students will intern and work with a faculty adviser to elaborate on the intellectual analysis and critique of the field experience. Students must complete the AIP application process and have the consent of a faculty adviser. May be taken for credit up to two times. Must be taken for a letter grade to fulfill requirements for the global health major or minor."
+        "description": "Offers global health students the opportunity to intern and gain credit for their global health field experience requirement. Students will intern and work with a faculty adviser to elaborate on the intellectual analysis and critique of the field experience. Students must complete the AIP application process and have the consent of a faculty adviser. May be taken for credit up to two times. Must be taken for a letter grade to fulfill requirements for the global health major or minor. ** Consent of instructor to enroll possible  **"
     },
     " GLBH 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Directed group study for students to delve deeper into global health topics or elaborate the intellectual analysis and critique of their field experience. For students enrolled in the global health major or minor.  May be taken for credit two times. "
+        "description": "Directed group study for students to delve deeper into global health topics or elaborate the intellectual analysis and critique of their field experience. For students enrolled in the global health major or minor.  May be taken for credit two times.  ** Department approval required ** "
     },
     "GLBH 199": {
         "prerequisites": [],
         "name": "Independent Study in Global Health Field Experience",
-        "description": "Independent study opportunity for students to work with global health affiliated faculty on relevant research or to elaborate the intellectual analysis and critique of their global health field experience. For students enrolled in the global health major or minor.  May be taken for credit two times. "
+        "description": "Independent study opportunity for students to work with global health affiliated faculty on relevant research or to elaborate the intellectual analysis and critique of their global health field experience. For students enrolled in the global health major or minor.  May be taken for credit two times.  ** Department approval required ** "
     }
 }

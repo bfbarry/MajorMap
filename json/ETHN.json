@@ -27,17 +27,17 @@
     "ETHN 97": {
         "prerequisites": [],
         "name": "Field Studies\n\t\t  in Racial and Ethnic Communities",
-        "description": "Supervised community fieldwork on topics of importance to racial and ethnic communities in the San Diego County region. Regular individual meetings with faculty sponsor and final project and/or written report are required. "
+        "description": "Supervised community fieldwork on topics of importance to racial and ethnic communities in the San Diego County region. Regular individual meetings with faculty sponsor and final project and/or written report are required.  ** Consent of instructor to enroll possible  **"
     },
     "ETHN 98": {
         "prerequisites": [],
         "name": "Directed Group Studies",
-        "description": "Directed group study on a topic or in a field not included in the regular department curriculum by special arrangement with a faculty member. "
+        "description": "Directed group study on a topic or in a field not included in the regular department curriculum by special arrangement with a faculty member.  ** Consent of instructor to enroll possible  **"
     },
     "ETHN 99": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Directed study on a topic or in a field not included in the regular department curriculum by special arrangement with a faculty member. "
+        "description": "Directed study on a topic or in a field not included in the regular department curriculum by special arrangement with a faculty member.  ** Consent of instructor to enroll possible  **"
     },
     "ETHN 100A": {
         "prerequisites": [
@@ -48,14 +48,14 @@
             "ETHN 3"
         ],
         "name": "Ethnic Studies: Theoretical Approaches",
-        "description": "An advanced survey of key issues, themes, and debates in the field of critical ethnic studies focusing on the connection between race and social structures. Students will use diverse theoretical frameworks to identify and interpret contemporary and historical social problems. "
+        "description": "An advanced survey of key issues, themes, and debates in the field of critical ethnic studies focusing on the connection between race and social structures. Students will use diverse theoretical frameworks to identify and interpret contemporary and historical social problems.  ** Consent of instructor to enroll possible  **"
     },
     "ETHN 100B": {
         "prerequisites": [
             "ETHN 100A"
         ],
         "name": "Interdisciplinary Methodologies",
-        "description": "An introduction to interdisciplinary research methodologies in critical ethnic studies. By developing a critical analysis of the politics of knowledge production, students will learn to identify different methodological approaches in the field and to evaluate their use in practical application. "
+        "description": "An introduction to interdisciplinary research methodologies in critical ethnic studies. By developing a critical analysis of the politics of knowledge production, students will learn to identify different methodological approaches in the field and to evaluate their use in practical application.  ** Consent of instructor to enroll possible  **"
     },
     "ETHN 100C": {
         "prerequisites": [
@@ -64,7 +64,7 @@
             "ETHN 100B"
         ],
         "name": "Social Justice Praxis",
-        "description": "An intensive capstone experience for ethnic studies majors, this course combines an advanced exploration of praxis-based approaches to social justice with practicum-based independent campus, community, creative, or research projects. "
+        "description": "An intensive capstone experience for ethnic studies majors, this course combines an advanced exploration of praxis-based approaches to social justice with practicum-based independent campus, community, creative, or research projects.  ** Consent of instructor to enroll possible  **"
     },
     "ETHN 100H": {
         "prerequisites": [
@@ -73,7 +73,7 @@
             "ETHN 100B"
         ],
         "name": "Honors Research Design",
-        "description": "This discussion-based course will focus on the application of advanced research methods to the design of extensive, independent research-based projects. "
+        "description": "This discussion-based course will focus on the application of advanced research methods to the design of extensive, independent research-based projects.  ** Department approval required ** "
     },
     "ETHN 101": {
         "prerequisites": [],
@@ -265,12 +265,12 @@
     "ETHN 134": {
         "prerequisites": [],
         "name": "Immigration\n\t\t  and Ethnicity in Modern American Society",
-        "description": "(Cross-listed with LTSP 150A.) Cross-disciplinary study of nineteenth- and early twentieth-century Latino/a-Chicano/a literature, folklore, music, testimonio, or other cultural practices. Specific periods covered will fall between the immediate aftermath of the Treaty of Guadalupe Hidalgo to the Cuban revolution. May be taken for credit two times. "
+        "description": "(Cross-listed with LTSP 150A.) Cross-disciplinary study of nineteenth- and early twentieth-century Latino/a-Chicano/a literature, folklore, music, testimonio, or other cultural practices. Specific periods covered will fall between the immediate aftermath of the Treaty of Guadalupe Hidalgo to the Cuban revolution. May be taken for credit two times.  ** Consent of instructor to enroll possible  **"
     },
     "ETHN 135A": {
         "prerequisites": [],
         "name": "Early\n\t\t  Latino/a-Chicano/a Cultural Production: 1848 to 1960",
-        "description": "(Cross-listed with LTSP 150B.) Cross-disciplinary study of late twentieth-century Latino/a-Chicano/a literature, the visual and performing arts, film, or other cultural practices. Specific periods covered will fall between the Kennedy years to the era of neoliberalism and the creation of \u201cHispanic\u201d or Latino/a identities. May be taken for credit two times. "
+        "description": "(Cross-listed with LTSP 150B.) Cross-disciplinary study of late twentieth-century Latino/a-Chicano/a literature, the visual and performing arts, film, or other cultural practices. Specific periods covered will fall between the Kennedy years to the era of neoliberalism and the creation of \u201cHispanic\u201d or Latino/a identities. May be taken for credit two times.  ** Consent of instructor to enroll possible  **"
     },
     "ETHN 135B": {
         "prerequisites": [],
@@ -350,7 +350,7 @@
     "ETHN 154": {
         "prerequisites": [],
         "name": "History of Mexican America",
-        "description": "This course considers rationales for and responses to American military expansion as well as its social, environmental, and cultural consequences.\u00a0We will examine racialized, gendered, and sexualized aspects of militarized institutions and practices, including militarized colonialism, tourism, and sex work. "
+        "description": "This course considers rationales for and responses to American military expansion as well as its social, environmental, and cultural consequences.\u00a0We will examine racialized, gendered, and sexualized aspects of militarized institutions and practices, including militarized colonialism, tourism, and sex work.  ** Upper-division standing required ** "
     },
     "ETHN 155": {
         "prerequisites": [],
@@ -531,7 +531,7 @@
             "ETHN 100H"
         ],
         "name": "Research\n\t\t  Methods: Studying Racial and Ethnic Communities",
-        "description": "Independent study to complete an honors thesis under the supervision of a faculty member who serves as thesis adviser. "
+        "description": "Independent study to complete an honors thesis under the supervision of a faculty member who serves as thesis adviser.  ** Department approval required ** "
     },
     "ETHN 196H": {
         "prerequisites": [],
@@ -551,6 +551,6 @@
     "ETHN 199": {
         "prerequisites": [],
         "name": "Supervised Independent Study and Research",
-        "description": "Introduction to critical racial and ethnic studies and how this perspective departs from traditional constructions of race and culture; examination of relevant studies to identify themes, concepts, and formulations that indicate the critical departures that characterize the field. "
+        "description": "Introduction to critical racial and ethnic studies and how this perspective departs from traditional constructions of race and culture; examination of relevant studies to identify themes, concepts, and formulations that indicate the critical departures that characterize the field.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     }
 }

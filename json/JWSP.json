@@ -42,29 +42,29 @@
     "JWSP 111": {
         "prerequisites": [],
         "name": "Topics in Judaic Studies",
-        "description": "Study of a particular period, theme, or literature in Jewish civilization. May be taken for credit three times. "
+        "description": "Study of a particular period, theme, or literature in Jewish civilization. May be taken for credit three times.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "JWSP 130": {
         "prerequisites": [],
         "name": "Introduction to the Old Testament: The Historical Books",
-        "description": "This course will study the historical books of the Hebrew Bible (in English), Genesis through 2 Kings, through a literary-historical approach: how, when, and why the Hebrew Bible came to be written down, its relationship with known historical facts, and the archaeological record. "
+        "description": "This course will study the historical books of the Hebrew Bible (in English), Genesis through 2 Kings, through a literary-historical approach: how, when, and why the Hebrew Bible came to be written down, its relationship with known historical facts, and the archaeological record.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "JWSP 131": {
         "prerequisites": [
             "JWSP 100A"
         ],
         "name": "Introduction to the Old Testament: The Poetic Books",
-        "description": "This course will study the prophetic and poetic books of the Hebrew Bible (in English), through a literary-historical approach. Topics include prophecy, social justice, monotheism, suffering, humor, and love. "
+        "description": "This course will study the prophetic and poetic books of the Hebrew Bible (in English), through a literary-historical approach. Topics include prophecy, social justice, monotheism, suffering, humor, and love.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "JWSP\n\t\t  196A": {
         "prerequisites": [],
         "name": "Jewish Studies Honors Course",
-        "description": "First quarter of honors thesis research for students accepted into honors program. Research is conducted under the supervision of a faculty member selected with the approval of the director of the Jewish Studies Program. "
+        "description": "First quarter of honors thesis research for students accepted into honors program. Research is conducted under the supervision of a faculty member selected with the approval of the director of the Jewish Studies Program.  ** Department approval required ** "
     },
     "JWSP\n\t\t  196B": {
         "prerequisites": [],
         "name": "Jewish Studies Honors Course",
-        "description": "Second quarter of honors thesis research for students accepted into honors program. Research is conducted under the supervision of a faculty member selected with the approval of the director of the Jewish Studies Program. "
+        "description": "Second quarter of honors thesis research for students accepted into honors program. Research is conducted under the supervision of a faculty member selected with the approval of the director of the Jewish Studies Program.  ** Department approval required ** "
     },
     "JWSP 198": {
         "prerequisites": [],

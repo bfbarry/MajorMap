@@ -1,0 +1,649 @@
+{
+    "TDAC 1": {
+        "prerequisites": [],
+        "name": "Introduction to Acting",
+        "description": "The subject codes are"
+    },
+    "TDAC 101": {
+        "prerequisites": [],
+        "name": "Acting I",
+        "description": "A beginning course in the fundamentals of acting: establishing a working vocabulary and acquiring the basic skills of the acting process. Through exercises, compositions, and improvisations, the student actor explores the imagination as the actor\u2019s primary resource, and the basic approach to text through action. "
+    },
+    "TDAC 102": {
+        "prerequisites": [],
+        "name": "Acting II",
+        "description": "This course focuses on beginning scene study with an emphasis on exploring action/objective and the given circumstances of a selected text. "
+    },
+    "TDAC 103A": {
+        "prerequisites": [],
+        "name": "Acting Intensive I",
+        "description": "Further study in the application of the given circumstances to a text and the development of characterization. "
+    },
+    "TDAC 103B": {
+        "prerequisites": [],
+        "name": "Acting Intensive II",
+        "description": "An intensive foundation class for students interested in professional actor training. Using Viewpoints, students will train the physical, vocal, and emotional aspects of their actor instrument toward developing character and relationships by using scenes from contemporary and modern plays. "
+    },
+    "TDAC 104": {
+        "prerequisites": [],
+        "name": "Classical Text",
+        "description": "A continuation of TDAC 103A. Working from Meisner technique, students will learn to deepen and detail their objectives, spontaneous response, and deep listening skills. Focus on the process that will lead to scene work using this technique. "
+    },
+    "TDAC 105": {
+        "prerequisites": [],
+        "name": "Rehearing Shakespeare",
+        "description": "Studies in the heightened realities of poetic drama. Verse analysis, research, methods and how to approach a classical dialogue. "
+    },
+    "TDAC 106": {
+        "prerequisites": [],
+        "name": "Chekhov Acting",
+        "description": "Advanced exploration of Shakespeare\u2019s language through examining and performing scenes from the plays. Admission by audition/interview. May be taken for credit two times. "
+    },
+    "TDAC 107": {
+        "prerequisites": [],
+        "name": "Improvisation for the Theatre",
+        "description": "Practical exercises, discussion, text analysis, and scene work on the writings of Anton Chekhov. Admission by audition/interview. "
+    },
+    "TDAC 108": {
+        "prerequisites": [],
+        "name": "Advanced Topics",
+        "description": "Improvisation for the Theatre explores improvisation techniques as an alternative and unique approach to acting. Students should have a performance background. "
+    },
+    "TDAC 109": {
+        "prerequisites": [],
+        "name": "Singing for Actors",
+        "description": "Advanced topics in acting, such as avant-garde drama, commedia, or Beckett, for students who possess basic acting techniques. May be taken for credit four times. "
+    },
+    "TDAC 110": {
+        "prerequisites": [],
+        "name": "Acting for the Camera",
+        "description": "This course introduces basic skills of breathing, placement, diction, musicianship, harmony, interpretation, and presentation needed by actors for roles requiring singing. Through a combination of group and individual coaching in class, students will prepare a program of short solo and ensemble pieces for a finals-week presentation. "
+    },
+    "TDAC 111": {
+        "prerequisites": [],
+        "name": "Freeing the Voice",
+        "description": "This course is designed to aid the actor in the transition from stage to film work. Examination of film production and its physical characteristics and the acting style needed for work in film and television. Students will perform in simulated studio setting on camera. "
+    },
+    "TDAC 112": {
+        "prerequisites": [],
+        "name": "Senior Seminar in Acting",
+        "description": "Intensive workshop for actors and directors designed to \u201cfree the voice,\u201d with special emphasis on characteristics and vocal flexibility in a wide range of dramatic texts. This proven method combines experimental and didactic learning with selected exercises, texts, tapes, films, and total time commitment. "
+    },
+    "TDAC 115": {
+        "prerequisites": [],
+        "name": "Movement for Actors",
+        "description": "An in-depth study seminar focused on special issues in acting as they relate to contemporary theatre. Of particular interest to students who plan to pursue a career in this area of theatre. "
+    },
+    "TDAC 120": {
+        "prerequisites": [],
+        "name": "Ensemble",
+        "description": "An exploration of the wide array of physical skills necessary for the actor. Using techniques derived from mime, clowning, sports, acrobatics, and improvisation, students will investigate their individual physical potential as well as their sense of creativity and imagination. "
+    },
+    "TDAC 122": {
+        "prerequisites": [],
+        "name": "Ensemble: Undergraduate Production",
+        "description": "An intensive theatre practicum designed to generate theatre created by an ensemble with particular emphasis upon the analysis of text. Students will explore and analyze the script and its author. Ensemble segments include black theatre, Chicano theatre, feminist theatre, and commedia dell\u2019arte. Audition may be required. A maximum of four units may be used for major credit. (Cross-listed with ETHN 146A.) "
+    },
+    "TDAC 123": {
+        "prerequisites": [],
+        "name": "Advanced Studies in Performance",
+        "description": "Participation in a fully staged theatre production directed by an MFA or PhD student for the Department of Theatre and Dance. Admission by audition only. A maximum of four units may be used for major credit. "
+    },
+    "TDDE 1": {
+        "prerequisites": [],
+        "name": "Introduction to Design for the Theatre",
+        "description": "Participation in a fully staged season production that is directed by a faculty member or guest for the Department of Theatre and Dance. Admission by audition only. A maximum of four units may be used for major credit. "
+    },
+    "TDDE 101": {
+        "prerequisites": [],
+        "name": "Theatre Process\u2014Scenery",
+        "description": "A survey of contemporary and historical concepts and practices in the visual arts of the theatre; studies in text analysis, studio processes and technical production; elementary work in design criticism, scale model making, and costume design. A course serving as an introduction to theatre design and production. "
+    },
+    "TDDE 102": {
+        "prerequisites": [],
+        "name": "Advanced Scenic Design",
+        "description": "A hands-on course develops craft skills and solution-finding process in design including script analysis, concept sketches, research, and scale model making. An exploration of fundamental ways of seeing and understanding visual design. "
+    },
+    "TDDE 111": {
+        "prerequisites": [],
+        "name": "Theatre Process\u2014Costume Design",
+        "description": "An advanced course based on the \u201cpractice\u201d of scenic design, dealing with the solution finding process, from text to idea to realized work. "
+    },
+    "TDDE 112": {
+        "prerequisites": [],
+        "name": "Advanced Costume Design",
+        "description": "The process of the costume designer from script analysis and research visualization of ideas, through the process of costume design. Lecture and demonstration labs parallel lecture material. This course is intended for those interested in a basic understanding of the costumer\u2019s process. No previous drawing or painting skills required. "
+    },
+    "TDDE 121": {
+        "prerequisites": [],
+        "name": "Theatre Process\u2014Lighting Design",
+        "description": "An advanced course based on the \u201cpractice\u201d of costume design, dealing with the solution finding process, from text to idea to realized work. "
+    },
+    "TDDE 130": {
+        "prerequisites": [],
+        "name": "Assistant Designer",
+        "description": "One of three classes in theatre process. The course aims to develop basic skills in lighting design through practical projects, lab work and lecture. These emphasize collaborating, manipulating light and color, and developing craft skills. "
+    },
+    "TDDE 131": {
+        "prerequisites": [],
+        "name": "Special Topics in Theatre Design",
+        "description": "A production-oriented course that continues\n\t\t\t\t  to introduce students to the fundamentals of design assisting.\n\t\t\t\t  Laboratory format allows the student to work with faculty,\n\t\t\t\t  graduate, or advanced undergraduate theatre designers, doing\n\t\t\t\t  research, developing design concepts, and supporting the designer\n\t\t\t\t  in a number of professional ways. May be taken for credit two times.  "
+    },
+    "TDDE 132": {
+        "prerequisites": [],
+        "name": "Undergraduate\n\t\t\t\t  Main Stage Production: Design",
+        "description": "A course designed to expose the theatre design students to a variety of specialized topics that will vary from quarter to quarter. May be taken for credit three times. "
+    },
+    "TDDE 141": {
+        "prerequisites": [],
+        "name": "Theatre Process\u2014Sound Design",
+        "description": "A course that will guide a student in a design assignment on the undergraduate main stage production. Specialized topics dependent on the design requirements of the production. May be taken for credit three times. "
+    },
+    "TDDE 142": {
+        "prerequisites": [
+            "MUS 173"
+        ],
+        "name": "Advanced Sound Design",
+        "description": "A hands-on course on the process of sound design from conception to planning and implementation. The course will concentrate equally on the technical and artistic aspects of the sound design process and will include a survey of modern audio technologies. "
+    },
+    "TDDE 151": {
+        "prerequisites": [],
+        "name": "Digital Video Design",
+        "description": "This course focuses on advancing students in their artistic and technical skills in sound design. A large-scale project will be identified with special attention given to text analysis and technical specification of the sound design. "
+    },
+    "TDDE 169A": {
+        "prerequisites": [],
+        "name": "Digital Rendering for Theatre and Performance Design I",
+        "description": "This course will examine the field of projection design for theatre and dance performance. Students will study and produce original works based on the theoretical and aesthetic approaches of animation, film, performance, and installation art that influence contemporary projection design. "
+    },
+    "TDDE 169B": {
+        "prerequisites": [],
+        "name": "Digital Rendering for Theatre and Performance Design II",
+        "description": "Introductory course that explores a variety of digital rendering methods for artistic 2-D, 3-D, and moving graphics visualization in theatre and performance design. Course objective is to synthesize and expand traditional drawing and painting methods with modern digital media-based applications. "
+    },
+    "TDDE 190": {
+        "prerequisites": [],
+        "name": "Major\n\t\t\t\t  Project in Design/Theatre Production",
+        "description": "A continuation of TDDE 169A. Studio course explores advanced digital rendering methods for artistic 2-D, 3-D, and moving graphics for theatre and performance design. Focus will be on advanced techniques in the process of visualization from conception to production. "
+    },
+    "TDDR 101": {
+        "prerequisites": [],
+        "name": "Stage Management",
+        "description": "For the advanced design/production student.\n\t\t\t\t  Concentration on a particularly challenging design or theatre production\n\t\t\t\t  assignment, including such areas as assistant designer (scenery, lighting,\n\t\t\t\t  or costumes), technical director, master cutter, or master electrician.\n\t\t\t\t  May be repeated one time for credit. A maximum of eight units of major\n\t\t\t\t  project study, regardless of area (design, directing, or stage management)\n\t\t\t\t  may be used to fulfill major requirements. May be taken for credit two times. "
+    },
+    "TDDR 108": {
+        "prerequisites": [],
+        "name": "Text Analysis for Actors and Directors",
+        "description": "Discussion and research into the duties, responsibilities, and roles of a stage manager. Work to include studies in script analysis, communication, rehearsal procedures, performance skills, and style and conceptual approach to theatre. THGE or TDGE 1, THAC or TDAC 1, and THDE or TDDE 1 recommended. "
+    },
+    "TDDR 111": {
+        "prerequisites": [],
+        "name": "Directing-Acting Process",
+        "description": "This is an introductory class in the process of understanding the play script. The class will focus on analyzing the story and the underlying dramatic structure in terms of dramatic action. Objectives, actions, choices, given circumstances, and character will be examined. "
+    },
+    "TDDR 190": {
+        "prerequisites": [],
+        "name": "Major Project in Directing",
+        "description": "A studio class that investigates the fundamental\n\t\t\t\t  skills a director needs to work with actors. Working with actors, students\n\t\t\t\t  learn how to animate the text onstage through status exercises and scene\n\t\t\t\t  work as they develop their skill in text work, staging, and dramatic storytelling. "
+    },
+    "TDDR 191": {
+        "prerequisites": [],
+        "name": "Major Project in Stage Management",
+        "description": "For the advanced student in directing. Intensive concentration on the full realization of a dramatic text from research and analysis through rehearsal and into performance. A maximum of eight units of major project study, regardless of area (design, directing, or stage management) may be used to fulfill major requirements. See department for application. May be taken for credit two times. "
+    },
+    "TDDM 1": {
+        "prerequisites": [],
+        "name": "Introduction to Dance Making",
+        "description": "For the advanced student in stage management. Intensive concentration on the full realization of a dramatic text, from research and analysis through rehearsal and final performance. A maximum of eight units of major project study regardless of area (design, directing, stage management, or playwriting) may be used to fulfill major requirements. See department for application. May be taken for credit two times. "
+    },
+    "TDDM 5": {
+        "prerequisites": [],
+        "name": "Site Specific Dance and Performance",
+        "description": "Explores the concepts and processes of dance making through creative projects, discussions, and the examination of major dance works. Recommended preparation: No prior dance experience required. Open to all levels. "
+    },
+    "TDDM 100": {
+        "prerequisites": [],
+        "name": "Dance Making 1",
+        "description": "The study of dance and performance creation in relation to the environment, political activism, happenings, and ritual. Students explore ideas within the unique attributes of architecture, natural landscapes, public spaces, visual art, historic landmarks, and cultural contexts. Recommended preparation: No prior dance experience needed. Open to all levels. "
+    },
+    "TDDM 101": {
+        "prerequisites": [],
+        "name": "Dance Making 2",
+        "description": "Practical and conceptual studies of approaches to dance making. Compositional projects enable students to create short works for solo, duet, and small group situations with options to explore interdisciplinary collaboration, specific sites, text, political and societal issues, and advanced partner work. "
+    },
+    "TDGE 1": {
+        "prerequisites": [],
+        "name": "Introduction to Theatre",
+        "description": "The study of compositional, ensemble, collaborative, and improvisational approaches to dance making. Structures, scores, tasks, imagination, timing, spontaneity, partnering skills, composing in the moment, shared authorship, and experimentation facilitate the development of movement vocabulary. "
+    },
+    "TDGE 3": {
+        "prerequisites": [],
+        "name": "Cultivating the Creative Mind",
+        "description": "An introduction to fundamental concepts in drama and performance. Students will attend performances and learn about how the theatre functions as an art and as an industry in today\u2019s world. "
+    },
+    "TDGE 5": {
+        "prerequisites": [],
+        "name": "A Glimpse into Acting",
+        "description": "This course will use the theatrical context to integrate scientific research about creativity, group dynamics, and related topics. Through a mix of theoretical and experiential classes and assignments, we will explore the intersection of theatre and neuroscience, investigating and expanding the creative mind. "
+    },
+    "TDGE 10": {
+        "prerequisites": [],
+        "name": "Theatre and Film",
+        "description": "An introductory course on acting fundamentals for students without an acting background. Through analysis of acting on film, students will explore the actor\u2019s craft and practice these skills in studio exercises to better understand how an actor approaches a text.\u00a0"
+    },
+    "TDGE 11": {
+        "prerequisites": [],
+        "name": "Great Performances on Film",
+        "description": "Theatre and Film analyzes the essential differences between theatrical and cinematic approaches to drama. Through selected play/film combinations, the course looks at how the director uses actors and the visual languages of the stage and screen to guide and stimulate the audience\u2019s responses. "
+    },
+    "TDGE 12": {
+        "prerequisites": [],
+        "name": "Topics in Cinema and Race",
+        "description": "Course examines major accomplishments in screen acting from the work of actors in films or in film genres. May be taken for credit three times. "
+    },
+    "TDGE 25": {
+        "prerequisites": [],
+        "name": "Public Speaking",
+        "description": "This course explores filmed representations of race and diversity and examines works by underrepresented filmmakers. Course topics vary; they include African American film, Latino/a film, Asian American film, films by Spike Lee, stereotypes on film, and other such topics. Students may not enroll in the same topic of TDGE 12 that they have already taken in TDGE 11, Great Performances on Film. This will count as a duplicate of credit for repeating the same film topic. May be taken for credit two times. "
+    },
+    "TDGE 50": {
+        "prerequisites": [],
+        "name": "Musical Theatre Chorus",
+        "description": "This course is designed to establish a clear understanding of the fundamentals of effective oral communication. The methodologies explore the integration of relaxation, concentration, organization, and clear voice and diction as applied to various public speaking modes. "
+    },
+    "TDGE 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar in Theatre and Dance",
+        "description": "Study and perform selected songs from American musical theatre. Open to all students. No audition required. Attendance at rehearsals and performance are mandatory. P/NP grades only. May be taken for credit six times. "
+    },
+    "TDGE 89": {
+        "prerequisites": [],
+        "name": "Dance Movement Exploration",
+        "description": "Seminar on a topic in theatre or dance on a level appropriate for first-year students, conducted in an informal, small group setting limited to ten to twenty students. Topics will vary. "
+    },
+    "TDGE 100": {
+        "prerequisites": [],
+        "name": "Creating the Role of \u201cLeader\u201d",
+        "description": "An introduction to dance movement and understanding your body. A contemporary approach to dancing and its many genres as an expressive medium and form of communication. A movement course but no dance training or background in dance needed. May be taken for credit three times. "
+    },
+    "TDGE 105": {
+        "prerequisites": [],
+        "name": "Exploring Acting",
+        "description": "An acting course for nonmajors, building on the acting fundamentals developed in TDGE 5. Using analysis of film acting to practice in studio exercises and scene work, student actors learn to approach a text using imagination as their primary tool. "
+    },
+    "TDGE 122": {
+        "prerequisites": [],
+        "name": "The Films of Woody Allen",
+        "description": "A select survey of eight to ten exceptional offbeat, frequently low-budget films from the last sixty years that have attained cult status. The mix includes Tod Browning\u2019s Freaks (1932) to John Water\u2019s Pink Flamingos (1973). Aspects of bad taste, cinematic irony, and theatrical invention will be highlighted. "
+    },
+    "TDGE 124": {
+        "prerequisites": [],
+        "name": "Cult Films: Weirdly Dramatic",
+        "description": "Great films and the performance of the actors in them are analyzed in their historical, cinematic, or theatrical contexts. This course examines the actor\u2019s contribution to classic cinema and the social and aesthetic forces at work in film. "
+    },
+    "TDGE 125": {
+        "prerequisites": [],
+        "name": "Topics in Theatre and Film",
+        "description": "This course will use a broad range of animation styles and genres to examine larger issues in art practice, focusing closely on the relationship between form and content, and how sound/set/costume/character design impacts narrative. "
+    },
+    "TDGE 126": {
+        "prerequisites": [],
+        "name": "Storytelling and Design in Animation",
+        "description": "This course examines recent movies by Native American/First Nations artists that labor to deconstruct and critique reductive stereotypes about America\u2019s First Peoples in Hollywood cinema. Carving spaces of \u201cvisual sovereignty\u201d (Raheja), these films propose complex narratives and characterizations of indigeneity. Students may not receive credit for both TDGE 131 and ETHN 163F. "
+    },
+    "TDGE 131": {
+        "prerequisites": [],
+        "name": "Playing Indian: Native American and First Nations Cinema",
+        "description": "An exploration of fundamental ways of seeing and thinking about the performance space. A look at the design process as it reflects styles and attitudes through an examination of text/image/meaning/message in theatre, dance, opera, and visual arts. With a special emphasis on the \u201csolution-finding process\u201d in design, as a leap from text to context, to finalized design. "
+    },
+    "TDGE 133": {
+        "prerequisites": [],
+        "name": "Visual Ideas",
+        "description": "This class examines disability in the performative context, exploring the representation of people with disabilities and the struggle for access and inclusion. The frame of advocacy, understanding, and creative collaboration will deepen the historical perspective on disability. "
+    },
+    "TDGE 134": {
+        "prerequisites": [],
+        "name": "Disability and Performative Exploration: Struggle for Inclusion",
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in theatre and dance (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+    },
+    "TDGE 192": {
+        "prerequisites": [],
+        "name": "Senior Seminar in Theatre and Dance",
+        "description": "The Honors thesis is designed to give theatre and dance majors the opportunity to undertake advanced creative research in an area of specialization (directing, history, pedagogy, performance, playwriting, or stage management), culminating in the writing of a thesis and the oral or performative presentation of the thesis to the members of the student\u2019s Honors Committee. Application available with the theatre and dance undergraduate coordinator. This is a two-quarter research project. Students enroll in the winter and spring quarters of their senior year. Deadline to apply is fall quarter of the student\u2019s senior year. "
+    },
+    "TDGE 196A": {
+        "prerequisites": [],
+        "name": "Honors Study in Theatre and Dance",
+        "description": "A continuation of TDGE 196A. Theatre and dance Honors students complete thesis work in directing, history, pedagogy, performance, playwriting, or stage management under the close supervision of a faculty member. All students enrolled will present their thesis work during a departmental showcase event at the end of the spring quarter. "
+    },
+    "TDGE 196B": {
+        "prerequisites": [],
+        "name": "Honors Study in Theatre and Dance",
+        "description": "Group studies, readings, projects, and discussions in theatre history, problems of production and performance, and similarly appropriate subjects. "
+    },
+    "TDGE 198": {
+        "prerequisites": [],
+        "name": "Directed Group Studies",
+        "description": "Qualified students will pursue a special project in theatre history, problems of production and performance, and similarly appropriate topics. "
+    },
+    "TDGE 199": {
+        "prerequisites": [],
+        "name": "Special Projects",
+        "description": "Focuses on the foundational aesthetic concepts of dance creation and performance within a diverse range of cultural contexts. Students develop descriptive, perceptual, and analytical skills. "
+    },
+    "TDHD 20": {
+        "prerequisites": [],
+        "name": "Looking at Dance",
+        "description": "An historical overview of the most influential international dance pioneers in recent history, the cultural, political, and artistic contexts that informed the development of their work and the impact that their achievements have on the evolution of dance worldwide. "
+    },
+    "TDHD 21": {
+        "prerequisites": [],
+        "name": "Dance Pioneers of the Twentieth and Twenty-First Centuries",
+        "description": "The study of dance forms from a global perspective. An analysis and understanding of international dance traditions and their connections to religion, ritual, folklore, custom, festive celebration, popular culture, art, and political movements. "
+    },
+    "TDHD 175": {
+        "prerequisites": [],
+        "name": "Cultural Perspectives on Dance",
+        "description": "An in-depth exposure to an important topic in dance history, theory, aesthetics, and criticism. Topics vary from quarter to quarter. "
+    },
+    "TDHD 176": {
+        "prerequisites": [],
+        "name": "Dance History\u2014Special Topics",
+        "description": "An introduction to the fundamental techniques of analyzing dramatic texts. Focus is on the student\u2019s ability to describe textual elements and their relationships to each other as well as on strategies for writing critically about drama. "
+    },
+    "TDHT 10": {
+        "prerequisites": [],
+        "name": "Introduction to Play Analysis",
+        "description": "Ancient and medieval theatre. Explores the\n\t\t\t\t  roots of contemporary theatre in world performance traditions of ancient\n\t\t\t\t  history with a focus on humans\u2019 gravitation toward ritual and play. Examples\n\t\t\t\t  come from Egypt, Greece, Rome, Mesoamerica, Japan, China, India, Indonesia,\n\t\t\t    Persia, and England. "
+    },
+    "TDHT 21": {
+        "prerequisites": [],
+        "name": "Ancient\n\t\t\t\t  and Medieval Theatre",
+        "description": "Explores varieties of drama in professional\n\t\t\t\t  theatre from 1500 to 1900 in Europe, Japan, and China, and their interconnections\n\t\t\t    both formal and historical. "
+    },
+    "TDHT 22": {
+        "prerequisites": [],
+        "name": "Theatre\n\t\t\t\t  1500\u20131900",
+        "description": "Twentieth-century theatre: a survey of drama\n\t\t\t\t  from 1900 to 1990, with attention also paid to the development of avant-garde\n\t\t\t\t  performance forms. Plays discussed reflect developments in Europe and the\n\t\t\t    United States, but also transnational, postcolonial perspectives. "
+    },
+    "TDHT 23": {
+        "prerequisites": [],
+        "name": "Twentieth-Century\n\t\t\t\t  Theatre",
+        "description": "An in-depth exposure to an important individual writer or subject in dramatic literature and/or theatre history. Topics vary from quarter to quarter. Recent courses have included Modern French Drama, and the History of Russian Theatre. No prior knowledge in theatre history is needed. May be taken for credit three times. "
+    },
+    "TDHT 101": {
+        "prerequisites": [],
+        "name": "Topics\n\t\t  in Dramatic Literature and Theatre History",
+        "description": "This course examines pivotal dramatic works in the history of professional Asian American theatre in the United States (1960s to the present). Issues include interculturalism, the crossover between minority theatres and mainstream venues, and the performance of identity. TDHT 103 is an approved Diversity, Equity, and Inclusion (DEI) course. No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 103": {
+        "prerequisites": [],
+        "name": "Asian American Theatre",
+        "description": "Continuities and changes in Italian comedy from the Romans through the Renaissance and commedia dell\u2019arte to modern comedy. No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 104": {
+        "prerequisites": [],
+        "name": "Italian Comedy",
+        "description": "Masterpieces of French farce and comedy from the seventeenth century to the twentieth century studied French theatrical and cultural contexts. Readings include plays by Moliere, Marivauz, Beaumarchais, and Feydeau. No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 105": {
+        "prerequisites": [],
+        "name": "French Comedy",
+        "description": "In this course we will examine representative plays and playwrights who write about the \u201cAmerican\u201d experience from a variety of historical periods and diverse cultural communities. Playwrights will include Glaspell, O\u2019Neill, Williams, Hansberry, Valdez, Yamauchi, Parks, Kushner, Mamet, Greenberg, Hwang, Letts, and Cruz. Theatre companies will include The Group, Provincetown Players, San Francisco Mime Troupe, East/West Players, Teatro Campesino, Spiderwoman, and Cornerstone. TDHT 107 is an approved Diversity, Equity, and Inclusion (DEI) course. No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 107": {
+        "prerequisites": [],
+        "name": "American Theatre",
+        "description": "This course examines the works of Luis Valdez, playwright, director, screenwriter, film director, and founder of the Teatro Campesino. Readings include plays and essays by Valdez and critical books and articles about this important American theatre artist. No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 108": {
+        "prerequisites": [],
+        "name": "Luis Valdez",
+        "description": "This course provides a survey of the contributions to the theatre arts made by African Americans. Analytic criteria will include the historical context in which the piece was crafted; thematic and stylistic issues; aesthetic theories and reception. TDHT 109 is an approved Diversity, Equity, and Inclusion (DEI) course. No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 109": {
+        "prerequisites": [],
+        "name": "African American Theatre",
+        "description": "Focusing on the contemporary evolution of Chicano dramatic literature, this course will analyze playwrights and theatre groups that express the Chicano experience in the United States, examining relevant \u201cactors,\u201d plays, and documentaries for their contributions to the developing Chicano theatre movement. (Cross-listed with Ethnic Studies 132.) No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 110": {
+        "prerequisites": [],
+        "name": "Chicano Dramatic Literature",
+        "description": "Course examines the plays of leading Cuban American, Puerto Rican, and Chicano playwrights in an effort to understand the experience of these Hispanic American groups in the United States. (Cross-listed with Ethnic Studies 133.) No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 111": {
+        "prerequisites": [],
+        "name": "Hispanic American Dramatic Literature",
+        "description": "The class will explore the musical\u2019s origins, evolution, components, and innovators, with emphasis on adaptation and the roles of the director and choreographer. No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 114": {
+        "prerequisites": [],
+        "name": "American Musical Theatre",
+        "description": "Evolution of directing theory from 1850 to the present with reference to the work of internationally influential directors such as Saxe-Meiningen, Antoine, Stanislavski, Meyerhold, Brecht, and Brook, among others. No prior knowledge in theatre history is needed. "
+    },
+    "TDHT 115": {
+        "prerequisites": [],
+        "name": "History and Theory of Directing",
+        "description": "Introduces theatre and dance students to the practice of contemporary production dramaturgy. Students learn strategies for applying the results of textual analysis and cultural research to the production process. "
+    },
+    "TDHT 119": {
+        "prerequisites": [],
+        "name": "Production Dramaturgy",
+        "description": "This theoretical and embodied course examines a selection of indigenous plays and performances (dance, hip-hop) and helps students develop the critical vocabulary and contextual knowledge necessary to productively engage with the political and artistic interventions performed by these works. No prior knowledge in theatre history is needed. Students may not receive credit for both TDHT 120 and ETHN 163G. "
+    },
+    "TDHT 120": {
+        "prerequisites": [],
+        "name": "Indigenous Theatre and Performance",
+        "description": "Experience firsthand New York history as a performing arts cultural capital. In addition to studying New York performance history and literature, attend performances accompanied by lecture/discussion. Get backstage tours, meet important players, and learn how productions go from vision to reality. Program or materials fees may apply. Contact the Department of Theatre and Dance for application for TDHT 190. May be taken for credit three times. "
+    },
+    "TDHT 190": {
+        "prerequisites": [],
+        "name": "The New York Theatre and Dance Scene",
+        "description": "A contemporary approach to beginning-level ballet technique, principles, and terminology. Develops the body for strength, flexibility, and artistic interpretation. Emphasis on developing a foundation in movement for the continuation of ballet training. Historical origin of ballet will be discussed. May be taken for credit six times. "
+    },
+    "TDMV 1": {
+        "prerequisites": [],
+        "name": "Beginning Ballet",
+        "description": "Introduction to contemporary somatic approaches to dance, building fundamental technical skills, kinetic and perceptual awareness, efficiency, and artistic expression. Choreographic sequences are analyzed through time space coordination and dynamics. Movement exploration includes improvisation and composition. May be taken for credit six times. "
+    },
+    "TDMV 2": {
+        "prerequisites": [],
+        "name": "Beginning Contemporary Dance",
+        "description": "Introduction to the technique of jazz dance, while placing the art form in its historical context as an American vernacular form. Builds a beginning technical jazz vocabulary with a focus on rhythmic exercises, isolations, turns, and locomotor combinations. May be taken for credit six times. "
+    },
+    "TDMV 3": {
+        "prerequisites": [],
+        "name": "Beginning Jazz",
+        "description": "An introduction to the physical practice of yoga. A detailed investigation into the ancient somatic practice of energetically connecting the mind and body through kinesthetic and sensory awareness and how this supports and informs dance practices. May be taken for credit six times. "
+    },
+    "TDMV 5": {
+        "prerequisites": [],
+        "name": "Yoga for Dance",
+        "description": "The study of theatrical tap dance. Various styles of tap\u2014 such as classical, rhythm, and musical theatre\u2014will be introduced. Emphasis on rhythm, coordination, timing, and theatrical style. Includes basic through intermediate tap movement. May be taken for credit three times. "
+    },
+    "TDMV 11": {
+        "prerequisites": [],
+        "name": "Theatrical Tap",
+        "description": "This creative laboratory course facilitates group and individual experimentation through the study of somatic movement processes and methodologies. Students explore approaches to movement vocabulary that offer them insights into investigating their own movement generation and dance making material. May be taken for credit six times. "
+    },
+    "TDMV 20": {
+        "prerequisites": [],
+        "name": "Movement Laboratory",
+        "description": "Continued studio work in ballet technique at the intermediate level and terminology. Emphasis on increasing strength, flexibility, and balance, and the interpretation of classical musical phrasing. Includes proper alignment training and artistic philosophy of classical ballet. May be taken for credit six times. "
+    },
+    "TDMV 110": {
+        "prerequisites": [],
+        "name": "Intermediate Ballet",
+        "description": "A contemporary approach to ballet technique, terminology, and performance at the advanced level. Introduces more complex choreographic variations and skills. Individual and group composition will be examined and aesthetic criticism applied. May be taken for credit six times. "
+    },
+    "TDMV 111": {
+        "prerequisites": [],
+        "name": "Advanced Ballet",
+        "description": "Designed for students with advanced training in contemporary modern dance and intermediate to advanced training in ballet. Emphasis is on increasing composition and performance skills in ballet through contemporary modern dance aesthetics. May be taken for credit six times. "
+    },
+    "TDMV 112": {
+        "prerequisites": [],
+        "name": "Advanced\n\t\t\t\t  Ballet for Contemporary Dance",
+        "description": "The development of contemporary dance as an expressive medium, with emphasis on technical skills at the intermediate level. Includes the principles, elements, and historical context of contemporary modern postmodern dance. May be taken for credit six times. "
+    },
+    "TDMV 120": {
+        "prerequisites": [],
+        "name": "Intermediate Contemporary Dance",
+        "description": "The development of contemporary somatic approaches to dance as an expressive medium, emphasizing advanced technical skills, efficient athleticism, kinesthetic refinement, individual creative voice, and performance elements. Choreography and aesthetic concepts will be explored. Incorporates various principles of human movement research. May be taken for credit six times. "
+    },
+    "TDMV 122": {
+        "prerequisites": [],
+        "name": "Advanced Contemporary Dance",
+        "description": "Students will study the practice of improvisational dancing with a partner. Students will develop skills in giving and supporting body weight, lifting, balancing, falling, rolling, and recovering fluidly together. May be taken for credit three times. "
+    },
+    "TDMV 123": {
+        "prerequisites": [],
+        "name": "Contact Improvisation",
+        "description": "Designed to provide training in the technique of jazz dance, while placing the art form in its historical context as an American vernacular form. Builds an intermediate technical jazz level with a focus on style, musicality, dynamics, and performance. May be taken for credit six times. "
+    },
+    "TDMV 130": {
+        "prerequisites": [],
+        "name": "Intermediate Jazz",
+        "description": "Further development in the technique of jazz dance, while placing the art form in its historical context as an American vernacular form. Builds an advanced technical jazz level with a focus on style, musicality, dynamics, and performance. May be taken for credit six times. "
+    },
+    "TDMV 133": {
+        "prerequisites": [],
+        "name": "Advanced Jazz Dance",
+        "description": "An introduction to the basic technique of hip-hop, studied to enhance an understanding of the historical cultural content of the American form hip-hop and street dances in current choreography. May be taken for credit four times. "
+    },
+    "TDMV 138": {
+        "prerequisites": [],
+        "name": "Beginning Hip-Hop",
+        "description": "Courses designed for the in-depth study of the dances and historical context of a particular culture or ethnic form: Afro-Cuban, Spanish, Balinese, Japanese, Latin, etc. Specific topic will vary from quarter to quarter. May be taken for credit two times. "
+    },
+    "TDMV 140": {
+        "prerequisites": [],
+        "name": "Beginning Dances of the World",
+        "description": "Courses designed for the advanced continuing study of the dances and historical context of a particular culture or ethnic form: Afro-Cuban, Spanish, Balinese, Japanese, Latin, etc. Specific topic will vary from quarter to quarter. "
+    },
+    "TDMV 141": {
+        "prerequisites": [],
+        "name": "Advanced Dances of the World",
+        "description": "To develop an appreciation and understanding of the various Latin dances. Emphasis on learning basic social dance movement vocabulary, history of Latin cultures, and use of each dance as a means of social and economic expression. May be taken for credit three times. "
+    },
+    "TDMV 142": {
+        "prerequisites": [],
+        "name": "Latin Dance of the World",
+        "description": "An introductory course that explores the history of West African cultures and diasporas through student research, oral presentation, dance movement, and performance. Contemporary African dances influenced by drum masters and performing artists from around the world are also covered. Course materials and services fees may apply. May be taken for credit three times. "
+    },
+    "TDMV 143": {
+        "prerequisites": [],
+        "name": "West African Dance",
+        "description": "To develop an appreciation and understanding of the dances from various Asian cultures. Emphasis on learning the basic forms and movement vocabularies, their historical context, and the use of each dance as a means of cultural and artistic expression. May be taken for credit three times.  "
+    },
+    "TDMV 144": {
+        "prerequisites": [],
+        "name": "Asian Dance",
+        "description": "To develop an appreciation and understanding of the various Latin dances. Emphasis on learning intermediate social dance movement vocabulary, history of Latin cultures, and use of each dance as a means of social and economic expression. May be taken for credit two times. "
+    },
+    "TDMV 146": {
+        "prerequisites": [],
+        "name": "Intermediate Latin Dances of the World",
+        "description": "This course is designed to build on the skills developed in TDMV 138, Hip-Hop, also deepening students\u2019 understanding of the social, political, and economic forces at work within hip-hop culture. More complex rhythms and sequencing will be introduced, and musicality will be honed through an added emphasis on freestyle expression. May be taken for credit four times. "
+    },
+    "TDMV 148": {
+        "prerequisites": [],
+        "name": "Intermediate Hip-Hop",
+        "description": "Develops hip-hop skills at the advanced level with further studies of the social, political, and economic forces at work within hip-hop culture. Emphasis is on complex rhythms and sequencing, freestyle expression, choreography, and performance. May be taken for credit six times. "
+    },
+    "TDMV 149": {
+        "prerequisites": [],
+        "name": "Advanced Hip-Hop",
+        "description": "An in-depth investigation of the role and aesthetics of performer/dancer in a fully staged independent project resulting in a dance performance choreographed by faculty or students. May be taken for credit two times.\u00a0"
+    },
+    "TDMV 190": {
+        "prerequisites": [],
+        "name": "Major Project as Performer",
+        "description": "The in-depth study of a major dance production in a fall dance cabaret led by faculty. Admission by audition only. "
+    },
+    "TDPF 160": {
+        "prerequisites": [],
+        "name": "Studies\n\t\t\t\t  in Performance\u2014Fall Production",
+        "description": "The in-depth study for a fully staged dance production in various venues, including a fall dance cabaret led by faculty, a winter faculty concert with guest choreographers, and a spring student choreographed concert directed by faculty. Admission by audition only. May be taken for credit four times. "
+    },
+    "TDPF 161": {
+        "prerequisites": [],
+        "name": "Studies\n\t\t\t\t  in Performance\u2014Winter Production",
+        "description": "The in-depth study for a fully staged dance production in various venues, including a fall dance cabaret led by faculty, a winter faculty concert with guest choreographers, and a spring student choreographed concert directed by faculty. Admission by audition only. May be taken for credit four times. "
+    },
+    "TDPF 162": {
+        "prerequisites": [],
+        "name": "Studies in Performance Spring Production\n\t\t\t   ",
+        "description": "The study and aesthetic examination of major choreographic works by dance faculty or distinguished guest artists. Students will experience the creative process, staging, production, and performance of a complete dance work in conjunction with a conceptual study of its form and content. Audition is required. May be taken for credit four times. "
+    },
+    "TDPF 163": {
+        "prerequisites": [],
+        "name": "Dance Repertory",
+        "description": "Students develop skills in directing and producing an independent staged dance concert/production in various settings. May be taken for credit two times.\u00a0"
+    },
+    "TDPF 190": {
+        "prerequisites": [],
+        "name": "Major Project/Dance Production",
+        "description": "A production-oriented course that introduces the student to technical fundamentals of costumes, scenery, lighting, and sound for the theatre. Students will be assigned to participate on a crew for a fully mounted theatrical production supported by the department. "
+    },
+    "TDPR 6": {
+        "prerequisites": [],
+        "name": "Theatre Practicum",
+        "description": "A production performance-oriented course that continues the development of costume, lighting, scenery, or sound production and introduces greater responsibilities in the laboratory format. Students serve as crew heads on major departmental productions or creative projects. May be taken for credit two times. "
+    },
+    "TDPR 102": {
+        "prerequisites": [],
+        "name": "Advanced Theatre Practicum",
+        "description": "A production performance-oriented course that continues the development of stage management skills and introduces greater responsibilities in the laboratory format. Students serve as either assistant stage managers on main stage productions or stage managers on studio projects. May be taken for credit two times. "
+    },
+    "TDPR 104": {
+        "prerequisites": [],
+        "name": "Advanced\n\t\t\t\t  Practicum in Stage Management",
+        "description": "Beginning workshop in the fundamentals of playwriting. Students discuss material from a workbook that elucidates the basic principles of playwriting, do exercises designed to help them put those principles into creative practice, and are guided through the various stages of the playwriting process that culminate with in-class readings of the short plays they have completed. "
+    },
+    "TDPW 1": {
+        "prerequisites": [],
+        "name": "Introduction to Playwriting",
+        "description": "A workshop where students present their plays at various stages of development for group analysis and discussion. Students write a thirty-minute play that culminates in a reading. Also includes writing exercises designed to stimulate imagination and develop writing techniques. May be taken for credit two times. "
+    },
+    "TDPW 101": {
+        "prerequisites": [],
+        "name": "Intermediate Playwriting",
+        "description": "Advanced workshop where students study the full-length play structure and begin work on a long play. Students present their work at various stages of development for group discussion and analysis. May be taken for credit two times. "
+    },
+    "TDPW 102": {
+        "prerequisites": [],
+        "name": "Advanced Playwriting",
+        "description": "Basic principles of screenwriting using scenario composition, plot points, character study, story conflict, with emphasis on visual action and strong dramatic movement. May be taken for credit two times. "
+    },
+    "TDPW 104": {
+        "prerequisites": [],
+        "name": "Screenwriting",
+        "description": "For the advanced student in playwriting/screenwriting. This intensive concentration in the study of playwriting and/or screenwriting will culminate in the creation of a substantial length play. A maximum of eight units of major project study, regardless of area (design, directing, stage management, playwriting) may be used to fulfill major requirements. Applicants must have completed the playwriting sequence, THPW or TDPW 1, 101, and/or consent of instructor. See department for application form. "
+    },
+    "TDPW 190": {
+        "prerequisites": [],
+        "name": "Major\n\t\t\t\t  Project in Playwriting/Screenwriting",
+        "description": "An overview of dance, examining its social and cultural history and its evolution as an art form. Focus is on dance and its many genres as an expressive medium and form of communication. "
+    },
+    "TDTR 10": {
+        "prerequisites": [],
+        "name": "Introduction to Dance",
+        "description": "An overview and analysis of movement theory systems that offer approaches that improve movement quality, prevent injuries, aid in habilitation, develop mental focus and kinesthetic control, establish a positive body language, and develop vocabulary for creative research. "
+    },
+    "TDTR 15": {
+        "prerequisites": [],
+        "name": "Dance Movement and Analysis",
+        "description": "The study of dance on film and video, the evolution of the creation, filming, editing, and production of dance for the camera. Major dance film works will be analyzed and discussed from choreography in the movies to dances made for film. "
+    },
+    "TDTR 20": {
+        "prerequisites": [],
+        "name": "Dance on Film",
+        "description": "The study of the theoretical aspects of dance education, including an analysis of movement concepts for all ages. Development of basic technique training in all forms, curriculum planning, social awareness, and problem solving. Fundamental elements of cognitive and kinetic learning skills. "
+    },
+    "TDTR 104": {
+        "prerequisites": [],
+        "name": "Dance Theory and Pedagogy",
+        "description": "A daily program of physical, vocal, and speech exercises designed to prepare the student to move in a focused way into specific class areas with minimum amount of warm-up time. The exercises work on development of flexibility, strength, and coordination throughout the body. Strong emphasis is placed on physical and mental centering within a structured and disciplined approach to preparation. "
+    }
+}

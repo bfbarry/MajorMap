@@ -215,6 +215,9 @@
     "COGS 110": {
         "prerequisites": [
             "COGS 1",
+            "or",
+            "HDP 1",
+            "or",
             "HDS 1"
         ],
         "name": "The Developing Mind",
@@ -222,11 +225,17 @@
     },
     "COGS 115": {
         "prerequisites": [
+            "BILD 10",
+            "or",
+            "BILD 12",
+            "or",
             "COGS 107A",
             "or",
             "COGS 107B",
             "or",
-            "COGS 17"
+            "COGS 17",
+            "or",
+            "HDP 110"
         ],
         "name": "Neurological Development and Cognitive Change",
         "description": "This course provides an overview of neurological\n\t\t\t\t  development and explores the relations between physiological\n\t\t\t\t  change and the experience for the child from the prenatal period\n\t\t\t\t  through adolescence. "
@@ -264,7 +273,7 @@
             "ECE 175A"
         ],
         "name": "Supervised Machine Learning Algorithms ",
-        "description": "This course introduces the mathematical formulations and algorithmic implementations of the core supervised machine learning methods. Topics in 118A include regression, nearest neighborhood, decision tree, support vector machine, and ensemble classifiers. COGS 118A-B may be taken in either order.  "
+        "description": "This course introduces the mathematical formulations and algorithmic implementations of the core supervised machine learning methods. Topics in 118A include regression, nearest neighborhood, decision tree, support vector machine, and ensemble classifiers. COGS 118A-B may be taken in either order.   ** Consent of instructor to enroll possible  **"
     },
     "COGS 118B": {
         "prerequisites": [
@@ -281,7 +290,7 @@
             "MATH 180A"
         ],
         "name": "Introduction to Machine Learning II ",
-        "description": "This course, with COGS 118A, forms a rigorous introduction to machine learning. Topics in 118B include maximum likelihood estimation, Bayesian parameter estimation, clustering, principal component analysis, and some application areas. COGS 118A-B may be taken in either order. "
+        "description": "This course, with COGS 118A, forms a rigorous introduction to machine learning. Topics in 118B include maximum likelihood estimation, Bayesian parameter estimation, clustering, principal component analysis, and some application areas. COGS 118A-B may be taken in either order.  ** Consent of instructor to enroll possible  **"
     },
     "COGS 118C": {
         "prerequisites": [
@@ -308,7 +317,7 @@
             "MATH 180A"
         ],
         "name": "Mathematical Statistics for Behavioral Data Analysis",
-        "description": "Statistical methods for analyzing behavioral data. A mathematically sophisticated course covering both classical and Bayesian statistical methods for estimation, hypothesis testing, regression, and model comparison. Emphasis on both mathematical understanding of statistical methods as well as common applications. "
+        "description": "Statistical methods for analyzing behavioral data. A mathematically sophisticated course covering both classical and Bayesian statistical methods for estimation, hypothesis testing, regression, and model comparison. Emphasis on both mathematical understanding of statistical methods as well as common applications.  ** Consent of instructor to enroll possible  **"
     },
     "COGS 119": {
         "prerequisites": [
@@ -479,7 +488,7 @@
     "COGS 156": {
         "prerequisites": [],
         "name": "Language Development",
-        "description": "A comprehensive survey of theory, method and research findings\n                  on language development in children ranging from the earliest\n                  stages of speech perception and communication at birth to refinements\n                  in narrative discourse and conventional fluency through middle\n                  childhood and adolescence. "
+        "description": "A comprehensive survey of theory, method and research findings\n                  on language development in children ranging from the earliest\n                  stages of speech perception and communication at birth to refinements\n                  in narrative discourse and conventional fluency through middle\n                  childhood and adolescence.  ** Upper-division standing required ** "
     },
     "COGS 157": {
         "prerequisites": [
@@ -517,7 +526,9 @@
     },
     "COGS 170": {
         "prerequisites": [
-            "COGS 17"
+            "COGS 17",
+            "or",
+            "BILD 12"
         ],
         "name": "Brain Waves Across Scales",
         "description": "This course will provide an interactive and hands-on introduction to rhythms and large-scale electrical potentials of the brain. Topics will include the resonance properties of neurons, rhythmic interactions between neurons, the coordination of activity across large populations of neurons that is measurable in the local field potential (LFP) and electroencephalogram (EEG), the advantages of temporally coordinated neural activity, and relevant insights about the brain and cognitive disorders. "
@@ -565,7 +576,7 @@
             "COGS 107A-B"
         ],
         "name": "Genes, Brains, and Behavior",
-        "description": "Evidence for genetic mediation of behavioral and neural differences, mechanisms that may mediate these effects, and the roles of the environment and experience are discussed. "
+        "description": "Evidence for genetic mediation of behavioral and neural differences, mechanisms that may mediate these effects, and the roles of the environment and experience are discussed.  ** Consent of instructor to enroll possible  **"
     },
     "COGS 179": {
         "prerequisites": [
@@ -578,6 +589,8 @@
     },
     "COGS 180": {
         "prerequisites": [
+            "BILD 12",
+            "or",
             "COGS 107B",
             "or",
             "PSYC 106",
@@ -642,7 +655,9 @@
             "or",
             "COGS 107B",
             "or",
-            "COGS 107C"
+            "COGS 107C",
+            "or",
+            "BILD 12"
         ],
         "name": "Modeling the Evolution of Cognition",
         "description": "This interdisciplinary course integrates data on evolutionary theory, hominid prehistory, primate behavior, comparative neuroanatomy, cognitive development, and collaboration. After lectures, readings, and discussion of the literature, students generate a detailed timeline of five million years of human cognitive evolution. Students may not receive credit for COGS 184 and COGS 184GS. "
@@ -676,7 +691,7 @@
             "COGS 187A"
         ],
         "name": "Practicum in Professional Web Design ",
-        "description": "This course follows up on the basics of multimedia design taught in COGS 187A. Students will probe more deeply into selective topics, such as animation, navigation, graphical display of information, and narrative coherence.  "
+        "description": "This course follows up on the basics of multimedia design taught in COGS 187A. Students will probe more deeply into selective topics, such as animation, navigation, graphical display of information, and narrative coherence.   ** Consent of instructor to enroll possible  **"
     },
     "COGS 188": {
         "prerequisites": [
@@ -741,11 +756,11 @@
     "COGS 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "This independent study course is for small groups of advanced students who wish to complete a one-quarter reading or research project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit three times. "
+        "description": "This independent study course is for small groups of advanced students who wish to complete a one-quarter reading or research project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit three times.  ** Consent of instructor to enroll possible  **"
     },
     "COGS 199": {
         "prerequisites": [],
         "name": "Special Project",
-        "description": "This independent study course is for individual, advanced students who wish to complete a one-quarter reading or research project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit three times.  "
+        "description": "This independent study course is for individual, advanced students who wish to complete a one-quarter reading or research project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit three times.   ** Consent of instructor to enroll possible  **"
     }
 }

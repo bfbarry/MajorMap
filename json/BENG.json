@@ -7,7 +7,7 @@
     "BENG 2": {
         "prerequisites": [],
         "name": "Introductory Computer Programming and Matlab",
-        "description": "Introduction to Matlab is designed to give students fluency in Matlab, including popular toolboxes. Consists of interactive lectures with a computer running Matlab for each student. Topics: variables, operations, and plotting; visualization and programming; and solving equations and curve fitting. "
+        "description": "Introduction to Matlab is designed to give students fluency in Matlab, including popular toolboxes. Consists of interactive lectures with a computer running Matlab for each student. Topics: variables, operations, and plotting; visualization and programming; and solving equations and curve fitting.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 87": {
         "prerequisites": [],
@@ -22,17 +22,17 @@
     "BENG 98": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Directed group study on a topic or in a field not included in the regular department curriculum. (P/NP grades only.) "
+        "description": "Directed group study on a topic or in a field not included in the regular department curriculum. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "BENG 99": {
         "prerequisites": [],
         "name": "Independent Study for Undergraduates",
-        "description": "Independent reading or research by arrangement with a bioengineering faculty member. (P/NP grades only.) "
+        "description": "Independent reading or research by arrangement with a bioengineering faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "BENG 99H": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Independent study or research under direction of a member of the faculty. "
+        "description": "Independent study or research under direction of a member of the faculty.  ** Upper-division standing required ** "
     },
     "BENG 100": {
         "prerequisites": [
@@ -51,14 +51,14 @@
             "PHYS 2A-B-C"
         ],
         "name": "Statistical Reasoning for Bioengineering Applications ",
-        "description": "General introduction to probability and statistical analysis, applied to bioengineering design. Topics include preliminary data analysis, probabilistic models, experiment design, model fitting, goodness-of-fit analysis, and statistical inference/estimation. Written and software problems are provided for modeling and visualization. "
+        "description": "General introduction to probability and statistical analysis, applied to bioengineering design. Topics include preliminary data analysis, probabilistic models, experiment design, model fitting, goodness-of-fit analysis, and statistical inference/estimation. Written and software problems are provided for modeling and visualization.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 102": {
         "prerequisites": [
             "BENG 120"
         ],
         "name": "Molecular Components of Living Systems",
-        "description": "Introduction to molecular structures. Macromolecules and assemblies-proteins, nucleic acids, and metabolites. Principles of design of simple and complex components of organelles, cells, and tissues. "
+        "description": "Introduction to molecular structures. Macromolecules and assemblies-proteins, nucleic acids, and metabolites. Principles of design of simple and complex components of organelles, cells, and tissues.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 103B": {
         "prerequisites": [
@@ -67,7 +67,7 @@
             "BENG 112A"
         ],
         "name": "Bioengineering Mass Transfer",
-        "description": "Mass transfer in solids, liquids, and gases with application to biological systems. Free and facilitated diffusion. Convective mass transfer. Diffusion-reaction phenomena. Active transport. Biological mass transfer coefficients. Steady and unsteady state. Flux-force relationships. (Credit not allowed for both CENG 101C and BENG 103B.) "
+        "description": "Mass transfer in solids, liquids, and gases with application to biological systems. Free and facilitated diffusion. Convective mass transfer. Diffusion-reaction phenomena. Active transport. Biological mass transfer coefficients. Steady and unsteady state. Flux-force relationships. (Credit not allowed for both CENG 101C and BENG 103B.)  ** Consent of instructor to enroll possible  **"
     },
     "BENG 110": {
         "prerequisites": [
@@ -80,35 +80,35 @@
             "MATH 31AH"
         ],
         "name": "Musculoskeletal Biomechanics ",
-        "description": "Statics, dynamics, and solid mechanics of hard and soft musculoskeletal tissues. Forces, moments, static equilibrium, kinematics, kinetics applied to human mechanics, and movement. Stress, strain, and material properties of musculoskeletal tissues. Problem solving and design in biomechanics. "
+        "description": "Statics, dynamics, and solid mechanics of hard and soft musculoskeletal tissues. Forces, moments, static equilibrium, kinematics, kinetics applied to human mechanics, and movement. Stress, strain, and material properties of musculoskeletal tissues. Problem solving and design in biomechanics.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 112A": {
         "prerequisites": [
             "BENG 110"
         ],
         "name": "Soft Tissue Biomechanics",
-        "description": "Tensor analysis. Stress, strain, equilibrium, and constitutive law for soft biological tissues. Applications of solid mechanics to mammalian tissue physiology. Viscoelasticity. Finite elasticity. Problem solving and design in soft tissue biomechanics. "
+        "description": "Tensor analysis. Stress, strain, equilibrium, and constitutive law for soft biological tissues. Applications of solid mechanics to mammalian tissue physiology. Viscoelasticity. Finite elasticity. Problem solving and design in soft tissue biomechanics.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 112B": {
         "prerequisites": [
             "BENG 112A"
         ],
         "name": "Fluid and Cell Biomechanics",
-        "description": "Fluid hydrostatics and flow dynamics. Flow kinematics and conservation laws applied to the circulation. Viscous biofluids. Biopolymers, cell mechanics, and mechanobiology. Problem solving and design in biofluid and cell mechanics. "
+        "description": "Fluid hydrostatics and flow dynamics. Flow kinematics and conservation laws applied to the circulation. Viscous biofluids. Biopolymers, cell mechanics, and mechanobiology. Problem solving and design in biofluid and cell mechanics.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 119A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Biomechanics",
-        "description": "Development of design project in biomechanics. "
+        "description": "Development of design project in biomechanics.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 119B": {
         "prerequisites": [
             "BENG 187C"
         ],
         "name": "\t\t\t\t  Design Implementation in Biomechanics",
-        "description": "Implementation of design project in biomechanics. "
+        "description": "Implementation of design project in biomechanics.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 120": {
         "prerequisites": [
@@ -116,7 +116,7 @@
             "and"
         ],
         "name": "Organic Chemistry Structural and Design Principles",
-        "description": "Structural and design principles of carbon compounds. Structure and stereochemistry. Functional groups and chemical transformations. Structure and design principles of biomolecules. Molecules of life and their organization. "
+        "description": "Structural and design principles of carbon compounds. Structure and stereochemistry. Functional groups and chemical transformations. Structure and design principles of biomolecules. Molecules of life and their organization.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 122A": {
         "prerequisites": [
@@ -125,7 +125,7 @@
             "BENG 134"
         ],
         "name": "Biosystems and Control",
-        "description": "Systems and control theory applied to bioengineering. Modeling, linearization, transfer functions, Laplace transforms, closed-loop systems, design and simulation of controllers. Dynamic behavior and controls of first and second order processes. PID controllers. Stability. Bode design. Features of biological controls systems. A simulation project using Matlab and an oral presentation are required. Credit not allowed for both ECE 101 and BENG 122A. "
+        "description": "Systems and control theory applied to bioengineering. Modeling, linearization, transfer functions, Laplace transforms, closed-loop systems, design and simulation of controllers. Dynamic behavior and controls of first and second order processes. PID controllers. Stability. Bode design. Features of biological controls systems. A simulation project using Matlab and an oral presentation are required. Credit not allowed for both ECE 101 and BENG 122A.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 123": {
         "prerequisites": [
@@ -138,7 +138,7 @@
             "CHEM 40B"
         ],
         "name": "Dynamic Simulation in Bioengineering ",
-        "description": "Dynamic simulation of biochemical reaction networks, including reconstruction of networks, mathematical description of kinetics of biochemical reactions, dynamic simulation of systems of biochemical reactions, and use of simulators for data interpretation and prediction in biology. Emphasis on a design project.  "
+        "description": "Dynamic simulation of biochemical reaction networks, including reconstruction of networks, mathematical description of kinetics of biochemical reactions, dynamic simulation of systems of biochemical reactions, and use of simulators for data interpretation and prediction in biology. Emphasis on a design project.   ** Consent of instructor to enroll possible  **"
     },
     "BENG 125": {
         "prerequisites": [
@@ -147,63 +147,63 @@
             "BENG 123"
         ],
         "name": "Modeling and Computation in Bioengineering",
-        "description": "Computational modeling of molecular bioengineering phenomena: excitable cells, regulatory networks, and transport. Application of ordinary, stochastic, and partial differential equations. Introduction to data analysis techniques: power spectra, wavelets, and nonlinear time series analysis. "
+        "description": "Computational modeling of molecular bioengineering phenomena: excitable cells, regulatory networks, and transport. Application of ordinary, stochastic, and partial differential equations. Introduction to data analysis techniques: power spectra, wavelets, and nonlinear time series analysis.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 126A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Bioinformatics Bioengineering",
-        "description": "Development of design project in bioinformatics bioengineering. "
+        "description": "Development of design project in bioinformatics bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 126B": {
         "prerequisites": [
             "BENG 126A"
         ],
         "name": "Design Implementation in Bioinformatics Bioengineering",
-        "description": "Implementation of design project in bioinformatics bioengineering. "
+        "description": "Implementation of design project in bioinformatics bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 127A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Molecular Systems Bioengineering",
-        "description": "Development of design project in molecular systems bioengineering. "
+        "description": "Development of design project in molecular systems bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 127B": {
         "prerequisites": [
             "BENG 127A"
         ],
         "name": "Design Implementation in Molecular Systems Bioengineering",
-        "description": "Implementation of design project in molecular systems bioengineering. "
+        "description": "Implementation of design project in molecular systems bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 128A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Genetic Circuits Bioengineering",
-        "description": "Development of design project in genetic circuits bioengineering. "
+        "description": "Development of design project in genetic circuits bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 128B": {
         "prerequisites": [
             "BENG 128A"
         ],
         "name": "Design Implementation in Genetic Circuits Bioengineering",
-        "description": "Implementation of design project in genetic circuits bioengineering. "
+        "description": "Implementation of design project in genetic circuits bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 129A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Cell Systems Bioengineering",
-        "description": "Development of design project in cell systems bioengineering. "
+        "description": "Development of design project in cell systems bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 129B": {
         "prerequisites": [
             "BENG 129A"
         ],
         "name": "Design Implementation in Cell Systems Bioengineering",
-        "description": "Implementation of design project in cell systems bioengineering. "
+        "description": "Implementation of design project in cell systems bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 130": {
         "prerequisites": [
@@ -212,7 +212,7 @@
             "PHYS 2A"
         ],
         "name": "Biotechnology Thermodynamics and Kinetics ",
-        "description": "An\u00a0introduction to physical principles that govern biological matter and processes, with engineering examples. Thermodynamic principles, structural basis of life, molecular reactions and kinetics, and models to illustrate biological phenomena. "
+        "description": "An\u00a0introduction to physical principles that govern biological matter and processes, with engineering examples. Thermodynamic principles, structural basis of life, molecular reactions and kinetics, and models to illustrate biological phenomena.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 133": {
         "prerequisites": [
@@ -220,7 +220,7 @@
             "and"
         ],
         "name": "Numerical Analysis and Computational Engineering",
-        "description": "Principles of digital computing, including number representation and arithmetic operations. Accuracy, stability, and convergence. Algorithms for solving linear systems of equations, interpolation, numerical differentiation, and integration and ordinary differential equations. "
+        "description": "Principles of digital computing, including number representation and arithmetic operations. Accuracy, stability, and convergence. Algorithms for solving linear systems of equations, interpolation, numerical differentiation, and integration and ordinary differential equations.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 134": {
         "prerequisites": [
@@ -231,7 +231,7 @@
             "MATH 31AH"
         ],
         "name": "Measurements, Statistics, and Probability",
-        "description": "A combined lecture and laboratory course that provides an introductory treatment of probability theory, including distribution functions, moments, and random variables. Practical applications include estimation of means and variances, hypothesis testing, sampling theory, and linear regression. "
+        "description": "A combined lecture and laboratory course that provides an introductory treatment of probability theory, including distribution functions, moments, and random variables. Practical applications include estimation of means and variances, hypothesis testing, sampling theory, and linear regression.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 135": {
         "prerequisites": [
@@ -240,102 +240,104 @@
             "BENG 133"
         ],
         "name": "Biomedical Signals and Systems",
-        "description": "Discrete systems: linearity, convolution, impulse, and step responses. Linear systems properties. Difference equations. Fourier Series. Continuous FS. Discrete FS. Periodic signals, filtering, and FT. Discrete FT examples. Frequency response of linear systems. Sampling. Relationship between FT, DFT. Laplace Transform. LT and inverse LT. "
+        "description": "Discrete systems: linearity, convolution, impulse, and step responses. Linear systems properties. Difference equations. Fourier Series. Continuous FS. Discrete FS. Periodic signals, filtering, and FT. Discrete FT examples. Frequency response of linear systems. Sampling. Relationship between FT, DFT. Laplace Transform. LT and inverse LT.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 139A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Molecular Bioengineering",
-        "description": "Development of design project in molecular bioengineering. "
+        "description": "Development of design project in molecular bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 139B": {
         "prerequisites": [
             "BENG 139A"
         ],
         "name": "Design Implementation in Molecular Bioengineering",
-        "description": "Implementation of design project in molecular bioengineering. "
+        "description": "Implementation of design project in molecular bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 140A": {
         "prerequisites": [
             "CHEM 6A-B",
             "PHYS 2A-B-C",
+            "BILD 1",
             "or",
             "BENG 102"
         ],
         "name": "Bioengineering Physiology",
-        "description": "Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Basic cell functions; biological control systems; muscle; neural; endocrine, and circulatory systems. Not intended for premedical bioengineering students. Credit not allowed for both BIPN 100 and BENG 140A. "
+        "description": "Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Basic cell functions; biological control systems; muscle; neural; endocrine, and circulatory systems. Not intended for premedical bioengineering students. Credit not allowed for both BIPN 100 and BENG 140A.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 140B": {
         "prerequisites": [
             "BENG 140A"
         ],
         "name": "Bioengineering Physiology",
-        "description": "Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Digestive, respiratory, renal, and reproductive systems; regulation of metabolism, and defense mechanisms. (Credit not allowed for both BIPN 102 and BENG 140B.) "
+        "description": "Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Digestive, respiratory, renal, and reproductive systems; regulation of metabolism, and defense mechanisms. (Credit not allowed for both BIPN 102 and BENG 140B.)  ** Consent of instructor to enroll possible  **"
     },
     "BENG 141": {
         "prerequisites": [
             "BENG 100"
         ],
         "name": "Biomedical Optics and Imaging",
-        "description": "Introduction to optics. Light propagation in tissue. Propagation modeling. Optical components. Laser concepts. Optical coherence tomography. Microscopic scattering. Tissue optics. Microscopy. Confocal microscopy. Polarization in tissue. Absorption, diffuse reflection, light scattering spectroscopy. Raman, fluorescence lifetime imaging. Photo-acoustic imaging. "
+        "description": "Introduction to optics. Light propagation in tissue. Propagation modeling. Optical components. Laser concepts. Optical coherence tomography. Microscopic scattering. Tissue optics. Microscopy. Confocal microscopy. Polarization in tissue. Absorption, diffuse reflection, light scattering spectroscopy. Raman, fluorescence lifetime imaging. Photo-acoustic imaging.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 147A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Neural Engineering",
-        "description": "Development of design project in neural engineering. "
+        "description": "Development of design project in neural engineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 147B": {
         "prerequisites": [
             "BENG 147A"
         ],
         "name": "Design Implementation in Neural Engineering",
-        "description": "Implementation of design project in neural engineering. "
+        "description": "Implementation of design project in neural engineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 148A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Cardiac Bioengineering",
-        "description": "Development of design project in cardiac bioengineering. "
+        "description": "Development of design project in cardiac bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 148B": {
         "prerequisites": [
             "BENG 148A"
         ],
         "name": "Design Implementation in Cardiac Bioengineering",
-        "description": "Implementation of design project in cardiac bioengineering. "
+        "description": "Implementation of design project in cardiac bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 149A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Vascular Bioengineering",
-        "description": "Development of design project in vascular bioengineering. "
+        "description": "Development of design project in vascular bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 149B": {
         "prerequisites": [
             "BENG 149A"
         ],
         "name": "Design Implementation in Vascular Bioengineering",
-        "description": "Implementation of design project in vascular bioengineering. "
+        "description": "Implementation of design project in vascular bioengineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 152": {
         "prerequisites": [
             "BENG 102"
         ],
         "name": "Biosystems Engineering Laboratory",
-        "description": "Experimental study of real and simulated systems and their controls (examples will include electrical, biological, and biomechanical systems). Projects consist of identification, input-output analysis, design, and implementation of analog controls. Laboratory examples will include electrical circuit design and analysis, analysis of living tissues such as bone, analysis and manipulation of cells (bacteria in chemostat). Program or materials fees may apply.\u00a0"
+        "description": "Experimental study of real and simulated systems and their controls (examples will include electrical, biological, and biomechanical systems). Projects consist of identification, input-output analysis, design, and implementation of analog controls. Laboratory examples will include electrical circuit design and analysis, analysis of living tissues such as bone, analysis and manipulation of cells (bacteria in chemostat). Program or materials fees may apply.\u00a0 ** Consent of instructor to enroll possible  **"
     },
     "BENG 160": {
         "prerequisites": [
+            "BICD 100",
             "BENG 100",
             "MAE 170"
         ],
         "name": "Chemical and Molecular Bioengineering Techniques",
-        "description": "Introductory laboratory course in current principles and techniques of chemistry and molecular biology applicable to bioengineering. Quantitation of proteins and nucleic acids by spectrophotometric, immunological, and enzymatic methods. Separations and purification by centrifugation, chromatographic, and electrophoretic methods. Course materials fees may apply. "
+        "description": "Introductory laboratory course in current principles and techniques of chemistry and molecular biology applicable to bioengineering. Quantitation of proteins and nucleic acids by spectrophotometric, immunological, and enzymatic methods. Separations and purification by centrifugation, chromatographic, and electrophoretic methods. Course materials fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 161A": {
         "prerequisites": [
@@ -344,14 +346,14 @@
             "BENG 160"
         ],
         "name": "Bioreactor Engineering",
-        "description": "Engineering, biochemical, and physiological considerations in the design of bioreactor processes: enzyme kinetics, mass transfer limitations, microbial growth, and product formation kinetics. Fermentation reactor selection, design, scale-up, control. Quantitative bioengineering analysis and design of biochemical processes and experiments on biomolecules. "
+        "description": "Engineering, biochemical, and physiological considerations in the design of bioreactor processes: enzyme kinetics, mass transfer limitations, microbial growth, and product formation kinetics. Fermentation reactor selection, design, scale-up, control. Quantitative bioengineering analysis and design of biochemical processes and experiments on biomolecules.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 161B": {
         "prerequisites": [
             "BENG 161A"
         ],
         "name": "Biochemical Engineering",
-        "description": "Commercial production of biochemical commodity products. Application of genetic control systems and mutant populations. Recombinant DNA and eukaryotic proteins in E. coli and other host organisms. Product recovery operations, including the design of bioseparation processes of filtration, adsorption, chromatography, and crystallization. Bioprocess economics. Human recombinant erythropoietin as an example, from genomic cloning to CHO cell expression, to bioreactor manufacturing and purification of medical products for clinical application. "
+        "description": "Commercial production of biochemical commodity products. Application of genetic control systems and mutant populations. Recombinant DNA and eukaryotic proteins in E. coli and other host organisms. Product recovery operations, including the design of bioseparation processes of filtration, adsorption, chromatography, and crystallization. Bioprocess economics. Human recombinant erythropoietin as an example, from genomic cloning to CHO cell expression, to bioreactor manufacturing and purification of medical products for clinical application.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 162": {
         "prerequisites": [
@@ -360,7 +362,7 @@
             "BENG 160"
         ],
         "name": "Biotechnology Laboratory",
-        "description": "Laboratory practices and design principles for biotechnology. Culture of microorganisms and mammalian cells, recombinant DNA bioreactor design and operation. Design and implementation of biosensors. A team design-based term project and oral presentation required. Course materials fees may apply. "
+        "description": "Laboratory practices and design principles for biotechnology. Culture of microorganisms and mammalian cells, recombinant DNA bioreactor design and operation. Design and implementation of biosensors. A team design-based term project and oral presentation required. Course materials fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 166A": {
         "prerequisites": [
@@ -369,49 +371,51 @@
             "BENG 112B"
         ],
         "name": "Cell and Tissue Engineering",
-        "description": "Engineering analysis of physico-chemical rate processes that affect, limit, and govern the function of cells and tissues. Cell migration, mitosis, apoptosis, and differentiation. Dynamic and structural interactions between mesenchyme and parenchyme. The role of the tissue microenvironment including cell-cell interactions, extracellular matrix, and growth factor communication. The design of functional tissue substitutes including cell and material sourcing, scale-up and manufacturability, efficacy and safety, regulatory, and ethical topics. Clinical applications. "
+        "description": "Engineering analysis of physico-chemical rate processes that affect, limit, and govern the function of cells and tissues. Cell migration, mitosis, apoptosis, and differentiation. Dynamic and structural interactions between mesenchyme and parenchyme. The role of the tissue microenvironment including cell-cell interactions, extracellular matrix, and growth factor communication. The design of functional tissue substitutes including cell and material sourcing, scale-up and manufacturability, efficacy and safety, regulatory, and ethical topics. Clinical applications.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "BENG 168": {
         "prerequisites": [
+            "BILD 1",
+            "and",
             "BENG 100"
         ],
         "name": "Biomolecular Engineering",
-        "description": "Basic molecular biology and recombinant DNA technologies. Structure and function of biomolecules that decode genomes and perform energy conversion, enzymatic catalysis, and active transport. Metabolism of macromolecules. Molecular diagnostics. Design, engineering, and manufacture of proteins, genomes, cells, and biomolecular therapies. "
+        "description": "Basic molecular biology and recombinant DNA technologies. Structure and function of biomolecules that decode genomes and perform energy conversion, enzymatic catalysis, and active transport. Metabolism of macromolecules. Molecular diagnostics. Design, engineering, and manufacture of proteins, genomes, cells, and biomolecular therapies.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 169A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Tissue Engineering",
-        "description": "Development of design project in tissue engineering. "
+        "description": "Development of design project in tissue engineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 169B": {
         "prerequisites": [
             "BENG 169A"
         ],
         "name": "Design Implementation in Tissue Engineering",
-        "description": "Implementation of design project in tissue engineering. "
+        "description": "Implementation of design project in tissue engineering.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 172": {
         "prerequisites": [
             "MAE 170"
         ],
         "name": "Bioengineering Laboratory",
-        "description": "A laboratory course demonstrating basic concepts of biomechanics, bioengineering design, and experimental procedures involving animal tissue. Sources of error and experimental limitations. Computer data acquisition, modeling, statistical analysis. Experiments on artery, muscle and heart mechanics, action potentials, viscoelasticity, electrocardiography, hemorheology. Course materials fees may apply. "
+        "description": "A laboratory course demonstrating basic concepts of biomechanics, bioengineering design, and experimental procedures involving animal tissue. Sources of error and experimental limitations. Computer data acquisition, modeling, statistical analysis. Experiments on artery, muscle and heart mechanics, action potentials, viscoelasticity, electrocardiography, hemorheology. Course materials fees may apply.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "BENG 179A": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Design Development in Bioinstrumentation",
-        "description": "Development of design project in bioinstrumentation. "
+        "description": "Development of design project in bioinstrumentation.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 179B": {
         "prerequisites": [
             "BENG 179A"
         ],
         "name": "Design Implementation in Bioinstrumentation",
-        "description": "Implementation of design project in bioinstrumentation. "
+        "description": "Implementation of design project in bioinstrumentation.  ** Consent of instructor to enroll possible  **"
     },
     "BENG/BIMM/CSE 181": {
         "prerequisites": [
@@ -429,14 +433,19 @@
     },
     "BENG 183": {
         "prerequisites": [
+            "BIMM 100",
+            "or",
             "CHEM 114C"
         ],
         "name": "Applied Genomic Technologies",
-        "description": "Principles and technologies for using genomic information for biomedical applications. Technologies will be introduced progressively, from DNA to RNA to protein to whole cell systems. The integration of biology, chemistry, engineering, and computation will be stressed. Topics include technology for the genome, DNA chips, RNA technologies, proteomic technologies, aphysiomic and phenomic technologies, and analysis of cell function. "
+        "description": "Principles and technologies for using genomic information for biomedical applications. Technologies will be introduced progressively, from DNA to RNA to protein to whole cell systems. The integration of biology, chemistry, engineering, and computation will be stressed. Topics include technology for the genome, DNA chips, RNA technologies, proteomic technologies, aphysiomic and phenomic technologies, and analysis of cell function.  ** Consent of instructor to enroll possible  **"
     },
     "BENG/BIMM/CSE/CHEM 184": {
         "prerequisites": [
             "BENG 181",
+            "or",
+            "BIMM 181",
+            "or",
             "CSE 181"
         ],
         "name": "Computational Molecular Biology",
@@ -449,7 +458,7 @@
             "BENG 123"
         ],
         "name": "Principles of Biomaterials Design",
-        "description": "Fundamentals of materials science as applied to bioengineering design. Natural and synthetic polymeric materials. Materials characterization and design. Wound repair, blood clotting, foreign body response, transplantation biology, biocompatibility of materials, tissue engineering. Artificial organs and medical devices. Government regulations. Patenting. Economic impact. Ethical issues. A term project and oral presentation are required. "
+        "description": "Fundamentals of materials science as applied to bioengineering design. Natural and synthetic polymeric materials. Materials characterization and design. Wound repair, blood clotting, foreign body response, transplantation biology, biocompatibility of materials, tissue engineering. Artificial organs and medical devices. Government regulations. Patenting. Economic impact. Ethical issues. A term project and oral presentation are required.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 186B": {
         "prerequisites": [
@@ -458,7 +467,7 @@
             "MAE 140"
         ],
         "name": "Principles of Bioinstrumentation Design",
-        "description": "Biophysical phenomena, transducers, and electronics as related to the design of biomedical instrumentation. Potentiometric and amperometric signals and amplifiers. Biopotentials, membrane potentials, chemical sensors. Electrical safety. Mechanical transducers for displacement, force, and pressure. Temperature sensors. Flow sensors. Light-based instrumentation. "
+        "description": "Biophysical phenomena, transducers, and electronics as related to the design of biomedical instrumentation. Potentiometric and amperometric signals and amplifiers. Biopotentials, membrane potentials, chemical sensors. Electrical safety. Mechanical transducers for displacement, force, and pressure. Temperature sensors. Flow sensors. Light-based instrumentation.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 187A": {
         "prerequisites": [
@@ -469,28 +478,28 @@
             "BENG 168"
         ],
         "name": "Bioengineering Design Project:  Planning",
-        "description": "General engineering design topics including project planning and design objectives, background research, engineering needs assessment, technical design specifications, engineering standards, and design requirements and constraints. Introduction to biomedical and biotechnology design projects. Career and professional advising.  Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved. "
+        "description": "General engineering design topics including project planning and design objectives, background research, engineering needs assessment, technical design specifications, engineering standards, and design requirements and constraints. Introduction to biomedical and biotechnology design projects. Career and professional advising.  Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 187B": {
         "prerequisites": [
             "BENG 187A"
         ],
         "name": "Bioengineering Design Project:  Development",
-        "description": "Development of an original bioengineering design for solution of a problem in biology or medicine. Analysis of economic issues, manufacturing and quality assurance, ethics, safety, design constraints, government regulations, and patent requirements. Oral presentation and formal engineering reports. Career and professional advising.   Majors\n\t\t\t\t  must enroll in the course for a letter grade in order to count\n\t\t\t\t  the sequence toward the\n\t\t\t\t  major.  No exceptions will be approved. "
+        "description": "Development of an original bioengineering design for solution of a problem in biology or medicine. Analysis of economic issues, manufacturing and quality assurance, ethics, safety, design constraints, government regulations, and patent requirements. Oral presentation and formal engineering reports. Career and professional advising.   Majors\n\t\t\t\t  must enroll in the course for a letter grade in order to count\n\t\t\t\t  the sequence toward the\n\t\t\t\t  major.  No exceptions will be approved.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 187C": {
         "prerequisites": [
             "BENG 187B"
         ],
         "name": "Bioengineering Design Project:  Implementation",
-        "description": "Approaches to implementation of senior design project, including final report. Teams will report on construction of prototypes, conduct of testing, collection of data, and assessment of reliability and failure. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved. "
+        "description": "Approaches to implementation of senior design project, including final report. Teams will report on construction of prototypes, conduct of testing, collection of data, and assessment of reliability and failure. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 187D": {
         "prerequisites": [
             "BENG 187C"
         ],
         "name": "Bioengineering Design Project:  Presentation",
-        "description": "Oral presentations of design projects, including design, development, and implementation strategies and results of prototype testing. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved. "
+        "description": "Oral presentations of design projects, including design, development, and implementation strategies and results of prototype testing. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 189": {
         "prerequisites": [
@@ -498,19 +507,21 @@
             "and"
         ],
         "name": "Physiological Systems Engineering",
-        "description": "Quantitative description of physiological systems, e.g., electrical and mechanical properties of muscle (skeletal and cardiac). Modeling and simulation of properties. Kidney, transport, and models. Neural circuits and models. "
+        "description": "Quantitative description of physiological systems, e.g., electrical and mechanical properties of muscle (skeletal and cardiac). Modeling and simulation of properties. Kidney, transport, and models. Neural circuits and models.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 191/291": {
         "prerequisites": [],
         "name": "\t\t\t    Senior Seminar I: Professional Issues in Bioengineering",
-        "description": "(Conjoined with BENG 291.) Instills skills for personal and organizational development during lifelong learning. Student prepares portfolio of personal attributes and experiences, prepares for career interviews plus oral report of interviewing organizational CEO. Graduate students will prepare a NIH small business research grant. "
+        "description": "(Conjoined with BENG 291.) Instills skills for personal and organizational development during lifelong learning. Student prepares portfolio of personal attributes and experiences, prepares for career interviews plus oral report of interviewing organizational CEO. Graduate students will prepare a NIH small business research grant.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 193": {
         "prerequisites": [
-            "BENG 140A"
+            "BENG 140A",
+            "or",
+            "BIPN 100"
         ],
         "name": "Clinical Bioengineering",
-        "description": "Introduction on the integration of bioengineering and clinical medicine through lectures and rotations with clinical faculty. Students will work with clinical mentors and course faculty to identify areas where engineering can improve diagnostics, clinical practice, and/or treatment. "
+        "description": "Introduction on the integration of bioengineering and clinical medicine through lectures and rotations with clinical faculty. Students will work with clinical mentors and course faculty to identify areas where engineering can improve diagnostics, clinical practice, and/or treatment.  ** Consent of instructor to enroll possible  **"
     },
     "BENG 195": {
         "prerequisites": [],
@@ -520,21 +531,21 @@
     "BENG 196": {
         "prerequisites": [],
         "name": "Bioengineering Industrial Internship",
-        "description": "Under the joint supervision of a faculty adviser and industry mentor, the student will work at or be mentored at a bioengineering industrial company to gain practical bioengineering experience, summarized in a technical report. May be taken for credit up to three times. With departmental approval, four units of credit may substitute for a technical elective. (P/NP grades only.) "
+        "description": "Under the joint supervision of a faculty adviser and industry mentor, the student will work at or be mentored at a bioengineering industrial company to gain practical bioengineering experience, summarized in a technical report. May be taken for credit up to three times. With departmental approval, four units of credit may substitute for a technical elective. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "BENG 197": {
         "prerequisites": [],
         "name": "Engineering Internship",
-        "description": "An enrichment program, available to a limited number of undergraduate students, which provides work experience with industry, government offices, hospitals, and their practices. Subject to the availability of positions, students will work in a local industry or hospital (on a salaried or unsalaried basis) under the supervision of a faculty member and industrial, government, or hospital employee. Coordination of the Engineering Internship is conducted through UC San Diego\u2019s Academic Internship Program. Time and effort to be arranged. Units may not be applied toward major graduation requirements unless prior approval of a faculty adviser is obtained and internship is an unsalaried position. "
+        "description": "An enrichment program, available to a limited number of undergraduate students, which provides work experience with industry, government offices, hospitals, and their practices. Subject to the availability of positions, students will work in a local industry or hospital (on a salaried or unsalaried basis) under the supervision of a faculty member and industrial, government, or hospital employee. Coordination of the Engineering Internship is conducted through UC San Diego\u2019s Academic Internship Program. Time and effort to be arranged. Units may not be applied toward major graduation requirements unless prior approval of a faculty adviser is obtained and internship is an unsalaried position.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "BENG 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Directed group study, on a topic or in a field\n\t\t\t\t  not included in the regular department curriculum, by arrangement with\n\t\t\t\t  a bioengineering faculty member. (P/NP grades only.) "
+        "description": "Directed group study, on a topic or in a field\n\t\t\t\t  not included in the regular department curriculum, by arrangement with\n\t\t\t\t  a bioengineering faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "BENG 199": {
         "prerequisites": [],
         "name": "Independent Study for Undergraduates",
-        "description": "Independent reading or research by arrangement with a bioengineering faculty member. May be taken for credit three times. (P/NP grades only.) "
+        "description": "Independent reading or research by arrangement with a bioengineering faculty member. May be taken for credit three times. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     }
 }

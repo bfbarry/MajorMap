@@ -27,7 +27,7 @@
             "and"
         ],
         "name": "Matlab Programming for Engineering Analysis",
-        "description": "Computer programming in Matlab with elementary numerical analysis of engineering problems. Arithmetic and logical operations, arrays, graphical presentation of computations, symbolic mathematics, solutions of equations, and introduction to data structures. "
+        "description": "Computer programming in Matlab with elementary numerical analysis of engineering problems. Arithmetic and logical operations, arrays, graphical presentation of computations, symbolic mathematics, solutions of equations, and introduction to data structures.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 11": {
         "prerequisites": [
@@ -103,7 +103,7 @@
     "MAE 92A": {
         "prerequisites": [],
         "name": "Design\n\t\t  Competition\u2014Design, Build, and Fly Aircraft",
-        "description": "(Cross-listed with SE 10A.) Student teams design, build, and fly unmanned aircraft for a national student competition. Students concentrate on vehicle system design including aerodynamics, structures, propulsion, and performance. Teams engineering, fabricate the aircraft, submit a design report, and prep aircraft for competition. "
+        "description": "(Cross-listed with SE 10A.) Student teams design, build, and fly unmanned aircraft for a national student competition. Students concentrate on vehicle system design including aerodynamics, structures, propulsion, and performance. Teams engineering, fabricate the aircraft, submit a design report, and prep aircraft for competition.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 93": {
         "prerequisites": [],
@@ -113,7 +113,7 @@
     "MAE 98": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Independent study or research under direction of a member of the faculty. "
+        "description": "Independent study or research under direction of a member of the faculty.  ** Upper-division standing required ** "
     },
     "MAE 99H": {
         "prerequisites": [
@@ -126,7 +126,7 @@
             "MATH 31CH"
         ],
         "name": "Independent Study",
-        "description": "Fluid statics; fluid kinematics; integral and differential forms of the conservation laws for mass, momentum, and energy; Bernoulli equation; potential flows; dimensional analysis and similitude. "
+        "description": "Fluid statics; fluid kinematics; integral and differential forms of the conservation laws for mass, momentum, and energy; Bernoulli equation; potential flows; dimensional analysis and similitude.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 101A": {
         "prerequisites": [
@@ -137,7 +137,7 @@
             "MAE 110A"
         ],
         "name": "Introductory Fluid Mechanics",
-        "description": "Laminar and turbulent flow. Pipe flow including\n\t\t\t\t  friction factor. Boundary layers, separation, drag, and lift. Compressible\n\t\t\t    flow including shock waves.  "
+        "description": "Laminar and turbulent flow. Pipe flow including\n\t\t\t\t  friction factor. Boundary layers, separation, drag, and lift. Compressible\n\t\t\t    flow including shock waves.   ** Consent of instructor to enroll possible  **"
     },
     "MAE 101B": {
         "prerequisites": [
@@ -153,7 +153,7 @@
             "MAE 101C"
         ],
         "name": "Heat Transfer",
-        "description": "Course builds on the MAE fluids sequence, offering more advanced concepts in conduction, convection, radiation, and heat exchanger design. This course covers numerical methods in conduction, boiling, condensation and evaporation analysis, natural and turbulent convection, spectral and directional radiative transfer, heatpipes, thermal design of spacecraft, heat exchanger analysis and design. "
+        "description": "Course builds on the MAE fluids sequence, offering more advanced concepts in conduction, convection, radiation, and heat exchanger design. This course covers numerical methods in conduction, boiling, condensation and evaporation analysis, natural and turbulent convection, spectral and directional radiative transfer, heatpipes, thermal design of spacecraft, heat exchanger analysis and design.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "MAE 101D": {
         "prerequisites": [
@@ -161,7 +161,7 @@
             "and"
         ],
         "name": "Intermediate Heat Transfer",
-        "description": "Basic relations describing flow field around\n\t\t\t\t  wings and bodies at subsonic and supersonic speed. Thin-wing\n\t\t\t\t  theory. Slender-body theory. Formulation of theories for evaluating forces\n\t\t\t\t  and moments on airplane geometries. Application to the design of high-speed\n\t\t\t\t  aircraft. "
+        "description": "Basic relations describing flow field around\n\t\t\t\t  wings and bodies at subsonic and supersonic speed. Thin-wing\n\t\t\t\t  theory. Slender-body theory. Formulation of theories for evaluating forces\n\t\t\t\t  and moments on airplane geometries. Application to the design of high-speed\n\t\t\t\t  aircraft.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 104": {
         "prerequisites": [
@@ -214,28 +214,28 @@
             "MATH 20D"
         ],
         "name": "Fundamentals of Propulsion",
-        "description": "(Cross-listed with Physics 151.) Particle\n\t\t\t\t  motions, plasmas as fluids, waves, diffusion, equilibrium and stability,\n\t    nonlinear effects, controlled fusion. Recommended preparation: PHYS 100B\u2013C or ECE 107. "
+        "description": "(Cross-listed with Physics 151.) Particle\n\t\t\t\t  motions, plasmas as fluids, waves, diffusion, equilibrium and stability,\n\t    nonlinear effects, controlled fusion. Recommended preparation: PHYS 100B\u2013C or ECE 107.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 117A": {
         "prerequisites": [
             "MAE 101A"
         ],
         "name": "Elementary Plasma Physics",
-        "description": "Overview of present-day primary energy sources and availability: fossil fuel, renewable, and nuclear; heat engines; energy conservation, transportation, air pollution, and climate change. Students may not receive credit for both MAE 118 and MAE 118A. "
+        "description": "Overview of present-day primary energy sources and availability: fossil fuel, renewable, and nuclear; heat engines; energy conservation, transportation, air pollution, and climate change. Students may not receive credit for both MAE 118 and MAE 118A.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 118": {
         "prerequisites": [
             "MAE 101A"
         ],
         "name": "Introduction to Energy and Environment ",
-        "description": "Basic principles of solar radiation\u2014diffuse and direct radiation; elementary solar energy engineering\u2014solar thermal and solar photovoltaic; basic principles of wind dynamics\u2014hydrodynamic laws, wind intermittency, Betz\u2019s law; elementary wind energy engineering; solar and wind energy perspectives; operating the California power grid with 33 percent renewable energy sources. Students may not receive credit for both MAE 118B and MAE 119. "
+        "description": "Basic principles of solar radiation\u2014diffuse and direct radiation; elementary solar energy engineering\u2014solar thermal and solar photovoltaic; basic principles of wind dynamics\u2014hydrodynamic laws, wind intermittency, Betz\u2019s law; elementary wind energy engineering; solar and wind energy perspectives; operating the California power grid with 33 percent renewable energy sources. Students may not receive credit for both MAE 118B and MAE 119.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 119": {
         "prerequisites": [
             "MAE 101A"
         ],
         "name": "Introduction to Renewable Energy: Solar and Wind",
-        "description": "Overview of basic fission and fusion processes. Elementary fission reactor physics and engineering; environmental and waste disposal issues. Survey of fusion technology issues and perspectives. May not receive credit for both MAE 118C and MAE 120. "
+        "description": "Overview of basic fission and fusion processes. Elementary fission reactor physics and engineering; environmental and waste disposal issues. Survey of fusion technology issues and perspectives. May not receive credit for both MAE 118C and MAE 120.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 120": {
         "prerequisites": [
@@ -249,7 +249,7 @@
             "MAE 101A"
         ],
         "name": "Air Pollution Transport and Dispersion Modeling",
-        "description": "Introduction to the air and aquatic environments. Buoyancy, stratification, and rotation. Earth surface energy balance. Introduction to the atmospheric boundary layer. Advection and diffusion. Turbulent diffusion and dispersion in rivers and in the atmospheric boundary layer. Surface waves and internal gravity waves. "
+        "description": "Introduction to the air and aquatic environments. Buoyancy, stratification, and rotation. Earth surface energy balance. Introduction to the atmospheric boundary layer. Advection and diffusion. Turbulent diffusion and dispersion in rivers and in the atmospheric boundary layer. Surface waves and internal gravity waves.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 122": {
         "prerequisites": [
@@ -266,7 +266,7 @@
             "MATH 10A\u2013C"
         ],
         "name": "Introduction to Transport in Porous Media",
-        "description": "(Cross-listed with ESYS 103.) This course\n\t\t\t\t  explores the impacts of human social, economic, and industrial activity\n\t\t\t\t  on the environment. It highlights the central roles in ensuring sustainable\n\t\t\t\t  development played by market forces, technological innovation and governmental\n\t\t\t\t  regulation on local, national, and global scales. "
+        "description": "(Cross-listed with ESYS 103.) This course\n\t\t\t\t  explores the impacts of human social, economic, and industrial activity\n\t\t\t\t  on the environment. It highlights the central roles in ensuring sustainable\n\t\t\t\t  development played by market forces, technological innovation and governmental\n\t\t\t\t  regulation on local, national, and global scales.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 124": {
         "prerequisites": [],
@@ -300,7 +300,7 @@
             "MAE 130B"
         ],
         "name": "Environmental\n\t\t  Engineering Design",
-        "description": "Harmonically excited vibrations. Vibration of multiple degree-of-freedom systems. Observations, including beat frequencies, static and dynamic coupling, traveling and standing wave phenomena. Vibration of continuous systems. Hamilton\u2019s equations. Distributed and point forces and moments in continuous systems and the generalized Dirac distribution. Response to impact and impulse excitation. Modeling continuous systems with approximate discrete models. Restricted to engineering majors only MC25, MC27, MC29, MO21, SE27. "
+        "description": "Harmonically excited vibrations. Vibration of multiple degree-of-freedom systems. Observations, including beat frequencies, static and dynamic coupling, traveling and standing wave phenomena. Vibration of continuous systems. Hamilton\u2019s equations. Distributed and point forces and moments in continuous systems and the generalized Dirac distribution. Response to impact and impulse excitation. Modeling continuous systems with approximate discrete models. Restricted to engineering majors only MC25, MC27, MC29, MO21, SE27.  ** Upper-division standing required ** "
     },
     "MAE 130": {
         "prerequisites": [
@@ -342,7 +342,7 @@
             "ECE 171A"
         ],
         "name": "Finite\n\t\t  Element Methods in Mechanical and Aerospace Engineering",
-        "description": "The dynamics of vehicles in space or air are derived for analysis of the stability properties of spacecraft and aircraft. The theory of flight, lift, drag, Dutch roll and phugoid modes of aircraft are discussed. Optimal state space control theory for the design of analog and digital controllers (autopilots). "
+        "description": "The dynamics of vehicles in space or air are derived for analysis of the stability properties of spacecraft and aircraft. The theory of flight, lift, drag, Dutch roll and phugoid modes of aircraft are discussed. Optimal state space control theory for the design of analog and digital controllers (autopilots).  ** Consent of instructor to enroll possible  **"
     },
     "MAE 142": {
         "prerequisites": [
@@ -351,14 +351,14 @@
             "MATH 18"
         ],
         "name": "Dynamics\n\t\t  and Control of Aerospace Vehicles",
-        "description": "Dynamic modeling and vector differential equations. Concepts of state, input, output. Linearization around equilibria. Laplace transform, solutions to ODEs. Transfer functions and convolution representation of dynamic systems. Discrete signals, difference equations, z-transform. Continuous and discrete Fourier transform. "
+        "description": "Dynamic modeling and vector differential equations. Concepts of state, input, output. Linearization around equilibria. Laplace transform, solutions to ODEs. Transfer functions and convolution representation of dynamic systems. Discrete signals, difference equations, z-transform. Continuous and discrete Fourier transform.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 143A": {
         "prerequisites": [
             "MAE 143A"
         ],
         "name": "Signals and Systems",
-        "description": "Analysis and design of feedback systems in the frequency domain. Transfer functions. Time response specifications. PID controllers and Ziegler-Nichols tuning. Stability via Routh-Hurwitz test. Root locus method. Frequence response: Bode and Nyquist diagrams. Dynamic compensators, phase-lead and phase-lag. Actuator saturation and integrator wind-up. "
+        "description": "Analysis and design of feedback systems in the frequency domain. Transfer functions. Time response specifications. PID controllers and Ziegler-Nichols tuning. Stability via Routh-Hurwitz test. Root locus method. Frequence response: Bode and Nyquist diagrams. Dynamic compensators, phase-lead and phase-lag. Actuator saturation and integrator wind-up.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 143B": {
         "prerequisites": [
@@ -369,14 +369,14 @@
             "ECE 171A"
         ],
         "name": "Linear Control",
-        "description": "Each student builds, models, programs, and controls an unstable robotic system built around a small Linux computer. Review/synthesis of: A) modern physical and electrical CAD. B) dynamics, signals and systems, linear circuits; PWMs, H-bridges, quadrature encoders. C) embedded Linux, C, graphical programming; multithreaded applications; bus communication to supporting ICs. D) classical control theory in both continuous-time (CT) and discrete-time (DT); interconnection of CT and DT elements. Program or materials fees may apply. "
+        "description": "Each student builds, models, programs, and controls an unstable robotic system built around a small Linux computer. Review/synthesis of: A) modern physical and electrical CAD. B) dynamics, signals and systems, linear circuits; PWMs, H-bridges, quadrature encoders. C) embedded Linux, C, graphical programming; multithreaded applications; bus communication to supporting ICs. D) classical control theory in both continuous-time (CT) and discrete-time (DT); interconnection of CT and DT elements. Program or materials fees may apply.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "MAE 144": {
         "prerequisites": [
             "MAE 130B"
         ],
         "name": "Embedded Control and Robotics",
-        "description": "This course is an introduction to robotic planning algorithms and programming. Topics: sensor-based planning (bug algorithms), motion planning via decomposition and search (basic search algorithms on graphs, A*), the configuration-space concept, free configuration spaces via sampling, collision detection algorithms, (optimal) planning via sampling (probabilistic trees), environment roadmaps, and (extended) Kalman filtering for robot localization and environment mapping (SLAM). "
+        "description": "This course is an introduction to robotic planning algorithms and programming. Topics: sensor-based planning (bug algorithms), motion planning via decomposition and search (basic search algorithms on graphs, A*), the configuration-space concept, free configuration spaces via sampling, collision detection algorithms, (optimal) planning via sampling (probabilistic trees), environment roadmaps, and (extended) Kalman filtering for robot localization and environment mapping (SLAM).  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "MAE 145": {
         "prerequisites": [
@@ -411,12 +411,12 @@
             "and"
         ],
         "name": "Sensor Networks",
-        "description": "Computer-aided analysis and design. Design methodology, tolerance analysis, Monte Carlo analysis, kinematics and computer-aided design of linkages, numerical calculations of moments of inertia, design of cams and cam dynamics; finite element analysis, design using Pro-E, Mechanica Motion and Mechanica Structures. "
+        "description": "Computer-aided analysis and design. Design methodology, tolerance analysis, Monte Carlo analysis, kinematics and computer-aided design of linkages, numerical calculations of moments of inertia, design of cams and cam dynamics; finite element analysis, design using Pro-E, Mechanica Motion and Mechanica Structures.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "MAE 150": {
         "prerequisites": [],
         "name": "Computer-Aided Design",
-        "description": "This course will teach teams of students how to develop concepts and business plans in the design of new and innovative products. Emphasis will be placed on identifying user needs, concept generation, and prototype fabrication. "
+        "description": "This course will teach teams of students how to develop concepts and business plans in the design of new and innovative products. Emphasis will be placed on identifying user needs, concept generation, and prototype fabrication.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "MAE 154": {
         "prerequisites": [
@@ -432,7 +432,7 @@
             "SE 160B"
         ],
         "name": "Product Design and Entrepreneurship",
-        "description": "Fundamental principles of aerospace vehicle design including the conceptual, preliminary, and detailed design phases. Aeronautical or astronautical design project that integrates all appropriate engineering disciplines as well as issues associated with optimization, teamwork, manufacturability, reporting, and professionalism. "
+        "description": "Fundamental principles of aerospace vehicle design including the conceptual, preliminary, and detailed design phases. Aeronautical or astronautical design project that integrates all appropriate engineering disciplines as well as issues associated with optimization, teamwork, manufacturability, reporting, and professionalism.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 155A": {
         "prerequisites": [
@@ -443,7 +443,7 @@
             "MAE 170"
         ],
         "name": "Aerospace Engineering Design I",
-        "description": "The principles of aerospace vehicle design including the conceptual, preliminary, and detailed design phases. Aeronautical or astronautical design project that integrates all appropriate engineering disciplines as well as issues associated with optimization, teamwork, manufacturability, reporting, and professionalism. Program or materials fees may apply. "
+        "description": "The principles of aerospace vehicle design including the conceptual, preliminary, and detailed design phases. Aeronautical or astronautical design project that integrates all appropriate engineering disciplines as well as issues associated with optimization, teamwork, manufacturability, reporting, and professionalism. Program or materials fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 155B": {
         "prerequisites": [
@@ -456,7 +456,7 @@
             "MAE 170"
         ],
         "name": "Aerospace Engineering Design II",
-        "description": "Fundamental principles of mechanical design and the design process. Application of engineering science to the design and analysis of mechanical components. Initiation of team design projects that culminate in MAE 156B with a working prototype designed for a real engineering application. Professional ethics discussed. Program or materials fees may apply. "
+        "description": "Fundamental principles of mechanical design and the design process. Application of engineering science to the design and analysis of mechanical components. Initiation of team design projects that culminate in MAE 156B with a working prototype designed for a real engineering application. Professional ethics discussed. Program or materials fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 156A": {
         "prerequisites": [
@@ -481,12 +481,12 @@
             "MAE 131A"
         ],
         "name": "Fundamental\n\t\t  Principles of Mechanical Design II",
-        "description": "Elasticity and inelasticity, dislocations and plasticity of crystals, creep, and strengthening mechanisms. Mechanical behavior of ceramics, composites, and polymers. Fracture: mechanical and microstructural. Fatigue. Laboratory demonstrations of selected topics. "
+        "description": "Elasticity and inelasticity, dislocations and plasticity of crystals, creep, and strengthening mechanisms. Mechanical behavior of ceramics, composites, and polymers. Fracture: mechanical and microstructural. Fatigue. Laboratory demonstrations of selected topics.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 160": {
         "prerequisites": [],
         "name": "Mechanical Behavior of Materials",
-        "description": "The engineering and scientific aspects of crack nucleation, slow crack growth, and unstable fracture in crystalline and amorphous solids. Microstructural effects on crack initiation, fatigue crack growth and fracture toughness. Methods of fatigue testing and fracture toughness testing. Fractography and microfractography. Design safe methodologies and failure prevention. Failure analysis of real engineering structures. "
+        "description": "The engineering and scientific aspects of crack nucleation, slow crack growth, and unstable fracture in crystalline and amorphous solids. Microstructural effects on crack initiation, fatigue crack growth and fracture toughness. Methods of fatigue testing and fracture toughness testing. Fractography and microfractography. Design safe methodologies and failure prevention. Failure analysis of real engineering structures.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 165": {
         "prerequisites": [],
@@ -496,7 +496,7 @@
     "MAE 166": {
         "prerequisites": [],
         "name": "Nanomaterials",
-        "description": "Pressure and shear waves in infinite solids. Reflection and diffraction. Rayleigh and Love waves in semi-infinite space. Impulse load on a half space. Waveguides and group velocity. "
+        "description": "Pressure and shear waves in infinite solids. Reflection and diffraction. Rayleigh and Love waves in semi-infinite space. Impulse load on a half space. Waveguides and group velocity.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 167": {
         "prerequisites": [
@@ -526,22 +526,22 @@
     "MAE 171B": {
         "prerequisites": [],
         "name": "Mechanical Engineering Laboratory II",
-        "description": "Analysis of aerospace engineering systems using experimental facilities in undergraduate laboratories: wind tunnel, water channel, vibration table, and testing machine. Students operate facilities, obtain data, complete engineering analysis and write major reports. "
+        "description": "Analysis of aerospace engineering systems using experimental facilities in undergraduate laboratories: wind tunnel, water channel, vibration table, and testing machine. Students operate facilities, obtain data, complete engineering analysis and write major reports.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 175A": {
         "prerequisites": [],
         "name": "Aerospace Engineering Laboratory I",
-        "description": "Astrodynamics, orbital motion, perturbations, coordinate systems and frames of reference. Geosynchronous orbits, stationkeeping. Orbital maneuvers, fuel consumption, guidance systems. Observation instrument point, tracking, control. Basic rocket dynamics. Navigation, telemetry, re-entry, and aero-assisted maneuvers. Mission design. Students perform analyses based on mission requirements. "
+        "description": "Astrodynamics, orbital motion, perturbations, coordinate systems and frames of reference. Geosynchronous orbits, stationkeeping. Orbital maneuvers, fuel consumption, guidance systems. Observation instrument point, tracking, control. Basic rocket dynamics. Navigation, telemetry, re-entry, and aero-assisted maneuvers. Mission design. Students perform analyses based on mission requirements.  ** Upper-division standing required ** "
     },
     "MAE 180A": {
         "prerequisites": [],
         "name": "Spacecraft Guidance I",
-        "description": "Space mission concepts, architectures, and analysis. Mission geometry. Astrodynamics. Orbit and constellation design. Space environment. Payload and spacecraft design and sizing. Power sources and distribution. Thermal management. Structural design. Guidance and navigation. Space propulsion. Orbital debris and survivability. Cost modeling and risk analysis. "
+        "description": "Space mission concepts, architectures, and analysis. Mission geometry. Astrodynamics. Orbit and constellation design. Space environment. Payload and spacecraft design and sizing. Power sources and distribution. Thermal management. Structural design. Guidance and navigation. Space propulsion. Orbital debris and survivability. Cost modeling and risk analysis.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "MAE 181": {
         "prerequisites": [],
         "name": "Space Mission Analysis and Design",
-        "description": "Students will develop software and methods to simulate the motion characteristics of flight vehicles. Six degree-of-freedom equations of motion will be reviewed with emphasis on computer implementation. Algorithms for data modeling, numerical integration, equilibrium, and linearization will be introduced. Three-dimensional visualization techniques will be explored for representing operator and observer viewpoints. Applications include aircraft, automobiles, and marine vessels. "
+        "description": "Students will develop software and methods to simulate the motion characteristics of flight vehicles. Six degree-of-freedom equations of motion will be reviewed with emphasis on computer implementation. Algorithms for data modeling, numerical integration, equilibrium, and linearization will be introduced. Three-dimensional visualization techniques will be explored for representing operator and observer viewpoints. Applications include aircraft, automobiles, and marine vessels.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "MAE 184": {
         "prerequisites": [],
@@ -556,21 +556,21 @@
     "MAE 191": {
         "prerequisites": [],
         "name": "Topics in Mechanical and Aerospace Engineering with Laboratory",
-        "description": "Students work in local industry or hospitals under faculty supervision. Units may not be applied toward graduation requirements. Salaried or unsalaried. Number of units determined by enrollment frequency. First quarter up to four units. Subsequent quarters cannot exceed one unit. "
+        "description": "Students work in local industry or hospitals under faculty supervision. Units may not be applied toward graduation requirements. Salaried or unsalaried. Number of units determined by enrollment frequency. First quarter up to four units. Subsequent quarters cannot exceed one unit.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 197": {
         "prerequisites": [],
         "name": "Engineering Internship",
-        "description": "Directed group study on a topic or in a field not included in the regular department curriculum, by special arrangement with a faculty member. May be taken P/NP only. "
+        "description": "Directed group study on a topic or in a field not included in the regular department curriculum, by special arrangement with a faculty member. May be taken P/NP only.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Independent reading or research on a problem by special arrangement with a faculty member. P/NP grades only. "
+        "description": "Independent reading or research on a problem by special arrangement with a faculty member. P/NP grades only.  ** Consent of instructor to enroll possible  **"
     },
     "MAE 199": {
         "prerequisites": [],
         "name": "Independent Study for Undergraduates",
-        "description": "This course covers topics in probability and stochastic processes, linear control and estimation including optimal linear control, nonlinear stabilization, and optimal control and estimation for nonlinear systems. "
+        "description": "This course covers topics in probability and stochastic processes, linear control and estimation including optimal linear control, nonlinear stabilization, and optimal control and estimation for nonlinear systems.  ** Consent of instructor to enroll possible  **"
     }
 }

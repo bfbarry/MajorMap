@@ -59,17 +59,17 @@
     "ECON 100AH": {
         "prerequisites": [],
         "name": "Honors Microeconomics A",
-        "description": "Honors sequence expanding on the material taught in ECON 100A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100A or after successful completion of ECON 100A with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+        "description": "Honors sequence expanding on the material taught in ECON 100A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100A or after successful completion of ECON 100A with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "ECON 100BH": {
         "prerequisites": [],
         "name": "Honors Microeconomics B",
-        "description": "Honors sequence expanding on the material taught in ECON 100B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100B or after successful completion of ECON 100B with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+        "description": "Honors sequence expanding on the material taught in ECON 100B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100B or after successful completion of ECON 100B with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "ECON 100CH": {
         "prerequisites": [],
         "name": "Honors Microeconomics C",
-        "description": "Honors sequence expanding on the material taught in ECON 100C. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100C or after successful completion of ECON 100C with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+        "description": "Honors sequence expanding on the material taught in ECON 100C. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100C or after successful completion of ECON 100C with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "ECON 101": {
         "prerequisites": [
@@ -90,7 +90,7 @@
     "ECON 102T": {
         "prerequisites": [],
         "name": "Advanced Topic in Globalization",
-        "description": "This course presents a selection of empirical applications and advanced topics that build on the material covered in ECON 102, Globalization. Students have the opportunity to analyze global trade and capital market data and to prepare a presentation and brief paper on a specific topic. "
+        "description": "This course presents a selection of empirical applications and advanced topics that build on the material covered in ECON 102, Globalization. Students have the opportunity to analyze global trade and capital market data and to prepare a presentation and brief paper on a specific topic.  ** Department approval required ** "
     },
     "ECON 103": {
         "prerequisites": [
@@ -137,7 +137,7 @@
     "ECON 109T": {
         "prerequisites": [],
         "name": "Advanced Topics in Game Theory",
-        "description": "This course presents a selection of applications and advanced topics that build on the material covered in the ECON 109. Game Theory course. "
+        "description": "This course presents a selection of applications and advanced topics that build on the material covered in the ECON 109. Game Theory course.  ** Department approval required ** "
     },
     "ECON 110A": {
         "prerequisites": [
@@ -160,12 +160,12 @@
     "ECON 110AH": {
         "prerequisites": [],
         "name": "Honors Macroeconomics A",
-        "description": "Honors sequence expanding on the material taught in ECON 110A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 110A or after successful completion of ECON 110A with A\u2013or better or consent of instructor. Priority enrollment given to majors in the department. "
+        "description": "Honors sequence expanding on the material taught in ECON 110A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 110A or after successful completion of ECON 110A with A\u2013or better or consent of instructor. Priority enrollment given to majors in the department.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "ECON 110BH": {
         "prerequisites": [],
         "name": "Honors Macroeconomics B",
-        "description": "Honors sequence expanding on the material taught in ECON 110B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 110B or after successful completion of ECON 110B with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+        "description": "Honors sequence expanding on the material taught in ECON 110B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 110B or after successful completion of ECON 110B with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "ECON 111": {
         "prerequisites": [
@@ -262,17 +262,17 @@
     "ECON 120AH": {
         "prerequisites": [],
         "name": "Honors Econometrics A",
-        "description": "Honors sequence expanding on the material taught in ECON 120A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120A or after successful completion of ECON 120A with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+        "description": "Honors sequence expanding on the material taught in ECON 120A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120A or after successful completion of ECON 120A with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "ECON 120BH": {
         "prerequisites": [],
         "name": "Honors Econometrics B",
-        "description": "Honors sequence expanding on the material taught in ECON 120B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120B or after successful completion of ECON 120B with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+        "description": "Honors sequence expanding on the material taught in ECON 120B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120B or after successful completion of ECON 120B with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "ECON 120CH": {
         "prerequisites": [],
         "name": "Honors Econometrics C",
-        "description": "Honors sequence expanding on the material taught in ECON 120C. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120C or after successful completion of ECON 120C with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department. "
+        "description": "Honors sequence expanding on the material taught in ECON 120C. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120C or after successful completion of ECON 120C with A\u2013 or better or consent of instructor. Priority enrollment given to majors in the department.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "ECON 121": {
         "prerequisites": [
@@ -471,7 +471,7 @@
     "ECON 164T": {
         "prerequisites": [],
         "name": "Advanced Topics in the Indian Economy",
-        "description": "ECON 164T will cover topics in more depth than in ECON 164 with more extensive readings and discussion. The class will meet in a seminar format where students will be expected to actively participate in discussions based on the readings and write a short paper at the end of the quarter. "
+        "description": "ECON 164T will cover topics in more depth than in ECON 164 with more extensive readings and discussion. The class will meet in a seminar format where students will be expected to actively participate in discussions based on the readings and write a short paper at the end of the quarter.  ** Department approval required ** "
     },
     "ECON 165": {
         "prerequisites": [
@@ -484,7 +484,7 @@
     "ECON 165T": {
         "prerequisites": [],
         "name": "Advanced Topics in Middle East Economics",
-        "description": "This course will cover certain country experiences and certain topics in more depth than in ECON 165. Students will also have the opportunity to choose countries and topics of particular interest to them for further reading and as subjects for a presentation and brief paper. "
+        "description": "This course will cover certain country experiences and certain topics in more depth than in ECON 165. Students will also have the opportunity to choose countries and topics of particular interest to them for further reading and as subjects for a presentation and brief paper.  ** Department approval required ** "
     },
     "ECON 167": {
         "prerequisites": [
@@ -620,16 +620,16 @@
     "ECON 195": {
         "prerequisites": [],
         "name": "Introduction to Teaching Economics",
-        "description": "Introduction to teaching economics. Each student will be responsible for a class section in one of the lower-division economics courses. Limited to advanced economics majors with at least a 3.5 GPA in upper-division economics work. (P/NP grades only.) Students may not earn more than eight units credit in 195 courses. "
+        "description": "Introduction to teaching economics. Each student will be responsible for a class section in one of the lower-division economics courses. Limited to advanced economics majors with at least a 3.5 GPA in upper-division economics work. (P/NP grades only.) Students may not earn more than eight units credit in 195 courses.  ** Consent of instructor to enroll possible  **"
     },
     "ECON 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Directed study on a topic or in a group field not included in regular department curriculum by special arrangement with a faculty member. "
+        "description": "Directed study on a topic or in a group field not included in regular department curriculum by special arrangement with a faculty member.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ECON 199": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Independent reading or research under the direction of and by special arrangement with a Department of Economics faculty member. (P/NP grades only.) "
+        "description": "Independent reading or research under the direction of and by special arrangement with a Department of Economics faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     }
 }

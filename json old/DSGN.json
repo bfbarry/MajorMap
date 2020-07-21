@@ -1,0 +1,60 @@
+{
+    "DSGN 1": {
+        "prerequisites": [],
+        "name": "Design of Everyday Things",
+        "description": "A project-based course examining how principles from cognitive science apply to the design of things simple (doors) and complex (new technology). Learn about affordances, constraints, mappings, and conceptual models. Learn observational and design skills. Become a human-centered design thinker. "
+    },
+    "DSGN 90": {
+        "prerequisites": [],
+        "name": "Undergraduate Seminar",
+        "description": "Special topics in design are discussed. P/NP grades only. May be taken for credit four times when topics vary."
+    },
+    "DSGN 99": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "Independent literature or laboratory research by arrangement with and under direction of a design faculty member. P/NP grades only. May be taken for credit three times. "
+    },
+    "DSGN 100": {
+        "prerequisites": [
+            "DSGN 1"
+        ],
+        "name": "Prototyping ",
+        "description": "Explores cognitive principles of thinking through making. Introduces methods and tools for prototyping user experiences. Students make various prototypes and participate in weekly critique sessions. Topics: experience design, rapid prototyping, sketching, bodystorming, cardboard modeling, UI hacking, and design theory. "
+    },
+    "DSGN 119": {
+        "prerequisites": [
+            "COMM 124A",
+            "or",
+            "COGS 10",
+            "or",
+            "DSGN 1"
+        ],
+        "name": "Design at Large",
+        "description": "New societal challenges, cultural values, and technological opportunities are changing design\u2014and vice versa. The seminar explores this increased scale, real-world engagement, and disruptive impact. Invited speakers from UC San Diego and beyond share cutting-edge research on interaction, design, and learning. P/NP grades only. May be taken for credit up to four times. "
+    },
+    "DSGN 160": {
+        "prerequisites": [],
+        "name": "Special Topics in Design",
+        "description": "Special topics in design. May be taken for credit three times when topics vary. "
+    },
+    "DSGN 161": {
+        "prerequisites": [],
+        "name": "Design Project",
+        "description": "Special topics in design. May be taken for credit three times when topics vary. Recommended preparation: may require shop skills. "
+    },
+    "DSGN 195": {
+        "prerequisites": [],
+        "name": "Instructional Apprenticeship in Design",
+        "description": "Students, under the direction of the instructor, lead laboratory or discussion sections, attend lectures, and meet regularly with the instructor to help prepare course materials and grade papers and exams. P/NP grades only. May be taken for credit two times. "
+    },
+    "DSGN 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "This directed group study course is for small groups of advanced students who wish to complete a one-quarter reading or research project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit up to three times. "
+    },
+    "DSGN 199": {
+        "prerequisites": [],
+        "name": "Independent Project",
+        "description": "This independent project course is for individual, advanced students who wish to complete a design project under the mentorship of a faculty member. Students should contact faculty whose research interests them to discuss possible projects. P/NP grades only. May be taken for credit three times. "
+    }
+}

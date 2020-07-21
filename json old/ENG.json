@@ -1,0 +1,62 @@
+{
+    "ENG 10": {
+        "prerequisites": [],
+        "name": "Fundamentals of Engineering Applications",
+        "description": "Application-oriented, hands-on introduction to engineering mathematics and design processes. Key mathematical concepts as they apply to engineering, including solving systems of equations and least-squares regression. In-class activities using Python and Arduino will complement the lectures and provide students hands-on experience with solving real-world engineering problems related to design, manufacturing and prototyping, electronics, and data analysis."
+    },
+    "ENG 15": {
+        "prerequisites": [],
+        "name": "Engineer Your Success",
+        "description": "Engineer Your Success is designed to enhance your success as an engineering student (and later as an engineer) by developing key academic and personal skills. Learn how to study more effectively and uncover how to become the best engineer you can be. This course focuses on academic and personal planning, time management, study skills, and paths to personal growth. Activities include individual and collaborative exercises, personal reflections, and a final project. Students may take this course eighteen times."
+    },
+    "ENG 20": {
+        "prerequisites": [],
+        "name": "Introduction to Engineering Research",
+        "description": "Introduction to research in engineering. Topics include defining a research problem, finding and reading technical papers, technical writing, and effective practices for presenting research. Students propose an original research project. This course is for students in the Guided Engineering Apprenticeship in Research (GEAR). "
+    },
+    "ENG 100A": {
+        "prerequisites": [
+            "DOC 2",
+            "CAT 2",
+            "HUM 2"
+        ],
+        "name": " Team Engineering",
+        "description": "Introduction to theory and practice of team\n\t\t\t\t  engineering, including temperament and work styles; stages\n\t\t\t\t  of team development; project management; communication, problem solving,\n\t\t\t\t  and conflict resolution skills; creativity; leadership; social\n\t\t\t\t  entrepreneurship; and ethics. Students\n\t\t\t\t  may not receive credit for both ENG 100 and ENG 100A. "
+    },
+    "ENG 100B": {
+        "prerequisites": [
+            "ENG 100A",
+            "or",
+            "ENG 100"
+        ],
+        "name": "Engineering Leadership",
+        "description": "Engineering leadership attitudes,\n                    styles, principles, and approaches; stages of product development\n                    and evolution; strategic and critical thinking and problem\n                    solving for engineering projects; resource management; quality\n                    control; risk analysis and risk taking; engineering business\n                  economics, law, leadership and corporate ethics. Contact gordoncenter@ucsd.edu if you are unable to enroll in the course. "
+    },
+    "ENG 100C": {
+        "prerequisites": [],
+        "name": "Technical Writing/Communication for Engineers and Scientist",
+        "description": "Principles and procedures of technical writing and professional communication. The course is ideal for students pursuing careers in science and/or engineering and covers organizing information, writing for technical forms such as proposals and abstracts, and designing visual aids."
+    },
+    "ENG 100D": {
+        "prerequisites": [
+            "CAT 2",
+            "or",
+            "DOC 2",
+            "or",
+            "HUM 2"
+        ],
+        "name": "Design for Development",
+        "description": "An introduction to the practice of human-centered design and team engineering within a humanitarian context. Includes a group project designing a solution for a local or global nonprofit organization. Topics include design process, contextual listening, project management, needs and capacity assessment, stakeholder analysis, ethical issues, models of leadership, gender and cultural issues, sustainable community development, and social entrepreneurship. ENG 100D is the gateway course for the Global TIES program, but it is open to all undergraduate students. Please go to http://globalties.ucsd.edu for information about Global TIES.  Recommended Preparation: one university-level mathematics course. "
+    },
+    "ENG 100L": {
+        "prerequisites": [
+            "ENG 100",
+            "or",
+            "ENG 100A",
+            "or",
+            "ENG 100D"
+        ],
+        "name": "Design for Development Lab ",
+        "description": "Faculty-directed, interdisciplinary, long-term humanitarian engineering, technology, and social innovation projects.  Students work in teams to design, build, test, and deliver solutions to real-world problems experienced by nonprofit organizations and the communities they serve. ENG 100L is the laboratory course for the Global TIES program. Enrollment in this course is limited to students who have applied to and been accepted into the Global TIES program. Please go to http://globalties.ucsd.edu to apply to the program. May be taken for credit six times. "
+    }
+}

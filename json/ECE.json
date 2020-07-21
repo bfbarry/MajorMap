@@ -173,7 +173,7 @@
             "ECE 16"
         ],
         "name": "Fast Prototyping",
-        "description": "Lab-based course. Students will learn how to prototype a mechatronic solution. Topics include cheap/accessible materials and parts; suppliers; fast prototyping techniques; useful electronic sketches and system integration shortcuts. Students will learn to materialize their electromechanical ideas and make design decisions to minimize cost, improve functionality/robustness. Labs will culminate toward a fully functional robot prototype for demonstration. "
+        "description": "Lab-based course. Students will learn how to prototype a mechatronic solution. Topics include cheap/accessible materials and parts; suppliers; fast prototyping techniques; useful electronic sketches and system integration shortcuts. Students will learn to materialize their electromechanical ideas and make design decisions to minimize cost, improve functionality/robustness. Labs will culminate toward a fully functional robot prototype for demonstration.  ** Consent of instructor to enroll possible  **"
     },
     "ECE 118": {
         "prerequisites": [
@@ -281,7 +281,7 @@
     "ECE 136L": {
         "prerequisites": [],
         "name": "Microelectronics Laboratory",
-        "description": "A laboratory course covering the concept and practice of microstructuring science and technology in fabricating devices relevant to sensors, lab-chips and related devices. (Course materials and/or program fees may apply.) "
+        "description": "A laboratory course covering the concept and practice of microstructuring science and technology in fabricating devices relevant to sensors, lab-chips and related devices. (Course materials and/or program fees may apply.)  ** Upper-division standing required ** "
     },
     "ECE 138L": {
         "prerequisites": [
@@ -340,7 +340,7 @@
             "ECE 107"
         ],
         "name": "LabVIEW Programming: Design and Applications",
-        "description": "Automated laboratory based on H-P GPIB controlled\n\t\t\t\t  instruments. Software controlled data collection and analysis.\n\t\t\t\t  Vibrations and waves in strings and bars of electromechanical\n\t\t\t\t  systems and transducers. Transmissions, reflection, and scattering\n\t\t\t\t  of sound waves in air and water. Aural and visual detection. "
+        "description": "Automated laboratory based on H-P GPIB controlled\n\t\t\t\t  instruments. Software controlled data collection and analysis.\n\t\t\t\t  Vibrations and waves in strings and bars of electromechanical\n\t\t\t\t  systems and transducers. Transmissions, reflection, and scattering\n\t\t\t\t  of sound waves in air and water. Aural and visual detection.  ** Consent of instructor to enroll possible  **"
     },
     "ECE 145AL-BL-CL": {
         "prerequisites": [
@@ -354,12 +354,12 @@
             "and"
         ],
         "name": "Acoustics Laboratory",
-        "description": "Fundamentals of autonomous vehicles. Working in small teams, students will develop 1:8 scale autonomous cars that must perform on a simulated city track. Topics include robotics system integration, computer vision, algorithms for navigation, on-vehicle vs. off-vehicle computation, computer learning systems such as neural networks, locomotion systems, vehicle steering, dead reckoning, odometry, sensor fusion, GPS autopilot limitations, wiring, and power distribution and management. Cross-listed with MAE 148. Students may not receive credit for ECE 148 and MAE 148. Program or materials fees may apply. "
+        "description": "Fundamentals of autonomous vehicles. Working in small teams, students will develop 1:8 scale autonomous cars that must perform on a simulated city track. Topics include robotics system integration, computer vision, algorithms for navigation, on-vehicle vs. off-vehicle computation, computer learning systems such as neural networks, locomotion systems, vehicle steering, dead reckoning, odometry, sensor fusion, GPS autopilot limitations, wiring, and power distribution and management. Cross-listed with MAE 148. Students may not receive credit for ECE 148 and MAE 148. Program or materials fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "ECE 148": {
         "prerequisites": [],
         "name": "Introduction to Autonomous Vehicles",
-        "description": "A foundation course teaching the basics of starting and running a successful new business. Students learn how to think like entrepreneurs, pivot their ideas to match customer needs, and assess financial, market, and timeline feasibility. The end goal is an investor pitch and a business plan. Provides experiential education, encouragement, and coaching (\u201cE3CE\u201d) that prepares students for successful careers at startup as well as large companies. Counts toward one professional elective only. "
+        "description": "A foundation course teaching the basics of starting and running a successful new business. Students learn how to think like entrepreneurs, pivot their ideas to match customer needs, and assess financial, market, and timeline feasibility. The end goal is an investor pitch and a business plan. Provides experiential education, encouragement, and coaching (\u201cE3CE\u201d) that prepares students for successful careers at startup as well as large companies. Counts toward one professional elective only.  ** Consent of instructor to enroll possible  **"
     },
     "ECE 150": {
         "prerequisites": [
@@ -403,7 +403,7 @@
     "ECE 155": {
         "prerequisites": [],
         "name": "Digital Communications Theory",
-        "description": "Characteristics of chemical, biological, seismic, and other physical sensors; signal processing techniques supporting distributed detection of salient events; wireless communication and networking protocols supporting formation of robust sensor fabrics; current experience with low power, low cost sensor deployments. Undergraduate students must take a final exam; graduate students must write a term paper or complete a final project. Cross-listed with MAE 149 and SIO 238. "
+        "description": "Characteristics of chemical, biological, seismic, and other physical sensors; signal processing techniques supporting distributed detection of salient events; wireless communication and networking protocols supporting formation of robust sensor fabrics; current experience with low power, low cost sensor deployments. Undergraduate students must take a final exam; graduate students must write a term paper or complete a final project. Cross-listed with MAE 149 and SIO 238.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ECE 156": {
         "prerequisites": [
@@ -538,7 +538,7 @@
             "ECE 109"
         ],
         "name": "Introduction to Intelligent Systems: Robotics and Machine Intelligence",
-        "description": "The linear least squares problem, including constrained and unconstrained quadratic optimization and the relationship to the geometry of linear transformations. Introduction to nonlinear optimization. Applications to signal processing, system identification, robotics, and circuit design. Recommended preparation: ECE 100. "
+        "description": "The linear least squares problem, including constrained and unconstrained quadratic optimization and the relationship to the geometry of linear transformations. Introduction to nonlinear optimization. Applications to signal processing, system identification, robotics, and circuit design. Recommended preparation: ECE 100.  ** Consent of instructor to enroll possible  **"
     },
     "ECE 174": {
         "prerequisites": [
@@ -559,7 +559,7 @@
     "ECE 175B": {
         "prerequisites": [],
         "name": "Elements of Machine Intelligence: Probabilistic Reasoning and Graphical Models",
-        "description": "Topics of special interest in electrical and computer engineering. Subject matter will not be repeated so it may be taken for credit more than once. "
+        "description": "Topics of special interest in electrical and computer engineering. Subject matter will not be repeated so it may be taken for credit more than once.  ** Consent of instructor to enroll possible  **"
     },
     "ECE 180": {
         "prerequisites": [
@@ -643,7 +643,7 @@
     "ECE 194": {
         "prerequisites": [],
         "name": "Viacar Design Project",
-        "description": "Teaching and tutorial activities associated with courses and seminars. Not more than four units of ECE 195 may be used for satisfying graduation requirements. (P/NP grades only.) "
+        "description": "Teaching and tutorial activities associated with courses and seminars. Not more than four units of ECE 195 may be used for satisfying graduation requirements. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "ECE 195": {
         "prerequisites": [],
@@ -653,17 +653,17 @@
     "ECE 196": {
         "prerequisites": [],
         "name": "Engineering Hands-on Group Project",
-        "description": "An enrichment program that provides work experience with public/private section employers.\u00a0Subject to the availability of positions, students will work in a local company under the supervision of a faculty member and site supervisor. (P/NP grades only.) "
+        "description": "An enrichment program that provides work experience with public/private section employers.\u00a0Subject to the availability of positions, students will work in a local company under the supervision of a faculty member and site supervisor. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "ECE 197": {
         "prerequisites": [],
         "name": "ECE Internship",
-        "description": "Topics in electrical and computer engineering whose study involves reading and discussion by a small group of students under direction of a faculty member. (P/NP grades only.) "
+        "description": "Topics in electrical and computer engineering whose study involves reading and discussion by a small group of students under direction of a faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "ECE 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Independent reading or research by special arrangement with a faculty member. (P/NP grades only.) "
+        "description": "Independent reading or research by special arrangement with a faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "ECE 199": {
         "prerequisites": [],

@@ -59,26 +59,26 @@
             "FMPH 110"
         ],
         "name": "Public Health Advanced Practicum I",
-        "description": "Emphasizes key public health concepts including program planning, research design, and written/oral communication skills. Practicum done in combination with research, internship, or overseas experiences, completed after FMPH 180A. Open to public health majors with upper-division standing.Must be taken for a letter grade to be applied to the public health major. Renumbered from FPMU 180A. Students may not receive credit for FPMU 180A and FMPH 180A. "
+        "description": "Emphasizes key public health concepts including program planning, research design, and written/oral communication skills. Practicum done in combination with research, internship, or overseas experiences, completed after FMPH 180A. Open to public health majors with upper-division standing.Must be taken for a letter grade to be applied to the public health major. Renumbered from FPMU 180A. Students may not receive credit for FPMU 180A and FMPH 180A.  ** Department approval required ** "
     },
     "FMPH 180B": {
         "prerequisites": [],
         "name": "Public Health Advanced Practicum II",
-        "description": "Practicum participants will engage in an experiential learning program at a pre-approved practicum site. Students will participate in applied public health research and/or programs under supervision of UC San Diego faculty. Must be taken for a letter grade to be applied to the public health major. Renumbered from FPMU 180B. Students may not receive credit for FPMU 180B and FMPH 180B. "
+        "description": "Practicum participants will engage in an experiential learning program at a pre-approved practicum site. Students will participate in applied public health research and/or programs under supervision of UC San Diego faculty. Must be taken for a letter grade to be applied to the public health major. Renumbered from FPMU 180B. Students may not receive credit for FPMU 180B and FMPH 180B.  ** Department approval required ** "
     },
     "FMPH 180C": {
         "prerequisites": [
             "FMPH 180B"
         ],
         "name": "Public Health Advanced Practicum III",
-        "description": "Practicum participants will interpret and contextualize findings from the experiential learning program planned in 180A and completed during 180B. Oral and written presentations will focus on disseminating public health information in diverse formats. Must be taken for a letter grade to be applied to the public health major. Renumbered from FPMU 180C. Students may not receive credit for FPMU 180C and FMPH 180C. "
+        "description": "Practicum participants will interpret and contextualize findings from the experiential learning program planned in 180A and completed during 180B. Oral and written presentations will focus on disseminating public health information in diverse formats. Must be taken for a letter grade to be applied to the public health major. Renumbered from FPMU 180C. Students may not receive credit for FPMU 180C and FMPH 180C.  ** Department approval required ** "
     },
     "FMPH 191": {
         "prerequisites": [
             "FMPH 40"
         ],
         "name": "Topics in Public Health",
-        "description": "Selected topics in the field of public health. Must be taken for a letter grade to be applied to the public health major. May be taken for credit up to three times. "
+        "description": "Selected topics in the field of public health. Must be taken for a letter grade to be applied to the public health major. May be taken for credit up to three times.  ** Department approval required ** "
     },
     "FMPH 193": {
         "prerequisites": [
@@ -90,7 +90,7 @@
             "FMPH 110"
         ],
         "name": "Public Capstone I",
-        "description": "This is the first of a two-part capstone series that serves as the culminating experience for the BS in public health (BSPH) majors. Students will integrate the skills and knowledge gained throughout the BSPH program and learn critical elements of public health research and practice.Must be taken for a letter grade to be applied to the public health major. "
+        "description": "This is the first of a two-part capstone series that serves as the culminating experience for the BS in public health (BSPH) majors. Students will integrate the skills and knowledge gained throughout the BSPH program and learn critical elements of public health research and practice.Must be taken for a letter grade to be applied to the public health major.  ** Department approval required ** "
     },
     "FMPH 194": {
         "prerequisites": [
@@ -104,7 +104,7 @@
             "FMPH 193"
         ],
         "name": "Public Capstone II",
-        "description": "This is the second of a two-part capstone series that serves as the culminating experience for the BS in public health (BSPH) majors. Students will interpret and contextualize findings from their projects completed in the first part of the series. Oral and written presentations will focus on disseminating public health information in diverse formats.Must be taken for a letter grade to be applied to the public health major. "
+        "description": "This is the second of a two-part capstone series that serves as the culminating experience for the BS in public health (BSPH) majors. Students will interpret and contextualize findings from their projects completed in the first part of the series. Oral and written presentations will focus on disseminating public health information in diverse formats.Must be taken for a letter grade to be applied to the public health major.  ** Department approval required ** "
     },
     "FMPH 195": {
         "prerequisites": [],
@@ -122,14 +122,14 @@
             "FMPH 110"
         ],
         "name": "Public Health Honors Practicum I",
-        "description": "This is the first of a three-part honors series that serves as the culminating experience for the BS in public health (BSPH) majors. Students review, reinforce, and complement skills and knowledge gained throughout the BSPH program, and prepare a proposal integrating critical elements of public health research and practice.Must be taken for a letter grade to be applied to the public health major. "
+        "description": "This is the first of a three-part honors series that serves as the culminating experience for the BS in public health (BSPH) majors. Students review, reinforce, and complement skills and knowledge gained throughout the BSPH program, and prepare a proposal integrating critical elements of public health research and practice.Must be taken for a letter grade to be applied to the public health major.  ** Department approval required ** "
     },
     "FMPH 196B": {
         "prerequisites": [
             "FMPH 196A"
         ],
         "name": "Public Health Honors Practicum II",
-        "description": "This is the second of a three-part honors series that serves as the culminating experience for the BS in public health majors. This course represents an experiential learning opportunity at a pre-approved community site. Under supervision of public health faculty and pertinent site representatives, students will refine and implement the public health proposal developed in the first part of the honors series. Must be taken for a letter grade to be applied to the public health major. "
+        "description": "This is the second of a three-part honors series that serves as the culminating experience for the BS in public health majors. This course represents an experiential learning opportunity at a pre-approved community site. Under supervision of public health faculty and pertinent site representatives, students will refine and implement the public health proposal developed in the first part of the honors series. Must be taken for a letter grade to be applied to the public health major.  ** Department approval required ** "
     },
     "FMPH 196C": {
         "prerequisites": [
@@ -141,6 +141,6 @@
     "FMPH 199": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Individual undergraduate study or research not covered by the present course offerings. Study or research must be under the direction of a faculty member in the Department of Family Medicine and Public Health and approval must be secured from the faculty member prior to registering. P/NP grades only. Renumbered from FPMU 199. FMPH 199 and/or FPMU 199 may be taken for credit a combined total of six times.\u00a0"
+        "description": "Individual undergraduate study or research not covered by the present course offerings. Study or research must be under the direction of a faculty member in the Department of Family Medicine and Public Health and approval must be secured from the faculty member prior to registering. P/NP grades only. Renumbered from FPMU 199. FMPH 199 and/or FPMU 199 may be taken for credit a combined total of six times.\u00a0 ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     }
 }

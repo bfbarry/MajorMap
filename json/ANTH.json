@@ -117,17 +117,17 @@
     "ANTH 192": {
         "prerequisites": [],
         "name": "Senior Seminar in Anthropology",
-        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in anthropology (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and consent of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in anthropology (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and consent of the department. Enrollment is limited to twenty students, with preference given to seniors.  ** Consent of instructor to enroll possible  **"
     },
     "ANTH 195": {
         "prerequisites": [],
         "name": "Instructional Apprenticeship in Anthropology",
-        "description": "Course gives students experience in teaching of anthropology at the lower-division level. Students, under direction of instructor, lead discussion sections, attend lectures, review course readings, and meet regularly to prepare course materials and to evaluate examinations and papers. Course not counted toward minor or major.\u00a0P/NP grades only. "
+        "description": "Course gives students experience in teaching of anthropology at the lower-division level. Students, under direction of instructor, lead discussion sections, attend lectures, review course readings, and meet regularly to prepare course materials and to evaluate examinations and papers. Course not counted toward minor or major.\u00a0P/NP grades only.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required **  ** Department approval required ** "
     },
     "ANTH 196A": {
         "prerequisites": [],
         "name": "Honors Studies in Anthropology",
-        "description": "Seminar to explore student research interests and methodologies needed to complete Honors Thesis in ANTH 196B. Students will be admitted to the Honors Program by invitation of the department in the spring of their junior year. Completion of this course with a grade of at least B+ is a prerequisite to ANTH 196B. "
+        "description": "Seminar to explore student research interests and methodologies needed to complete Honors Thesis in ANTH 196B. Students will be admitted to the Honors Program by invitation of the department in the spring of their junior year. Completion of this course with a grade of at least B+ is a prerequisite to ANTH 196B.  ** Department approval required ** "
     },
     "ANTH 196B": {
         "prerequisites": [
@@ -146,17 +146,17 @@
     "ANTH 197": {
         "prerequisites": [],
         "name": "Field Studies",
-        "description": "Directed group study on a topic or in a field not included in the regular departmental curriculum by special arrangement with a faculty member. Student may take this course twice for credit. Please note: Majors may only apply eight units of approved P/NP credit toward the major, and minors may only apply four units of P/NP credit toward the minor. Please contact the department for a list of courses you may take on a P/NP basis and apply toward the major or minor. "
+        "description": "Directed group study on a topic or in a field not included in the regular departmental curriculum by special arrangement with a faculty member. Student may take this course twice for credit. Please note: Majors may only apply eight units of approved P/NP credit toward the major, and minors may only apply four units of P/NP credit toward the minor. Please contact the department for a list of courses you may take on a P/NP basis and apply toward the major or minor.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required **  ** Department approval required ** "
     },
     "ANTH 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Independent study and research under the direction of a member of the faculty. Student may take this course twice for credit. Please note: majors may only apply eight units of approved P/NP credit toward the major, and minors may only apply four units of P/NP credit toward the minor. Please contact the department for a list of courses you may take on a P/NP basis and apply toward the major or minor. "
+        "description": "Independent study and research under the direction of a member of the faculty. Student may take this course twice for credit. Please note: majors may only apply eight units of approved P/NP credit toward the major, and minors may only apply four units of P/NP credit toward the minor. Please contact the department for a list of courses you may take on a P/NP basis and apply toward the major or minor.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required **  ** Department approval required ** "
     },
     "ANTH 199": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Course will vary in title and content. When offered, the current description and title is found in the current Schedule of Classes and the Department of Anthropology website. May be taken for credit four times.  "
+        "description": "Course will vary in title and content. When offered, the current description and title is found in the current Schedule of Classes and the Department of Anthropology website. May be taken for credit four times.   ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 100": {
         "prerequisites": [],
@@ -191,27 +191,27 @@
     "ANAR 116": {
         "prerequisites": [],
         "name": "Sea Level Change\u2014The Israel Case in World Perspective",
-        "description": "The archaeological field and laboratory class will take place in the field in San Diego or adjacent counties. This course is a hands-on introduction to the research design of interdisciplinary archaeological projects and techniques of data collection, including survey, excavation, or laboratory analysis. May be taken for credit up to two times. Program or materials fees may apply. "
+        "description": "The archaeological field and laboratory class will take place in the field in San Diego or adjacent counties. This course is a hands-on introduction to the research design of interdisciplinary archaeological projects and techniques of data collection, including survey, excavation, or laboratory analysis. May be taken for credit up to two times. Program or materials fees may apply.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 117": {
         "prerequisites": [],
         "name": "Archaeological Field and Lab Class, Southern California",
-        "description": "Our campus houses some of the earliest human settlements in North America. This course reviews the archaeology, climate, and environment of the sites and outlines research aimed at understanding the lives of these early peoples. "
+        "description": "Our campus houses some of the earliest human settlements in North America. This course reviews the archaeology, climate, and environment of the sites and outlines research aimed at understanding the lives of these early peoples.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 118": {
         "prerequisites": [],
         "name": "Archaeology of the UC San Diego Campus",
-        "description": "The archaeological field and laboratory class will take place at Moquegua, Peru. It is an introduction to the research design of interdisciplinary projects, the technique of data collections, the methods of excavation and postexcavation lab work. Course materials fees may apply. "
+        "description": "The archaeological field and laboratory class will take place at Moquegua, Peru. It is an introduction to the research design of interdisciplinary projects, the technique of data collections, the methods of excavation and postexcavation lab work. Course materials fees may apply.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 119S": {
         "prerequisites": [],
         "name": "Archaeological Field and Lab Class",
-        "description": "This course will help familiarize students with the types of methods that people use to document shifting climate in the past and present day, in addition to training on geospatial data sets. "
+        "description": "This course will help familiarize students with the types of methods that people use to document shifting climate in the past and present day, in addition to training on geospatial data sets.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 120": {
         "prerequisites": [],
         "name": "Documenting Climate Change: Past and Present",
-        "description": "Concerns the latest developments in digital data capture, analyses, curation, and dissemination for cultural heritage. Introduction to geographic information systems (GIS), spatial analysis, and digital technologies applied to documentation and promotion of cultural heritage and tourism. Lectures and lab exercises. "
+        "description": "Concerns the latest developments in digital data capture, analyses, curation, and dissemination for cultural heritage. Introduction to geographic information systems (GIS), spatial analysis, and digital technologies applied to documentation and promotion of cultural heritage and tourism. Lectures and lab exercises.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 121": {
         "prerequisites": [],
@@ -221,7 +221,7 @@
     "ANAR 124": {
         "prerequisites": [],
         "name": "Archaeology of Asia",
-        "description": "Study Abroad program that examines the origins and history of ancient Mediterranean civilizations from the late Neolithic period through the Classical era. During the course, students will visit some of the most important archaeological sites in the world, from the ancient megalithic temples of Malta, to Phoenician colonies of the early Iron Age, to the Carthaginian and Greek cities of Sicily, and ending with Roman Pompeii and Herculaneum, destroyed by the eruption of Vesuvius in AD 79. Students are required to apply for this Study Abroad course. Program or materials fees may apply. "
+        "description": "Study Abroad program that examines the origins and history of ancient Mediterranean civilizations from the late Neolithic period through the Classical era. During the course, students will visit some of the most important archaeological sites in the world, from the ancient megalithic temples of Malta, to Phoenician colonies of the early Iron Age, to the Carthaginian and Greek cities of Sicily, and ending with Roman Pompeii and Herculaneum, destroyed by the eruption of Vesuvius in AD 79. Students are required to apply for this Study Abroad course. Program or materials fees may apply.  ** Department approval required ** "
     },
     "ANAR 135S": {
         "prerequisites": [],
@@ -251,7 +251,7 @@
     "ANAR 144": {
         "prerequisites": [],
         "name": "Pharaohs, Mummies, and Pyramids: Introduction to Egyptology",
-        "description": "Introduction to the archaeology, history, art, architecture, and hieroglyphs of ancient Egypt. Taught in the field through visits to important temples, pyramids, palaces, and museums in Egypt. Complementary to ANAR 144.\u00a0Course/program fees may apply. "
+        "description": "Introduction to the archaeology, history, art, architecture, and hieroglyphs of ancient Egypt. Taught in the field through visits to important temples, pyramids, palaces, and museums in Egypt. Complementary to ANAR 144.\u00a0Course/program fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "ANAR 145S": {
         "prerequisites": [],
@@ -271,7 +271,7 @@
     "ANAR 154": {
         "prerequisites": [],
         "name": "The Aztecs and their Ancestors",
-        "description": "This course is an introduction to the archaeology of Mesoamerica and will provide students with the opportunity to gain practical skills from the field. Students will learn hands on by visiting significant ancient cities and museums in Mexico and Central America. Students may receive a combined total of twelve units for ANAR 155 and ANAR 155S. Program or material fee may apply. "
+        "description": "This course is an introduction to the archaeology of Mesoamerica and will provide students with the opportunity to gain practical skills from the field. Students will learn hands on by visiting significant ancient cities and museums in Mexico and Central America. Students may receive a combined total of twelve units for ANAR 155 and ANAR 155S. Program or material fee may apply.  ** Consent of instructor to enroll possible  **"
     },
     "ANAR 155": {
         "prerequisites": [],
@@ -286,22 +286,22 @@
     "ANAR 156": {
         "prerequisites": [],
         "name": "The Archaeology of South America",
-        "description": "The civilizations of Wari and Tiwanaku built the first empires of Andean South America long before the Inca. Middle Horizon (AD 500\u20131000) mythohistory, urbanism, state origins, art, technology, agriculture, colonization, trade, and conquest are explored using ethnohistory and archaeological sources.  Students may not receive credit for both ANAR 157S and ANAR 157. "
+        "description": "The civilizations of Wari and Tiwanaku built the first empires of Andean South America long before the Inca. Middle Horizon (AD 500\u20131000) mythohistory, urbanism, state origins, art, technology, agriculture, colonization, trade, and conquest are explored using ethnohistory and archaeological sources.  Students may not receive credit for both ANAR 157S and ANAR 157.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 157": {
         "prerequisites": [],
         "name": "Early Empires of the Andes: The Middle Horizon",
-        "description": "The civilizations of Wari and Tiwanaku built the first empires of Andean South America long before the Inca. Middle Horizon (AD 500\u20131000) mythohistory, urbanism, state origins, art, technology, agriculture, colonization, trade, and conquest are explored using ethnohistory and archaeological sources. Course is offered during summer Study Abroad. Students may not receive credit for both ANAR 157 and ANAR 157S. "
+        "description": "The civilizations of Wari and Tiwanaku built the first empires of Andean South America long before the Inca. Middle Horizon (AD 500\u20131000) mythohistory, urbanism, state origins, art, technology, agriculture, colonization, trade, and conquest are explored using ethnohistory and archaeological sources. Course is offered during summer Study Abroad. Students may not receive credit for both ANAR 157 and ANAR 157S.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 157S": {
         "prerequisites": [],
         "name": "Early Empires of the Andes: The Middle Horizon",
-        "description": "The history and culture of the Inca Empire of South America and its fatal encounter with the West. Archaeological excavations, accounts from the sixteenth and seventeenth centuries, and ethnographies of present-day peoples of the Andes are explored. "
+        "description": "The history and culture of the Inca Empire of South America and its fatal encounter with the West. Archaeological excavations, accounts from the sixteenth and seventeenth centuries, and ethnographies of present-day peoples of the Andes are explored.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 158": {
         "prerequisites": [],
         "name": "The Inca: Empire of the Andes",
-        "description": "This course considers in detail a particular region or archaeological site within the Maya area.\u00a0Content will cover primary literature on Maya archaeology, epigraphy, and art history. Course content will vary based on the specific region/site. May be taken for credit three times. "
+        "description": "This course considers in detail a particular region or archaeological site within the Maya area.\u00a0Content will cover primary literature on Maya archaeology, epigraphy, and art history. Course content will vary based on the specific region/site. May be taken for credit three times.  ** Upper-division standing required ** "
     },
     "ANAR 160": {
         "prerequisites": [],
@@ -355,12 +355,12 @@
     "ANAR 185": {
         "prerequisites": [],
         "name": "Middle East Desert Cultural Ecology",
-        "description": "The archaeological field school will take place in the eastern Mediterranean region. It is an introduction to the design of research projects, the techniques of data collection, and the methods of excavation. Includes postexcavation lab work, study trips, and field journal. Program or materials fees may apply.   "
+        "description": "The archaeological field school will take place in the eastern Mediterranean region. It is an introduction to the design of research projects, the techniques of data collection, and the methods of excavation. Includes postexcavation lab work, study trips, and field journal. Program or materials fees may apply.    ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 186": {
         "prerequisites": [],
         "name": "The Human Era: The Archaeology of the Anthropocene",
-        "description": "Students learn advanced field methods in cyber-archaeology and excavation. Includes 3-D data capture tools and processing, digital photography, construction of research designs, cyber-infrastructure. Takes place in the eastern Mediterranean region. Program or materials fees may apply. "
+        "description": "Students learn advanced field methods in cyber-archaeology and excavation. Includes 3-D data capture tools and processing, digital photography, construction of research designs, cyber-infrastructure. Takes place in the eastern Mediterranean region. Program or materials fees may apply.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANAR 190": {
         "prerequisites": [],
@@ -380,7 +380,7 @@
     "ANBI 109": {
         "prerequisites": [],
         "name": "Brain Mind Workshop",
-        "description": "Cytoarchitecture reveals the fundamental structural organization of the human brain and stereology extracts quantitative information in a three-dimensional space. Students will learn the principles of both fields and their applications. "
+        "description": "Cytoarchitecture reveals the fundamental structural organization of the human brain and stereology extracts quantitative information in a three-dimensional space. Students will learn the principles of both fields and their applications.  ** Consent of instructor to enroll possible  **"
     },
     "ANBI 111": {
         "prerequisites": [],
@@ -420,7 +420,7 @@
     "ANBI 121": {
         "prerequisites": [],
         "name": "The Original Moonshot: The Voyaging Achievements of the Polynesian Ancestors",
-        "description": "Interdisciplinary discussion of the human predicament, biodiversity crisis, and importance of biological conservation. Examines issues from biological, cultural, historical, economic, social, political, and ethical perspectives emphasizing new approaches and new techniques for safeguarding the future of humans and other biosphere inhabitants. "
+        "description": "Interdisciplinary discussion of the human predicament, biodiversity crisis, and importance of biological conservation. Examines issues from biological, cultural, historical, economic, social, political, and ethical perspectives emphasizing new approaches and new techniques for safeguarding the future of humans and other biosphere inhabitants.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANBI 130": {
         "prerequisites": [],
@@ -428,7 +428,10 @@
         "description": "The great apes are our closest living relatives and their ecology and evolution provide insights for human evolutionary history and perhaps ideas about how to coexist with them. The course examines the natural history, behavior, ecology, and life history of each of the great apes including orangutans, gorillas, bonobos, and chimpanzees. We will also consider conservation issues facing wild great apes, the welfare of apes in captivity, and ethical debates on ape \u201cpersonhood.\u201d "
     },
     "ANBI 131": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 1",
+            "and"
+        ],
         "name": "Biology and Culture of Race",
         "description": "This course explores how genetic data can be used to address core issues in human evolution. We will reconstruct population history and explore sources of human genetic diversity, such as migration and selection, based on studies of modern and ancient DNA. Through critical evaluation of recent publications, we will discuss the molecular evidence for the origin of modern humans, race, reconstruction of key human migrations, interactions with the environment, and implications for disease. May be coscheduled with ANTH 264. "
     },
@@ -485,7 +488,7 @@
     "ANBI 145": {
         "prerequisites": [],
         "name": "Bioarcheology",
-        "description": "This course is a seminar where we will discuss the latest scientific research in epigenetic mechanisms (changes to gene expression without changing underlying DNA sequences) and their role in regulating health and behavior of humans and other mammals in response to environmental stimuli. Our focus will be on publications related to social and behavioral epigenetics phenomena. Recommended preparation: students should have research experience in a molecular lab. "
+        "description": "This course is a seminar where we will discuss the latest scientific research in epigenetic mechanisms (changes to gene expression without changing underlying DNA sequences) and their role in regulating health and behavior of humans and other mammals in response to environmental stimuli. Our focus will be on publications related to social and behavioral epigenetics phenomena. Recommended preparation: students should have research experience in a molecular lab.  ** Consent of instructor to enroll possible  **"
     },
     "ANBI 146": {
         "prerequisites": [],
@@ -520,7 +523,7 @@
     "ANBI 175": {
         "prerequisites": [],
         "name": "Paleofantasy: The Evidence for Our Early Ancestors",
-        "description": "(Cross-listed with GLBH 105.) Why is there variation of health outcomes across the world? We will discuss health and illness in context of culture and address concerns in cross-national health variations by comparing healthcare systems in developed, underdeveloped, and developing countries. In addition, we\u2019ll study the role of socioeconomic and political change in determining health outcomes and examine social health determinants in contemporary global health problems: multidrug resistance to antibiotics, gender violence, human trafficking, etc. Students may receive credit for one of the following: ANSC 105GS, ANSC 105S, ANSC 105, or GLBH 105. "
+        "description": "(Cross-listed with GLBH 105.) Why is there variation of health outcomes across the world? We will discuss health and illness in context of culture and address concerns in cross-national health variations by comparing healthcare systems in developed, underdeveloped, and developing countries. In addition, we\u2019ll study the role of socioeconomic and political change in determining health outcomes and examine social health determinants in contemporary global health problems: multidrug resistance to antibiotics, gender violence, human trafficking, etc. Students may receive credit for one of the following: ANSC 105GS, ANSC 105S, ANSC 105, or GLBH 105.  ** Consent of instructor to enroll possible  **"
     },
     "ANSC 100": {
         "prerequisites": [],
@@ -535,7 +538,7 @@
     "ANSC 104": {
         "prerequisites": [],
         "name": "The US-Mexico Border",
-        "description": "Drawing on medical anthropology ethnography, students will explore a variety of forms of healing among rural and urban indigenous communities. A particular focus on intercultural health will allow the students to analyze contemporary medical landscapes where patients encounter indigenous and Western medicine. Students will learn about the complexities of urban and rural indigenous healing settings and their sociopolitical significance in contexts of state biomedical interventions. Students may not receive credit for ANSC 106 and ANSC 106S. Freshmen and sophomores cannot enroll without consent of the instructor."
+        "description": "Drawing on medical anthropology ethnography, students will explore a variety of forms of healing among rural and urban indigenous communities. A particular focus on intercultural health will allow the students to analyze contemporary medical landscapes where patients encounter indigenous and Western medicine. Students will learn about the complexities of urban and rural indigenous healing settings and their sociopolitical significance in contexts of state biomedical interventions. Students may not receive credit for ANSC 106 and ANSC 106S. Freshmen and sophomores cannot enroll without consent of the instructor. ** Consent of instructor to enroll possible  **"
     },
     "ANSC 105": {
         "prerequisites": [],
@@ -585,7 +588,7 @@
     "ANSC 116": {
         "prerequisites": [],
         "name": "Languages of the Americas: Mayan",
-        "description": "A critical examination of research connecting language to alternate complementary modalities\u2014the hands, face, body, and aspects of \u201clived environments\u201d (spaces, tools, artifacts). Program or materials fees may apply. "
+        "description": "A critical examination of research connecting language to alternate complementary modalities\u2014the hands, face, body, and aspects of \u201clived environments\u201d (spaces, tools, artifacts). Program or materials fees may apply.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANSC 117": {
         "prerequisites": [],
@@ -620,7 +623,7 @@
     "ANSC 122": {
         "prerequisites": [],
         "name": "Language in Society",
-        "description": "How are gender and sexuality shaped by cultural ideologies, social institutions, and social change? We explore their connections to such dimensions of society as kinship and family, the state, religion, and popular culture. We also examine alternative genders/sexualities cross-culturally. Students may not receive credit for ANSC 125GS and ANSC 125. Program or materials fees may apply. "
+        "description": "How are gender and sexuality shaped by cultural ideologies, social institutions, and social change? We explore their connections to such dimensions of society as kinship and family, the state, religion, and popular culture. We also examine alternative genders/sexualities cross-culturally. Students may not receive credit for ANSC 125GS and ANSC 125. Program or materials fees may apply.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANSC 123": {
         "prerequisites": [],
@@ -630,12 +633,12 @@
     "ANSC 124": {
         "prerequisites": [],
         "name": "Cultural Anthropology",
-        "description": "The course considers how social life is constituted and negotiated through language and interaction. How do people establish, maintain, and alter social relationships through face-to-face talk, and how do different modalities of interaction (including discourse and gesture) affect social life? "
+        "description": "The course considers how social life is constituted and negotiated through language and interaction. How do people establish, maintain, and alter social relationships through face-to-face talk, and how do different modalities of interaction (including discourse and gesture) affect social life?  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANSC 125": {
         "prerequisites": [],
         "name": "Gender, Sexuality, and Society",
-        "description": "(Cross-listed with GLBH 129.) This course examines the nature of healing across cultures, with special emphasis on religious and ritual healing. Students may not receive credit for GLBH 129 and ANSC 129. "
+        "description": "(Cross-listed with GLBH 129.) This course examines the nature of healing across cultures, with special emphasis on religious and ritual healing. Students may not receive credit for GLBH 129 and ANSC 129.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANSC 125GS": {
         "prerequisites": [],
@@ -690,7 +693,7 @@
     "ANSC 137": {
         "prerequisites": [],
         "name": "Chinese Popular Religion",
-        "description": "This course explores the interrelationships of language, politics, and identity in the United States: the ways that language mediates politics and identity, the ways that the connection between identity and language is inherently political, and the ways that political language inevitably draws on identity in both subtle and explicit ways. "
+        "description": "This course explores the interrelationships of language, politics, and identity in the United States: the ways that language mediates politics and identity, the ways that the connection between identity and language is inherently political, and the ways that political language inevitably draws on identity in both subtle and explicit ways.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANSC 138": {
         "prerequisites": [],
@@ -740,7 +743,7 @@
     "ANSC 147": {
         "prerequisites": [],
         "name": "Global Health and the Environment",
-        "description": "This course examines ethnographies of the US-Mexican borderlands to understand how the binational relationship shapes social life on both sides of the border. Topics discussed will include the maquiladora industry, drug trafficking, militarization, migration, tourism, missionary work, femicide, and prostitution. "
+        "description": "This course examines ethnographies of the US-Mexican borderlands to understand how the binational relationship shapes social life on both sides of the border. Topics discussed will include the maquiladora industry, drug trafficking, militarization, migration, tourism, missionary work, femicide, and prostitution.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANSC 148": {
         "prerequisites": [],
@@ -808,7 +811,7 @@
     "ANSC 162": {
         "prerequisites": [],
         "name": "Language, Identity, and Community",
-        "description": "Examines the role of culture in the way people perceive and interact with the natural environment. Combines reading of select anthropological studies with training in ethnographic research methods. Students develop a research project and analyze data. Limit: fifteen students. "
+        "description": "Examines the role of culture in the way people perceive and interact with the natural environment. Combines reading of select anthropological studies with training in ethnographic research methods. Students develop a research project and analyze data. Limit: fifteen students.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "ANSC 164": {
         "prerequisites": [],
@@ -906,7 +909,7 @@
             "and"
         ],
         "name": "#BlackLivesMatter",
-        "description": "This course introduces students to the medical anthropology of South Asia. This course will be divided into two parts. First, we will analyze how religious, cultural, political, and economic structures impact health and well-being. Second, we will look at ethnomedicine, that is, how local systems of healing provide alternative ideas of illness and health. Program or materials fees may apply. "
+        "description": "This course introduces students to the medical anthropology of South Asia. This course will be divided into two parts. First, we will analyze how religious, cultural, political, and economic structures impact health and well-being. Second, we will look at ethnomedicine, that is, how local systems of healing provide alternative ideas of illness and health. Program or materials fees may apply.  ** Department approval required ** "
     },
     "ANSC 186": {
         "prerequisites": [],
@@ -923,7 +926,7 @@
             "and"
         ],
         "name": "Anthropology of Mental Health in Israel and the Diaspora",
-        "description": "Popular representations of South Asia abound in clich\u00e9s: poverty and luxury, cities and hamlets, ascetics and call centers. What do these clich\u00e9s do to our understanding of South Asia? How do we get beneath or beyond these representations? We will respond to these questions by exploring how people in South Asia live on a day-to-day basis, while also attending to how major historical events, such as colonialism and the Partition of India and Pakistan, shape contemporary life and politics. Program or materials fees may apply. "
+        "description": "Popular representations of South Asia abound in clich\u00e9s: poverty and luxury, cities and hamlets, ascetics and call centers. What do these clich\u00e9s do to our understanding of South Asia? How do we get beneath or beyond these representations? We will respond to these questions by exploring how people in South Asia live on a day-to-day basis, while also attending to how major historical events, such as colonialism and the Partition of India and Pakistan, shape contemporary life and politics. Program or materials fees may apply.  ** Department approval required ** "
     },
     "ANSC 188": {
         "prerequisites": [],
@@ -938,7 +941,7 @@
     "ANSC 190GS": {
         "prerequisites": [],
         "name": "Medicine and Healing in South Asia",
-        "description": "Why are so many people poor? What does poverty mean for those who live it and for those who try to help them? This course examines the field of international development, to understand the discourses and practices that governments, aid agencies, and communities have tried. To what extent are these practices linked to colonial legacies, race, and class? Looking to new innovations in participatory and compassionate development, this will prepare students for critical engagement with development. Program or materials fees may apply. "
+        "description": "Why are so many people poor? What does poverty mean for those who live it and for those who try to help them? This course examines the field of international development, to understand the discourses and practices that governments, aid agencies, and communities have tried. To what extent are these practices linked to colonial legacies, race, and class? Looking to new innovations in participatory and compassionate development, this will prepare students for critical engagement with development. Program or materials fees may apply.  ** Department approval required ** "
     },
     "ANSC 191": {
         "prerequisites": [],
@@ -948,7 +951,7 @@
     "ANSC 191GS": {
         "prerequisites": [],
         "name": "Everyday Life in South Asia: Beyond the Clich\u00e9s",
-        "description": "In this course, we will examine the dominant human rights framework to think about one issue that has escaped its purview: environmental justice. If we all share a common planet, is there a universal right to a clean environment? Why are the effects of pollution and climate change unequally distributed among the world\u2019s peoples? Can human rights norms serve as effective tools to fight the unequal effects of climate change and contamination? Program or materials fees may apply. "
+        "description": "In this course, we will examine the dominant human rights framework to think about one issue that has escaped its purview: environmental justice. If we all share a common planet, is there a universal right to a clean environment? Why are the effects of pollution and climate change unequally distributed among the world\u2019s peoples? Can human rights norms serve as effective tools to fight the unequal effects of climate change and contamination? Program or materials fees may apply.  ** Department approval required ** "
     },
     "ANSC 192": {
         "prerequisites": [],

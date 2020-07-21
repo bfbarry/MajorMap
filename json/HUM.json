@@ -36,11 +36,11 @@
     "HUM 195": {
         "prerequisites": [],
         "name": "Methods of Teaching Humanities",
-        "description": "An introduction to teaching humanities. Students are required to attend weekly discussions on methods of teaching humanities and will teach discussion sections of one of the humanities courses. Attendance at lecture of the course in which the student is participating is required. (P/NP grades only.) "
+        "description": "An introduction to teaching humanities. Students are required to attend weekly discussions on methods of teaching humanities and will teach discussion sections of one of the humanities courses. Attendance at lecture of the course in which the student is participating is required. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "HUM 199": {
         "prerequisites": [],
         "name": "Special Studies",
-        "description": "Individually guided readings or projects in area of humanities not normally covered in standard curriculum. "
+        "description": "Individually guided readings or projects in area of humanities not normally covered in standard curriculum.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     }
 }

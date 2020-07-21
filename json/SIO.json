@@ -109,14 +109,14 @@
             "SIO 50"
         ],
         "name": "Introduction to Field Methods",
-        "description": "Mapping and interpretation of geologic units. Fieldwork is done locally, and the data are analyzed in the laboratory. There will be one mandatory weekend field trip to Anza Borrego State Park. Program and/or materials fees may apply. "
+        "description": "Mapping and interpretation of geologic units. Fieldwork is done locally, and the data are analyzed in the laboratory. There will be one mandatory weekend field trip to Anza Borrego State Park. Program and/or materials fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 101": {
         "prerequisites": [
             "CHEM 6A"
         ],
         "name": "California Coastal Oceanography",
-        "description": "This course emphasizes oceanographic connections\n\t\t\t\t between physical and climate forcing and marine ecosystem responses using\n\t\t\t\t examples from and activities in the California coastal environment. The\n\t\t\t\t approach is inquiry-based, combining classroom and experiential learning\n\t\t\t\t to build critical and quantitative thinking and research insights and abilities. "
+        "description": "This course emphasizes oceanographic connections\n\t\t\t\t between physical and climate forcing and marine ecosystem responses using\n\t\t\t\t examples from and activities in the California coastal environment. The\n\t\t\t\t approach is inquiry-based, combining classroom and experiential learning\n\t\t\t\t to build critical and quantitative thinking and research insights and abilities.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 102": {
         "prerequisites": [
@@ -124,7 +124,7 @@
             "CHEM 6A-B-C"
         ],
         "name": "Introduction to Geochemistry",
-        "description": "An introduction to the chemical composition and evolution of the Earth and solar system. Applications of chemical methods to elucidate the origin and geologic history of the Earth and the planets, evolution of oceans and atmosphere, and human environmental impacts. "
+        "description": "An introduction to the chemical composition and evolution of the Earth and solar system. Applications of chemical methods to elucidate the origin and geologic history of the Earth and the planets, evolution of oceans and atmosphere, and human environmental impacts.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 103": {
         "prerequisites": [
@@ -134,19 +134,21 @@
             "SIO 50"
         ],
         "name": "Introduction to Geophysics",
-        "description": "An introduction to the structure and composition\n\t\t\t\t of the solid earth. Topics include seismology, the gravity\n\t\t\t\t and magnetic fields, high-pressure geophysics, and concepts\n\t\t\t\t in geodynamics. Emphasis is on global geophysics, i.e., on\n\t\t\t\t the structure and evolution of the planet. "
+        "description": "An introduction to the structure and composition\n\t\t\t\t of the solid earth. Topics include seismology, the gravity\n\t\t\t\t and magnetic fields, high-pressure geophysics, and concepts\n\t\t\t\t in geodynamics. Emphasis is on global geophysics, i.e., on\n\t\t\t\t the structure and evolution of the planet.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 104/SIOG 255": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3"
+        ],
         "name": "Paleobiology and History of Life",
-        "description": "An introduction to the major biological transitions\n\t\t\t\t in Earth history from the origins of metabolism and cells\n\t\t\t\t to the evolution of complex societies. The nature and limitations\n\t\t\t\t of the fossil record, patterns of adaptation and diversity, and the tempo\n\t\t\t\t and mode of biological evolution. Laboratories and substantial field component\n\t\t\t\t complement and extend the lecture material. Program and/or\n\t\t\t\t materials fees may apply. "
+        "description": "An introduction to the major biological transitions\n\t\t\t\t in Earth history from the origins of metabolism and cells\n\t\t\t\t to the evolution of complex societies. The nature and limitations\n\t\t\t\t of the fossil record, patterns of adaptation and diversity, and the tempo\n\t\t\t\t and mode of biological evolution. Laboratories and substantial field component\n\t\t\t\t complement and extend the lecture material. Program and/or\n\t\t\t\t materials fees may apply.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 105": {
         "prerequisites": [
             "SIO 50"
         ],
         "name": "Sedimentology and Stratigraphy",
-        "description": "This course will examine sedimentary environments\n\t\t\t\t from mountain tops to the deep sea across a variety of time scales. The\n\t\t\t\t focus is to develop the skills to interpret stratigraphy and read the history\n\t\t\t\t of the Earth that it records. Laboratories and substantial field component\n\t\t\t\t complement and extend lecture material. Program and/or course materials\n\t\t\t\t fees may apply. "
+        "description": "This course will examine sedimentary environments\n\t\t\t\t from mountain tops to the deep sea across a variety of time scales. The\n\t\t\t\t focus is to develop the skills to interpret stratigraphy and read the history\n\t\t\t\t of the Earth that it records. Laboratories and substantial field component\n\t\t\t\t complement and extend lecture material. Program and/or course materials\n\t\t\t\t fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 106": {
         "prerequisites": [
@@ -157,7 +159,7 @@
             "CHEM 6C"
         ],
         "name": "Introduction to Hydrogeology",
-        "description": "An introduction to the theory and practice of hydrogeology, emphasizing current concepts of aquifer and water properties and practical considerations related to groundwater quality, groundwater flow, and sustainability of groundwater reservoirs. "
+        "description": "An introduction to the theory and practice of hydrogeology, emphasizing current concepts of aquifer and water properties and practical considerations related to groundwater quality, groundwater flow, and sustainability of groundwater reservoirs.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 108": {
         "prerequisites": [
@@ -168,7 +170,7 @@
             "SIO 12"
         ],
         "name": "Introduction to Paleoclimatology",
-        "description": "An introduction to basic principles and applications of paleoclimatology, the study of climate and climate changes that occurred prior to the period of instrumental records. A review of processes and archives of climate data will be investigated using examples from Earth history. "
+        "description": "An introduction to basic principles and applications of paleoclimatology, the study of climate and climate changes that occurred prior to the period of instrumental records. A review of processes and archives of climate data will be investigated using examples from Earth history.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 109": {
         "prerequisites": [],
@@ -183,7 +185,7 @@
     "SIO 110": {
         "prerequisites": [],
         "name": "Introduction to GIS and GPS for Scientists",
-        "description": "A hands-on introduction to science applications\n\t\t\t\t of geographic information systems and global positioning system. Students\n\t\t\t\t acquire data through GPS field surveys, design and construct GIS using\n\t\t\t\t ESRI\u2019s ArcGIS software, analyze spatial data, and present the results\n\t\t\t\t in a web-based environment. "
+        "description": "A hands-on introduction to science applications\n\t\t\t\t of geographic information systems and global positioning system. Students\n\t\t\t\t acquire data through GPS field surveys, design and construct GIS using\n\t\t\t\t ESRI\u2019s ArcGIS software, analyze spatial data, and present the results\n\t\t\t\t in a web-based environment.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 111": {
         "prerequisites": [
@@ -194,19 +196,19 @@
             "MATH 20A\u2013E"
         ],
         "name": "\t\t\t\t Introduction to Ocean Waves",
-        "description": "The linear theory of ocean surface waves, including: group velocity, wave dispersion, ray theory, wave measurement and prediction, shoaling waves, giant waves, ship wakes, tsunamis, and the physics of the surf zone. Cross-listed with PHYS 111. "
+        "description": "The linear theory of ocean surface waves, including: group velocity, wave dispersion, ray theory, wave measurement and prediction, shoaling waves, giant waves, ship wakes, tsunamis, and the physics of the surf zone. Cross-listed with PHYS 111.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 113": {
         "prerequisites": [
             "SIO 50"
         ],
         "name": "Introduction to Computational Earth Science",
-        "description": "Computers are used in the geosciences to understand complex natural systems. This course includes beginning programming with a user-friendly language (Python). "
+        "description": "Computers are used in the geosciences to understand complex natural systems. This course includes beginning programming with a user-friendly language (Python).  ** Consent of instructor to enroll possible  **"
     },
     "SIO 114": {
         "prerequisites": [],
         "name": "The Science and Analysis of Environmental Justice",
-        "description": "Introduction to the scientific basis and critical analysis of environmental justice, with an emphasis on case studies, activism, and community engagement. This course will prepare students to critique and develop scientific models, research designs, and measurements consistent with environmental justice. Students may not receive credit for ETHN 136 and SIO 114. "
+        "description": "Introduction to the scientific basis and critical analysis of environmental justice, with an emphasis on case studies, activism, and community engagement. This course will prepare students to critique and develop scientific models, research designs, and measurements consistent with environmental justice. Students may not receive credit for ETHN 136 and SIO 114.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 115": {
         "prerequisites": [
@@ -215,12 +217,12 @@
             "PHYS 2A\u2013C"
         ],
         "name": "Ice and the Climate System",
-        "description": "This course examines the Earth\u2019s cryosphere, including glaciers,\n     ice sheets, ice caps, sea ice, lake ice, river ice, snow, and\n     permafrost. We cover the important role of the cryosphere in\n     the climate systems and its response to climate change. "
+        "description": "This course examines the Earth\u2019s cryosphere, including glaciers,\n     ice sheets, ice caps, sea ice, lake ice, river ice, snow, and\n     permafrost. We cover the important role of the cryosphere in\n     the climate systems and its response to climate change.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 116": {
         "prerequisites": [],
         "name": "Climate Change and Global Health: Understanding the Mechanisms",
-        "description": "This course will introduce students to the public health effects of global climate change. The course will begin by understanding the climate change phenomena and explaining the direct and indirect links between climate change and human health, including the public health impacts of infectious diseases, atmospheric air pollution, and extreme weather events. The second part of the course will be dedicated to adaption and mitigation solutions with a particular focus on vulnerable populations. Students may not receive credit for SIO 116 and SIO 116GS. "
+        "description": "This course will introduce students to the public health effects of global climate change. The course will begin by understanding the climate change phenomena and explaining the direct and indirect links between climate change and human health, including the public health impacts of infectious diseases, atmospheric air pollution, and extreme weather events. The second part of the course will be dedicated to adaption and mitigation solutions with a particular focus on vulnerable populations. Students may not receive credit for SIO 116 and SIO 116GS.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 116GS": {
         "prerequisites": [],
@@ -234,7 +236,7 @@
             "PHYS 2C"
         ],
         "name": "    The Physical Basis of Global Warming",
-        "description": "Introduction to the processes behind global warming, including\n     the physics of the greenhouse effect, controls on greenhouse\n     gases, atmospheric and oceanic circulation, climate feedbacks,\n     relationship to natural climate variability, and global environmental\n     issues related to global warming. "
+        "description": "Introduction to the processes behind global warming, including\n     the physics of the greenhouse effect, controls on greenhouse\n     gases, atmospheric and oceanic circulation, climate feedbacks,\n     relationship to natural climate variability, and global environmental\n     issues related to global warming.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 118GS": {
         "prerequisites": [],
@@ -247,19 +249,23 @@
             "CHEM 6C"
         ],
         "name": "Physics and Chemistry of the Oceans",
-        "description": "Basic physical and chemical processes that influence the biology of the oceans, such as ocean circulation, ocean acidification, carbonate chemistry, trace metal chemistry. "
+        "description": "Basic physical and chemical processes that influence the biology of the oceans, such as ocean circulation, ocean acidification, carbonate chemistry, trace metal chemistry.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 120": {
         "prerequisites": [
             "SIO 50"
         ],
         "name": "Introduction to Mineralogy",
-        "description": "Application of mineralogical and x-ray crystallographic techniques in earth sciences. Topics include symmetry, crystal structure, chemical, and physical properties of minerals with special emphasis on the common rock-forming minerals. Laboratory component includes polarizing microscope and x-ray powder diffraction methods. "
+        "description": "Application of mineralogical and x-ray crystallographic techniques in earth sciences. Topics include symmetry, crystal structure, chemical, and physical properties of minerals with special emphasis on the common rock-forming minerals. Laboratory component includes polarizing microscope and x-ray powder diffraction methods.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 121": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 1",
+            "BILD 2",
+            "BILD 3"
+        ],
         "name": "Biology of the Cryosphere",
-        "description": "The cryosphere comprises sea ice, glaciers, snow, and other frozen environments. Changing rapidly in the face of global climate change, these environments host unique and highly adapted ecosystems that play an important role in the global earth system. In this course we will explore the physiology and ecology of organisms in the cryosphere and peripheral habitats. A special emphasis will be placed on sea ice as a habitat archetype, but glacier, snow, and permafrost will also be covered. "
+        "description": "The cryosphere comprises sea ice, glaciers, snow, and other frozen environments. Changing rapidly in the face of global climate change, these environments host unique and highly adapted ecosystems that play an important role in the global earth system. In this course we will explore the physiology and ecology of organisms in the cryosphere and peripheral habitats. A special emphasis will be placed on sea ice as a habitat archetype, but glacier, snow, and permafrost will also be covered.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 121GS": {
         "prerequisites": [
@@ -271,61 +277,86 @@
         "description": "This global seminar course will examine the geology of the Alps range. Students will develop an in-depth understanding of the geology, tectonics, and geomorphology of this fascinating, beautiful, and geologically complex region. The course will focus closely on the tectonics of the region and the subsequent geologic processes that have shaped it (e.g., glaciation) since the late Mesozoic Alpine Orogeny. Classroom study will be strongly augmented with local and regional field excursions. Program or materials fees may apply. "
     },
     "SIO 122": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3"
+        ],
         "name": "Ecological Developmental Biology",
-        "description": "This course will explore the rapidly expanding field of ecological developmental biology which focuses on how factors such as temperature, nutrition, microbes, predators, and hormones influence development epigenetically. Emphasis will be given to the genetic basis of responses to the environment, drawn from studies in aquatic and terrestrial animals and plants. Topics include phenotypic plasticity, teratogenesis, symbiosis, endocrine disruptors, sex determination, and genetic assimilation. Recommended preparation: BICD 100. "
+        "description": "This course will explore the rapidly expanding field of ecological developmental biology which focuses on how factors such as temperature, nutrition, microbes, predators, and hormones influence development epigenetically. Emphasis will be given to the genetic basis of responses to the environment, drawn from studies in aquatic and terrestrial animals and plants. Topics include phenotypic plasticity, teratogenesis, symbiosis, endocrine disruptors, sex determination, and genetic assimilation. Recommended preparation: BICD 100.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 123": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BICD 100"
+        ],
         "name": "Microbial Environmental Systems Biology",
-        "description": "Environmental systems biology is the study of the genomic basis for patterns of microbial diversity and adaptation in relation to habitat. This course introduces the microbial genome as a unit of study and surveys introductory principles in microbial genomics and bioinformatics that underlie a range of contemporary research in diverse marine habitats, such as the deep sea and polar regions, as well as studies of biomedical importance, including the human microbiome. "
+        "description": "Environmental systems biology is the study of the genomic basis for patterns of microbial diversity and adaptation in relation to habitat. This course introduces the microbial genome as a unit of study and surveys introductory principles in microbial genomics and bioinformatics that underlie a range of contemporary research in diverse marine habitats, such as the deep sea and polar regions, as well as studies of biomedical importance, including the human microbiome.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 124": {
         "prerequisites": [
             "CHEM 6C",
-            "and"
+            "and",
+            "BILD 1",
+            "or",
+            "BILD 3"
         ],
         "name": "Marine Natural Products",
-        "description": "This course will provide a detailed introduction to marine natural products. It will survey the organisms that produce these compounds and introduce how they are made (biosynthesis), isolated and identified (natural products chemistry), why they are made (chemical ecology), and how they are exploited for useful purposes including drug discovery (marine biotechnology). It will leave students with a fundamental understanding of the latest techniques employed in natural product research. "
+        "description": "This course will provide a detailed introduction to marine natural products. It will survey the organisms that produce these compounds and introduce how they are made (biosynthesis), isolated and identified (natural products chemistry), why they are made (chemical ecology), and how they are exploited for useful purposes including drug discovery (marine biotechnology). It will leave students with a fundamental understanding of the latest techniques employed in natural product research.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 125": {
         "prerequisites": [
+            "BILD 3",
+            "and",
             "PHYS 1C",
             "or",
             "PHYS 2C"
         ],
         "name": "Biomechanics of Marine Life",
-        "description": "An introduction to the physical basis of the biological world. This course explores how the physical principles of solids and fluids underlay the functional morphology, ecology, and adaptations of all living things, with emphasis on marine organisms. "
+        "description": "An introduction to the physical basis of the biological world. This course explores how the physical principles of solids and fluids underlay the functional morphology, ecology, and adaptations of all living things, with emphasis on marine organisms.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 126": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 1"
+        ],
         "name": "Marine Microbiology",
-        "description": "The role of microorganisms in the oceans; metabolic diversity; methods in marine microbiology; interactions of microbes with other microbes, plants and animals; biochemical cycling, pollution and water quality; microbe-mineral interactions; extremophiles. (Students may not receive credit for both SIO 126 and BIMM 126.) "
+        "description": "The role of microorganisms in the oceans; metabolic diversity; methods in marine microbiology; interactions of microbes with other microbes, plants and animals; biochemical cycling, pollution and water quality; microbe-mineral interactions; extremophiles. (Students may not receive credit for both SIO 126 and BIMM 126.)  ** Consent of instructor to enroll possible  **"
     },
     "SIO 127": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3",
+            "and",
+            "BICD 100"
+        ],
         "name": "Marine Molecular Ecology",
-        "description": "This course will survey the application of molecular methods to address diverse questions concerning the ecology and evolutionary biology in marine organisms. Focus will be on genetic and genomic approaches that are providing new insights into how marine organisms adapt to their physical and biotic environments. "
+        "description": "This course will survey the application of molecular methods to address diverse questions concerning the ecology and evolutionary biology in marine organisms. Focus will be on genetic and genomic approaches that are providing new insights into how marine organisms adapt to their physical and biotic environments.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 128": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 1",
+            "or",
+            "BILD 2",
+            "or",
+            "BILD 3"
+        ],
         "name": "Microbial Life in Extreme Environments",
-        "description": "Microorganisms turn up in the strangest places. This course examines the exotic and bizarre in the microbial world, including the super-sized, the rock and cloud builders, the survivors, and those present at the limits of life. "
+        "description": "Microorganisms turn up in the strangest places. This course examines the exotic and bizarre in the microbial world, including the super-sized, the rock and cloud builders, the survivors, and those present at the limits of life.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 129": {
         "prerequisites": [
             "CHEM 140C"
         ],
         "name": "Marine Chemical Ecology",
-        "description": "This class explores the chemistry of marine life involved in the chemical adaptations of defense and communication. The class examines all of the marine taxa from microbes to higher plants and animals. "
+        "description": "This class explores the chemistry of marine life involved in the chemical adaptations of defense and communication. The class examines all of the marine taxa from microbes to higher plants and animals.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 130": {
         "prerequisites": [],
         "name": "Scientific Diving",
-        "description": "This course includes theoretical and practical training to meet Scripps Institution of Oceanography and AAUS standards for scientific diving authorization and involves classroom, field, and ocean skin and scuba diving sessions. Topics include scientific diving programs and policy; physics and physiology of diving; decompression theory; dive planning; navigation; search and recovery; equipment and environmental considerations; subtidal sampling techniques; hazardous marine life; diving first aid; and diver rescue. Please see course preparation requirements here: https://scripps.ucsd.edu/scidive/training. P/NP grades only. Program or materials fees may apply. "
+        "description": "This course includes theoretical and practical training to meet Scripps Institution of Oceanography and AAUS standards for scientific diving authorization and involves classroom, field, and ocean skin and scuba diving sessions. Topics include scientific diving programs and policy; physics and physiology of diving; decompression theory; dive planning; navigation; search and recovery; equipment and environmental considerations; subtidal sampling techniques; hazardous marine life; diving first aid; and diver rescue. Please see course preparation requirements here: https://scripps.ucsd.edu/scidive/training. P/NP grades only. Program or materials fees may apply.  ** Department approval required ** "
     },
     "SIO 131": {
         "prerequisites": [
+            "BILD 3",
+            "and",
+            "BILD 2",
+            "or",
             "SIO 183",
             "or",
             "SIO 184",
@@ -333,22 +364,30 @@
             "SIO 188"
         ],
         "name": "Parasitology",
-        "description": "An ecological approach to parasitology. Students will gain the intellectual and practical foundation required to undertake parasitological research. Lectures will cover ecological/evolutionary concepts and the biology of various parasitic taxa. In labs, students will learn how to survey hosts for parasites, collect and identify parasites, perform infection experiments, and collect and analyze data. Students will also develop scholarship skills by delving into the scientific literature. "
+        "description": "An ecological approach to parasitology. Students will gain the intellectual and practical foundation required to undertake parasitological research. Lectures will cover ecological/evolutionary concepts and the biology of various parasitic taxa. In labs, students will learn how to survey hosts for parasites, collect and identify parasites, perform infection experiments, and collect and analyze data. Students will also develop scholarship skills by delving into the scientific literature.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 132": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3"
+        ],
         "name": "Introduction to Marine Biology",
-        "description": "Overview of marine organisms and their adaptations to sea life. Selected examples of physiological, behavioral, and evolutionary adaptations in response to the unique challenges of a maritime environment. (Students may not receive credit for both SIO 132 and BIEB 132.) "
+        "description": "Overview of marine organisms and their adaptations to sea life. Selected examples of physiological, behavioral, and evolutionary adaptations in response to the unique challenges of a maritime environment. (Students may not receive credit for both SIO 132 and BIEB 132.)  ** Consent of instructor to enroll possible  **"
     },
     "SIO 133": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3",
+            "and"
+        ],
         "name": "Marine Mammal Biology",
-        "description": "Introduction to the biology, ecology, evolution, and conservation status of marine mammals. Description of marine mammal taxa (mysticetes, odontocetes, pinnipeds, sirenians), their anatomy, physiology, ecology, and behavior. Impacts of whaling, fisheries interactions, and other anthropogenic threats. "
+        "description": "Introduction to the biology, ecology, evolution, and conservation status of marine mammals. Description of marine mammal taxa (mysticetes, odontocetes, pinnipeds, sirenians), their anatomy, physiology, ecology, and behavior. Impacts of whaling, fisheries interactions, and other anthropogenic threats.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 134": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3",
+            "and"
+        ],
         "name": "Introduction to Biological Oceanography",
-        "description": "Basics for understanding the ecology of marine communities. The approach is process-oriented, focusing on major functional groups of organisms, their food-web interactions and community response to environmental forcing, and contemporary issues in human and climate influences. (Students may not receive credit for both SIO 134 and BIEB 134.) "
+        "description": "Basics for understanding the ecology of marine communities. The approach is process-oriented, focusing on major functional groups of organisms, their food-web interactions and community response to environmental forcing, and contemporary issues in human and climate influences. (Students may not receive credit for both SIO 134 and BIEB 134.)  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 135/SIOG 236": {
         "prerequisites": [
@@ -357,45 +396,47 @@
             "PHYS 4A-B-C"
         ],
         "name": "Satellite Remote Sensing",
-        "description": "Satellite remote sensing provides global observations\n of Earth to monitor environmental changes in land, oceans, and ice. Overview,\n physical principles of remote sensing, including orbits, electromagnetic radiation,\n diffraction, electro-optical, and microwave systems. Weekly labs explore remote\n sensing data sets. Graduate students will also be required to write a term\n paper and do an oral presentation. "
+        "description": "Satellite remote sensing provides global observations\n of Earth to monitor environmental changes in land, oceans, and ice. Overview,\n physical principles of remote sensing, including orbits, electromagnetic radiation,\n diffraction, electro-optical, and microwave systems. Weekly labs explore remote\n sensing data sets. Graduate students will also be required to write a term\n paper and do an oral presentation.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 136": {
         "prerequisites": [
+            "BILD 3",
             "SIO 132",
             "and",
             "SIO 134"
         ],
         "name": "Marine Biology Laboratory",
-        "description": "Introductory laboratory course in current principles and techniques applicable to research problems in marine biology. Field component includes introduction to intertidal, salt marsh, or other marine ecosystems. Program or materials fees may apply. "
+        "description": "Introductory laboratory course in current principles and techniques applicable to research problems in marine biology. Field component includes introduction to intertidal, salt marsh, or other marine ecosystems. Program or materials fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 137": {
         "prerequisites": [
             "SIO 134"
         ],
         "name": "Ecosystems and Fisheries",
-        "description": "This course introduces students to the broad ecological processes and approaches that are fundamental to studying the dynamics of exploited populations, food webs, and ecosystems. The basics of fisheries oceanography are covered, with a synergistic focus on internations between key members of an ecosystem. A diversity of ecosystems will be discussed but the focus will be on the open ocean and deep sea. "
+        "description": "This course introduces students to the broad ecological processes and approaches that are fundamental to studying the dynamics of exploited populations, food webs, and ecosystems. The basics of fisheries oceanography are covered, with a synergistic focus on internations between key members of an ecosystem. A diversity of ecosystems will be discussed but the focus will be on the open ocean and deep sea.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 138": {
         "prerequisites": [
+            "BILD 3",
             "MATH 10A",
             "or",
             "MATH 20A",
             "CHEM 6B"
         ],
         "name": "The Coral Reef Environment",
-        "description": "Assessment of the physical, chemical, and biological interactions that define the coral reef system; essential geography and evolutionary history of reefs; natural and human perturbations to the coral reef ecosystem; aspects of reef management and sustainability. "
+        "description": "Assessment of the physical, chemical, and biological interactions that define the coral reef system; essential geography and evolutionary history of reefs; natural and human perturbations to the coral reef ecosystem; aspects of reef management and sustainability.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 139": {
         "prerequisites": [],
         "name": "Current Research in Marine Biology Colloquium",
-        "description": "Provides an introduction to current research topics and developments in marine biology and biological oceanography. Faculty members from Scripps Institution of Oceanography will offer perspectives in these areas. Students will practice scientific research and communication skills. P/NP grades only. "
+        "description": "Provides an introduction to current research topics and developments in marine biology and biological oceanography. Faculty members from Scripps Institution of Oceanography will offer perspectives in these areas. Students will practice scientific research and communication skills. P/NP grades only.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 141/CHEM 174": {
         "prerequisites": [
             "CHEM 6C"
         ],
         "name": "\t    Chemical Principles of Marine Systems",
-        "description": "Introduction to the chemistry and distribution\n\t\t\t\t of the elements in seawater, emphasizing basic chemical principles such\n\t\t\t\t as electron structure, chemical bonding, and group and periodic properties\n\t\t\t\t and showing how these affect basic aqueous chemistry in marine systems. "
+        "description": "Introduction to the chemistry and distribution\n\t\t\t\t of the elements in seawater, emphasizing basic chemical principles such\n\t\t\t\t as electron structure, chemical bonding, and group and periodic properties\n\t\t\t\t and showing how these affect basic aqueous chemistry in marine systems.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 143": {
         "prerequisites": [
@@ -404,7 +445,7 @@
             "CHEM 6C"
         ],
         "name": "Ocean Acidification",
-        "description": "This course covers the fundamentals of ocean acidification, including the chemical background; past and future changes in ocean chemistry; biological and biogeochemical consequences, including organism and ecosystem function; biodiversity; biomineralization; carbonate dissolution; and the cycling of carbon and nitrogen in the oceans. "
+        "description": "This course covers the fundamentals of ocean acidification, including the chemical background; past and future changes in ocean chemistry; biological and biogeochemical consequences, including organism and ecosystem function; biodiversity; biomineralization; carbonate dissolution; and the cycling of carbon and nitrogen in the oceans.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 144/SIOG 252A": {
         "prerequisites": [
@@ -412,17 +453,21 @@
             "and"
         ],
         "name": "Introduction to Isotope Geochemistry",
-        "description": "Radioactive and stable isotope studies in geology\n and geochemistry, including geochronology, isotopes as tracers of magmatic\n processes, cosmic-ray produced isotopes as tracers in the crust and weathering\n cycle, isotopic evolution of the crust and mantle. "
+        "description": "Radioactive and stable isotope studies in geology\n and geochemistry, including geochronology, isotopes as tracers of magmatic\n processes, cosmic-ray produced isotopes as tracers in the crust and weathering\n cycle, isotopic evolution of the crust and mantle.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SIO 146": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 2"
+        ],
         "name": "Methods in Cell and Developmental Biology of Marine Organisms Lab",
-        "description": "This laboratory course will introduce students to modern concepts and techniques in molecular, cellular, and developmental biology, through authentic research projects using echinoderm, mollusk, and coral species. In addition to designing and performing experiments, students will learn to evaluate data, work with DNA sequences, quantify results with statistics, prepare figures, read primary research literature, write and review scientific research articles, and give scientific presentations. "
+        "description": "This laboratory course will introduce students to modern concepts and techniques in molecular, cellular, and developmental biology, through authentic research projects using echinoderm, mollusk, and coral species. In addition to designing and performing experiments, students will learn to evaluate data, work with DNA sequences, quantify results with statistics, prepare figures, read primary research literature, write and review scientific research articles, and give scientific presentations.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 147": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3"
+        ],
         "name": "Applications of Phylogenetics",
-        "description": "Overview of the computer-based methods for constructing phylogenetic trees using morphological and molecular data. Lectures and labs cover evolutionary and ecological transformations, biodiversity measurements, biogeography, systematic and taxonomy. An independent project and presentation are required. (Students may not receive credit for both SIO 147 and BIEB 147.) "
+        "description": "Overview of the computer-based methods for constructing phylogenetic trees using morphological and molecular data. Lectures and labs cover evolutionary and ecological transformations, biodiversity measurements, biogeography, systematic and taxonomy. An independent project and presentation are required. (Students may not receive credit for both SIO 147 and BIEB 147.)  ** Consent of instructor to enroll possible  **"
     },
     "SIO 150": {
         "prerequisites": [
@@ -431,7 +476,7 @@
             "CHEM 6C"
         ],
         "name": "Physics and Chemistry of Planetary Interiors",
-        "description": "Quantitative study of the physical and chemical processes operating within planetary interiors that control the evolution of planets on geological time scales. Comparative planetology of Earth, Venus, Mars, and other terrestrial planets and satellites will focus on how the formation, differentiation, and evolution of their interiors are expressed as tectonics and volcanism on their surfaces. "
+        "description": "Quantitative study of the physical and chemical processes operating within planetary interiors that control the evolution of planets on geological time scales. Comparative planetology of Earth, Venus, Mars, and other terrestrial planets and satellites will focus on how the formation, differentiation, and evolution of their interiors are expressed as tectonics and volcanism on their surfaces.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 152": {
         "prerequisites": [
@@ -440,35 +485,35 @@
             "SIO 120"
         ],
         "name": "Petrology and Petrography",
-        "description": "Mineralogic, chemical, textural and structural properties of igneous, metamorphic, and sedimentary rocks; their origin and relations to evolution of the Earth\u2019s crust and mantle. Laboratory emphasizes hand specimens and microscopic studies of rocks in thin sections. "
+        "description": "Mineralogic, chemical, textural and structural properties of igneous, metamorphic, and sedimentary rocks; their origin and relations to evolution of the Earth\u2019s crust and mantle. Laboratory emphasizes hand specimens and microscopic studies of rocks in thin sections.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 153": {
         "prerequisites": [
             "SIO 50"
         ],
         "name": "Geomorphology",
-        "description": "Geomorphology is the study of the dynamic interface across which the atmosphere, water, biota, and tectonics interact to transform rock into landscapes with distinctive features crucial to the function and existence of water resources, natural hazards, climate, biogeochemical cycles, and life. In this class, we will study many of the Earth surface processes that operate on spatial scales from atomic particles to continents and over time scales of nanoseconds to millions of years. "
+        "description": "Geomorphology is the study of the dynamic interface across which the atmosphere, water, biota, and tectonics interact to transform rock into landscapes with distinctive features crucial to the function and existence of water resources, natural hazards, climate, biogeochemical cycles, and life. In this class, we will study many of the Earth surface processes that operate on spatial scales from atomic particles to continents and over time scales of nanoseconds to millions of years.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 155": {
         "prerequisites": [
             "SIO 102"
         ],
         "name": "Whole Earth Geochemistry",
-        "description": "A geochemical overview of Earth materials and chemical processes involved in the Earth\u2019s evolution. Topics include formation and differentiation of the Earth, linkages between the solid Earth and the atmosphere/hydrosphere, and isotope and trace element composition of igneous and metamorphic rocks. "
+        "description": "A geochemical overview of Earth materials and chemical processes involved in the Earth\u2019s evolution. Topics include formation and differentiation of the Earth, linkages between the solid Earth and the atmosphere/hydrosphere, and isotope and trace element composition of igneous and metamorphic rocks.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 160": {
         "prerequisites": [
             "SIO 50"
         ],
         "name": "Introduction to Tectonics",
-        "description": "The theory of plate tectonics attempts to explain how forces within the Earth give rise to continents, ocean basins, mountain ranges, earthquake belts, and most volcanoes. In this course we will learn how plate tectonics works. "
+        "description": "The theory of plate tectonics attempts to explain how forces within the Earth give rise to continents, ocean basins, mountain ranges, earthquake belts, and most volcanoes. In this course we will learn how plate tectonics works.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 162": {
         "prerequisites": [
             "SIO 100"
         ],
         "name": "Structural Geology",
-        "description": "Principles of stratigraphy and structural geology applicable to field geologic studies. Discussion and laboratory exercises. Two to three field trips required. Program and/or materials fees may apply. "
+        "description": "Principles of stratigraphy and structural geology applicable to field geologic studies. Discussion and laboratory exercises. Two to three field trips required. Program and/or materials fees may apply.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 164": {
         "prerequisites": [],
@@ -487,7 +532,7 @@
             "SIO 50"
         ],
         "name": "Geoarchaeology in Theory and Practice",
-        "description": "As specialists in human timescales, archaeologists are trained to identify subtle details that are often imperceptible for other geoscientists. This course is designed to train archaeologists to identify the natural processes affecting the archaeological record, and geoscientists to identify the influence of human behavior over land surfaces. The course, which includes lectures, laboratory training, and field observations, focuses on the articulation of sedimentology and human activity. Students may not receive credit for both ANAR 167 and SIO 167. "
+        "description": "As specialists in human timescales, archaeologists are trained to identify subtle details that are often imperceptible for other geoscientists. This course is designed to train archaeologists to identify the natural processes affecting the archaeological record, and geoscientists to identify the influence of human behavior over land surfaces. The course, which includes lectures, laboratory training, and field observations, focuses on the articulation of sedimentology and human activity. Students may not receive credit for both ANAR 167 and SIO 167.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 170": {
         "prerequisites": [
@@ -498,7 +543,7 @@
             "CHEM 6AH"
         ],
         "name": "Introduction to Volcanology",
-        "description": "This class will introduce students to the fundamentals of the science of volcanology. Topics explored will include the processes and products of various types of volcanism, magma genesis, eruptive mechanisms, in addition to volcanic monitoring, hazards and mitigation. Students may not receive credit for both SIO 170 and SIO 170GS.  "
+        "description": "This class will introduce students to the fundamentals of the science of volcanology. Topics explored will include the processes and products of various types of volcanism, magma genesis, eruptive mechanisms, in addition to volcanic monitoring, hazards and mitigation. Students may not receive credit for both SIO 170 and SIO 170GS.   ** Consent of instructor to enroll possible  **"
     },
     "SIO 170GS": {
         "prerequisites": [],
@@ -510,7 +555,7 @@
             "SIO 170"
         ],
         "name": "Introduction to Volcanology\u2014Field Experience",
-        "description": "This course teaches fundamental aspects of physical and chemical volcanology through a one- to two-week field study experience prior to the start of the quarter. Subjects are introduced in lectures and reinforced and expanded upon in field exercises. Additional fees may be required for travel expenses. Program or materials fees may apply. May be taken for credit two times. "
+        "description": "This course teaches fundamental aspects of physical and chemical volcanology through a one- to two-week field study experience prior to the start of the quarter. Subjects are introduced in lectures and reinforced and expanded upon in field exercises. Additional fees may be required for travel expenses. Program or materials fees may apply. May be taken for credit two times.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "SIO 171": {
         "prerequisites": [
@@ -521,7 +566,7 @@
             "PHYS 4C"
         ],
         "name": "Introduction to Physical Oceanography",
-        "description": "A physical description of the sea at the upper-division level, with emphasis on currents, waves, and turbulent motions that are observed in the ocean, and on the physics governing them. "
+        "description": "A physical description of the sea at the upper-division level, with emphasis on currents, waves, and turbulent motions that are observed in the ocean, and on the physics governing them.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 172": {
         "prerequisites": [
@@ -530,7 +575,7 @@
             "PHYS 2C"
         ],
         "name": "Physics of the Atmosphere",
-        "description": "This course provides an understanding of the physical principles governing the behavior of the Earth\u2019s atmosphere, with emphasis on the thermal structure and composition of the atmosphere, air masses and fronts, and atmospheric thermodynamics, fluid dynamics, and radiation. "
+        "description": "This course provides an understanding of the physical principles governing the behavior of the Earth\u2019s atmosphere, with emphasis on the thermal structure and composition of the atmosphere, air masses and fronts, and atmospheric thermodynamics, fluid dynamics, and radiation.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 173": {
         "prerequisites": [
@@ -539,7 +584,7 @@
             "PHYS 2C"
         ],
         "name": "Dynamics of the Atmosphere and Climate",
-        "description": "Introduction to the dynamical principles governing the atmosphere and climate using observations, numerical models, and theory to understand atmospheric circulation, weather systems, severe storms, marine layer, Santa Ana winds, El Ni\u00f1o, climate variability, and other phenomena. "
+        "description": "Introduction to the dynamical principles governing the atmosphere and climate using observations, numerical models, and theory to understand atmospheric circulation, weather systems, severe storms, marine layer, Santa Ana winds, El Ni\u00f1o, climate variability, and other phenomena.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 174": {
         "prerequisites": [
@@ -552,7 +597,7 @@
             "MATH 31BH"
         ],
         "name": "Chemistry of the Atmosphere and Oceans",
-        "description": "An introduction to chemical compounds and their biogeochemical cycles in the oceans and atmosphere, with emphasis on climate issues like ocean acidification, greenhouse gases and the carbon cycle, other biogeochemical cycles, chlorofluorocarbons and the ozone hole, urban pollutants and their photochemistry, and aerosol particles and their effects on clouds. "
+        "description": "An introduction to chemical compounds and their biogeochemical cycles in the oceans and atmosphere, with emphasis on climate issues like ocean acidification, greenhouse gases and the carbon cycle, other biogeochemical cycles, chlorofluorocarbons and the ozone hole, urban pollutants and their photochemistry, and aerosol particles and their effects on clouds.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 175": {
         "prerequisites": [
@@ -563,14 +608,14 @@
             "MATH 31AH"
         ],
         "name": "Analysis of Oceanic and Atmospheric Data",
-        "description": "Oceanic and atmospheric observations produce large data sets whose understanding requires analysis using computers. This course will include an introduction to Matlab for the purpose of analyzing data. Students will use modern data sets from the ocean and atmosphere to learn statistical data analysis. "
+        "description": "Oceanic and atmospheric observations produce large data sets whose understanding requires analysis using computers. This course will include an introduction to Matlab for the purpose of analyzing data. Students will use modern data sets from the ocean and atmosphere to learn statistical data analysis.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 176": {
         "prerequisites": [
             "SIO 171"
         ],
         "name": "Observational Physical Oceanography",
-        "description": "This course gives an introduction to the methods and measurements used by observational physical oceanographers. Topics covered include sensors such as conductivity-temperature-depth (CTD), acoustic Doppler current profiler (ADCP), platforms such as autonomous gliders and ships, and services such as satellite measurements. This course includes a research project. "
+        "description": "This course gives an introduction to the methods and measurements used by observational physical oceanographers. Topics covered include sensors such as conductivity-temperature-depth (CTD), acoustic Doppler current profiler (ADCP), platforms such as autonomous gliders and ships, and services such as satellite measurements. This course includes a research project.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 177": {
         "prerequisites": [
@@ -581,7 +626,7 @@
             "MATH 20E"
         ],
         "name": "Fluid Dynamics",
-        "description": "This course gives an introduction to ocean and atmosphere fluid properties, statics, and kinematics; fluid conservation laws; irrotational flow; Bernoulli equation; gravity waves; shallow water equations; geophysical applications. "
+        "description": "This course gives an introduction to ocean and atmosphere fluid properties, statics, and kinematics; fluid conservation laws; irrotational flow; Bernoulli equation; gravity waves; shallow water equations; geophysical applications.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 178": {
         "prerequisites": [
@@ -596,7 +641,7 @@
             "MATH 31AH"
         ],
         "name": "Geophysical Fluid Dynamics",
-        "description": "This course provides an introductory look at physical principles governing ocean currents and atmospheric flow. Topics may include large-scale circulation, ocean eddies, atmospheric storms systems, coastal upwelling, equatorial dynamics, and internal waves. "
+        "description": "This course provides an introductory look at physical principles governing ocean currents and atmospheric flow. Topics may include large-scale circulation, ocean eddies, atmospheric storms systems, coastal upwelling, equatorial dynamics, and internal waves.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 179": {
         "prerequisites": [
@@ -609,16 +654,18 @@
             "PHYS 4A"
         ],
         "name": "Ocean Instruments and Sensors",
-        "description": "Apply modern and classic techniques for analysis of seawater, introducing concepts of signal transduction, calibration, and measurement quality control. Emphasis will be placed on computer automation to perform basic functions including instrument control, data storage, and on-the-fly calculations. Students will apply techniques from several branches of engineering to the marine sciences. Students may not receive credit for both SIO 179 and SIO 190 with the same subtitle. Recommended preparation: PHYS 2A-C or PHYS 4A-C. "
+        "description": "Apply modern and classic techniques for analysis of seawater, introducing concepts of signal transduction, calibration, and measurement quality control. Emphasis will be placed on computer automation to perform basic functions including instrument control, data storage, and on-the-fly calculations. Students will apply techniques from several branches of engineering to the marine sciences. Students may not receive credit for both SIO 179 and SIO 190 with the same subtitle. Recommended preparation: PHYS 2A-C or PHYS 4A-C.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 180": {
         "prerequisites": [
             "CHEM 6A",
             "or",
-            "SIO 50"
+            "SIO 50",
+            "or",
+            "BILD 1"
         ],
         "name": "Communicating Science to Informal Audiences",
-        "description": "Students develop fundamental science communication and instructional skills through the understanding and application of learning theory, interpretive techniques, and pedagogical practices, which occur in the context of communicating ocean science concepts to a diverse audience at Birch Aquarium at Scripps. "
+        "description": "Students develop fundamental science communication and instructional skills through the understanding and application of learning theory, interpretive techniques, and pedagogical practices, which occur in the context of communicating ocean science concepts to a diverse audience at Birch Aquarium at Scripps.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 181": {
         "prerequisites": [],
@@ -626,46 +673,57 @@
         "description": "Biochemical mechanisms of adaptation in organisms to the marine environment. Special emphasis will be on the effects of pressure, temperature, salinity, oxygen, and light on the physiology and biochemistry. (Students may not receive credit for both SIO 181 and BIBC 130.) "
     },
     "SIO 182": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3"
+        ],
         "name": "Environmental\n\t    and Exploration Geophysics",
-        "description": "Lecture and laboratory course emphasizing the biology, ecology and taxonomy of marine plants and seaweeds. Laboratory work mainly involves examination, slide preparation and dissection of fresh material collected locally. An oral presentation on a current research topic is required. Program or course fee may apply. "
+        "description": "Lecture and laboratory course emphasizing the biology, ecology and taxonomy of marine plants and seaweeds. Laboratory work mainly involves examination, slide preparation and dissection of fresh material collected locally. An oral presentation on a current research topic is required. Program or course fee may apply.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 183": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3"
+        ],
         "name": "Phycology: Marine Plant Biology",
-        "description": "Course emphasizing the diversity, evolution and functional morphology of marine invertebrates. Laboratory work involves examination of live and prepared specimens. An oral presentation and a paper on current research topic is required. Program or course fee may apply. "
+        "description": "Course emphasizing the diversity, evolution and functional morphology of marine invertebrates. Laboratory work involves examination of live and prepared specimens. An oral presentation and a paper on current research topic is required. Program or course fee may apply.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 184": {
         "prerequisites": [
+            "BILD 1",
+            "and",
             "SIO 132",
             "or",
             "SIO 134"
         ],
         "name": "Marine Invertebrates",
-        "description": "Techniques and theory in marine microbiology. Students perform experiments concerning (a) enrichment, enumeration, and identification, and (b) metabolic and physiochemical adaptations, along with an independent project. Students may not receive credit for both SIO 126L and SIO 185. "
+        "description": "Techniques and theory in marine microbiology. Students perform experiments concerning (a) enrichment, enumeration, and identification, and (b) metabolic and physiochemical adaptations, along with an independent project. Students may not receive credit for both SIO 126L and SIO 185.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 185": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3"
+        ],
         "name": "Marine Microbiology Laboratory",
-        "description": "Introduction to statistical inference. Emphasis on constructing statistics for specific problems in marine biology. Topics include probability, distributions, sampling, replication, and experimental design. Students may not receive credit for both SIO 187 and BIEB 100. "
+        "description": "Introduction to statistical inference. Emphasis on constructing statistics for specific problems in marine biology. Topics include probability, distributions, sampling, replication, and experimental design. Students may not receive credit for both SIO 187 and BIEB 100.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 187": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 3"
+        ],
         "name": "Statistical Methods in Marine Biology",
-        "description": "The comparative evolution, morphology, physiology, and ecology of fishes. Special emphasis on local, deep-sea, and pelagic forms in laboratory. "
+        "description": "The comparative evolution, morphology, physiology, and ecology of fishes. Special emphasis on local, deep-sea, and pelagic forms in laboratory.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 188": {
         "prerequisites": [
             "CHEM 6C",
-            "and"
+            "and",
+            "BILD 1"
         ],
         "name": "Biology of Fishes",
-        "description": "The goal is to understand the scope of the pollution problem facing the planet. Students will learn the properties of chemicals in the environment and survey the biological mechanisms that determine their accumulation and toxicity. "
+        "description": "The goal is to understand the scope of the pollution problem facing the planet. Students will learn the properties of chemicals in the environment and survey the biological mechanisms that determine their accumulation and toxicity.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 189": {
         "prerequisites": [],
         "name": "Pollution, Environment and Health",
-        "description": "A seminar course designed to treat emerging or topical subjects in the earth, ocean, or atmospheric sciences. Involves lectures, reading from the literature, and student participation in discussion. Topics vary from year to year. May be taken for credit two times. Enrollment by consent of instructor. "
+        "description": "A seminar course designed to treat emerging or topical subjects in the earth, ocean, or atmospheric sciences. Involves lectures, reading from the literature, and student participation in discussion. Topics vary from year to year. May be taken for credit two times. Enrollment by consent of instructor.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 190": {
         "prerequisites": [],
@@ -680,7 +738,7 @@
     "SIO 194": {
         "prerequisites": [],
         "name": "Research Seminar in Washington, DC",
-        "description": "Introduction to teaching earth sciences class section in a lower-division class, hold office hours, assist with examinations. This course counts only once toward the major. "
+        "description": "Introduction to teaching earth sciences class section in a lower-division class, hold office hours, assist with examinations. This course counts only once toward the major.  ** Consent of instructor to enroll possible  **"
     },
     "SIO 195": {
         "prerequisites": [
@@ -697,12 +755,12 @@
     "SIO 197": {
         "prerequisites": [],
         "name": "Earth Science Internship",
-        "description": "This internship will examine basic science learning theory and interpretive techniques best suited for learners in an aquarium or informal learning setting. Students will demonstrate learned skills by facilitating floor-based interactions and conducting visitor surveys that influence aquarium exhibit design and guest experiences. Interested students should contact the Scripps undergraduate office for application instructions. P/NP grades only. "
+        "description": "This internship will examine basic science learning theory and interpretive techniques best suited for learners in an aquarium or informal learning setting. Students will demonstrate learned skills by facilitating floor-based interactions and conducting visitor surveys that influence aquarium exhibit design and guest experiences. Interested students should contact the Scripps undergraduate office for application instructions. P/NP grades only.  ** Upper-division standing required ** "
     },
     "SIO 197BA": {
         "prerequisites": [],
         "name": "Birch Aquarium Internship",
-        "description": "This course covers a variety of directed group studies in areas not covered by formal Scripps Oceanography courses. (P/NP grades only.) "
+        "description": "This course covers a variety of directed group studies in areas not covered by formal Scripps Oceanography courses. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "SIO 198": {
         "prerequisites": [],

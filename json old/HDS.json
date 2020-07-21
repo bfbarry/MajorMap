@@ -1,0 +1,129 @@
+{
+    "HDS  1": {
+        "prerequisites": [],
+        "name": "Introduction to Human Developmental Sciences",
+        "description": "This course introduces students to the central issues in the basic areas in human development. The course will explain relationships between biological, cognitive, social, and cultural aspects of development across the life span. Renumbered from HDP 1. Students may not receive credit for HDP 1 and HDS 1. "
+    },
+    "HDS 98": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Directed group study, on a topic or in a field not included in the department curriculum, by arrangement with a faculty member. Pass/No Pass grades only. Cannot be used toward HDS major credit. Renumbered from HDP 98. HDS 98 and/or HDP 98 may be taken for credit for a combined total of three times. "
+    },
+    "HDS 99": {
+        "prerequisites": [],
+        "name": "Independent Study in Human Developmental Sciences",
+        "description": "Independent study and research under the direction of an affiliated human developmental sciences faculty member. Pass/No Pass only. Cannot be used toward HDS major credit. Renumbered from HDP 99. HDS 99 and/or HDP 99 may be taken for credit for a combined total of three times. "
+    },
+    "HDS 110": {
+        "prerequisites": [
+            "HDS 1",
+            "or",
+            "PSYC 101"
+        ],
+        "name": "Brain and Behavioral Development",
+        "description": "The purpose of this course is to familiarize students with basic mechanisms of brain and behavioral development from embryology through aging. Multiple levels of analysis will be discussed, including the effects of hormones on behavior, developmental events at the level of cells, structures, and neural systems, and the neural basis of cognition, social, perceptual, and language development. Renumbered from HDP 110. Students may not receive credit for HDP 110 and HDS 110. "
+    },
+    "HDS 111": {
+        "prerequisites": [
+            "HDS 1",
+            "or",
+            "ANTH 2"
+        ],
+        "name": "Evolutionary Principles in Human Development",
+        "description": "The course will examine the human evolutionary past to inform our understanding of the biological, cognitive, and socio-cultural aspects of growth and change across the life span. Lectures and readings will draw from diverse fields to situate our understanding of human development within its broader evolutionary context. Areas of focus will include but are not limited to human longevity, biology of growth, theory of mind, and social and biological development in cross-species comparison. Renumbered from HDP 111. Students may not receive credit for HDP 111 and HDS 111. "
+    },
+    "HDS 120": {
+        "prerequisites": [
+            "HDS 1"
+        ],
+        "name": "Language Development",
+        "description": "Examination of children\u2019s acquisition of language from babbling to the formation of sentences. Topics covered include prelinguistic gestures, relationships between babbling and sound systems, speech perception, linking words with objects, rule overgeneralization, bilingualism, nature vs. nurture, individual differences, and cultural differences. Renumbered from HDP 120. Students may not receive credit for HDP 120 and HDS 120.  "
+    },
+    "HDS 121": {
+        "prerequisites": [
+            "HDS 1",
+            "or",
+            "COGS 1"
+        ],
+        "name": "The Developing Mind",
+        "description": "(Same as COGS 110.) This course examines changes in thinking and perceiving the physical and social world from birth through childhood. Evidence of significant changes in encoding information, forming mental representations, and solving problems is culled from psychological research, cross-cultural studies, and cognitive science.\u00a0Cross-listed course HDS 121 has been renumbered from HDP 121. Students may receive credit for one of the following: COGS 110, HDS 121, or HDS 121. "
+    },
+    "HDS 122": {
+        "prerequisites": [
+            "HDS 1"
+        ],
+        "name": "Development of Social Cognition ",
+        "description": "This course covers topics in development of social cognition across the life span. Grounded in current research and theoretical models, content addresses general principles such as the mutual influences of caregivers and children upon each other and the interplay of person and context. Discussion areas include attachment, aggression, identity development, social cognition, social components of achievement motivation, and development of conscience. Renumbered from HDP 122. Students may not receive credit for HDP 122 and HDS 122. "
+    },
+    "HDS 133": {
+        "prerequisites": [
+            "HDS 1",
+            "or",
+            "PSYC 1"
+        ],
+        "name": "Cross-Cultural Perspectives on Developmental Science ",
+        "description": "This course examines how human development varies cross-culturally across the life span. It explores human developmental science as a bio-social-cultural process, in which development is not simply a product of biology and genetics, but shaped by the particular cultural traditions and patterns of social interactions into which an individual is born. Renumbered from HDP 133. Students may not receive credit for HDP 133 and HDS 133. "
+    },
+    "HDS 150": {
+        "prerequisites": [
+            "HDS 181"
+        ],
+        "name": "Senior Seminar",
+        "description": "Seminar for graduating HDS seniors. Readings and discussion of special topics in human developmental sciences. Provides advanced-level study on subfields of human development. Topics vary quarterly. Renumbered from HDP 150. HDS 150 and/or HDP 150 may be repeated for a combined total of two times when topics vary. "
+    },
+    "HDS 160": {
+        "prerequisites": [],
+        "name": "Special\n\t\t\t\t  Topics Seminar in Human Developmental Sciences",
+        "description": "Special topics in human developmental sciences are discussed. Renumbered from HDP 160. HDS 160 and/or HDP 160 may be taken for credit for a combined total of three times when topics vary. "
+    },
+    "HDS 171": {
+        "prerequisites": [],
+        "name": "Diversity in Human Development: A Cultural Competency Approach ",
+        "description": "This course provides an introduction to the scholarship and practice of cultural competency, with a goal of enhancing the ability of students to be effective researchers and community service partners. Through relevant readings, associated assignments, and community guest speakers, students will acquire the necessary skills for doing substantive and responsive research in diverse cultural contexts. Renumbered from HDP 171. Students may not receive credit for HDP 171 and HDS 171. "
+    },
+    "HDS 175": {
+        "prerequisites": [],
+        "name": "Power, Wealth, and Inequality in Human Development",
+        "description": "Inequality affects social mobility and opportunities for diverse communities in the United States, having long-term implications for life span development. A multidisciplinary approach examines the differential effects on development fostered by disparities in socio-economic, educational, and cultural factors. Renumbered from HDP 175. Students may not receive credit for HDP 175 and HDS 175. "
+    },
+    "HDS 181": {
+        "prerequisites": [
+            "HDS 1",
+            "and",
+            "or",
+            "COGS 14B",
+            "or",
+            "ECON 120A",
+            "or",
+            "MATH 11",
+            "or",
+            "POLI 30",
+            "or",
+            "POLI 30D",
+            "or",
+            "PSYC 60"
+        ],
+        "name": "Experimental\n\t\t\t\t  Projects in Human Development Research",
+        "description": "This laboratory course in human developmental sciences is designed around a variety of intensive experimental projects. With lectures providing background information on research methods and life span development, each assignment will include data collection and/or analysis, and a written laboratory report. Renumbered from HDP 181. Students may not receive credit for HDP 181 and HDS 181. "
+    },
+    "HDS 191": {
+        "prerequisites": [],
+        "name": "Field Research in Human Development",
+        "description": "Specialized research project under the direction of a human developmental sciences affiliated faculty member. Renumbered from HDP 193. Students may not receive more than a combined total of eight units of credit for HDP 193 and HDS 193. "
+    },
+    "HDS 193": {
+        "prerequisites": [],
+        "name": "Advanced\n\t\t\t\t  Research in Human Developmental Sciences",
+        "description": "Students carry out a three-quarter research project, under the guidance of a faculty member, that will form the basis for their senior honors thesis in the human developmental sciences major. Renumbered from HDP 194A-B-C. Students may not receive credit for HDP 194A-B-C and HDS 194A-B-C. "
+    },
+    "HDS 194A-B-C": {
+        "prerequisites": [],
+        "name": "Honors Thesis in Human Developmental Sciences",
+        "description": "Introduction to teaching within human developmental sciences. Under the direction of the instructor, students attend lectures, lead discussion sections, review course readings, and meet regularly to prepare course materials and to evaluate examinations and papers. Course not counted toward HDS major or minor. Pass/No Pass only. Renumbered from HDP 195. Students may not receive more than a combined total of eight units of credit for HDP 195 and HDS 195. "
+    },
+    "HDS 195": {
+        "prerequisites": [],
+        "name": "Instructional\n\t\t\t\t  Apprentice in Human Developmental Sciences ",
+        "description": "Independent study and research under the direction of an affiliated human developmental sciences faculty member. Pass/No Pass only. Renumbered from HDP 199. HDP 199 and/or HDS 199 may be taken for credit for a combined total of three times. Cannot be used toward HDS major credit. "
+    }
+}

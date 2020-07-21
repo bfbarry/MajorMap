@@ -1,0 +1,995 @@
+{
+    "MATH 2": {
+        "prerequisites": [],
+        "name": "Introduction to College Mathematics",
+        "description": "A highly adaptive course designed to build on students\u2019 strengths while increasing overall mathematical understanding and skill. This multimodality course will focus on several topics of study designed to develop conceptual understanding and mathematical relevance: linear relationships; exponents and polynomials; rational expressions and equations; models of quadratic and polynomial functions and radical equations; exponential and logarithmic functions; and geometry and trigonometry. Workload credit only\u2014not for baccalaureate credit. "
+    },
+    "MATH 3C": {
+        "prerequisites": [],
+        "name": "Precalculus",
+        "description": "Functions and their graphs. Linear and polynomial functions, zeroes, inverse functions, exponential and logarithmic, trigonometric functions and their inverses. Emphasis on understanding algebraic, numerical and graphical approaches making use of graphing calculators. (No credit given if taken after MATH 4C, 1A/10A, or 2A/20A.) Three or more years of high school mathematics or equivalent recommended. "
+    },
+    "MATH 4C": {
+        "prerequisites": [
+            "MATH 3C"
+        ],
+        "name": "Precalculus for Science and Engineering",
+        "description": "Review of polynomials. Graphing functions and relations: graphing rational functions, effects of linear changes of coordinates. Circular functions and right triangle trigonometry. Reinforcement of function concept: exponential, logarithmic, and trigonometric functions. Vectors. Conic sections. Polar coordinates. (No credit given if taken after MATH 1A/10A or 2A/20A. Two units of credit given if taken after MATH 3C.) "
+    },
+    "MATH 10A": {
+        "prerequisites": [
+            "MATH 3C",
+            "or",
+            "MATH 4C"
+        ],
+        "name": "Calculus I",
+        "description": "Differential calculus of functions of one variable, with applications. Functions, graphs, continuity, limits, derivatives, tangent lines, optimization problems. (No credit given if taken after or concurrent with MATH 20A.) "
+    },
+    "MATH 10B": {
+        "prerequisites": [
+            "MATH 10A",
+            "or",
+            "MATH 20A"
+        ],
+        "name": "Calculus II",
+        "description": "Integral calculus of functions of one variable, with applications. Antiderivatives, definite integrals, the Fundamental Theorem of Calculus, methods of integration, areas and volumes, separable differential equations. (No credit given if taken after or concurrent with MATH 20B.) "
+    },
+    "MATH 10C": {
+        "prerequisites": [
+            "MATH 10B",
+            "or",
+            "MATH 20B"
+        ],
+        "name": "Calculus III",
+        "description": "Introduction to functions of more than one variable. Vector geometry, partial derivatives, velocity and acceleration vectors, optimization problems. (No credit given if taken after or concurrent with 20C.) "
+    },
+    "MATH 11": {
+        "prerequisites": [
+            "MATH 10B",
+            "or",
+            "MATH 20B"
+        ],
+        "name": "Calculus-Based Introductory Probability and Statistics",
+        "description": "Events and probabilities, conditional probability, Bayes\u2019 formula. Discrete and continuous random variables: mean, variance; binomial, Poisson distributions, normal, uniform, exponential distributions, central limit theorem. Sample statistics, confidence intervals, hypothesis testing, regression. Applications. Introduction to software for probabilistic and statistical analysis. Emphasis on connections between probability and statistics, numerical results of real data, and techniques of data analysis.  "
+    },
+    "MATH 15A": {
+        "prerequisites": [
+            "CSE 8B",
+            "or",
+            "CSE 11"
+        ],
+        "name": "Introduction to Discrete Mathematics",
+        "description": "Basic discrete mathematical structure: sets, relations, functions, sequences, equivalence relations, partial orders, and number systems. Methods of reasoning and proofs: propositional logic, predicate logic, induction, recursion, and pigeonhole principle. Infinite sets and diagonalization. Basic counting techniques; permutation and combinations. Applications will be given to digital logic design, elementary number theory, design of programs, and proofs of program correctness. Students who have completed MATH 109 may not receive credit for MATH 15A. Credit not offered for both MATH 15A and CSE 20. Equivalent to CSE 20. "
+    },
+    "MATH 18": {
+        "prerequisites": [
+            "MATH 3C",
+            "or",
+            "MATH 4C",
+            "or",
+            "MATH 10A",
+            "or",
+            "MATH 20A"
+        ],
+        "name": "Linear Algebra",
+        "description": "Matrix algebra, Gaussian elimination, determinants. Linear and affine subspaces, bases of Euclidean spaces. Eigenvalues and eigenvectors, quadratic forms, orthogonal matrices, diagonalization of symmetric matrices. Applications. Computing symbolic and graphical solutions using Matlab. Students may not receive credit\u00a0for both MATH 18 and 31AH. "
+    },
+    "MATH 20A": {
+        "prerequisites": [
+            "MATH 2C",
+            "MATH 4C",
+            "or",
+            "MATH 10A"
+        ],
+        "name": "Calculus for Science and Engineering",
+        "description": "Foundations of differential and integral calculus of one variable. Functions, graphs, continuity, limits, derivative, tangent line. Applications with algebraic, exponential, logarithmic, and trigonometric functions. Introduction to the integral. (Two credits given if taken after MATH 1A/10A and no credit given if taken after MATH 1B/10B or MATH 1C/10C. Formerly numbered MATH 2A.) "
+    },
+    "MATH 20B": {
+        "prerequisites": [
+            "MATH 20A",
+            "MATH 10B",
+            "MATH 10C"
+        ],
+        "name": "Calculus for Science and Engineering",
+        "description": "Integral calculus of one variable and its\n\t\t\t\t  applications, with exponential, logarithmic, hyperbolic, and trigonometric\n\t\t\t\t  functions. Methods of integration. Infinite series. Polar coordinates in\n\t\t\t\t  the plane and complex exponentials. (Two units of credits given if taken\n\t\t\t\t  after MATH 1B/10B or MATH 1C/10C.) "
+    },
+    "MATH 20C": {
+        "prerequisites": [
+            "MATH 20B"
+        ],
+        "name": "Calculus\n\t\t  and Analytic Geometry for Science and Engineering",
+        "description": "Vector geometry, vector functions and their derivatives. Partial differentiation. Maxima and minima. Double integration. (Two units of credit given if taken after MATH 10C. Credit not offered for both MATH 20C and 31BH. Formerly numbered MATH 21C.) "
+    },
+    "MATH 20D": {
+        "prerequisites": [
+            "MATH 20C",
+            "MATH 21C",
+            "or",
+            "MATH 31BH"
+        ],
+        "name": "Introduction to Differential Equations",
+        "description": "Ordinary differential equations: exact, separable,\n\t\t\t\t  and linear; constant coefficients, undetermined coefficients, variations\n\t\t\t\t  of parameters. Systems. Series solutions. Laplace transforms. Techniques\n\t\t\t\t  for engineering sciences. Computing symbolic and graphical solutions using\n\t\t\t\t  Matlab. (Formerly numbered MATH 21D.) May be taken as repeat credit for\n\t\t\t\t  MATH 21D. "
+    },
+    "MATH 20E": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C",
+            "MATH 21C",
+            "or",
+            "MATH 31BH"
+        ],
+        "name": "Vector Calculus",
+        "description": "Change of variable in multiple integrals, Jacobian, Line integrals, Green\u2019s theorem. Vector fields, gradient fields, divergence, curl. Spherical/cylindrical coordinates. Taylor series in several variables. Surface integrals, Stoke\u2019s theorem. Gauss\u2019 theorem. Conservative fields. "
+    },
+    "MATH 31AH": {
+        "prerequisites": [],
+        "name": "Honors Linear Algebra",
+        "description": "First quarter of three-quarter honors integrated linear algebra/multivariable calculus sequence for well-prepared students. Topics include real/complex number systems, vector spaces, linear transformations, bases and dimension, change of basis, eigenvalues, eigenvectors, diagonalization. (Credit not offered for both MATH 31AH and 20F.) "
+    },
+    "MATH 31BH": {
+        "prerequisites": [
+            "MATH 31AH"
+        ],
+        "name": "Honors Multivariable Calculus",
+        "description": "Second quarter of three-quarter honors integrated linear algebra/multivariable calculus sequence for well-prepared students. Topics include derivative in several variables, Jacobian matrices, extrema and constrained extrema, integration in several variables. (Credit not offered for both MATH 31BH and 20C.) "
+    },
+    "MATH 31CH": {
+        "prerequisites": [
+            "MATH 31BH"
+        ],
+        "name": "Honors Vector Calculus",
+        "description": "Third quarter of honors integrated linear algebra/multivariable calculus sequence for well-prepared students. Topics include change of variables formula, integration of differential forms, exterior derivative, generalized Stoke\u2019s theorem, conservative vector fields, potentials.  "
+    },
+    "MATH 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshman. "
+    },
+    "MATH 95": {
+        "prerequisites": [],
+        "name": "Introduction to Teaching Math",
+        "description": "(Cross-listed with EDS 30.) Revisit students\u2019 learning\n\t\t\t\t  difficulties in mathematics in more depth to prepare students\n\t\t\t\t  to make meaningful observations of how K\u201312 teachers deal with these difficulties.\n\t\t\t\t  Explore how instruction can use students\u2019 knowledge to pose problems\n\t\t\t\t  that stimulate students\u2019 intellectual curiosity. "
+    },
+    "MATH 96": {
+        "prerequisites": [
+            "MATH 20A"
+        ],
+        "name": "Putnam Seminar",
+        "description": "Students will develop skills in analytical thinking as they solve and present solutions to challenging mathematical problems in preparation for the William Lowell Putnam Mathematics Competition, a national undergraduate mathematics examination held each year. Students must sit for at least one half of the Putnam exam (given the first Saturday in December) to receive a passing grade. P/NP grades only. May be taken for credit up to four times.\u00a0"
+    },
+    "MATH 99R": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "Independent study or research under direction of a member of the faculty. "
+    },
+    "MATH 100A": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 109"
+        ],
+        "name": "Abstract Algebra I",
+        "description": "First course in a rigorous three-quarter introduction to the methods and basic structures of higher algebra. Topics include groups, subgroups and factor groups, homomorphisms, rings, fields. (Students may not receive credit for both MATH 100A and MATH 103A.) "
+    },
+    "MATH 100B": {
+        "prerequisites": [
+            "MATH 100A"
+        ],
+        "name": "Abstract Algebra II",
+        "description": "Second course in a rigorous three-quarter introduction to the methods and basic structures of higher algebra. Topics include rings (especially polynomial rings) and ideals, unique factorization, fields; linear algebra from perspective of linear transformations on vector spaces, including inner product spaces, determinants, diagonalization. (Students may not receive credit for both MATH 100B and MATH 103B.) "
+    },
+    "MATH 100C": {
+        "prerequisites": [
+            "MATH 100B"
+        ],
+        "name": "Abstract Algebra III",
+        "description": "Third course in a rigorous three-quarter introduction to the methods and basic structures of higher algebra. Topics include linear transformations, including Jordan canonical form and rational canonical form; Galois theory, including the insolvability of the quintic. "
+    },
+    "MATH 102": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C"
+        ],
+        "name": "Applied Linear Algebra",
+        "description": "Second course in linear algebra from a computational yet geometric point\n\t\t\t\t  of view. Elementary Hermitian matrices, Schur\u2019s theorem, normal matrices,\n\t\t\t\t  and quadratic forms. Moore-Penrose generalized inverse and least square\n\t\t\t\t  problems. Vector and matrix norms. Characteristic and singular values.\n\t\t\t\t  Canonical forms. Determinants and multilinear algebra. "
+    },
+    "MATH 103A": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 109"
+        ],
+        "name": "Modern Algebra I",
+        "description": "First course in a two-quarter introduction to abstract algebra with some applications. Emphasis on group theory. Topics include definitions and basic properties of groups, properties of isomorphisms, subgroups. (Students may not receive credit for both MATH 100A and MATH 103A.) "
+    },
+    "MATH 103B": {
+        "prerequisites": [
+            "MATH 103A",
+            "or",
+            "MATH 100A"
+        ],
+        "name": "Modern Algebra II",
+        "description": "Second course in a two-quarter introduction to abstract algebra with some applications. Emphasis on rings and fields. Topics include definitions and basic properties of rings, fields, and ideals, homomorphisms, irreducibility of polynomials. (Students may not receive credit for both MATH 100B and MATH 103B.) "
+    },
+    "MATH 104A": {
+        "prerequisites": [
+            "MATH 100B",
+            "or",
+            "MATH 103B"
+        ],
+        "name": "Number Theory I",
+        "description": "Elementary number theory with applications.  Topics include\n                  unique factorization, irrational numbers, residue systems,\n                  congruences, primitive roots, reciprocity laws, quadratic forms,\n                  arithmetic functions, partitions, Diophantine equations, distribution\n                  of primes. Applications include fast Fourier transform, signal\n                  processing, codes, cryptography. "
+    },
+    "MATH 104B": {
+        "prerequisites": [
+            "MATH 104A"
+        ],
+        "name": "Number Theory\n                  II",
+        "description": "Topics in number theory such as finite fields, continued fractions,\n                  Diophantine equations, character sums, zeta and theta functions,\n                  prime number theorem, algebraic integers, quadratic and cyclotomic\n                  fields, prime ideal theory, class number, quadratic forms,\n                  units, Diophantine approximation, p-adic numbers,\n                  elliptic curves. "
+    },
+    "MATH 104C": {
+        "prerequisites": [],
+        "name": "Number Theory III",
+        "description": "Topics in algebraic and analytic number theory, with an advanced\n                  treatment of material listed for MATH 104B. "
+    },
+    "MATH 105": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 109"
+        ],
+        "name": "Basic Number Theory",
+        "description": "The course will cover the basic arithmetic properties of the integers, with applications to Diophantine equations and elementary Diophantine approximation theory. No credit offered for MATH 105 if MATH 104A taken previously or concurrently. "
+    },
+    "MATH 106": {
+        "prerequisites": [
+            "MATH 100B",
+            "or",
+            "MATH 103B"
+        ],
+        "name": "Introduction to Algebraic Geometry",
+        "description": "Plane curves, Bezout\u2019s theorem, singularities of plane curves. Affine and projective spaces, affine and projective varieties. Examples of all the above. Instructor may choose to include some commutative algebra or some computational examples. "
+    },
+    "MATH 109": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C"
+        ],
+        "name": "Mathematical Reasoning",
+        "description": "This course uses a variety of topics in mathematics to introduce the students to rigorous mathematical proof, emphasizing quantifiers, induction, negation, proof by contradiction, naive set theory, equivalence relations and epsilon-delta proofs. Required of all departmental majors. "
+    },
+    "MATH 110": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20D",
+            "and",
+            "MATH 20E",
+            "or",
+            "MATH 31CH"
+        ],
+        "name": "Introduction to Partial Differential Equations",
+        "description": "An introduction to partial differential equations focusing on equations in two variables. Topics include the heat and wave equation on an interval, Laplace\u2019s equation on rectangular and circular domains, separation of variables, boundary conditions and eigenfunctions, introduction to Fourier series, software methods for solving equations. Formerly MATH 110A. (Students may not receive credit for MATH 110 and MATH 110A.) "
+    },
+    "MATH 111A": {
+        "prerequisites": [
+            "MATH 20D",
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 109",
+            "or",
+            "MATH 31CH"
+        ],
+        "name": "                  Mathematical Modeling I",
+        "description": "An introduction to mathematical modeling in the physical and\n                  social sciences. Topics vary, but have included mathematical\n                  models for epidemics, chemical reactions, political organizations,\n                  magnets, economic mobility, and geographical distributions\n                  of species. May be taken for credit two times when topics change. "
+    },
+    "MATH 111B": {
+        "prerequisites": [
+            "MATH 111A"
+        ],
+        "name": "Mathematical Modeling II",
+        "description": "Continued study on mathematical modeling in the physical and social sciences, using advanced techniques that will expand upon the topics selected and further the mathematical theory presented in MATH 111A. "
+    },
+    "MATH 112A": {
+        "prerequisites": [
+            "MATH 11",
+            "or",
+            "MATH 180A",
+            "or",
+            "MATH 183",
+            "or",
+            "MATH 186",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20D",
+            "and"
+        ],
+        "name": "Introduction to Mathematical Biology I",
+        "description": "Part one of a two-course introduction to the use of mathematical theory and techniques in analyzing biological problems. Topics include differential equations, dynamical systems, and probability theory applied to a selection of biological problems from population dynamics, biochemical reactions, biological oscillators, gene regulation, molecular interactions, and cellular function. May be coscheduled with MATH 212A. Recommended preparation: MATH 130 and MATH 180A. "
+    },
+    "MATH 112B": {
+        "prerequisites": [
+            "MATH 112A",
+            "and",
+            "MATH 110",
+            "and",
+            "MATH 180A"
+        ],
+        "name": "Introduction to Mathematical Biology II",
+        "description": "Part two of an introduction to the use of mathematical theory and techniques in analyzing biological problems. Topics include partial differential equations and stochastic processes applied to a selection of biological problems, especially those involving spatial movement, such as molecular diffusion, bacterial chemotaxis, tumor growth, and biological patterns. May be coscheduled with MATH 212B. Recommended preparation: MATH 180B. "
+    },
+    "MATH 114": {
+        "prerequisites": [
+            "MATH 180A"
+        ],
+        "name": "Introduction to Computational Stochastics",
+        "description": "Topics include random number generators, variance reduction, Monte Carlo (including Markov Chain Monte Carlo) simulation, and numerical methods for stochastic differential equations.\u00a0Methods will be illustrated on applications in biology, physics, and finance. May be coscheduled with MATH 214. Recommended preparation: CSE 5A, CSE 8A, CSE 11, or ECE 15. Students should complete a computer programming course before enrolling in MATH 114. "
+    },
+    "MATH 120A": {
+        "prerequisites": [
+            "MATH 20E",
+            "or",
+            "MATH 31CH"
+        ],
+        "name": "Elements of Complex Analysis",
+        "description": "Complex numbers and functions. Analytic functions, harmonic functions,\n\t\t\t\t  elementary conformal mappings. Complex integration. Power series.\n\t\t\t\t  Cauchy\u2019s theorem. Cauchy\u2019s formula. Residue theorem. "
+    },
+    "MATH 120B": {
+        "prerequisites": [
+            "MATH 120A"
+        ],
+        "name": "Applied Complex Analysis",
+        "description": "Applications of the residue theorem. Conformal\n\t\t\t\t  mapping and applications to potential theory, flows, and temperature\n\t\t\t\t  distributions. Fourier transformations. Laplace transformations, and applications\n\t\t\t\t  to integral and differential equations. Selected topics such as Poisson\u2019s\n\t\t\t\t  formula, Dirichlet\u2019s problem, Neumann\u2019s problem, or special functions. "
+    },
+    "MATH 121A": {
+        "prerequisites": [
+            "EDS 30/MATH"
+        ],
+        "name": "Foundations\n\t\t  of Teaching and Learning Mathematics I",
+        "description": "(Cross-listed with EDS 121A.) Develop teachers\u2019 knowledge base (knowledge of mathematics content, pedagogy, and student learning) in the context of advanced mathematics. This course builds on the previous courses where these components of knowledge were addressed exclusively in the context of high-school mathematics. "
+    },
+    "MATH 121B": {
+        "prerequisites": [
+            "EDS 121A/MATH"
+        ],
+        "name": "Foundations\n\t\t  of Teaching and Learning Math II",
+        "description": "(Cross-listed with EDS 121B.) Examine how learning theories can consolidate observations about conceptual development with the individual student as well as the development of knowledge in the history of mathematics. Examine how teaching theories explain the effect of teaching approaches addressed in the previous courses. "
+    },
+    "MATH 130": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20D"
+        ],
+        "name": "Differential Equations and Dynamical Systems ",
+        "description": "An introduction to ordinary differential equations from the dynamical systems perspective. Topics include flows on lines and circles, two-dimensional linear systems and phase portraits, nonlinear planar systems, index theory, limit cycles, bifurcation theory, applications to biology, physics, and electrical engineering. Formerly MATH 130A. (Students may not receive credit for MATH 130 and MATH 130A.) "
+    },
+    "MATH 140A": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 109"
+        ],
+        "name": "Foundations of Real Analysis I",
+        "description": "First course in a rigorous three-quarter sequence on real analysis. Topics include the real number system, basic topology, numerical sequences and series, continuity. (Students may not receive credit for both MATH 140A and MATH 142A.) "
+    },
+    "MATH 140B": {
+        "prerequisites": [
+            "MATH 140A"
+        ],
+        "name": "Foundations of Real Analysis II",
+        "description": "Second course in a rigorous three-quarter sequence on real analysis. Topics include differentiation, the Riemann-Stieltjes integral, sequences and series of functions, power series, Fourier series, and special functions. (Students may not receive credit for both MATH 140B and MATH 142B.) "
+    },
+    "MATH 140C": {
+        "prerequisites": [
+            "MATH 140B"
+        ],
+        "name": "Foundations of Real Analysis III",
+        "description": "Third course in a rigorous three-quarter sequence on real analysis. Topics include differentiation of functions of several real variables, the implicit and inverse function theorems, the Lebesgue integral, infinite-dimensional normed spaces. "
+    },
+    "MATH 142A": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 109"
+        ],
+        "name": "Introduction to Analysis I",
+        "description": "First course in an introductory two-quarter\n\t\t\t\t  sequence on analysis. Topics include the real number system, numerical sequences and series, infinite limits, limits of functions, continuity, differentiation. Students may not receive credit for MATH 142A if taken after or concurrently with MATH 140A.  "
+    },
+    "MATH 142B": {
+        "prerequisites": [
+            "MATH 142A",
+            "or",
+            "MATH 140A"
+        ],
+        "name": "Introduction to Analysis II",
+        "description": "Second course in an introductory two-quarter sequence on analysis. Topics include the Riemann integral, sequences and series of functions, uniform convergence, Taylor series, introduction to analysis in several variables. Students may not receive credit for MATH 142B if taken after or concurrently with MATH 140B. "
+    },
+    "MATH 144": {
+        "prerequisites": [
+            "MATH 140B",
+            "or",
+            "MATH 142B"
+        ],
+        "name": "Introduction to Fourier Analysis",
+        "description": "Rigorous introduction to the theory of Fourier series and Fourier transforms. Topics include basic properties of Fourier series, mean square and pointwise convergence, Hilbert spaces, applications of Fourier series, the Fourier transform on the real line, inversion formula, Plancherel formula, Poisson summation formula, Heisenberg uncertainty principle, applications of the Fourier transform. "
+    },
+    "MATH 146": {
+        "prerequisites": [
+            "MATH 140B",
+            "or",
+            "MATH 142B"
+        ],
+        "name": "Analysis of Ordinary Differential Equations",
+        "description": "A rigorous introduction to systems of ordinary differential equations. Topics include linear systems, matrix diagonalization and canonical forms, matrix exponentials, nonlinear systems, existence and uniqueness of solutions, linearization, and stability. "
+    },
+    "MATH 148": {
+        "prerequisites": [
+            "MATH 140B",
+            "or",
+            "MATH 142B"
+        ],
+        "name": "Analysis of Partial Differential Equations",
+        "description": "A rigorous introduction to partial differential equations. Topics include initial and boundary value problems; first order linear and quasilinear equations, method of characteristics; wave and heat equations on the line, half-line, and in space; separation of variables for heat and wave equations on an interval and for Laplace\u2019s equation on rectangles and discs; eigenfunctions of the Laplacian and heat, wave; Poisson\u2019s equations on bounded domains; and Green\u2019s functions and distributions. "
+    },
+    "MATH 150A": {
+        "prerequisites": [
+            "MATH 20E",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH"
+        ],
+        "name": "Differential Geometry",
+        "description": "Differential geometry of curves and surfaces.\n\t\t\t\t  Gauss and mean curvatures, geodesics, parallel displacement, Gauss-Bonnet\n\t\t\t\t  theorem. "
+    },
+    "MATH 150B": {
+        "prerequisites": [
+            "MATH 150A"
+        ],
+        "name": "Calculus on Manifolds",
+        "description": "Calculus of functions of several variables,\n\t\t\t\t  inverse function theorem. Further topics may include exterior\n\t\t\t\t  differential forms, Stokes\u2019 theorem, manifolds, Sard\u2019s theorem, elements\n\t\t\t\t  of differential topology, singularities of maps, catastrophes, further\n\t\t\t\t  topics in differential geometry, topics in geometry of physics. "
+    },
+    "MATH 152": {
+        "prerequisites": [
+            "MATH 20D",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH"
+        ],
+        "name": "Applicable Mathematics and Computing",
+        "description": "This course will give students experience\n\t\t\t\t  in applying theory to real world applications such as internet and wireless\n\t\t\t\t  communication problems. The course will incorporate talks by experts from\n\t\t\t\t  industry and students will be helped to carry out independent projects.\n\t\t\t\t  Topics include graph visualization, labelling, and embeddings, random graphs\n\t\t\t\t  and randomized algorithms. May be taken for credit three times. "
+    },
+    "MATH 153": {
+        "prerequisites": [
+            "MATH 109",
+            "or",
+            "MATH 31CH"
+        ],
+        "name": "Geometry for Secondary Teachers",
+        "description": "Two- and three-dimensional Euclidean geometry\n\t\t\t\t  is developed from one set of axioms. Pedagogical issues will emerge from\n\t\t\t\t  the mathematics and be addressed using current research in teaching and\n\t\t\t\t  learning geometry. This course is designed for prospective secondary school\n\t\t\t\t  mathematics teachers. "
+    },
+    "MATH 154": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 109"
+        ],
+        "name": "Discrete Mathematics and Graph Theory",
+        "description": "Basic concepts in graph theory, including trees, walks, paths, and connectivity, cycles, matching theory, vertex and edge-coloring, planar graphs, flows and combinatorial algorithms, covering Hall\u2019s theorems, the max-flow min-cut theorem, Euler\u2019s formula, and the travelling salesman problem. Credit not offered for MATH 154 if MATH 158 is previously taken. If MATH 154 and MATH 158 are concurrently taken, credit is only offered for MATH 158. "
+    },
+    "MATH 155A": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C"
+        ],
+        "name": "Geometric Computer Graphics",
+        "description": "Bezier curves and control lines, de Casteljau construction for subdivision,\n\t\t\t\t  elevation of degree, control points of Hermite curves, barycentric coordinates,\n\t\t\t\t  rational curves. Programming knowledge recommended. (Students may not receive\n\t\t\t\t  credit for both MATH 155A and CSE 167.) "
+    },
+    "MATH 155B": {
+        "prerequisites": [
+            "MATH 155A"
+        ],
+        "name": "Topics in Computer Graphics",
+        "description": "Spline curves, NURBS, knot insertion, spline interpolation, illumination models, radiosity, and ray tracing. "
+    },
+    "MATH 157": {
+        "prerequisites": [
+            "MATH 20D",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH"
+        ],
+        "name": "Introduction to Mathematical Software",
+        "description": "A hands-on introduction to the use of a variety of open-source mathematical software packages, as applied to a diverse range of topics within pure and applied mathematics. Most of these packages are built on the Python programming language, but no prior experience with mathematical software or computer programming is expected. All software will be accessed using the CoCalc web platform (http://cocalc.com), which provides a uniform interface through any web browser. "
+    },
+    "MATH 158": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 109"
+        ],
+        "name": "Extremal Combinatorics and Graph Theory",
+        "description": "Extremal combinatorics is the study of how large or small a finite set can be under combinatorial restrictions. We will give an introduction to graph theory, connectivity, coloring, factors, and matchings, extremal graph theory, Ramsey theory, extremal set theory, and an introduction to probabilistic combinatorics. Topics include Turan\u2019s theorem, Ramsey\u2019s theorem, Dilworth\u2019s theorem, and Sperner\u2019s theorem. Credit not offered for MATH 158 if MATH 154 was previously taken. If MATH 154 and MATH 158 are concurrently taken, credit is only offered for MATH 158. A strong performance in MATH 109 or MATH 31CH is recommended. "
+    },
+    "MATH 160A": {
+        "prerequisites": [
+            "MATH 100A",
+            "or",
+            "MATH 103A",
+            "or",
+            "MATH 140A"
+        ],
+        "name": "Elementary Mathematical Logic I",
+        "description": "An introduction to recursion theory, set theory, proof theory, model theory. Turing machines. Undecidability of arithmetic and predicate logic. Proof by induction and definition by recursion. Cardinal and ordinal numbers. Completeness and compactness theorems for propositional and predicate calculi. "
+    },
+    "MATH 160B": {
+        "prerequisites": [
+            "MATH 160A"
+        ],
+        "name": "Elementary Mathematical Logic II",
+        "description": "A continuation of recursion theory, set theory, proof theory, model theory. Turing machines. Undecidability of arithmetic and predicate logic. Proof by induction and definition by recursion. Cardinal and ordinal numbers. Completeness and compactness theorems for propositional and predicate calculi. "
+    },
+    "MATH 163": {
+        "prerequisites": [
+            "MATH 20B"
+        ],
+        "name": "History of Mathematics",
+        "description": "Topics will vary from year to year in areas of mathematics and their development. Topics may include the evolution of mathematics from the Babylonian period to the eighteenth century using original sources, a history of the foundations of mathematics and the development of modern mathematics. "
+    },
+    "MATH 168A": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C"
+        ],
+        "name": "Topics in Applied Mathematics\u2014Computer Science",
+        "description": "Topics to be chosen in areas of applied mathematics\n\t\t\t\t  and mathematical aspects of computer science. May be taken for credit two times with different topics. "
+    },
+    "MATH 170A": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C"
+        ],
+        "name": "Introduction\n\t\t  to Numerical Analysis: Linear Algebra",
+        "description": "Analysis of numerical methods for linear algebraic systems and least squares problems. Orthogonalization methods. Ill conditioned problems. Eigenvalue and singular value computations. Knowledge of programming recommended. "
+    },
+    "MATH 170B": {
+        "prerequisites": [
+            "MATH 170A"
+        ],
+        "name": "Introduction to Numerical Analysis: Approximation and Nonlinear Equations",
+        "description": "Rounding and discretization errors. Calculation of roots of polynomials and nonlinear equations. Interpolation. Approximation of functions. Knowledge of programming recommended. "
+    },
+    "MATH 170C": {
+        "prerequisites": [
+            "MATH 20D",
+            "and",
+            "MATH 170B"
+        ],
+        "name": "Introduction to Numerical Analysis: Ordinary Differential Equations",
+        "description": "Numerical differentiation and integration. Ordinary differential equations and their numerical solution. Basic existence and stability theory. Difference equations. Boundary value problems. "
+    },
+    "MATH 171A": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C"
+        ],
+        "name": "Introduction\n\t\t  to Numerical Optimization: Linear Programming",
+        "description": "Linear optimization and applications. Linear programming, the simplex method, duality. Selected topics from integer programming, network flows, transportation problems, inventory problems, and other applications. Three lectures, one recitation. Knowledge of programming recommended. (Credit not allowed for both MATH 171A and ECON 172A.) "
+    },
+    "MATH 171B": {
+        "prerequisites": [
+            "MATH 171A"
+        ],
+        "name": "Introduction\n\t\t  to Numerical Optimization: Nonlinear Programming",
+        "description": "Convergence of sequences in Rn, multivariate Taylor series. Bisection and related methods for nonlinear equations in one variable. Newton\u2019s methods for nonlinear equations in one and many variables. Unconstrained optimization and Newton\u2019s method. Equality-constrained optimization, Kuhn-Tucker theorem. Inequality-constrained optimization. Three lectures, one recitation. Knowledge of programming recommended. (Credit not allowed for both MATH 171B and ECON 172B.) "
+    },
+    "MATH 173A": {
+        "prerequisites": [
+            "MATH 20C",
+            "or",
+            "MATH 31BH",
+            "and",
+            "MATH 20F"
+        ],
+        "name": "Optimization Methods for Data Science I",
+        "description": "Introduction to convexity: convex sets, convex functions; geometry of hyperplanes; support functions for convex sets; hyperplanes and support vector machines. Linear and quadratic programming: optimality conditions; duality; primal and dual forms of linear support vector machines; active-set methods; interior methods. "
+    },
+    "MATH 173B": {
+        "prerequisites": [
+            "MATH 173A"
+        ],
+        "name": "Optimization Methods for Data Science II",
+        "description": "Unconstrained optimization: linear least squares; randomized linear least squares; method(s) of steepest descent; line-search methods; conjugate-gradient method; comparing the efficiency of methods; randomized/stochastic methods; nonlinear least squares; norm minimization methods. Convex constrained optimization: optimality conditions; convex programming; Lagrangian relaxation; the method of multipliers; the alternating direction method of multipliers; minimizing combinations of norms. "
+    },
+    "MATH 174": {
+        "prerequisites": [
+            "MATH 21D",
+            "and",
+            "MATH 20F",
+            "or",
+            "MATH 31AH"
+        ],
+        "name": "Numerical Methods for Physical Modeling",
+        "description": "(Conjoined with MATH 274.) Floating point\n\t\t\t\t  arithmetic, direct and iterative solution of linear equations,\n\t\t\t\t  iterative solution of nonlinear equations, optimization, approximation\n\t\t\t\t  theory, interpolation, quadrature, numerical methods for initial\n\t\t\t\t  and boundary value problems in ordinary differential equations.\n\t\t\t\t  (Students may not receive credit for both MATH 174 and PHYS\n\t\t\t\t  105, AMES 153 or 154. Students may not receive credit for MATH 174 if\n\t\t\t\t  MATH 170A, B, or C has already been taken.) Graduate students will do an\n\t\t\t\t  extra assignment/exam. "
+    },
+    "MATH 175": {
+        "prerequisites": [
+            "MATH 174",
+            "or",
+            "MATH 274"
+        ],
+        "name": "Numerical\n\t\t  Methods for Partial Differential Equations",
+        "description": "(Conjoined with MATH 275.) Mathematical background for working with partial differential equations. Survey of finite difference, finite element, and other numerical methods for the solution of elliptic, parabolic, and hyperbolic partial differential equations. (Formerly MATH 172. Students may not receive credit for MATH 175/275 and MATH 172.) Graduate students do an extra paper, project, or presentation, per instructor. "
+    },
+    "MATH 179": {
+        "prerequisites": [
+            "MATH 174",
+            "or",
+            "MATH 274"
+        ],
+        "name": "Projects in Computational and Applied Mathematics",
+        "description": "(Conjoined with MATH 279.) Mathematical models of physical systems arising in science and engineering, good models and well-posedness, numerical and other approximation techniques, solution algorithms for linear and nonlinear approximation problems, scientific visualizations, scientific software design and engineering, project-oriented. Graduate students will do an extra paper, project, or presentation per instructor. "
+    },
+    "MATH 180A": {
+        "prerequisites": [
+            "MATH 31BH"
+        ],
+        "name": "Introduction to Probability",
+        "description": "Probability spaces, random variables, independence, conditional probability,\n\t\t\t\t  distribution, expectation, variance, joint distributions, central\n\t\t\t\t  limit theorem. (Two units of credit offered for MATH 180A\n\t\t\t\t  if ECON 120A previously, no credit offered if ECON 120A concurrently. Two units of credit offered for MATH 180A if MATH 183 or 186 taken previously or concurrently.) Prior or concurrent enrollment in MATH 109 is highly recommended.  "
+    },
+    "MATH 180B": {
+        "prerequisites": [
+            "MATH 20D",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 109",
+            "or",
+            "MATH 31CH",
+            "and",
+            "MATH 180A"
+        ],
+        "name": "Introduction to Stochastic Processes I",
+        "description": "Random vectors, multivariate densities, covariance matrix, multivariate\n\t\t\t\t  normal distribution. Random walk, Poisson process. Other topics if time\n\t\t\t\t  permits.  "
+    },
+    "MATH 180C": {
+        "prerequisites": [
+            "MATH 180B"
+        ],
+        "name": "Introduction to Stochastic Processes II",
+        "description": "Markov chains in discrete and continuous time, random walk, recurrent events. If time permits, topics chosen from stationary normal processes, branching processes, queuing theory.  "
+    },
+    "MATH 181A": {
+        "prerequisites": [
+            "MATH 180A",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C"
+        ],
+        "name": "Introduction to Mathematical Statistics I",
+        "description": "Multivariate distribution, functions of random variables, distributions related to normal. Parameter estimation, method of moments, maximum likelihood. Estimator accuracy and confidence intervals. Hypothesis testing, type I and type II errors, power, one-sample t-test. Prior or concurrent enrollment in MATH 109 is highly recommended.  "
+    },
+    "MATH 181B": {
+        "prerequisites": [
+            "MATH 181A"
+        ],
+        "name": "Introduction to Mathematical Statistics II",
+        "description": "Hypothesis testing. Linear models, regression, and analysis of variance. Goodness of fit tests. Nonparametric statistics. Two units of credit offered for MATH 181B if ECON 120B previously; no credit offered if ECON 120B concurrently. Prior enrollment in MATH 109 is highly recommended.   "
+    },
+    "MATH 181C": {
+        "prerequisites": [
+            "MATH 181B"
+        ],
+        "name": "  Mathematical Statistics\u2014Nonparametric Statistics",
+        "description": "Topics covered may include the following: classical rank test, rank correlations,\n\t\t\t\t  permutation tests, distribution free testing, efficiency, confidence\n\t\t\t\t  intervals, nonparametric regression and density estimation,\n\t\t\t\t  resampling techniques (bootstrap, jackknife, etc.) and cross validations. Prior enrollment in MATH 109 is highly recommended. "
+    },
+    "MATH 181D": {
+        "prerequisites": [
+            "ECE 109",
+            "or",
+            "ECON 120A",
+            "or",
+            "MAE 108",
+            "or",
+            "MATH 181A",
+            "or",
+            "MATH 183",
+            "or",
+            "MATH 186",
+            "or",
+            "MATH 189"
+        ],
+        "name": "Statistical Learning",
+        "description": "Statistical learning refers to a set of tools for modeling and understanding complex data sets. It uses developments in optimization, computer science, and in particular machine learning. This encompasses many methods such as dimensionality reduction, sparse representations, variable selection, classification, boosting, bagging, support vector machines, and machine learning. "
+    },
+    "MATH 181E": {
+        "prerequisites": [
+            "MATH 181B"
+        ],
+        "name": "Mathematical Statistics\u2014Time Series",
+        "description": "Analysis of trends and seasonal effects, autoregressive and moving averages\n\t\t\t\t  models, forecasting, informal introduction to spectral analysis. "
+    },
+    "MATH 181F": {
+        "prerequisites": [
+            "ECE 109",
+            "or",
+            "ECON 120A",
+            "or",
+            "MAE 108",
+            "or",
+            "MATH 11",
+            "or",
+            "MATH 181A",
+            "or",
+            "MATH 183",
+            "or",
+            "MATH 186",
+            "or",
+            "MATH 189"
+        ],
+        "name": "Sampling Surveys and Experimental Design",
+        "description": "Design of sampling surveys: simple, stratified, systematic, cluster, network surveys. Sources of bias in surveys. Estimators and confidence intervals based on unequal probability sampling. Design and analysis of experiments: block, factorial, crossover, matched-pairs designs. Analysis of variance, re-randomization, and multiple comparisons. "
+    },
+    "MATH 183": {
+        "prerequisites": [
+            "MATH 20C",
+            "or",
+            "MATH 31BH"
+        ],
+        "name": "Statistical Methods",
+        "description": "Introduction to probability. Discrete and continuous random variables\u2013binomial, Poisson and Gaussian distributions. Central limit theorem. Data analysis and inferential statistics: graphical techniques, confidence intervals, hypothesis tests, curve fitting. (Credit not offered for MATH 183 if ECON 120A, ECE 109, MAE 108, MATH 181A, or MATH 186 previously or concurrently taken. Two units of credit offered for MATH 183 if MATH 180A taken previously or concurrently.) "
+    },
+    "MATH 184": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 109"
+        ],
+        "name": "Enumerative Combinatorics",
+        "description": "Introduction to the theory and applications of combinatorics. Enumeration of combinatorial structures (permutations, integer partitions, set partitions). Bijections, inclusion-exclusion,\u00a0ordinary and exponential generating functions. Renumbered from MATH 184A; credit not offered for MATH 184 if MATH 184A if previously taken. Credit not offered for MATH 184 if MATH 188 previously taken. If MATH 184 and MATH 188 are concurrently taken, credit only offered for MATH 188.  "
+    },
+    "MATH 185": {
+        "prerequisites": [
+            "MATH 11",
+            "or",
+            "MATH 181A",
+            "or",
+            "MATH 183",
+            "or",
+            "MATH 186",
+            "or",
+            "MAE 108",
+            "or",
+            "ECE 109",
+            "or",
+            "ECON 120A",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C"
+        ],
+        "name": "Introduction to Computational Statistics",
+        "description": "Statistical analysis of data by means of package programs. Regression, analysis of variance, discriminant analysis, principal components, Monte Carlo simulation, and graphical methods. Emphasis will be on understanding the connections between statistical theory, numerical results, and analysis of real data. Recommended preparation: exposure to computer programming (such as CSE 5A, CSE 7, or ECE 15) highly recommended. "
+    },
+    "MATH 186": {
+        "prerequisites": [
+            "MATH 20C",
+            "or",
+            "MATH 31BH"
+        ],
+        "name": "Probability and Statistics for Bioinformatics",
+        "description": "This course will cover discrete and random variables, data analysis and inferential statistics, likelihood estimators and scoring matrices with applications to biological problems. Introduction to Binomial, Poisson, and Gaussian distributions, central limit theorem, applications to sequence and functional analysis of genomes and genetic epidemiology. (Credit not offered for MATH 186 if ECON 120A, ECE 109, MAE 108, MATH 181A, or MATH 183 previously or concurrently. Two units of credit offered for MATH 186 if MATH 180A taken previously or concurrently.) "
+    },
+    "MATH 187A": {
+        "prerequisites": [],
+        "name": "Introduction to Cryptography",
+        "description": "An introduction to the basic concepts and techniques of modern cryptography. Classical cryptanalysis. Probabilistic models of plaintext. Monalphabetic and polyalphabetic substitution. The one-time system. Caesar-Vigenere-Playfair-Hill substitutions. The Enigma. Modern-day developments. The Data Encryption Standard. Public key systems. Security aspects of computer networks. Data protection. Electronic mail. Recommended preparation: programming experience. Renumbered from MATH 187. Students may not receive credit for both MATH 187A and 187. "
+    },
+    "MATH 187B": {
+        "prerequisites": [
+            "MATH 187",
+            "or",
+            "MATH 187A",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 31AH",
+            "or",
+            "MATH 20F"
+        ],
+        "name": "Mathematics of Modern Cryptography",
+        "description": "The object of this course is to study modern public key cryptographic systems and cryptanalysis (e.g., RSA, Diffie-Hellman, elliptic curve cryptography, lattice-based cryptography, homomorphic encryption) and the mathematics behind them. We also explore other applications of these computational techniques (e.g., integer factorization and attacks on RSA). Recommended preparation: Familiarity with Python and/or mathematical software (especially SAGE) would be helpful, but it is not required. "
+    },
+    "MATH 188": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 109",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 100A"
+        ],
+        "name": "Algebraic Combinatorics",
+        "description": "A rigorous introduction to algebraic combinatorics. Basic enumeration and generating functions. Enumeration involving group actions: Polya theory. Posets and Sperner property. q-analogs and unimodality. Partitions and tableaux. Credit not offered for MATH 188 if MATH 184 or MATH 184A previously taken. If MATH 184 and MATH 188 are concurrently taken, credit only offered for MATH 188. "
+    },
+    "MATH 189": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C",
+            "and",
+            "BENG 134",
+            "CSE 103",
+            "ECE 109",
+            "ECON 120A",
+            "MAE 108",
+            "MATH 180A",
+            "MATH 183",
+            "MATH 186",
+            "or",
+            "SE 125"
+        ],
+        "name": "Exploratory Data Analysis and Inference",
+        "description": "An introduction to various quantitative methods and statistical techniques for analyzing data\u2014in particular big data. Quick review of probability continuing to topics of how to process, analyze, and visualize data using statistical language R. Further topics include basic inference, sampling, hypothesis testing, bootstrap methods, and regression and diagnostics. Offers conceptual explanation of techniques, along with opportunities to examine, implement, and practice them in real and simulated data. "
+    },
+    "MATH 190A": {
+        "prerequisites": [
+            "MATH 31CH",
+            "or",
+            "MATH 140A",
+            "or",
+            "MATH 142A"
+        ],
+        "name": "Foundations of Topology I ",
+        "description": "An introduction to point set topology: topological spaces, subspace topologies, product topologies, quotient topologies, continuous maps and homeomorphisms, metric spaces, connectedness, compactness, basic separation, and countability axioms. Examples. Instructor may choose further topics such as Urysohn\u2019s lemma, Urysohn\u2019s metrization theorem. Formerly MATH 190. Students may not receive credit for MATH 190A and MATH 190. "
+    },
+    "MATH 190B": {
+        "prerequisites": [
+            "MATH 190A"
+        ],
+        "name": "Foundations of Topology II",
+        "description": "An introduction to the fundamental group: homotopy and path homotopy, homotopy equivalence, basic calculations of fundamental groups, fundamental group of the circle and applications (for instance to retractions and fixed-point theorems), van Kampen\u2019s theorem, covering spaces, universal covers. Examples of all of the above. Instructor may choose further topics such as deck transformations and the Galois correspondence, basic homology, compact surfaces. "
+    },
+    "MATH 191": {
+        "prerequisites": [
+            "MATH 190"
+        ],
+        "name": "Topics in Topology",
+        "description": "Topics to be chosen by the instructor from the fields of differential algebraic, geometric, and general topology. "
+    },
+    "MATH 193A": {
+        "prerequisites": [
+            "MATH 180A",
+            "or",
+            "MATH 183"
+        ],
+        "name": "Actuarial Mathematics I",
+        "description": "Probabilistic Foundations of Insurance. Short-term\n\t\t\t\t  risk models. Survival distributions and life tables. Introduction\n\t\t\t\t  to life insurance. "
+    },
+    "MATH 193B": {
+        "prerequisites": [
+            "MATH 193A"
+        ],
+        "name": "Actuarial Mathematics II",
+        "description": "Life Insurance and Annuities. Analysis of premiums and premium reserves. Introduction to multiple life functions and decrement models as time permits. "
+    },
+    "MATH 194": {
+        "prerequisites": [
+            "MATH 20D",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 180A"
+        ],
+        "name": "The Mathematics of Finance",
+        "description": "Introduction to the mathematics of financial models. Basic probabilistic models and associated mathematical machinery will be discussed, with emphasis on discrete time models. Concepts covered will include conditional expectation, martingales, optimal stopping, arbitrage pricing, hedging, European and American options. "
+    },
+    "MATH 195": {
+        "prerequisites": [],
+        "name": "Introduction to Teaching in Mathematics",
+        "description": "Students will be responsible for and teach a class section of a lower-division mathematics course. They will also attend a weekly meeting on teaching methods. (Does not count toward a minor or major.)  "
+    },
+    "MATH 196": {
+        "prerequisites": [],
+        "name": "Student Colloquium",
+        "description": "A variety of topics and current research results in mathematics will be presented by guest lecturers and students under faculty direction. May be taken for P/NP grade only. "
+    },
+    "MATH 197": {
+        "prerequisites": [],
+        "name": "Mathematics Internship",
+        "description": "An enrichment program which provides work\n\t\t\t\t  experience with public/private sector employers. Subject to\n\t\t\t\t  the availability of positions, students will work in a local\n\t\t\t\t  company under the supervision of a faculty member and site\n\t\t\t\t  supervisor. Units may not be applied toward major graduation\n\t\t\t\t  requirements. "
+    },
+    "MATH 199": {
+        "prerequisites": [],
+        "name": "Independent Study for Undergraduates",
+        "description": "Independent reading in advanced mathematics by individual students. Three periods. (P/NP grades only.) "
+    },
+    "MATH 199H": {
+        "prerequisites": [],
+        "name": "Honors\n\t\t  Thesis Research for Undergraduates",
+        "description": "Honors thesis research for seniors participating in the Honors Program. Research is conducted under the supervision of a mathematics faculty member. "
+    }
+}

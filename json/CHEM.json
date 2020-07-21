@@ -167,12 +167,12 @@
     "CHEM 99": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Independent literature or laboratory research\n\t\t\t\t  by arrangement with and under the direction of a member of\n\t\t\t\t  the Department of Chemistry and Biochemistry faculty. Students\n\t\t\t\t  must register on a P/NP basis. "
+        "description": "Independent literature or laboratory research\n\t\t\t\t  by arrangement with and under the direction of a member of\n\t\t\t\t  the Department of Chemistry and Biochemistry faculty. Students\n\t\t\t\t  must register on a P/NP basis.  ** Consent of instructor to enroll possible  **"
     },
     "CHEM 99R": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Independent study or research under the direction of a member\n                  of the faculty. "
+        "description": "Independent study or research under the direction of a member\n                  of the faculty.  ** Upper-division standing required ** "
     },
     "CHEM 100A": {
         "prerequisites": [
@@ -258,7 +258,9 @@
     },
     "CHEM 114C": {
         "prerequisites": [
-            "CHEM 114A"
+            "CHEM 114A",
+            "or",
+            "BIBC 100"
         ],
         "name": "Biosynthesis of Macromolecules",
         "description": "Mechanisms of biosynthesis of macromolecules\u2014particularly\n\t\t\t\t  proteins and nucleic acids. Emphasis is on how these processes are controlled\n\t\t\t\t  and integrated with metabolism of the cell. Students may not receive credit for both CHEM 114C and BIMM 100.  "
@@ -296,6 +298,8 @@
     },
     "CHEM 119": {
         "prerequisites": [
+            "BIMM 100",
+            "or",
             "CHEM 114C",
             "and",
             "CHEM 40C",
@@ -404,6 +408,10 @@
         "prerequisites": [
             "CHEM 40B",
             "and",
+            "BIBC 100",
+            "or",
+            "BILD 1",
+            "or",
             "CHEM 114A"
         ],
         "name": "Organic Nanomaterials",
@@ -501,11 +509,15 @@
     },
     "CHEM 158": {
         "prerequisites": [
+            "BIBC 100",
+            "or",
             "CHEM 114A",
             "and",
+            "BIBC 102",
             "or",
             "CHEM 114B",
             "and",
+            "BIMM 100",
             "or",
             "CHEM 114C"
         ],
@@ -514,7 +526,9 @@
     },
     "CHEM 164": {
         "prerequisites": [
-            "CHEM 114A"
+            "CHEM 114A",
+            "or",
+            "BIBC 100"
         ],
         "name": "Structural Biology of Viruses",
         "description": "(Cross-listed with BIMM 162.) The resolution revolution in cryo-electron microscopy has made this a key technology for the high-resolution determination of structures of macromolecular complexes, organelles, and cells. The basic principles of transmission electron microscopy, modern cryo-electron microscopy, image acquisition, and 3D reconstruction will be discussed. Examples from the research literature using this state-of-the-art technology will also be discussed. "
@@ -567,6 +581,8 @@
     },
     "CHEM 174": {
         "prerequisites": [
+            "BIMM 181",
+            "or",
             "BENG 181",
             "or",
             "CSE 181"
@@ -623,7 +639,7 @@
     "CHEM 188": {
         "prerequisites": [],
         "name": "Capstone Seminar in Science Education",
-        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in chemistry or biochemistry. May be taken for credit up to four times, with a change in topic, and permission of the department. P/NP grades only. "
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in chemistry or biochemistry. May be taken for credit up to four times, with a change in topic, and permission of the department. P/NP grades only.  ** Consent of instructor to enroll possible  **"
     },
     "CHEM 192": {
         "prerequisites": [],
@@ -633,12 +649,12 @@
     "CHEM 194": {
         "prerequisites": [],
         "name": "Special Topics in Chemistry",
-        "description": "An introduction to teaching chemistry. Students are required to attend a weekly class on methods of teaching chemistry and will teach a discussion section of one of the lower-division chemistry courses. Attendance at lecture of the lower-division course in which the student is participating is required. P/NP grades only. "
+        "description": "An introduction to teaching chemistry. Students are required to attend a weekly class on methods of teaching chemistry and will teach a discussion section of one of the lower-division chemistry courses. Attendance at lecture of the lower-division course in which the student is participating is required. P/NP grades only.  ** Consent of instructor to enroll possible  **"
     },
     "CHEM 195": {
         "prerequisites": [],
         "name": "Methods of Teaching Chemistry",
-        "description": "Independent literature or discipline-based education research \n\t\t\t\t  by arrangement with, and under the direction of, a member of the Department\n\t\t\t\t  of Chemistry and Biochemistry faculty. P/NP grades only.  "
+        "description": "Independent literature or discipline-based education research \n\t\t\t\t  by arrangement with, and under the direction of, a member of the Department\n\t\t\t\t  of Chemistry and Biochemistry faculty. P/NP grades only.   ** Consent of instructor to enroll possible  **"
     },
     "CHEM 196": {
         "prerequisites": [],
@@ -648,12 +664,12 @@
     "CHEM 197": {
         "prerequisites": [],
         "name": "Chemistry Internship",
-        "description": "Directed group study on a topic or in a field not included in the regular department curriculum, by arrangement with a chemistry and biochemistry faculty member. P/NP grades only. May be taken for credit two times. "
+        "description": "Directed group study on a topic or in a field not included in the regular department curriculum, by arrangement with a chemistry and biochemistry faculty member. P/NP grades only. May be taken for credit two times.  ** Department approval required ** "
     },
     "CHEM 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Independent literature or laboratory research by arrangement with, and under the direction of, a member of the Department of Chemistry and Biochemistry faculty. Students must register on a P/NP basis. "
+        "description": "Independent literature or laboratory research by arrangement with, and under the direction of, a member of the Department of Chemistry and Biochemistry faculty. Students must register on a P/NP basis.  ** Consent of instructor to enroll possible  **"
     },
     "CHEM 199": {
         "prerequisites": [],

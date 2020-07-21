@@ -138,7 +138,7 @@
             "ECON 4"
         ],
         "name": "Topics in Entrepreneurship",
-        "description": "Preparation and interpretation\n                  of accounting information under both FASB and IASB guidelines\n                  pertaining to revenue and expense recognition, receivables,\n                  and inventories. "
+        "description": "Preparation and interpretation\n                  of accounting information under both FASB and IASB guidelines\n                  pertaining to revenue and expense recognition, receivables,\n                  and inventories.  ** Upper-division standing required ** "
     },
     "MGT 131A": {
         "prerequisites": [
@@ -191,7 +191,7 @@
             "ECON 4"
         ],
         "name": "Advanced\n                Accounting",
-        "description": "Examines tools and techniques to analyze a firm\u2019s financial position and performance.  This course combines both accounting and finance in a practical framework for debt and equity valuation methods from both a conceptual and practical framework. "
+        "description": "Examines tools and techniques to analyze a firm\u2019s financial position and performance.  This course combines both accounting and finance in a practical framework for debt and equity valuation methods from both a conceptual and practical framework.  ** Upper-division standing required ** "
     },
     "MGT 137": {
         "prerequisites": [],
@@ -251,6 +251,9 @@
             "MATH 31AH",
             "and",
             "BENG 100",
+            "or",
+            "BIEB 100",
+            "or",
             "COGS 14B",
             "or",
             "ECE 109",
@@ -283,7 +286,7 @@
             "MGT 153"
         ],
         "name": "Business Analytics",
-        "description": "When considering complex business problems, research is often undertaken as a means of aiding decision-making. This course gives an in-depth look at the business research process, including methods of qualitative and quantitative research. Students learn about the design and execution of business analytics (including common descriptive and predictive models), and how models are selected, executed, and evaluated, with focus on extracting impactful information to aid in making informed decisions. "
+        "description": "When considering complex business problems, research is often undertaken as a means of aiding decision-making. This course gives an in-depth look at the business research process, including methods of qualitative and quantitative research. Students learn about the design and execution of business analytics (including common descriptive and predictive models), and how models are selected, executed, and evaluated, with focus on extracting impactful information to aid in making informed decisions.  ** Department approval required ** "
     },
     "MGT 154": {
         "prerequisites": [
@@ -377,7 +380,7 @@
             "ECON 4"
         ],
         "name": "Topics in Supply Chain Management",
-        "description": "Will cover debt and equity financing of the enterprise, the role of commercial banks, venture firms, and investment banks; along with enterprise valuation, cash flow management, capital expenditure decisions, return on investment, economic value add, and foreign currency translation. "
+        "description": "Will cover debt and equity financing of the enterprise, the role of commercial banks, venture firms, and investment banks; along with enterprise valuation, cash flow management, capital expenditure decisions, return on investment, economic value add, and foreign currency translation.  ** Upper-division standing required ** "
     },
     "MGT 181": {
         "prerequisites": [
@@ -427,12 +430,12 @@
     "MGT 189": {
         "prerequisites": [],
         "name": "Topics in Finance",
-        "description": "A small group undertaking, on a topic or in a field not included in the regular curriculum, by special arrangement with a faculty member. "
+        "description": "A small group undertaking, on a topic or in a field not included in the regular curriculum, by special arrangement with a faculty member.  ** Consent of instructor to enroll possible  **"
     },
     "MGT 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Directed individual study\n                    or research by special arrangement and under supervision\n                    of a faculty member. "
+        "description": "Directed individual study\n                    or research by special arrangement and under supervision\n                    of a faculty member.  ** Consent of instructor to enroll possible  **"
     },
     "MGT 199": {
         "prerequisites": [],

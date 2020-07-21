@@ -78,7 +78,7 @@
             "DSC 40A"
         ],
         "name": "Internship in Data Science",
-        "description": "Individual research on a topic related to data science, by special arrangement with and under the direction of a UC San Diego faculty member, in connection with an internship at an organization. Internship work will inform but not necessarily define the research topic. The research topic is expected to promote the study of the principles and techniques involved in the internship work. May be taken for credit up to two times. "
+        "description": "Individual research on a topic related to data science, by special arrangement with and under the direction of a UC San Diego faculty member, in connection with an internship at an organization. Internship work will inform but not necessarily define the research topic. The research topic is expected to promote the study of the principles and techniques involved in the internship work. May be taken for credit up to two times.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "DSC 98": {
         "prerequisites": [
@@ -93,7 +93,7 @@
             "DSC 40A"
         ],
         "name": "Directed Group Study in Data Science",
-        "description": "Students will investigate a topic in data science through directed reading, discussion, and project work under the supervision of a faculty member. May be taken for credit up to two times. "
+        "description": "Students will investigate a topic in data science through directed reading, discussion, and project work under the supervision of a faculty member. May be taken for credit up to two times.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "DSC 99": {
         "prerequisites": [
@@ -108,7 +108,7 @@
             "DSC 40A"
         ],
         "name": "Independent Study in Data Science",
-        "description": "Students will participate in independent study or research in data science under the direction of a UC San Diego faculty member. May be taken for credit up to two times. "
+        "description": "Students will participate in independent study or research in data science under the direction of a UC San Diego faculty member. May be taken for credit up to two times.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "DSC 100": {
         "prerequisites": [
@@ -185,26 +185,26 @@
     "DSC 190": {
         "prerequisites": [],
         "name": "Topics in Data Science",
-        "description": "Topics of special interest in data science. Topics vary from quarter to quarter. May be taken for credit up to two times. "
+        "description": "Topics of special interest in data science. Topics vary from quarter to quarter. May be taken for credit up to two times.  ** Department approval required ** "
     },
     "DSC 191": {
         "prerequisites": [],
         "name": "Seminar in Data Science",
-        "description": "A seminar course on topics of current interest in data science. Topics may vary from quarter to quarter. May be taken for credit three times. "
+        "description": "A seminar course on topics of current interest in data science. Topics may vary from quarter to quarter. May be taken for credit three times.  ** Department approval required ** "
     },
     "DSC 197": {
         "prerequisites": [],
         "name": "Data Science Internship",
-        "description": "Directed study and research at laboratories/institutions outside of campus. "
+        "description": "Directed study and research at laboratories/institutions outside of campus.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "DSC 198": {
         "prerequisites": [],
         "name": "Directed Group Study in Data Science",
-        "description": "Data science topics whose study involves reading and discussion by a small group of students under supervision of a faculty member. May be taken for credit up to two times. "
+        "description": "Data science topics whose study involves reading and discussion by a small group of students under supervision of a faculty member. May be taken for credit up to two times.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "DSC 199": {
         "prerequisites": [],
         "name": "Independent Study for Data Science Undergraduates",
-        "description": "Independent reading or research on a topic related to data science by special arrangement with a faculty member. May be taken for credit up to two times. "
+        "description": "Independent reading or research on a topic related to data science by special arrangement with a faculty member. May be taken for credit up to two times.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     }
 }

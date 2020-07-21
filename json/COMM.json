@@ -53,7 +53,7 @@
             "COMM 101"
         ],
         "name": "MPL: Nonlinear/Digital Editing",
-        "description": "This is a practical course on ethnographic fieldwork\u2014obtaining informed consent interviewing, negotiating, formulating a research topic, finding relevant literature, writing a research paper, and assisting others with their research. May be taken for credit three times. Students will not receive credit for COMT 112 and COMM 101E. "
+        "description": "This is a practical course on ethnographic fieldwork\u2014obtaining informed consent interviewing, negotiating, formulating a research topic, finding relevant literature, writing a research paper, and assisting others with their research. May be taken for credit three times. Students will not receive credit for COMT 112 and COMM 101E.  ** Consent of instructor to enroll possible  **"
     },
     "COMM 101E": {
         "prerequisites": [
@@ -361,7 +361,9 @@
     },
     "COMM 111T": {
         "prerequisites": [
-            "COMM 10"
+            "COMM 10",
+            "or",
+            "HDP 1"
         ],
         "name": "CCP: Cultural Politics of Sport",
         "description": "Our understanding of childhood as a stage of innocence is a modern idea. The idea of childhood has not been constant; different cultures, communities, and classes have shaped the integration of children according to their own standards. We examine the different ways that attitudes toward children have changed, how these attitudes have been connected to an understanding of the human being, and how the desires of society and parents are manifested in what they think the child should be. "
@@ -913,16 +915,16 @@
     "COMM 196B": {
         "prerequisites": [],
         "name": "Honors Seminar in Communication",
-        "description": "Directed group study on a topic or in a field not included in the regular curriculum by special arrangement with a faculty member. May be taken three times for credit. "
+        "description": "Directed group study on a topic or in a field not included in the regular curriculum by special arrangement with a faculty member. May be taken three times for credit.  ** Consent of instructor to enroll possible  **"
     },
     "COMM 198": {
         "prerequisites": [],
         "name": "Directed Group Study in Communication",
-        "description": "Independent study and research under the direction of a member of the faculty. May be taken three times for credit. "
+        "description": "Independent study and research under the direction of a member of the faculty. May be taken three times for credit.  ** Consent of instructor to enroll possible  **"
     },
     "COMM 199": {
         "prerequisites": [],
         "name": "Independent Study in Communication",
-        "description": "This course focuses on the political economy of communication and the social organization of key media institutions. There will be both descriptive and analytical concerns. The descriptive concern will emphasize the complex structure of communication industries and organizations, both historically and cross-nationally. The analytic focus will examine causal relationships between the economic and political structure of societies, the character of their media institutions, public opinion, and public attitudes and behaviors expressed in patterns of voting, consuming, and public participation. The nature of evidence and theoretical basis for such relationships will be critically explored. "
+        "description": "This course focuses on the political economy of communication and the social organization of key media institutions. There will be both descriptive and analytical concerns. The descriptive concern will emphasize the complex structure of communication industries and organizations, both historically and cross-nationally. The analytic focus will examine causal relationships between the economic and political structure of societies, the character of their media institutions, public opinion, and public attitudes and behaviors expressed in patterns of voting, consuming, and public participation. The nature of evidence and theoretical basis for such relationships will be critically explored.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     }
 }

@@ -2,27 +2,27 @@
     "EDS 20S": {
         "prerequisites": [],
         "name": "Introduction to Principles of Learning",
-        "description": "Students will study discipline-specific principles of effective learning, including critical thinking, problem solving, collaboration, and group communication. Laboratory and hypothesis testing, library research and writing skills, and self-assessment. Students will explore concepts and procedures in mathematics, science, and economics. "
+        "description": "Students will study discipline-specific principles of effective learning, including critical thinking, problem solving, collaboration, and group communication. Laboratory and hypothesis testing, library research and writing skills, and self-assessment. Students will explore concepts and procedures in mathematics, science, and economics.  ** Department approval required ** "
     },
     "EDS 21S": {
         "prerequisites": [],
         "name": "Writing and Learning\u2014Triton Transition",
-        "description": "Reading, writing, and speaking exercises will introduce students to the teaching conventions and learning expectations of American universities. Students will use writing as a means of academic inquiry to explore the culture of higher education in the United States and will gain practice with appropriate style, structure, and mechanics. P/NP grades only. "
+        "description": "Reading, writing, and speaking exercises will introduce students to the teaching conventions and learning expectations of American universities. Students will use writing as a means of academic inquiry to explore the culture of higher education in the United States and will gain practice with appropriate style, structure, and mechanics. P/NP grades only.  ** Department approval required ** "
     },
     "EDS 22": {
         "prerequisites": [],
         "name": "Education in Cuba: Institutional Structures, History, and Culture",
-        "description": "Cuba\u2019s educational system achieves higher outcomes than any other country in Latin America, and compared to the United States, it represents a very different institutional structure. Cuban education serves as an explicit vehicle for the transmission of Cuban culture and historical consciousness. This course examines Cuba\u2019s emphasis on educational achievement following the triumph of its revolution in 1959, including institutional structures, pedagogy, and content. "
+        "description": "Cuba\u2019s educational system achieves higher outcomes than any other country in Latin America, and compared to the United States, it represents a very different institutional structure. Cuban education serves as an explicit vehicle for the transmission of Cuban culture and historical consciousness. This course examines Cuba\u2019s emphasis on educational achievement following the triumph of its revolution in 1959, including institutional structures, pedagogy, and content.  ** Department approval required ** "
     },
     "EDS 22S": {
         "prerequisites": [],
         "name": "Education in Cuba\u2014Field Experience",
-        "description": "This course provides a combination of seminar work and intensive field experience after the end of the spring quarter, during special summer session. Topics are introduced and analyzed in seminars and reinforced and expanded upon in field visits to historic and cultural sites in Cuba.\u00a0Additional fees may be required for travel expenses. "
+        "description": "This course provides a combination of seminar work and intensive field experience after the end of the spring quarter, during special summer session. Topics are introduced and analyzed in seminars and reinforced and expanded upon in field visits to historic and cultural sites in Cuba.\u00a0Additional fees may be required for travel expenses.  ** Department approval required ** "
     },
     "EDS 23": {
         "prerequisites": [],
         "name": "Success and Satisfaction in the Second Year of Higher Education: Research Trends and Conclusions",
-        "description": "Course focuses on challenges that confront college students in their second year of higher education and solutions. Emphasis on historically underrepresented students of color with more complex adjustment to college. Analysis of national trends from research including High Impact Practices. "
+        "description": "Course focuses on challenges that confront college students in their second year of higher education and solutions. Emphasis on historically underrepresented students of color with more complex adjustment to college. Analysis of national trends from research including High Impact Practices.  ** Department approval required ** "
     },
     "EDS 25": {
         "prerequisites": [],
@@ -42,12 +42,12 @@
     "EDS 38": {
         "prerequisites": [],
         "name": "Explorations in Education",
-        "description": "Undergraduate students are placed in local schools and other educational settings within the community. Students work on educational activities with K\u201312 students a minimum of twenty hours/quarter. If taken for the EDS major, must be taken for a letter grade. "
+        "description": "Undergraduate students are placed in local schools and other educational settings within the community. Students work on educational activities with K\u201312 students a minimum of twenty hours/quarter. If taken for the EDS major, must be taken for a letter grade.  ** Department approval required ** "
     },
     "EDS 39": {
         "prerequisites": [],
         "name": "Explorations in Secondary STEM Education ",
-        "description": "Undergraduate students explore current practices and issues in public education focusing on STEM secondary education (grades 6\u201312) through readings, guest speakers, seminars, and observations in math, science, and computer science classrooms at local schools. "
+        "description": "Undergraduate students explore current practices and issues in public education focusing on STEM secondary education (grades 6\u201312) through readings, guest speakers, seminars, and observations in math, science, and computer science classrooms at local schools.  ** Department approval required ** "
     },
     "EDS 50": {
         "prerequisites": [],
@@ -122,7 +122,7 @@
     "EDS 115": {
         "prerequisites": [],
         "name": "Cognitive Development and Education",
-        "description": "This course examines the development of cognition, thinking, and language from infancy to adolescence with implications for education. Topics include learning theories, executive function, memory and language, as well as impacts of technology, poverty, diversity, and bilingualism. Course content focuses on addressing achievement gaps. Students may not receive credit for both EDS 115 and EDS 115GS. "
+        "description": "This course examines the development of cognition, thinking, and language from infancy to adolescence with implications for education. Topics include learning theories, executive function, memory and language, as well as impacts of technology, poverty, diversity, and bilingualism. Course content focuses on addressing achievement gaps. Students may not receive credit for both EDS 115 and EDS 115GS.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "EDS 115GS": {
         "prerequisites": [],
@@ -132,7 +132,7 @@
     "EDS 116": {
         "prerequisites": [],
         "name": "Equity-Minded Education ",
-        "description": "This course introduces the foundational historical and theoretical issues for the critical study of higher education diversity work and student affairs. This course integrates questions of identity with those of social justice and requires a strong commitment to understanding self and other. The role of mentoring, advising, and counseling will also be examined. "
+        "description": "This course introduces the foundational historical and theoretical issues for the critical study of higher education diversity work and student affairs. This course integrates questions of identity with those of social justice and requires a strong commitment to understanding self and other. The role of mentoring, advising, and counseling will also be examined.  ** Department approval required ** "
     },
     "EDS 117": {
         "prerequisites": [],
@@ -152,7 +152,7 @@
     "EDS/LIGN 119": {
         "prerequisites": [],
         "name": "First and Second Language Learning: From Childhood through Adolescence",
-        "description": "An examination of how human language learning ability develops and changes over the first two decades of life, including discussion of factors that may affect this ability. "
+        "description": "An examination of how human language learning ability develops and changes over the first two decades of life, including discussion of factors that may affect this ability.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "EDS 120": {
         "prerequisites": [
@@ -190,7 +190,7 @@
             "EDS 125"
         ],
         "name": "Introduction to Design-Based Educational Research: A Field Experience for Improving San Diego Schools",
-        "description": "The course engages students in field research aimed at supporting education reform efforts in local schools. Students are introduced to a design-based, applied orientation to educational research on equity and diversity. In collaboration with local school leaders, students conduct qualitative research projects on a range of issues that impact youth in schools. Students will examine research on educational equity, theories of education reform, and qualitative research principles and methods. Students are required to travel to school sites. "
+        "description": "The course engages students in field research aimed at supporting education reform efforts in local schools. Students are introduced to a design-based, applied orientation to educational research on equity and diversity. In collaboration with local school leaders, students conduct qualitative research projects on a range of issues that impact youth in schools. Students will examine research on educational equity, theories of education reform, and qualitative research principles and methods. Students are required to travel to school sites.  ** Upper-division standing required ** "
     },
     "EDS 121A/MATH 121A": {
         "prerequisites": [
@@ -249,57 +249,57 @@
     "EDS 128 A-B": {
         "prerequisites": [],
         "name": "Introduction to Teaching and Learning",
-        "description": "This course series is for undergraduates who are exploring a career in elementary school teaching. Topics addressed include theories of teaching and learning; research on cognition and motivation; and the cultural context of classroom teaching and learning. EDS 128A focuses on the learner in the teaching-learning interaction and EDS 128B focuses on the teacher in the teaching-learning interaction. "
+        "description": "This course series is for undergraduates who are exploring a career in elementary school teaching. Topics addressed include theories of teaching and learning; research on cognition and motivation; and the cultural context of classroom teaching and learning. EDS 128A focuses on the learner in the teaching-learning interaction and EDS 128B focuses on the teacher in the teaching-learning interaction.  ** Department approval required ** "
     },
     "EDS 129 A-B-C": {
         "prerequisites": [],
         "name": "Introduction to Teaching and Learning",
-        "description": "This course series is for undergraduates who are exploring a career in teaching secondary school. Topics addressed include theories of teaching and learning processes and motivation for science, mathematics, and English instruction. EDS 129A focuses on the analysis of the needs of individual learners and small group instruction techniques; EDS 129B emphasizes the various roles of the classroom teacher and planning individual lessons; and EDS 129C emphasizes the assessment of student work and longer-range curriculum planning. "
+        "description": "This course series is for undergraduates who are exploring a career in teaching secondary school. Topics addressed include theories of teaching and learning processes and motivation for science, mathematics, and English instruction. EDS 129A focuses on the analysis of the needs of individual learners and small group instruction techniques; EDS 129B emphasizes the various roles of the classroom teacher and planning individual lessons; and EDS 129C emphasizes the assessment of student work and longer-range curriculum planning.  ** Department approval required ** "
     },
     "EDS 130": {
         "prerequisites": [],
         "name": "Introduction to Academic Mentoring of Elementary/School Students",
-        "description": "This course focuses on the role of undergraduate mentors in raising academic expectations for students and families traditionally underrepresented at the university. The relationship between the school and community, the social and political organization of elementary schools, and the academic achievement of elementary children are examined. "
+        "description": "This course focuses on the role of undergraduate mentors in raising academic expectations for students and families traditionally underrepresented at the university. The relationship between the school and community, the social and political organization of elementary schools, and the academic achievement of elementary children are examined.  ** Department approval required ** "
     },
     "EDS 131": {
         "prerequisites": [],
         "name": "Early Childhood Development and Education ",
-        "description": "This course investigates early child development (birth through eight years) and education and the role of high-quality early education on reducing inequities among diverse populations. Field experience and seminar focus on applying research and theory to experiences in early childhood classrooms (P\u20133). "
+        "description": "This course investigates early child development (birth through eight years) and education and the role of high-quality early education on reducing inequities among diverse populations. Field experience and seminar focus on applying research and theory to experiences in early childhood classrooms (P\u20133).  ** Exam placement options to enroll possible **  ** Department approval required ** "
     },
     "EDS 132": {
         "prerequisites": [],
         "name": "Hands-On Seminar",
-        "description": "The \u201cHands-On Lab\u201d enables UC San Diego students to practice inquiry-based instructional strategies with elementary or high school students in authentic laboratory situations supervised be EDS faculty members. The hands-on lessons provide early teaching experience in science for undergraduates exploring teaching as a career. All lessons are based on the California content standards in science. Recommended preparation: knowledge of STEM field subject matter.  "
+        "description": "The \u201cHands-On Lab\u201d enables UC San Diego students to practice inquiry-based instructional strategies with elementary or high school students in authentic laboratory situations supervised be EDS faculty members. The hands-on lessons provide early teaching experience in science for undergraduates exploring teaching as a career. All lessons are based on the California content standards in science. Recommended preparation: knowledge of STEM field subject matter.   ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "EDS 133": {
         "prerequisites": [],
         "name": "Counseling, Mentoring, and Academic Advising",
-        "description": "This course introduces students to foundations of academic advising and counseling. Through a combination of course readings, assignments, lectures, guest speakers, and field experiences, students learn about a social justice approach to academic advising and counseling. The course addresses issues of diversity, equity, access, and inclusion in P\u201312 schools. The role of language and culture, as well as family and community factors are addressed. "
+        "description": "This course introduces students to foundations of academic advising and counseling. Through a combination of course readings, assignments, lectures, guest speakers, and field experiences, students learn about a social justice approach to academic advising and counseling. The course addresses issues of diversity, equity, access, and inclusion in P\u201312 schools. The role of language and culture, as well as family and community factors are addressed.  ** Department approval required ** "
     },
     "EDS 135": {
         "prerequisites": [],
         "name": "Working with Newcomer Communities in San Diego",
-        "description": "This Partners at Learning (PAL) practicum course examines the history, policies, and practices that inform work with newcomers (recent refugees and immigrants) in the San Diego community. Students enrolled in the course will learn about the diverse groups of newcomers in San Diego and will complete their field hours in a variety of school and community settings. "
+        "description": "This Partners at Learning (PAL) practicum course examines the history, policies, and practices that inform work with newcomers (recent refugees and immigrants) in the San Diego community. Students enrolled in the course will learn about the diverse groups of newcomers in San Diego and will complete their field hours in a variety of school and community settings.  ** Department approval required ** "
     },
     "EDS 136": {
         "prerequisites": [],
         "name": "Introduction to Academic Tutoring of Secondary School Students",
-        "description": "This course focuses on the role of undergraduate tutors in building academic resiliency in secondary students traditionally underrepresented at the university. The relationship between the school and community, the social and political organization of secondary schools, the philosophical, sociological, and political issues which relate to the US secondary educational system, and the academic achievement of secondary children are examined. "
+        "description": "This course focuses on the role of undergraduate tutors in building academic resiliency in secondary students traditionally underrepresented at the university. The relationship between the school and community, the social and political organization of secondary schools, the philosophical, sociological, and political issues which relate to the US secondary educational system, and the academic achievement of secondary children are examined.  ** Department approval required ** "
     },
     "EDS 137": {
         "prerequisites": [],
         "name": "Introduction\n\t\t\t\t  to Discipline-Specific Teaching and Learning",
-        "description": "This course examines effective practices for teaching and learning in specific academic content areas in PreK\u201312 school or community settings. The field experience and seminar focus on relationship building between mentors and learners, discipline-relevant teaching and learning processes, and community service. "
+        "description": "This course examines effective practices for teaching and learning in specific academic content areas in PreK\u201312 school or community settings. The field experience and seminar focus on relationship building between mentors and learners, discipline-relevant teaching and learning processes, and community service.  ** Department approval required ** "
     },
     "EDS 138": {
         "prerequisites": [],
         "name": "Introduction\n\t\t\t\t  to Academic Tutoring at Charter Schools",
-        "description": "This course focuses on effects of the Charter School movement on public education in the United States, the role of the research universities in K\u201312 education, the social and political organization of the schools, the philosophical, sociological, and political issues which relate to the US secondary educational system, and the academic achievement of secondary children. Students investigate the role of undergraduate tutors in building academic resiliency in secondary students traditionally underrepresented at the university. "
+        "description": "This course focuses on effects of the Charter School movement on public education in the United States, the role of the research universities in K\u201312 education, the social and political organization of the schools, the philosophical, sociological, and political issues which relate to the US secondary educational system, and the academic achievement of secondary children. Students investigate the role of undergraduate tutors in building academic resiliency in secondary students traditionally underrepresented at the university.  ** Department approval required ** "
     },
     "EDS 139": {
         "prerequisites": [],
         "name": "Practicum in Teaching and Learning",
-        "description": "Students are placed in local P\u201312 schools and community field sites to actively engage in face-to-face educational service work. Students spend a minimum of four hours per week consistently over the ten-week quarter for a minimum total of forty hours per quarter. P/NP grades only. May be taken for credit up to twelve times. Corequisites: One of the following courses must be taken concurrently: EDS 128A-B, or 129A-B-C, 130, 131, 133, 136, 137, 140, or 141. "
+        "description": "Students are placed in local P\u201312 schools and community field sites to actively engage in face-to-face educational service work. Students spend a minimum of four hours per week consistently over the ten-week quarter for a minimum total of forty hours per quarter. P/NP grades only. May be taken for credit up to twelve times. Corequisites: One of the following courses must be taken concurrently: EDS 128A-B, or 129A-B-C, 130, 131, 133, 136, 137, 140, or 141.  ** Department approval required ** "
     },
     "EDS 140": {
         "prerequisites": [
@@ -316,7 +316,7 @@
             "EDS 130"
         ],
         "name": "Introduction to Action Research in Pre-K\u201312 Education ",
-        "description": "EDS 140 builds on the students\u2019 foundational knowledge about pre-K\u201312 public education obtained in introductory PAL courses. This course is conducted as a seminar, where students shape their research questions, theoretical frameworks, and data collection methods for the action research projects. In conjunction to their action research projects, EDS 140 students serve as mentors, tutors, and/or interns at local low-income, underserved pre-K\u201312 public schools and/or community centers. If students wish to continue their service-learning practicum at their host school, they can take EDS 139. "
+        "description": "EDS 140 builds on the students\u2019 foundational knowledge about pre-K\u201312 public education obtained in introductory PAL courses. This course is conducted as a seminar, where students shape their research questions, theoretical frameworks, and data collection methods for the action research projects. In conjunction to their action research projects, EDS 140 students serve as mentors, tutors, and/or interns at local low-income, underserved pre-K\u201312 public schools and/or community centers. If students wish to continue their service-learning practicum at their host school, they can take EDS 139.  ** Exam placement options to enroll possible **  ** Department approval required ** "
     },
     "EDS 141": {
         "prerequisites": [
@@ -333,7 +333,7 @@
             "EDS 130"
         ],
         "name": "Action Research in Pre-K\u201312 Education: Advanced Practicum in Pre-K\u201312 Schools and Communities",
-        "description": "Course builds on students\u2019 prior knowledge, experiences, and work from PAL foundations and intermediate courses to prepare them to conduct action research on relevant P\u201312 education issues. Students in the course will continue serving as tutors/mentors/interns in schools and communities. Students will also learn how to design educational research, carry out research in ethical ways, and analyze data for themes that the schools and communities find important. "
+        "description": "Course builds on students\u2019 prior knowledge, experiences, and work from PAL foundations and intermediate courses to prepare them to conduct action research on relevant P\u201312 education issues. Students in the course will continue serving as tutors/mentors/interns in schools and communities. Students will also learn how to design educational research, carry out research in ethical ways, and analyze data for themes that the schools and communities find important.  ** Exam placement options to enroll possible **  ** Department approval required ** "
     },
     "EDS 150": {
         "prerequisites": [],
@@ -343,26 +343,26 @@
     "EDS 180": {
         "prerequisites": [],
         "name": "Topics in Education Studies",
-        "description": "This course examines special topics in P\u201312 education from a variety of theoretical and pedagogical perspectives. Topics will address pertinent and current issues related to P\u201312 \n          teaching and learning, with an emphasis on transforming education in a diverse society.\n          May be taken for credit up to four times. "
+        "description": "This course examines special topics in P\u201312 education from a variety of theoretical and pedagogical perspectives. Topics will address pertinent and current issues related to P\u201312 \n          teaching and learning, with an emphasis on transforming education in a diverse society.\n          May be taken for credit up to four times.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "EDS 190": {
         "prerequisites": [],
         "name": "Research Practicum",
-        "description": "Supervised research studies with individual topics selected according to students\u2019 special interests. Students will develop a research proposal and begin to gather and analyze data. "
+        "description": "Supervised research studies with individual topics selected according to students\u2019 special interests. Students will develop a research proposal and begin to gather and analyze data.  ** Consent of instructor to enroll possible  **"
     },
     "EDS 195": {
         "prerequisites": [],
         "name": "Apprentice Teaching",
-        "description": "Advanced EDS students are prepared in effective methods of supervising the preparation of UC San Diego students serving as paraprofessionals in K\u201312 classrooms. Topics covered include classroom management, interpersonal relations, supervision techniques, multicultural and multilingual education, politics in the school, and curriculum development. Each student serves as a discussion leader and conducts at least two workshops. "
+        "description": "Advanced EDS students are prepared in effective methods of supervising the preparation of UC San Diego students serving as paraprofessionals in K\u201312 classrooms. Topics covered include classroom management, interpersonal relations, supervision techniques, multicultural and multilingual education, politics in the school, and curriculum development. Each student serves as a discussion leader and conducts at least two workshops.  ** Consent of instructor to enroll possible  **"
     },
     "EDS 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Directed group study, guided reading, and study involving research and analysis of activities and services in multicultural education, bilingual education, the teaching-learning process, and other areas that are not covered by the present curriculum. "
+        "description": "Directed group study, guided reading, and study involving research and analysis of activities and services in multicultural education, bilingual education, the teaching-learning process, and other areas that are not covered by the present curriculum.  ** Consent of instructor to enroll possible  **"
     },
     "EDS 199": {
         "prerequisites": [],
         "name": "Special Studies",
-        "description": "Individual guided reading and study involving research and analysis of activities and services in multicultural education, bilingual education, the teaching-learning process, and other areas that are not covered by the present curriculum. "
+        "description": "Individual guided reading and study involving research and analysis of activities and services in multicultural education, bilingual education, the teaching-learning process, and other areas that are not covered by the present curriculum.  ** Consent of instructor to enroll possible  **"
     }
 }

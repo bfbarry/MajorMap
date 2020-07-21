@@ -1,0 +1,57 @@
+{
+    "ENVR 30": {
+        "prerequisites": [],
+        "name": "Environmental Issues: Natural Sciences",
+        "description": "Examines global and regional environmental issues. The approach is to consider the scientific basis for policy options. Simple principles of chemistry and biology are introduced. The scope of problems includes: air and water pollution, climate modification, solid waste disposal, hazardous waste treatment, and environmental impact assessment. "
+    },
+    "ENVR 87": {
+        "prerequisites": [],
+        "name": "Environmental Studies Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
+    "ENVR 102": {
+        "prerequisites": [],
+        "name": "Selected Topics in Environmental Studies",
+        "description": "An interdisciplinary course focusing on one of a variety of topics related to environmental studies such as environmental policy and politics, foreign study in environmental problems, environmental history, nature writers, ethics and the environment. May be repeated three times for credit as topics vary. "
+    },
+    "ENVR 110": {
+        "prerequisites": [],
+        "name": "Environmental Law",
+        "description": "Explores environmental policy in the United States and the ways in which it is reflected in law. The social and political issues addressed include environmental justice and environmental racism, as well as the role of government in implementing environmental law. "
+    },
+    "ENVR 120": {
+        "prerequisites": [],
+        "name": "Coastal Ecology",
+        "description": "Explores the diverse ecosystems of coastal San Diego County (salt marsh, rocky intertidal, sandy beach, etc.) in the classroom and in the field with attention to basic principles of field ecology, natural history, and techniques for collecting ecological data. Course and/or materials fee may apply. "
+    },
+    "ENVR 130": {
+        "prerequisites": [],
+        "name": "Environmental Issues: Social Sciences\n               ",
+        "description": "Explores contemporary environmental\n                  issues from the perspective of the social sciences. It includes\n                  the cultural framing of environmental issues and appropriate\n                  social action, the analysis of economic incentives and constraints,\n                  and a comparison of policy approaches. "
+    },
+    "ENVR 140": {
+        "prerequisites": [],
+        "name": "Wilderness and Human Values",
+        "description": "\u201cWilderness\u201d plays a central role in the consciousness of\n  American environmentalists and serves as focal point for public\n  policies, recreation, and political activism. This course explores\n  its evolving historical, philosophical, ecological, and aesthetic\n  meanings and includes guest speakers and a field component. "
+    },
+    "ENVR 141": {
+        "prerequisites": [],
+        "name": "Wilderness and Human Values Workshop",
+        "description": "Instructor will define assistant\u2019s responsibilities in preparing class presentations, leading students\u2019 discussions, and evaluating students\u2019 work. May be taken two times for credit."
+    },
+    "ENVR 195": {
+        "prerequisites": [],
+        "name": "Apprentice Teaching",
+        "description": "Directed group research and study, normally with a focus on areas not otherwise covered in the curriculum. "
+    },
+    "ENVR 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Independent study in a topic not generally covered in the regular curriculum. "
+    },
+    "ENVR 199": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "A course in which teaching assistants are aided in learning proper teaching methods by means of supervision of their work by the faculty: handling of discussions, preparation and grading of examinations and other written exercises, and student relations. "
+    }
+}

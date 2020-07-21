@@ -1,0 +1,79 @@
+{
+    "JWSP 1": {
+        "prerequisites": [],
+        "name": "Beginning Hebrew",
+        "description": "Acquisition of basic vocabulary, fundamentals of Hebrew grammar, conversation, and reading. "
+    },
+    "JWSP 2": {
+        "prerequisites": [],
+        "name": "Intermediate Hebrew",
+        "description": "Continued study of vocabulary and grammar, emphasis on fluency in conversation, and reading. "
+    },
+    "JWSP 3": {
+        "prerequisites": [],
+        "name": "Intermediate Hebrew, Continued",
+        "description": "Vocabulary, grammar, conversation, introduction to literary and nonliterary texts. "
+    },
+    "JWSP 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. P/NP grades only. May be taken for credit four times. Seminars are open to sophomores, juniors, and seniors on a space available basis. "
+    },
+    "JWSP 101": {
+        "prerequisites": [],
+        "name": "Introduction to Hebrew Texts",
+        "description": "Reading and analysis of texts from Biblical through modern authors, study of advanced vocabulary and grammar. Course taught in Hebrew and in English. "
+    },
+    "JWSP 102": {
+        "prerequisites": [],
+        "name": "Intermediate Hebrew Texts",
+        "description": "Further reading and analysis of Hebrew literature from a range of periods. Advanced grammar and vocabulary. Course taught in Hebrew and in English. "
+    },
+    "JWSP 103": {
+        "prerequisites": [],
+        "name": "Advanced Hebrew Texts",
+        "description": "Synthesis of fluency, reading, and grammatical skills. Reading of texts from a range of periods. "
+    },
+    "JWSP 110": {
+        "prerequisites": [],
+        "name": "Introduction to Judaism",
+        "description": "An introductory survey of Jewish history, literature, and culture from antiquity to contemporary times. Topics include sacred texts; the variety of groups and views of Judaism; the historical and geographical movements of the Jewish people; and the intersection of religion, ethnicity, and culture. "
+    },
+    "JWSP 111": {
+        "prerequisites": [],
+        "name": "Topics in Judaic Studies",
+        "description": "Study of a particular period, theme, or literature in Jewish civilization. May be taken for credit three times. "
+    },
+    "JWSP 130": {
+        "prerequisites": [],
+        "name": "Introduction to the Old Testament: The Historical Books",
+        "description": "This course will study the historical books of the Hebrew Bible (in English), Genesis through 2 Kings, through a literary-historical approach: how, when, and why the Hebrew Bible came to be written down, its relationship with known historical facts, and the archaeological record. "
+    },
+    "JWSP 131": {
+        "prerequisites": [
+            "JWSP 100A"
+        ],
+        "name": "Introduction to the Old Testament: The Poetic Books",
+        "description": "This course will study the prophetic and poetic books of the Hebrew Bible (in English), through a literary-historical approach. Topics include prophecy, social justice, monotheism, suffering, humor, and love. "
+    },
+    "JWSP\n\t\t  196A": {
+        "prerequisites": [],
+        "name": "Jewish Studies Honors Course",
+        "description": "First quarter of honors thesis research for students accepted into honors program. Research is conducted under the supervision of a faculty member selected with the approval of the director of the Jewish Studies Program. "
+    },
+    "JWSP\n\t\t  196B": {
+        "prerequisites": [],
+        "name": "Jewish Studies Honors Course",
+        "description": "Second quarter of honors thesis research for students accepted into honors program. Research is conducted under the supervision of a faculty member selected with the approval of the director of the Jewish Studies Program. "
+    },
+    "JWSP 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study in Jewish Studies",
+        "description": "Directed group study on a topic not generally included in the regular curriculum. Student must make arrangements with individual faculty members. (P/NP only) "
+    },
+    "JWSP\n\t\t  199": {
+        "prerequisites": [],
+        "name": "Independent Study in Jewish Studies",
+        "description": "Independent study on a topic not generally included in the regular curriculum. Student must make arrangements with individual faculty members. (P/NP only)\t\t"
+    }
+}

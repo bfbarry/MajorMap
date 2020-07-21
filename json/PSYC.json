@@ -119,7 +119,7 @@
     "PSYC 110": {
         "prerequisites": [],
         "name": "Juniors Honors Research Seminars",
-        "description": "This course provides training in applying advanced statistical methods to experimental design. Emphasis will be placed on the developing skills in statistical problem-solving, using computer applications, and writing scientific reports. Must be taken for a letter grade for the Psychology Honors Program. "
+        "description": "This course provides training in applying advanced statistical methods to experimental design. Emphasis will be placed on the developing skills in statistical problem-solving, using computer applications, and writing scientific reports. Must be taken for a letter grade for the Psychology Honors Program.  ** Consent of instructor to enroll possible  **"
     },
     "PSYC 111A": {
         "prerequisites": [
@@ -165,14 +165,14 @@
             "PSYC 60"
         ],
         "name": "Psychophysiological Perspectives on the Social Mind Laboratory ",
-        "description": "This course provides training in the design, execution, and analysis of cognitive psychology experiments. Students may not receive credit for both PSYC 115 and PSYC 115A. "
+        "description": "This course provides training in the design, execution, and analysis of cognitive psychology experiments. Students may not receive credit for both PSYC 115 and PSYC 115A.  ** Upper-division standing required ** "
     },
     "PSYC 115A": {
         "prerequisites": [
             "PSYC 115A"
         ],
         "name": "Laboratory in Cognitive Psychology I",
-        "description": "This course is designed to extend the training of PSYC 115A in the design, execution, and analysis of cognitive psychology experiments. Students may not receive credit for both PSYC 115 and PSYC 115B. "
+        "description": "This course is designed to extend the training of PSYC 115A in the design, execution, and analysis of cognitive psychology experiments. Students may not receive credit for both PSYC 115 and PSYC 115B.  ** Upper-division standing required ** "
     },
     "PSYC 115B": {
         "prerequisites": [],
@@ -252,7 +252,7 @@
     "PSYC 132": {
         "prerequisites": [],
         "name": "Hormones and Behavior",
-        "description": "This interdisciplinary course provides an overview of the fundamental properties of daily biological clocks of diverse species, from humans to microbes. Emphasis is placed on the relevance of internal time keeping in wide-ranging contexts including human performance, health, and industry. Cross-listed with BIMM 116. "
+        "description": "This interdisciplinary course provides an overview of the fundamental properties of daily biological clocks of diverse species, from humans to microbes. Emphasis is placed on the relevance of internal time keeping in wide-ranging contexts including human performance, health, and industry. Cross-listed with BIMM 116.  ** Consent of instructor to enroll possible  **"
     },
     "PSYC 133": {
         "prerequisites": [],
@@ -498,6 +498,8 @@
     },
     "PSYC 187": {
         "prerequisites": [
+            "BILD 2",
+            "or",
             "PSYC 102",
             "or",
             "PSYC 106"
@@ -518,17 +520,17 @@
     "PSYC 190": {
         "prerequisites": [],
         "name": "Science of Parenting",
-        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small setting to explore an intellectual topic in psychology (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small setting to explore an intellectual topic in psychology (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors.  ** Consent of instructor to enroll possible  **"
     },
     "PSYC 191": {
         "prerequisites": [],
         "name": "Psychology of Sleep",
-        "description": "Selected topics in the field of psychology. May be taken for credit three times as topics vary. "
+        "description": "Selected topics in the field of psychology. May be taken for credit three times as topics vary.  ** Upper-division standing required ** "
     },
     "PSYC 192": {
         "prerequisites": [],
         "name": "Senior Seminar in Psychology",
-        "description": "Selected laboratory topics in the field of psychology. May be taken for credit two times as topics vary. "
+        "description": "Selected laboratory topics in the field of psychology. May be taken for credit two times as topics vary.  ** Upper-division standing required ** "
     },
     "PSYC 193": {
         "prerequisites": [
@@ -570,7 +572,7 @@
     "PSYC 196A-B-C": {
         "prerequisites": [],
         "name": "Research Seminar",
-        "description": "Independent study or laboratory research under direction of faculty in the Department of Psychology. P/NP grades only. May be taken for credit nine times. "
+        "description": "Independent study or laboratory research under direction of faculty in the Department of Psychology. P/NP grades only. May be taken for credit nine times.  ** Upper-division standing required ** "
     },
     "PSYC 198": {
         "prerequisites": [],

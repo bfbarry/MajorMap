@@ -15,19 +15,21 @@
         "description": "Provides an introduction to environmental systems. Faculty members from departments in the natural sciences, geosciences, and social sciences will offer perspectives in these areas. (F) "
     },
     "ESYS 101": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 1"
+        ],
         "name": "Environmental Biology",
-        "description": "This course surveys biochemical and physiological processes governing the relationship between organisms and their environments, such as those involved in element cycling and cellular homeostasis. The course introduces biological perspectives on human activities ranging from antibiotic use to genetic engineering. "
+        "description": "This course surveys biochemical and physiological processes governing the relationship between organisms and their environments, such as those involved in element cycling and cellular homeostasis. The course introduces biological perspectives on human activities ranging from antibiotic use to genetic engineering.  ** Consent of instructor to enroll possible  **"
     },
     "ESYS 102": {
         "prerequisites": [],
         "name": "The Solid and Fluid Earth",
-        "description": "Earth\u2019s dynamic physical systems interact in complex ways with profound impact on our environment. Processes such as volcanism and weathering enable geochemical exchange between solid and fluid (ocean and atmosphere) systems. Sea level and climate changes interface with tectonic processes. "
+        "description": "Earth\u2019s dynamic physical systems interact in complex ways with profound impact on our environment. Processes such as volcanism and weathering enable geochemical exchange between solid and fluid (ocean and atmosphere) systems. Sea level and climate changes interface with tectonic processes.  ** Consent of instructor to enroll possible  **"
     },
     "ESYS 103/MAE 124": {
         "prerequisites": [],
         "name": "Environmental Challenges: Science and Solutions",
-        "description": "This course explores the impacts of human, social, economic, and industrial activity on the environment. It highlights the central roles in ensuring sustainable development played by market forces, technological innovation, and government regulation on local, national, and global scales. "
+        "description": "This course explores the impacts of human, social, economic, and industrial activity on the environment. It highlights the central roles in ensuring sustainable development played by market forces, technological innovation, and government regulation on local, national, and global scales.  ** Consent of instructor to enroll possible  **"
     },
     "ESYS 190A": {
         "prerequisites": [
@@ -45,7 +47,7 @@
             "and"
         ],
         "name": "Environmental Systems Senior Seminar",
-        "description": "The seminar provides a venue for the development, presentation, and evaluation of the Environmental Systems Integrative Project. The seminar will include work on research methods as well as paper presentation skills. "
+        "description": "The seminar provides a venue for the development, presentation, and evaluation of the Environmental Systems Integrative Project. The seminar will include work on research methods as well as paper presentation skills.  ** Upper-division standing required ** "
     },
     "ESYS 199": {
         "prerequisites": [],

@@ -1,0 +1,988 @@
+{
+    "ANTH 1": {
+        "prerequisites": [],
+        "name": "Introduction to Culture",
+        "description": "An introduction to the anthropological approach to understanding human behavior, with an examination of data from a selection of societies and cultures.  "
+    },
+    "ANTH 2": {
+        "prerequisites": [],
+        "name": "Human Origins",
+        "description": "An introduction to human evolution from the perspective of physical anthropology, including evolutionary theory and the evolution of the primates, hominids, and modern humans. Emphasis is placed on evidence from fossil remains and behavioral studies of living primates. "
+    },
+    "ANTH 3": {
+        "prerequisites": [],
+        "name": "Global Archaeology ",
+        "description": "This course examines theories and methods used by archaeologists to investigate the origins and nature of human culture and its materiality. Case studies from the past and present, and digital heritage are explored. Recommended for many upper-division archaeology courses."
+    },
+    "ANTH 4": {
+        "prerequisites": [],
+        "name": "Words and Worlds: Introduction to the Anthropology of Language",
+        "description": "How does one\u2019s language mutually interact with the social, cultural, and conceptual worlds one inhabits and mutually constructs with others? This course will introduce the comparative study of social life through the lens of the uniquely human capacity for language."
+    },
+    "ANTH 5": {
+        "prerequisites": [],
+        "name": "The Human Machine: The Skeleton Within ",
+        "description": "Course will provide an introduction to bones as a tissue, to different bones in the body, and the ligaments and muscles surrounding major joints. You will learn how the skeleton, ligaments, and muscles support our mode of locomotion; the differences between male and female skeletons; and the differences across human populations. You\u2019ll see how nutrition and disease can affect bones. Course examines functional areas within the body."
+    },
+    "ANTH 21": {
+        "prerequisites": [],
+        "name": "Race and Racisms",
+        "description": "Why does racism still matter? How is racism experienced in the United States and across the globe? With insights from the biology of human variation, archaeology, colonial history, and sociocultural anthropology, we examine how notions of race and ethnicity structure contemporary societies. "
+    },
+    "ANTH 23": {
+        "prerequisites": [],
+        "name": "Debating Multiculturalism: Race, Ethnicity, and Class in American Societies",
+        "description": "This course focuses on the debate about multiculturalism in American society. It examines the interaction of race, ethnicity, and class, historically and comparatively, and considers the problem of citizenship in relation to the growing polarization of multiple social identities. "
+    },
+    "ANTH 42": {
+        "prerequisites": [],
+        "name": "Primates in a Human-Dominated World ",
+        "description": "Major primate field studies will be studied to illustrate common features of primate behavior and behavioral diversity. Topics will include communication, female hierarchies, protocultural behavior, social learning and tool use, play, cognition, and self-awareness."
+    },
+    "ANTH 43": {
+        "prerequisites": [],
+        "name": "Introduction to Biology and Culture of Race",
+        "description": "This course examines conceptions of race from evolutionary and sociocultural perspectives. We will critically examine how patterns of current human genetic variation map onto conceptions of race. We will also focus on the history of the race concept and explore ways in which biomedical researchers and physicians use racial categories today. Finally, we will examine the social construction of race, and the experiences and consequences of racism on health in the  United States and internationally."
+    },
+    "ANTH 44": {
+        "prerequisites": [],
+        "name": "Gender, Sexuality, and New Media Fandom in the Korean Wave",
+        "description": "This course examines new media fandoms through the representation and reception of gender and sexuality in Korean media consumed around the world by highlighting how Korean images are differently interpreted by other national groups. Contrasting various understandings of masculinity, homosexuality, and transgenderism, we explore how the meanings attached to gender and sexuality are not fixed by the productive frame of Korean society, but cocreated and reimagined by international audiences. "
+    },
+    "ANTH 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges. Topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
+    "ANTH 101": {
+        "prerequisites": [],
+        "name": "Foundations of Social Complexity",
+        "description": "Course examines archaeological evidence for three key \u201ctipping points\u201d in the human career: (1) the origins of modern human social behaviors, (2) the beginnings of agriculture and village life, and (3) the emergence of cities and states. "
+    },
+    "ANTH 102": {
+        "prerequisites": [],
+        "name": "Humans Are Cultural Animals",
+        "description": "This class examines humans from a comparative perspective; if we ignore culture, what\u2019s left? How do culture and biology interact? And how does biology inform cultural debates over race, sex, marriage, war, peace, etc.? "
+    },
+    "ANTH 103": {
+        "prerequisites": [],
+        "name": "Sociocultural Anthropology",
+        "description": "A systematic analysis of social anthropology and of the concepts and constructs required for cross-cultural and comparative study of human societies. Required for all majors in anthropology. "
+    },
+    "ANTH 104": {
+        "prerequisites": [],
+        "name": "Transforming the Global Environment",
+        "description": "Introduction to the role of humans as modifiers and transformers of the physical environment. Emphasis on current changes and contemporary public issues. "
+    },
+    "ANTH 105": {
+        "prerequisites": [],
+        "name": "Climate Change, Race, and Inequality",
+        "description": "This course introduces students to the ways in which climate change exacerbates environmental racism and inequality. We will consider the ways that structural violence and discriminatory policies create environmental inequalities where marginalized communities take on more of the risk and burdens of climate change. We will address community organizing and social justice efforts to combat the systems of power that unevenly distribute the burdens of climate change to marginalized communities. "
+    },
+    "ANTH 106": {
+        "prerequisites": [],
+        "name": "Climate and Civilization",
+        "description": "An introductory course that questions the whole collapse narrative while teaching students about the ways in which it has and hasn\u2019t impacted humans. "
+    },
+    "ANTH 107": {
+        "prerequisites": [],
+        "name": "Designing for Disasters, Emergencies, and Extreme Weather",
+        "description": "Examines the social, economic, environmental, and health impacts of anthropogenic climate change through engaged learning that integrates practice and theory. "
+    },
+    "ANTH 108": {
+        "prerequisites": [],
+        "name": "Indigenous Peoples, Extractive Development, and Climate Change",
+        "description": "Across the world, indigenous peoples\u2019 lands and livelihoods are increasingly vulnerable to extractive development projects such as mines, gas wells, dams, logging, and monoculture agriculture, all of which increase the impacts on climate change. This class addresses the ways indigenous communities use cultural and political resources to negotiate environmental, market, and political forces. Can protecting indigenous ways of life provide alternatives for global climate change? "
+    },
+    "ANTH 109": {
+        "prerequisites": [],
+        "name": "Climate Change, Cultural Heritage, and Vulnerability",
+        "description": "Cultural heritage is a human right that is threatened by climate change. This course introduces students to the concept of heritage, how multiple historical and ancient processes influence social vulnerabilities, and what challenges are being faced in the context of changing climate. We will explore the formation and meanings of tangible and intangible heritage, its relation to traditional knowledge and the roles of knowledge over social vulnerability. "
+    },
+    "ANTH 110": {
+        "prerequisites": [],
+        "name": "The Climate Change Seminar",
+        "description": "Explores climate change from the perspectives of biological, archaeological, sociocultural, and medical anthropology and global health. Students develop projects on key topics, such as food, health, sustainability, political economy, and the interaction of ecological and human processes across local, regional, and global scales. Examines social impacts and existential risks.\u00a0Considers questions related to public policy, education, ethics, and interdisciplinary research collaboration.\u00a0"
+    },
+    "ANTH 111": {
+        "prerequisites": [],
+        "name": "Religion and Ecology: How Religion Matters in the Anthropocene",
+        "description": "This course will study the role that religion has played, and possibly will play, in the Anthropocene, with religion construed broadly and comparatively. Topics include use of religion and ritual to regulate the ecology, religious conceptions of the relation between humanity and nature, how religion shapes ethical stances toward the nonhuman, religious ideas of ownership or stewardship of nonhuman resources, and the role of apocalyptic narratives in shaping reaction to climate change. "
+    },
+    "ANTH 147": {
+        "prerequisites": [],
+        "name": "Understanding the Human Social Order: Anthropology and the Long-Term",
+        "description": "This course explores the nature of human social systems over the long term. Returning to the original project of anthropology in the broadest sense, we examine the origins and reproduction of the state, social classes, multiethnic configurations, and political economies. "
+    },
+    "ANTH 192": {
+        "prerequisites": [],
+        "name": "Senior Seminar in Anthropology",
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in anthropology (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and consent of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+    },
+    "ANTH 195": {
+        "prerequisites": [],
+        "name": "Instructional Apprenticeship in Anthropology",
+        "description": "Course gives students experience in teaching of anthropology at the lower-division level. Students, under direction of instructor, lead discussion sections, attend lectures, review course readings, and meet regularly to prepare course materials and to evaluate examinations and papers. Course not counted toward minor or major.\u00a0P/NP grades only. "
+    },
+    "ANTH 196A": {
+        "prerequisites": [],
+        "name": "Honors Studies in Anthropology",
+        "description": "Seminar to explore student research interests and methodologies needed to complete Honors Thesis in ANTH 196B. Students will be admitted to the Honors Program by invitation of the department in the spring of their junior year. Completion of this course with a grade of at least B+ is a prerequisite to ANTH 196B. "
+    },
+    "ANTH 196B": {
+        "prerequisites": [
+            "ANTH 196A"
+        ],
+        "name": "Honors Studies in Anthropology ",
+        "description": "Independent preparation of a senior thesis under the supervision of a faculty member. Students begin two-quarter sequence in fall quarter. "
+    },
+    "ANTH 196C": {
+        "prerequisites": [
+            "ANTH 196A-B"
+        ],
+        "name": "Honors Studies in Anthropology",
+        "description": "A weekly research seminar where students share, read, and discuss in-depth research findings resulting from ANTH 196A and 196B along with selected background literature used in each individual thesis. Students are also taught how to turn their theses into brief presentations for both specialized and broader audiences. Students will be offered opportunities to present their findings at campus events and outreach events during the quarter. "
+    },
+    "ANTH 197": {
+        "prerequisites": [],
+        "name": "Field Studies",
+        "description": "Directed group study on a topic or in a field not included in the regular departmental curriculum by special arrangement with a faculty member. Student may take this course twice for credit. Please note: Majors may only apply eight units of approved P/NP credit toward the major, and minors may only apply four units of P/NP credit toward the minor. Please contact the department for a list of courses you may take on a P/NP basis and apply toward the major or minor. "
+    },
+    "ANTH 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study",
+        "description": "Independent study and research under the direction of a member of the faculty. Student may take this course twice for credit. Please note: majors may only apply eight units of approved P/NP credit toward the major, and minors may only apply four units of P/NP credit toward the minor. Please contact the department for a list of courses you may take on a P/NP basis and apply toward the major or minor. "
+    },
+    "ANTH 199": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "Course will vary in title and content. When offered, the current description and title is found in the current Schedule of Classes and the Department of Anthropology website. May be taken for credit four times.  "
+    },
+    "ANAR 100": {
+        "prerequisites": [],
+        "name": "Special Topics in Anthropological Archaeology",
+        "description": "This course is an introduction to geographic information systems (GIS) and spatial analysis for anthropologists and archaeologists. The course will provide students with background theory and basic skills in GIS through lectures and hands-on lab activities. Students will learn the basics of acquiring, storing, manipulating, analyzing, and visualizing spatial data for anthropological study. "
+    },
+    "ANAR 104": {
+        "prerequisites": [],
+        "name": "Introduction to Geographic Information Systems",
+        "description": "As part of the broad discipline of anthropology, archaeology provides the long chronological record needed for investigating human and social evolution. The theories and methods used in this field are examined. (Archaeology core sequence course.) Recommended preparation: ANTH 3. "
+    },
+    "ANAR 111": {
+        "prerequisites": [],
+        "name": "Foundations of Archaeology",
+        "description": "The class will provide a basic overview of Israel\u2019s natural resources, including water, stone, minerals, oil, and gas. Case studies on ancient exploitation of these resources will be presented (e.g., copper extraction from ore in the Negev, water management in Biblical Israel, stone quarrying for the Temple Mount, etc.), followed by a discussion on the current role of these resources in the economy of modern Israel. "
+    },
+    "ANAR 113": {
+        "prerequisites": [],
+        "name": "Past, Present, and Future Perspectives on Natural Resources in Israel",
+        "description": "Israel, like California, is located on a complex tectonic boundary, which is responsible for a history of earthquakes, volcanism, and tsunamis. How great is the risk today and what will be the regional impact of a major earthquake? We will try to answer these questions by understanding the basic geology of Israel and reviewing the history of natural disasters as recorded by archaeology and historical documentation. "
+    },
+    "ANAR 114": {
+        "prerequisites": [],
+        "name": "Environmental Hazards in Israel",
+        "description": "Students will develop a broad understanding of the morphological features that are identified in coastal systems, and the short- and long-term processes that shape them through time. Students will become familiar with terminology, approaches, and methodologies used in coastal geomorphological research, which are relevant for today\u2019s study of climate and environmental change, with a focus on coastal sedimentary environments and an emphasis on the coast of Israel from ancient times until today. "
+    },
+    "ANAR 115": {
+        "prerequisites": [],
+        "name": "Coastal Geomorphology and Environmental Change\u2014Perspectives from Israel and the South-Eastern Mediterranean",
+        "description": "This course provides students with a broad understanding of the most current sea level change research that has been conducted around the globe. Students will be introduced to the general terminology used in this field, coastal shallow marine and deep-sea sea level indicators, and their degree of uncertainty, along with corresponding dating methods. An emphasis will be given to sea-level studies conducted in Israel and neighboring lands. "
+    },
+    "ANAR 116": {
+        "prerequisites": [],
+        "name": "Sea Level Change\u2014The Israel Case in World Perspective",
+        "description": "The archaeological field and laboratory class will take place in the field in San Diego or adjacent counties. This course is a hands-on introduction to the research design of interdisciplinary archaeological projects and techniques of data collection, including survey, excavation, or laboratory analysis. May be taken for credit up to two times. Program or materials fees may apply. "
+    },
+    "ANAR 117": {
+        "prerequisites": [],
+        "name": "Archaeological Field and Lab Class, Southern California",
+        "description": "Our campus houses some of the earliest human settlements in North America. This course reviews the archaeology, climate, and environment of the sites and outlines research aimed at understanding the lives of these early peoples. "
+    },
+    "ANAR 118": {
+        "prerequisites": [],
+        "name": "Archaeology of the UC San Diego Campus",
+        "description": "The archaeological field and laboratory class will take place at Moquegua, Peru. It is an introduction to the research design of interdisciplinary projects, the technique of data collections, the methods of excavation and postexcavation lab work. Course materials fees may apply. "
+    },
+    "ANAR 119S": {
+        "prerequisites": [],
+        "name": "Archaeological Field and Lab Class",
+        "description": "This course will help familiarize students with the types of methods that people use to document shifting climate in the past and present day, in addition to training on geospatial data sets. "
+    },
+    "ANAR 120": {
+        "prerequisites": [],
+        "name": "Documenting Climate Change: Past and Present",
+        "description": "Concerns the latest developments in digital data capture, analyses, curation, and dissemination for cultural heritage. Introduction to geographic information systems (GIS), spatial analysis, and digital technologies applied to documentation and promotion of cultural heritage and tourism. Lectures and lab exercises. "
+    },
+    "ANAR 121": {
+        "prerequisites": [],
+        "name": "Cyber-Archaeology and World Digital Cultural Heritage",
+        "description": "This course explores the archaeology of Asia from the first humans through the rise of state societies. Topics include the environmental setting, pioneer migrations, hunting and gathering societies, plant and animal domestication, and the development of metallurgy, agriculture, technology, trade, and warfare in early civilizations. We consider how ancient political, intellectual, and artistic achievements shape the archaeological heritage in present-day Asia. "
+    },
+    "ANAR 124": {
+        "prerequisites": [],
+        "name": "Archaeology of Asia",
+        "description": "Study Abroad program that examines the origins and history of ancient Mediterranean civilizations from the late Neolithic period through the Classical era. During the course, students will visit some of the most important archaeological sites in the world, from the ancient megalithic temples of Malta, to Phoenician colonies of the early Iron Age, to the Carthaginian and Greek cities of Sicily, and ending with Roman Pompeii and Herculaneum, destroyed by the eruption of Vesuvius in AD 79. Students are required to apply for this Study Abroad course. Program or materials fees may apply. "
+    },
+    "ANAR 135S": {
+        "prerequisites": [],
+        "name": "Ancient Mediterranean Civilization",
+        "description": "This course explores in detail the rise of the world\u2019s earliest cities and states in Mesopotamia and the ancient Near East during the fourth millennium B.C. "
+    },
+    "ANAR 138": {
+        "prerequisites": [],
+        "name": "Mesopotamia: The Emergence of Civilization",
+        "description": "Israel is a land-bridge between Africa and Asia. Course highlights the prehistory of the Levant and its interconnections from the Paleolithic to the rise of the earliest cities in anthropological perspective. "
+    },
+    "ANAR 141": {
+        "prerequisites": [],
+        "name": "Prehistory of the Holy Land",
+        "description": "The emergence and consolidation of the state in ancient Israel is explored by using archaeological data, biblical texts, and anthropological theories. The social and economic processes responsible for the rise and collapse of ancient Israel are investigated. Recommended preparation: ANTH 3. "
+    },
+    "ANAR 142": {
+        "prerequisites": [],
+        "name": "The Rise and Fall of Ancient Israel",
+        "description": "The relationship between archaeological data, historical research, the Hebrew Bible, and anthropological theory are explored along with new methods and current debates in Levantine archaeology. "
+    },
+    "ANAR 143": {
+        "prerequisites": [],
+        "name": "Biblical Archaeology\u2014Fact or Fiction ",
+        "description": "An introductory survey of the archaeology, history, art, and architecture of ancient Egypt that focuses on the men and women who shaped Western civilization. "
+    },
+    "ANAR 144": {
+        "prerequisites": [],
+        "name": "Pharaohs, Mummies, and Pyramids: Introduction to Egyptology",
+        "description": "Introduction to the archaeology, history, art, architecture, and hieroglyphs of ancient Egypt. Taught in the field through visits to important temples, pyramids, palaces, and museums in Egypt. Complementary to ANAR 144.\u00a0Course/program fees may apply. "
+    },
+    "ANAR 145S": {
+        "prerequisites": [],
+        "name": "Study Abroad: Egypt of the Pharaohs",
+        "description": "What should we eat and how should we farm to guide a sustainable future? This course will examine what humans evolved to eat and how we began to first cultivate the foods we rely on today. After a survey of traditional farming methods around the world, we will examine how farming systems have changed since the Green Revolution and its successes and failures. The final part of class will focus on the last twenty years, when humans began to modify plant life at the genetic level. Students may not receive credit for ANAR 146 and SIO 146. "
+    },
+    "ANAR 146": {
+        "prerequisites": [],
+        "name": "Feeding the World",
+        "description": "The archaeology, anthropology, and history of the Maya civilization, which thrived in Mexico and Central America from 1000 BC, until the Spanish conquest.\u00a0"
+    },
+    "ANAR 153": {
+        "prerequisites": [],
+        "name": "The Mysterious Maya",
+        "description": "Introduction to the archaeology of the ancient culture of Mexico from the early Olmec culture through the Postclassic Aztec, Tarascan, Zapotec, and Mixtec states. Agriculture; trade and exchange; political and social organization; kinship networks; religious system, ideology, and worldviews. "
+    },
+    "ANAR 154": {
+        "prerequisites": [],
+        "name": "The Aztecs and their Ancestors",
+        "description": "This course is an introduction to the archaeology of Mesoamerica and will provide students with the opportunity to gain practical skills from the field. Students will learn hands on by visiting significant ancient cities and museums in Mexico and Central America. Students may receive a combined total of twelve units for ANAR 155 and ANAR 155S. Program or material fee may apply. "
+    },
+    "ANAR 155": {
+        "prerequisites": [],
+        "name": "Study Abroad: Ancient Mesoamerica",
+        "description": "Introduction to archaeology of Mesoamerica, taught through visits to important ancient cities and museums of Mexico and Central America. Complementary to ANAR 154. Itinerary and subject will vary, so course may be taken more than once. Students may receive a combined total of twelve units for ANAR 155S and ANAR 155. Program or material fee may apply.  "
+    },
+    "ANAR 155S": {
+        "prerequisites": [],
+        "name": "Study Abroad: Ancient Mesoamerica",
+        "description": "This course will examine archaeological evidence for the development of societies in the South American continent. From the initial arrival of populations through to the Inca period and the arrival of the Spaniards. "
+    },
+    "ANAR 156": {
+        "prerequisites": [],
+        "name": "The Archaeology of South America",
+        "description": "The civilizations of Wari and Tiwanaku built the first empires of Andean South America long before the Inca. Middle Horizon (AD 500\u20131000) mythohistory, urbanism, state origins, art, technology, agriculture, colonization, trade, and conquest are explored using ethnohistory and archaeological sources.  Students may not receive credit for both ANAR 157S and ANAR 157. "
+    },
+    "ANAR 157": {
+        "prerequisites": [],
+        "name": "Early Empires of the Andes: The Middle Horizon",
+        "description": "The civilizations of Wari and Tiwanaku built the first empires of Andean South America long before the Inca. Middle Horizon (AD 500\u20131000) mythohistory, urbanism, state origins, art, technology, agriculture, colonization, trade, and conquest are explored using ethnohistory and archaeological sources. Course is offered during summer Study Abroad. Students may not receive credit for both ANAR 157 and ANAR 157S. "
+    },
+    "ANAR 157S": {
+        "prerequisites": [],
+        "name": "Early Empires of the Andes: The Middle Horizon",
+        "description": "The history and culture of the Inca Empire of South America and its fatal encounter with the West. Archaeological excavations, accounts from the sixteenth and seventeenth centuries, and ethnographies of present-day peoples of the Andes are explored. "
+    },
+    "ANAR 158": {
+        "prerequisites": [],
+        "name": "The Inca: Empire of the Andes",
+        "description": "This course considers in detail a particular region or archaeological site within the Maya area.\u00a0Content will cover primary literature on Maya archaeology, epigraphy, and art history. Course content will vary based on the specific region/site. May be taken for credit three times. "
+    },
+    "ANAR 160": {
+        "prerequisites": [],
+        "name": "Ancient Maya: Archaeological Problems and Perspectives",
+        "description": "(Cross-listed with SIO 164.) Underwater archaeology provides access to ancient environmental and cultural data concerning human adaptation to climate and environmental change. Provides an overview of methods, theories, and practice of marine archaeology including environmental characteristics of coastal and underwater settings; the nature of ports, navigation, maritime culture, submerged landscapes, shipbuilding; methods of research in underwater settings; and legislative issues regarding underwater and coastal heritage. Students may not receive credit for both ANAR 164 and SIO 164. "
+    },
+    "ANAR 164": {
+        "prerequisites": [],
+        "name": "Underwater Archaeology\u2014From Atlantis to Science",
+        "description": "This course will follow the interaction between humans and the sea in cultures that formed the biblical world of the second and first millennium BCE: the Canaanites, Israelites, Egyptians, Phoenicians, Philistines, and cultures of the Aegean Sea. Themes discussed will be maritime matters in the Canaanite and biblical narrative, key discoveries in maritime coastal archaeology of the eastern Mediterranean, shipwrecks: Canaanite, Phoenician, and Aegean, Egyptian ports, and Egyptian sea adventures. "
+    },
+    "ANAR 165": {
+        "prerequisites": [],
+        "name": "Marine and Coastal Archaeology and the Biblical Seas",
+        "description": "(Cross-listed with SIO 166.) Introduction to the multidisciplinary tools for paleoenvironmental analysis\u2014from ecology, sedimentology, climatology, zoology, botany, chemistry, and others\u2014and provides the theory and method to investigate the dynamics between human behavior and natural processes. This socioecodynamic perspective facilitates a nuanced understanding of topics such as resource overexploitation, impacts on biodiversity, social vulnerability, sustainability, and responses to climate change. Students may not receive credit for ANAR 166 and SIO 166. "
+    },
+    "ANAR 166": {
+        "prerequisites": [
+            "ANTH 3",
+            "and",
+            "SIO 50"
+        ],
+        "name": "Introduction to Environmental Archaeology\u2014Theory and Method of Socioecodynamics and Human Paleoecology",
+        "description": "(Cross-listed with SIO 167.) As specialists in human timescales, archaeologists are trained to identify subtle details that are often imperceptible for other geoscientists. This course is designed to train archaeologists to identify the natural processes affecting the archaeological record, and geoscientists to identify the influence of human behavior over land surfaces. The course, which includes lectures, laboratory training, and field observations, focuses on the articulation of sedimentology and human activity. Students may not receive credit for both ANAR 167 and SIO 167. "
+    },
+    "ANAR 167": {
+        "prerequisites": [],
+        "name": "Geoarchaeology in Theory and Practice",
+        "description": "This course examines the ways in which archaeologists study ancient artifacts, contexts, and their distribution in time and space to interpret ancient cultures. It will cover basic techniques of collections and field research with particular concentration on the quantitative contextual, spatial, stylistic, and technological analyses of artifacts and ecofacts from ongoing UC San Diego field projects in archaeology. "
+    },
+    "ANAR 180": {
+        "prerequisites": [],
+        "name": "Archaeology Workshop: Advanced Lab Work in Archaeology   ",
+        "description": "Varying theoretical models and available archaeological evidence are examined to illuminate the socio-evolutionary transition from nomadic hunter-gathering groups to fully sedentary agricultural societies in the Old and New Worlds. Archaeology concentration course. Recommended preparation: ANTH 3. "
+    },
+    "ANAR 182": {
+        "prerequisites": [],
+        "name": "Origins of Agriculture and Sedentism",
+        "description": "The course focuses on theoretical models for the evolution of complex societies and on archaeological evidence for the development of various pre- and protohistoric states in selected areas of the Old and New Worlds. Archaeology concentration course. Recommended preparation: ANTH 3.  "
+    },
+    "ANAR 183": {
+        "prerequisites": [],
+        "name": "Chiefdoms, States, and the Emergence of Civilizations",
+        "description": "In what ways were ancient empires different from modern ones?  We discuss theories of imperialism and examine cross-cultural similarities and differences in the strategies ancient empires used to expand and explore how they produced, acquired, and distributed wealth. "
+    },
+    "ANAR 184": {
+        "prerequisites": [],
+        "name": "Empires in Archaeological Perspective ",
+        "description": "The course uses a comparative perspective to examine changes in how human societies organized themselves after the end of the last Ice Age across the world and the impact that those changes had on the planet\u2019s natural environment. "
+    },
+    "ANAR 185": {
+        "prerequisites": [],
+        "name": "Middle East Desert Cultural Ecology",
+        "description": "The archaeological field school will take place in the eastern Mediterranean region. It is an introduction to the design of research projects, the techniques of data collection, and the methods of excavation. Includes postexcavation lab work, study trips, and field journal. Program or materials fees may apply.   "
+    },
+    "ANAR 186": {
+        "prerequisites": [],
+        "name": "The Human Era: The Archaeology of the Anthropocene",
+        "description": "Students learn advanced field methods in cyber-archaeology and excavation. Includes 3-D data capture tools and processing, digital photography, construction of research designs, cyber-infrastructure. Takes place in the eastern Mediterranean region. Program or materials fees may apply. "
+    },
+    "ANAR 190": {
+        "prerequisites": [],
+        "name": "Eastern Mediterranean Archaeological Field School ",
+        "description": "Course usually taught by visiting faculty in biological anthropology. Course will vary in title and content. When offered, the current description and title is found in the current Schedule\nof Classes and the Department of Anthropology website. May be taken for credit four times as topics vary. "
+    },
+    "ANAR 191": {
+        "prerequisites": [],
+        "name": "Advanced Cyber-Archaeology Field School",
+        "description": "A weekly forum for presentation and discussion of work in anthropology and cognitive neuroscience by faculty, students, and guest speakers. P/NP only. Please note: Majors may only apply eight units of approved P/NP credit toward the major, and minors may only apply four units of P/NP credit toward the minor. "
+    },
+    "ANBI\n\t\t\t\t    100": {
+        "prerequisites": [],
+        "name": "Special Topics in Biological Anthropology",
+        "description": "Major stages of human evolution including the fossil evidence for biological and cultural changes through time. "
+    },
+    "ANBI 109": {
+        "prerequisites": [],
+        "name": "Brain Mind Workshop",
+        "description": "Cytoarchitecture reveals the fundamental structural organization of the human brain and stereology extracts quantitative information in a three-dimensional space. Students will learn the principles of both fields and their applications. "
+    },
+    "ANBI 111": {
+        "prerequisites": [],
+        "name": "Human Evolution",
+        "description": "Primate (and other vertebrate) conservation involves a variety of methods: field (e.g., population and habitat assessment), computer (e.g., population genetic models), and increasingly the web (e.g. interactive GIS and databases). Course takes problem-solving approach to learning some of these methods.  "
+    },
+    "ANBI 112": {
+        "prerequisites": [],
+        "name": "Methods in Human Comparative Neuroscience ",
+        "description": "This course examines how human sexuality evolved and how it is similar/dissimilar to that of other primates. The topics include the evolution of mating strategies and parenting strategies including the role of sexual selection and how hormones control these behaviors. "
+    },
+    "ANBI 114": {
+        "prerequisites": [],
+        "name": "Methods in Primate Conservation",
+        "description": "From fragments of ancient DNA discovered in the pigment of 50,000-year-old cave paintings, to the remains of Neanderthal bones buried in caves, the potential to extract DNA from ancient human remains has revolutionized the study of human prehistory and evolution. In this course we will focus on technological benchmarks that have allowed the interpretation of ancient genomes. Some highlights include evidence of ancient hominid-human mixing and the spread of farming and languages across the globe. "
+    },
+    "ANBI\n\t\t\t\t    116": {
+        "prerequisites": [],
+        "name": "Human Sexuality in an Evolutionary Perspective ",
+        "description": "Mobile tools are democratizing access to biomedicine in low resource areas of the world. This course highlights the impact of portable technologies on human biology through three modes of innovation: communication (e.g., sensors, cellphones), intervention (e.g., telemedicine, drones), and population analytics (e.g., metadata, epidemic tracking). "
+    },
+    "ANBI 117": {
+        "prerequisites": [],
+        "name": "Ancient Genomics: Who We Are and How We Got Here",
+        "description": "All human endeavors are subject to human biases. We\u2019ll cover several issues that are subject to such biases: \u201crace\u201d concept; transfer of human remains to Native American tribal members; nonhuman primate testing; and use of human materials, including cell lines. "
+    },
+    "ANBI 118": {
+        "prerequisites": [],
+        "name": "Technology on the Go: Mobile Tools for Human Biology",
+        "description": "Biological and health consequences of racial and social inequalities. Psychosocial stress and measurement of health impact. Effects on disease and precursors to disease, including measures of molecular biology (e.g., epigenetics, gene expression), and biomarkers of inflammation, cardiometabolic health, and immune function. "
+    },
+    "ANBI 120": {
+        "prerequisites": [],
+        "name": "Ethical Dilemmas in Biological Anthropology ",
+        "description": "This course examines conceptions of race from both evolutionary and sociocultural perspectives. We will examine current patterns of human genetic variation and critically determine how these patterns map onto current and historic conceptions of race in the United States, and abroad. We will also explore the social construction of race throughout US history, the use of racial categories in biomedicine today, and consequences of racism and discrimination on health. "
+    },
+    "ANBI 121": {
+        "prerequisites": [],
+        "name": "The Original Moonshot: The Voyaging Achievements of the Polynesian Ancestors",
+        "description": "Interdisciplinary discussion of the human predicament, biodiversity crisis, and importance of biological conservation. Examines issues from biological, cultural, historical, economic, social, political, and ethical perspectives emphasizing new approaches and new techniques for safeguarding the future of humans and other biosphere inhabitants. "
+    },
+    "ANBI 130": {
+        "prerequisites": [],
+        "name": "Biology of Inequality",
+        "description": "The great apes are our closest living relatives and their ecology and evolution provide insights for human evolutionary history and perhaps ideas about how to coexist with them. The course examines the natural history, behavior, ecology, and life history of each of the great apes including orangutans, gorillas, bonobos, and chimpanzees. We will also consider conservation issues facing wild great apes, the welfare of apes in captivity, and ethical debates on ape \u201cpersonhood.\u201d "
+    },
+    "ANBI 131": {
+        "prerequisites": [],
+        "name": "Biology and Culture of Race",
+        "description": "This course explores how genetic data can be used to address core issues in human evolution. We will reconstruct population history and explore sources of human genetic diversity, such as migration and selection, based on studies of modern and ancient DNA. Through critical evaluation of recent publications, we will discuss the molecular evidence for the origin of modern humans, race, reconstruction of key human migrations, interactions with the environment, and implications for disease. May be coscheduled with ANTH 264. "
+    },
+    "ANBI\n\t\t\t\t    132": {
+        "prerequisites": [],
+        "name": "Conservation and the Human Predicament",
+        "description": "This course provides hands-on experience with the latest molecular techniques as applied to questions of anthropological and human genetic interest. Students will isolate their own DNA and generate DNA sequence data. They will also measure and analyze the percent of DNA methylation at certain regions of their own genomes. We will also discuss measurement of other nongenetic biomarkers that can be incorporated into anthropological research of living populations, e.g., cortisol measures. "
+    },
+    "ANBI 133": {
+        "prerequisites": [],
+        "name": "Planet of the Apes: Evolution and Ecology of the Great Ape",
+        "description": "The human brain and the structural and functional adaptations it has undergone throughout primate evolution are responsible for the most defining characteristics of our species. This course familiarizes students with major brain structures and functions linked to human cognitive and behavioral specializations and examines the relationship between structural variation of the brain and behavior through comparative neuroanatomical studies in human neuropathologies. "
+    },
+    "ANBI 134": {
+        "prerequisites": [],
+        "name": "Human Evolutionary Genetics",
+        "description": "The course will explore the major epidemiological transitions from ape-like ancestors to foraging tribes, farmers, and pastoralists to the global metropolitan primate we now are. We will focus on how diseases have shaped humans and how humans have shaped disease. "
+    },
+    "ANBI 135": {
+        "prerequisites": [],
+        "name": "Genetic Anthropology Lab Techniques",
+        "description": "Introduction to the organization of the brain of humans and apes. Overview of the theoretical perspectives on the evolution of the primate cortex and limbic system. Exposure to contemporary techniques applied to the comparative study of the hominoid brain. "
+    },
+    "ANBI 136": {
+        "prerequisites": [],
+        "name": "Human Comparative Neuroanatomy",
+        "description": "The genotype of our ancestors had no agriculture or animal domestication, or rudimentary technology. Our modern diet contributes to heart disease, cancers, and diabetes. This course will outline the natural diet of primates and compare it with early human diets. "
+    },
+    "ANBI 139": {
+        "prerequisites": [],
+        "name": "Evolution of Human Disease",
+        "description": "Learn the bones of your body; how bone pairs differ even within the body, between men, women, ethnic groups; and how nutrition and disease affect them. Course examines each bone and its relation with other bones and muscles that allow your movements. "
+    },
+    "ANBI 140": {
+        "prerequisites": [],
+        "name": "The Evolution of the Human Brain",
+        "description": "This course will introduce students to the internal structure of the human body through dissection tutorials on CD-ROM. "
+    },
+    "ANBI 141": {
+        "prerequisites": [],
+        "name": "The Evolution of Human Diet",
+        "description": "How are skeletal remains used to reconstruct human livelihoods throughout prehistory? The effects of growth, use, and pathology on morphology and the ways that skeletal remains are understood and interpreted by contemporary schools of thought. Recommend related course in human anatomy. "
+    },
+    "ANBI 143": {
+        "prerequisites": [],
+        "name": "The Human Skeleton",
+        "description": "The stable isotopes of carbon, nitrogen, oxygen, and hydrogen in animal tissues, plant tissues, and soils indicate aspects of diet and ecology. The course will introduce students to this approach for reconstructing paleo-diet, paleo-ecology, and paleo-climate. "
+    },
+    "ANBI 144": {
+        "prerequisites": [],
+        "name": "Human Anatomy",
+        "description": "The course examines the evolution of primate behaviors (e.g., group formation, dispersal, parenting, coalition formation) from a comparative behavioral, ecological, and evolutionary perspective. Observational methodology and analytical methods will also be discussed.  Attendance in lab sections is required. "
+    },
+    "ANBI 145": {
+        "prerequisites": [],
+        "name": "Bioarcheology",
+        "description": "This course is a seminar where we will discuss the latest scientific research in epigenetic mechanisms (changes to gene expression without changing underlying DNA sequences) and their role in regulating health and behavior of humans and other mammals in response to environmental stimuli. Our focus will be on publications related to social and behavioral epigenetics phenomena. Recommended preparation: students should have research experience in a molecular lab. "
+    },
+    "ANBI 146": {
+        "prerequisites": [],
+        "name": "Stable Isotopes in Ecology",
+        "description": "Attitudes toward other individuals (and species) are often shaped by their apparent \u201cintelligence.\u201d This course discusses the significance of brain size/complexity, I.Q. tests, communication in marine mammals and apes, complex behavioral tactics, and the evolution of intelligence. "
+    },
+    "ANBI 148": {
+        "prerequisites": [],
+        "name": "Not by Genes Alone: The Ecology and Evolution of Primate Behavior",
+        "description": "The last divide between humans and other animals is in the area of cognition. A comparative perspective to explore recent radical reinterpretations of the cognitive abilities of different primate species, including humans and their implications for the construction of evolutionary scenarios. "
+    },
+    "ANBI 149": {
+        "prerequisites": [],
+        "name": "Social and Behavioral Epigenetics",
+        "description": "Conservation on a human-dominated planet is a complex topic. Sometimes a picture is worth a thousand words. This course explores how films about conservation and the human predicament tackle current problems. What makes them effective and what makes them \u201cfail\u201d? We view one film a week and discuss it based on articles and books about that week\u2019s topic. "
+    },
+    "ANBI 159": {
+        "prerequisites": [],
+        "name": "Biological and Cultural Perspectives on Intelligence",
+        "description": "Models of human evolution combine science and myth. This course examines methods used in reconstructions of human evolution. Models such as \u201cman the hunter\u201d and \u201cwoman the gatherer\u201d are examined in light of underlying assumptions, and cultural ideals. "
+    },
+    "ANBI 173": {
+        "prerequisites": [],
+        "name": "How Monkeys See the World ",
+        "description": "(Cross-listed with GLBH 101.) Examines aging as process of human development, from local and global perspectives. Focuses on the interrelationships of social, cultural, psychological, and health factors that shape the experience and well-being of aging populations. Students explore the challenges and wisdom of aging. Students may not receive credit for GLBH 101 and ANSC 101. "
+    },
+    "ANBI 174": {
+        "prerequisites": [],
+        "name": "Conservation and the Media: Film Lab",
+        "description": "This course puts the perennial hot-button topic of the border into historical and anthropological perspective, unpacking its importance for both Mexico and the United States. After establishing its implications since 1848 for national identities, flows of labor and capital, and state consolidation, we will explore a series of contemporary topics including tourism and cross-border consumption, violence and illegal traffic, border enforcement technologies, migration and asylum, and more. "
+    },
+    "ANBI 175": {
+        "prerequisites": [],
+        "name": "Paleofantasy: The Evidence for Our Early Ancestors",
+        "description": "(Cross-listed with GLBH 105.) Why is there variation of health outcomes across the world? We will discuss health and illness in context of culture and address concerns in cross-national health variations by comparing healthcare systems in developed, underdeveloped, and developing countries. In addition, we\u2019ll study the role of socioeconomic and political change in determining health outcomes and examine social health determinants in contemporary global health problems: multidrug resistance to antibiotics, gender violence, human trafficking, etc. Students may receive credit for one of the following: ANSC 105GS, ANSC 105S, ANSC 105, or GLBH 105. "
+    },
+    "ANSC 100": {
+        "prerequisites": [],
+        "name": "Special Topics in Sociocultural Anthropology",
+        "description": "Why is there variation of health outcomes across the world? We will discuss health and illness in context of culture and address concerns in cross-national health variations by comparing health-care systems in developed, underdeveloped, and developing countries. In addition, we\u2019ll study the role of socioeconomic and political change in determining health outcomes, and examine social health determinants in contemporary global health problems\u2014multidrug resistance to antibiotics, gender violence, human trafficking, etc. Students may receive credit for one of the following: ANSC 105GS, ANSC 105S, ANSC 105, or GLBH 105. Program or materials fees may apply. Students must apply at http://globalseminars.ucsd.edu."
+    },
+    "ANSC 101": {
+        "prerequisites": [],
+        "name": "Aging: Culture and Health in Late Life Human Development",
+        "description": "Why is there variation of health outcomes across the world? We will discuss health and illness in context of culture and address concerns in cross-national health variations by comparing healthcare systems in developed, underdeveloped, and developing countries. In addition, we\u2019ll study the role of socioeconomic and political change in determining health outcomes, and examine social health determinants in contemporary global health problems: multidrug resistance to antibiotics, gender violence, and human trafficking, etc. Students must apply to the Study Abroad Program online at http://anthro.ucsd.edu. Program or materials fees may apply. Students may receive credit for one of the following: ANSC 105GS, ANSC 105S, ANSC 105, or GLBH 105."
+    },
+    "ANSC 104": {
+        "prerequisites": [],
+        "name": "The US-Mexico Border",
+        "description": "Drawing on medical anthropology ethnography, students will explore a variety of forms of healing among rural and urban indigenous communities. A particular focus on intercultural health will allow the students to analyze contemporary medical landscapes where patients encounter indigenous and Western medicine. Students will learn about the complexities of urban and rural indigenous healing settings and their sociopolitical significance in contexts of state biomedical interventions. Students may not receive credit for ANSC 106 and ANSC 106S. Freshmen and sophomores cannot enroll without consent of the instructor."
+    },
+    "ANSC 105": {
+        "prerequisites": [],
+        "name": "Global Health and Inequality",
+        "description": "Drawing on medical anthropology ethnography, students will explore a variety of forms of healing among rural and urban indigenous communities. A particular focus on intercultural health will allow the students to analyze contemporary medical landscapes where patients encounter indigenous and Western medicine. Students will learn about the complexities of urban and rural indigenous healing settings and their sociopolitical significance in contexts of state biomedical interventions. Students may not receive credit for ANSC 106 and ANSC 106S.  Students must apply to the Study Abroad UC San Diego program online at http://anthro.ucsd.edu."
+    },
+    "ANSC 105GS": {
+        "prerequisites": [],
+        "name": "Global Health and Inequality",
+        "description": "This course examines societies and cultures of the Caribbean in anthropological and historical perspective. Topics include slavery, emancipation, indentureship, kinship, race, ethnicity, class, gender, politics, food, religion, music, festivals, popular culture, migration, globalization, and tourism. "
+    },
+    "ANSC 105S": {
+        "prerequisites": [],
+        "name": "Global Health and Inequality\u2014Study Abroad",
+        "description": "This course will provide an anthropological perspective on Chinese culture in Taiwan from its earliest settlement to the present, including distinctive Taiwanese variants of traditional Chinese marriage and family life, institutions, festivals, agricultural practices, etc. "
+    },
+    "ANSC 106": {
+        "prerequisites": [],
+        "name": "Global Health: Indigenous Medicines in Latin America",
+        "description": "Young people draw on language as well as clothing and music to display identities in contemporary societies. We examine the relation of language to race, class, gender, and ethnicity in youth identity construction, especially in multilingual and multiracial societies. "
+    },
+    "ANSC 106S": {
+        "prerequisites": [],
+        "name": "Global Health: Indigenous Medicines in Latin America\u2014Study Abroad",
+        "description": "This course explores the diverse food cultures of South Asia, focusing on the ways food, spices, and beverages shape identity, social relations, and cultural heritage. It will place food practices in the context of food security, sustainability, inequality, nutrition, family, and kinship. Students develop projects focused on understanding the cultural and historical significance of a particular food dish or regional culinary tradition. "
+    },
+    "ANSC 110": {
+        "prerequisites": [],
+        "name": "Societies and Cultures of the Caribbean",
+        "description": "An introduction to the languages and cultures of speakers of the Mayan family of languages, with emphasis on linguistic structures, ethnography, and the social history of the region. The course will concentrate on linguistic and ethnographic literature of a single language or subbranch, emphasizing commonalities with the family and region as a whole. "
+    },
+    "ANSC 111": {
+        "prerequisites": [],
+        "name": "The Chinese Heritage in Taiwan",
+        "description": "This course contrasts mainstream Anglo-American conceptualizations of transgenderism with ethnographic accounts of the experiences and practices of gender expansive people of color (African, Native, Asian/Pacific Islander, and Latinx Americans) in the U.S. and abroad. It will question the idea of transgenderism as a crossing from one gender to another one, the distinction between gender identity and sexuality, and the analytic of intersectionality. Students will not receive credit for both CGS 117 and ANSC 117. "
+    },
+    "ANSC 113": {
+        "prerequisites": [],
+        "name": "Language, Style, and Youth Identities",
+        "description": "An introduction to the study of cultural patterns of thought, action, and expression, in relation to language. We consider comparatively semiotics and structuralism, cognition and categorization, universals versus particulars, ideologies of stasis and change, cultural reconstruction, and ethnopoetics. "
+    },
+    "ANSC 114": {
+        "prerequisites": [],
+        "name": "Food Cultures of South Asia",
+        "description": "The course is an introduction to a flourishing area of research that connects linguistic communication to alternate and complementary modalities\u2014manual gesticulation, the face, the body, and aspects of the \u201clived environment\u201d (spaces, tools, artifacts). Credit not allowed for both ANSC 119GS and ANSC 119. "
+    },
+    "ANSC 116": {
+        "prerequisites": [],
+        "name": "Languages of the Americas: Mayan",
+        "description": "A critical examination of research connecting language to alternate complementary modalities\u2014the hands, face, body, and aspects of \u201clived environments\u201d (spaces, tools, artifacts). Program or materials fees may apply. "
+    },
+    "ANSC 117": {
+        "prerequisites": [],
+        "name": "Transgenderisms",
+        "description": "Explores religious life in various cultures. Topics addressed include the problem of religious meaning, psychocultural aspects of religious experience, religious conversion and revitalization, contrasts between traditional and world religions, religion and social change. "
+    },
+    "ANSC 118": {
+        "prerequisites": [],
+        "name": "Language and Culture",
+        "description": "Interrelationships of aspects of individual personality and various aspects of sociocultural systems are considered. Relations of sociocultural contexts to motives, values, cognition, personal adjustment, stress and pathology, and qualities of personal experience are emphasized. "
+    },
+    "ANSC 119": {
+        "prerequisites": [],
+        "name": "Gesture,\n\t\t\t\t  Communication, and the Body",
+        "description": "This course examines the role of communicative practices and language differences in organizing social life. Topics include social action through language; child language socialization; language and social identity (ethnicity, gender, class); interethnic communication; language ideologies; and language and power in social institutions and everyday life. "
+    },
+    "ANSC 119GS": {
+        "prerequisites": [],
+        "name": "\t\t\t\t  Gesture, Communication, and the Body",
+        "description": "Humans are goal seekers, some with public goals. Course considers ways goals are pursued, which are desirable, and how this pursuit is carried out at the local level with attention to the parts played by legitimacy and coercion. "
+    },
+    "ANSC 120": {
+        "prerequisites": [],
+        "name": "Anthropology of Religion",
+        "description": "This course introduces the concept of culture and the debates surrounding it. Cultural anthropology asks how people create meaning and order in society, how culture intersects with power, and how national and global forces impact local meanings and practices. "
+    },
+    "ANSC 121": {
+        "prerequisites": [],
+        "name": "Psychological Anthropology",
+        "description": "How are gender and sexuality shaped by cultural ideologies, social institutions, and social change? We explore their connections to such dimensions of society as kinship and family, the state, religion, and popular culture. We also examine alternative genders/sexualities cross-culturally. Students may not receive credit for ANSC 125 and ANSC 125GS. "
+    },
+    "ANSC 122": {
+        "prerequisites": [],
+        "name": "Language in Society",
+        "description": "How are gender and sexuality shaped by cultural ideologies, social institutions, and social change? We explore their connections to such dimensions of society as kinship and family, the state, religion, and popular culture. We also examine alternative genders/sexualities cross-culturally. Students may not receive credit for ANSC 125GS and ANSC 125. Program or materials fees may apply. "
+    },
+    "ANSC 123": {
+        "prerequisites": [],
+        "name": "Political Anthropology",
+        "description": "This course examines the diversity of practices of child-rearing, socialization, and enculturation across cultures, and the role of culture in the development of personality, morality, spirituality, sexuality, emotion, and cognition. "
+    },
+    "ANSC 124": {
+        "prerequisites": [],
+        "name": "Cultural Anthropology",
+        "description": "The course considers how social life is constituted and negotiated through language and interaction. How do people establish, maintain, and alter social relationships through face-to-face talk, and how do different modalities of interaction (including discourse and gesture) affect social life? "
+    },
+    "ANSC 125": {
+        "prerequisites": [],
+        "name": "Gender, Sexuality, and Society",
+        "description": "(Cross-listed with GLBH 129.) This course examines the nature of healing across cultures, with special emphasis on religious and ritual healing. Students may not receive credit for GLBH 129 and ANSC 129. "
+    },
+    "ANSC 125GS": {
+        "prerequisites": [],
+        "name": "Gender, Sexuality, and Society",
+        "description": "An anthropological introduction to Hinduism, focusing on basic religious concepts and practices. Topics include myth, ritual, and symbolism; forms of worship; gods and goddesses; the roles of priest and renouncer; pilgrimages and festivals; the life cycle; popular Hinduism, Tantrism. "
+    },
+    "ANSC 126": {
+        "prerequisites": [],
+        "name": "Childhood and Adolescence",
+        "description": "Legal systems are central in (re)organizing social institutions, international arrangements, (in)equalities, and are an arena where linguistic practices predominate and define outcomes. With an anthropological approach to language, examine languages of the law, legal conceptions of language, and most importantly, the nature and structure of talk in a range of legal institutions and activities. Students will engage in direct anthropological fieldwork in local contexts involving the legal bureaucracy. "
+    },
+    "ANSC 127": {
+        "prerequisites": [],
+        "name": "Discourse, Interaction, and Social Life",
+        "description": "What is love? This course explores evolutionary, historical, philosophical, physiological, psychological, sociological, political-economic, and anthropological perspectives on love. We examine how love has evolved, study various aspects considered biological or cultural, and address contemporary debates around the nature and uses of love, including topics such as monogamy, arranged marriage, companionship, interracial relationships, and online dating. "
+    },
+    "ANSC 129": {
+        "prerequisites": [],
+        "name": "Meaning and Healing",
+        "description": "This course explores the living structures, family and gender relations, economy, and religion in the Middle East. We will especially focus on how people come to terms with recent transformations such as nationalism, literacy, globalism, and Islamism. "
+    },
+    "ANSC 130": {
+        "prerequisites": [],
+        "name": "Hinduism",
+        "description": "Indigenous peoples in the Americas have long been dominated and exploited. They have also resisted and reworked the powerful forces affecting them. This course will trace this centuries-long contestation, focusing on ways anthropological representations have affected those struggles. "
+    },
+    "ANSC 131": {
+        "prerequisites": [],
+        "name": "Language, Law, and Social Justice ",
+        "description": "Course examines major institutions and culture patterns of traditional China, especially as studied through ethnographic sources. Topics include familism, religion, agriculture, social mobility, and personality. "
+    },
+    "ANSC 132": {
+        "prerequisites": [],
+        "name": "Sex and Love",
+        "description": "The religious world of ordinary precommunist times, with some reference to major Chinese religious traditions. Recommended preparation: background in premodern Chinese history. "
+    },
+    "ANSC 133": {
+        "prerequisites": [],
+        "name": "Peoples and Cultures of the Middle East",
+        "description": "Explores anthropological approaches to finding solutions to human problems. Using cultural analysis and ethnographic approaches, students conduct supervised field projects to assess real-world problems and then design, evaluate, and communicate possible solutions. "
+    },
+    "ANSC 135": {
+        "prerequisites": [],
+        "name": "Indigenous Peoples of Latin America",
+        "description": "(Cross-listed with GLBH 139.) This course examines fact and fiction with respect to epidemics of contagious diseases including smallpox and tuberculosis, alcohol and drug dependency, diabetes and obesity, depression and suicide. We analyze health care with respect to the history and development of the Indian Health Service, health care efforts by Christian missionaries, tribal-led health initiatives, indigenous spiritual healing, and collaborations between indigenous healers and biomedical professionals. Students may not receive credit for ANSC 139 and GLBH 139. ANSC 139/GLBH 139 may be coscheduled with ANTH 237/GLBH 245.  "
+    },
+    "ANSC 136": {
+        "prerequisites": [],
+        "name": "Traditional Chinese Society",
+        "description": "Interdisciplinary discussion that outlines the structure and functioning of the contemporary human rights regime, and then delves into the relationship between selected human rights protections\u2014against genocide, torture, enslavement, political persecution, etc.\u2014and their violation, from the early Cold War to the present. Students may not receive credit for both ANSC 140 and HMNR 101. "
+    },
+    "ANSC 137": {
+        "prerequisites": [],
+        "name": "Chinese Popular Religion",
+        "description": "This course explores the interrelationships of language, politics, and identity in the United States: the ways that language mediates politics and identity, the ways that the connection between identity and language is inherently political, and the ways that political language inevitably draws on identity in both subtle and explicit ways. "
+    },
+    "ANSC 138": {
+        "prerequisites": [],
+        "name": "The Cultural Design Practicum: Using Anthropology to Solve Human Problems",
+        "description": "This course will examine the overarching legacies of colonialism, the persistence of indigenous peoples and cultures, the importance of class and land reform, the effects of neoliberalism, and citizens\u2019 efforts to promote social change in contemporary democracies. "
+    },
+    "ANSC 139": {
+        "prerequisites": [],
+        "name": "Native American Health and Healing",
+        "description": "(Cross-listed with GLBH 143.) Why is mental health a global concern? This anthropological course reviews globalization, culture, and mental health. We examine issues of social suffering, stigma, and economic burden associated with mental illness, gender inequality, political violence, \u201cglobal security,\u201d pharmaceutical and illegal drugs. May be coscheduled with ANTH 243. Students may not receive credit for both ANSC 143 and GLBH 143. "
+    },
+    "ANSC 140": {
+        "prerequisites": [],
+        "name": "Human Rights II: Contemporary Issues",
+        "description": "Examines physical and mental health sequalae of internal and transnational movement of individuals and populations due to warfare, political violence, natural disaster, religious persecution, poverty and struggle for economic survival, and social suffering of communities abandoned by migrants and refugees. May be coscheduled with ANTH 238. "
+    },
+    "ANSC 141": {
+        "prerequisites": [],
+        "name": "Language, Politics, and Identity",
+        "description": "This course addresses: 1) Diversity among traditional Native American cultures with respect to social organization, religion, environmental adaptation, subsistence, and reaction to colonial conquest and domination; and, 2) Contemporary social issues including tribal sovereignty, religious freedom, health, education, gambling, and repatriation of artifacts/remains. "
+    },
+    "ANSC 142": {
+        "prerequisites": [],
+        "name": "Anthropology of Latin America",
+        "description": "(Cross-listed with GLBH 146.) HIV is a paradigmatic disease: globally and locally patterned, biologically and socially constructed, involving science and social change. Cases from the Americas, Africa, and Asia examine how HIV necessitated new practices in policy, research, prevention, treatment, and activism. Health disparities, social inequalities, and stigma associated with the populations that have been most affected, community responses, and their political contexts are highlighted. Students may not receive credit for ANSC 146 and GLBH 146.  "
+    },
+    "ANSC 143": {
+        "prerequisites": [],
+        "name": "Mental Health as Global Health Priority",
+        "description": "(Cross-listed with GLBH 147.) Examines interactions of culture, health, and environment. Rural and urban human ecologies, their energy foundations, sociocultural systems, and characteristic health and environmental problems are explored. The role of culture and human values in designing solutions will be investigated. Students may not receive credit for GLBH 147 and ANSC 147. "
+    },
+    "ANSC 144": {
+        "prerequisites": [],
+        "name": "Immigrant and Refugee Health",
+        "description": "(Cross-listed with GLBH 148.) Introduction to global health from the perspective of medical anthropology on disease and illness, cultural conceptions of health, doctor-patient interaction, illness experience, medical science and technology, mental health, infectious disease, and health-care inequalities by ethnicity, gender, and socioeconomic status. May be coscheduled with ANTH 248. Students may not receive credit for GLBH 148 and ANSC 148. "
+    },
+    "ANSC 145": {
+        "prerequisites": [],
+        "name": "Indigenous Peoples of North America",
+        "description": "Mitigating the effects of conflict and inequality is a major priority for global health practitioners. This course explores the ways that conflict and structural inequalities deeply affect people\u2019s mental and physical health and how they cope and survive in these conditions. We know that the effects of violence and war do not just disappear after the fact but linger for a long time. How do we know how and when a person\u2019s health is restored after massive disruptions? "
+    },
+    "ANSC 146": {
+        "prerequisites": [],
+        "name": "A Global Health Perspective on HIV",
+        "description": "(Cross-listed with GLBH 150.) This course reviews mental health cross-culturally and transnationally. Issues examined are cultural shaping of the interpretation, experience, symptoms, treatment, course, and recovery of mental illness. World Health Organization findings of better outcome in non-European and North American countries are explored. Students may not receive credit for GLBH 150 and ANSC 150. "
+    },
+    "ANSC 147": {
+        "prerequisites": [],
+        "name": "Global Health and the Environment",
+        "description": "This course examines ethnographies of the US-Mexican borderlands to understand how the binational relationship shapes social life on both sides of the border. Topics discussed will include the maquiladora industry, drug trafficking, militarization, migration, tourism, missionary work, femicide, and prostitution. "
+    },
+    "ANSC 148": {
+        "prerequisites": [],
+        "name": "Global Health and Cultural Diversity",
+        "description": "Violence seems ubiquitous in our world, whether it results from natural disasters, wars, accidents, or interpersonal conflict. Experts agree that violence does not simply disappear after the fact, but it stays for a long time. In this course, we will explore militarism, war, and empire, and look at what anthropologists call \u201cstructural violence.\u201d "
+    },
+    "ANSC 149": {
+        "prerequisites": [],
+        "name": "Conflict, Health, and Inequality",
+        "description": "This course explores the intersections of religion and gender. Focusing on modern Islam, Christianity, and Judaism, we will address such questions as: How and why are gender and sexuality significant in the context of religious beliefs and practices? Why do religions place so much emphasis on defining proper gender roles for women and men? How do nonheterosexual people of faith grapple with religious ideologies that reject LGBTQ ways of life? "
+    },
+    "ANSC 150": {
+        "prerequisites": [
+            "ANTH 101",
+            "and"
+        ],
+        "name": "Culture and Mental Health",
+        "description": "This course examines the intended and unintended consequences of humanitarian aid. How do organizations negotiate principles of equality with the reality of limited resources? What role does medicine play in aid efforts? In spaces where multiple vulnerabilities coexist, how do we decide whom we should help first? While the need for aid, charity, and giving in the face of suffering is often taken as a commonsensical good, this course reveals the complexities underpinning humanitarian aid. "
+    },
+    "ANSC 151": {
+        "prerequisites": [],
+        "name": "US-Mexico Border Ethnographies",
+        "description": "This course examines historical and cultural dimensions of madness as depicted in iconic and popular films such as \u201cOne Flew Over the Cuckoo\u2019s Nest,\u201d \u201cGirl Interrupted,\u201d \u201cSilver Linings Playbook,\u201d along with ethnographic and artistic films that utilize anthropological approaches. "
+    },
+    "ANSC 153": {
+        "prerequisites": [],
+        "name": "War in Lived Experience",
+        "description": "Starting at the crisis of 2008, but with beginnings in the early 1980s, the theme of this course is the dynamic mechanisms that lead to crisis, systemic and otherwise. It will deal with historical and archaeological discussions of particular cases of breakdowns, collapses, and transformations. It also deals extensively with crisis misrecognition and its causes from moral dramas, witchcraft epidemics, intimate violence, overt conflict, ethnicity, etc. "
+    },
+    "ANSC 154": {
+        "prerequisites": [],
+        "name": "Gender and Religion",
+        "description": "What can we learn by looking at a society\u2019s ideas about marriage, intimate relationships, and family? Why do these \u201cprivate\u201d institutions draw so much public scrutiny and debate? How are they linked to concepts of national progress, individualism, religion, status, or morality? We will explore these questions in Western and non-Western contexts through such topics as polygamy, same-sex marriage, transnational marriage, and the global impact of Western ideas of love and companionate marriage. "
+    },
+    "ANSC 155": {
+        "prerequisites": [],
+        "name": "Humanitarian Aid: What Is It Good For?",
+        "description": "Course examines theories concerning the relation of nature and culture. Particular attention is paid to explanations of differing ways cultures conceptualize nature. Along with examples from non-Western societies, the course examines the Western environmental ideas embedded in contemporary environmentalism. "
+    },
+    "ANSC 156": {
+        "prerequisites": [],
+        "name": "Mad Films: Cultural Studies of Mental Illness in Cinema",
+        "description": "This course explores social and cultural processes that shape life in California. Topics include health, technologies, climate change, cultural geography, immigration, social relations, and cultural identity. Students use the research methods and perspectives of anthropology to develop their own projects under supervision. "
+    },
+    "ANSC 158": {
+        "prerequisites": [],
+        "name": "Comparative Anthropology of Crisis",
+        "description": "This course examines the use of language difference in negotiating identity in bilingual and bidialectal communities, and in structuring interethnic relations. It addresses social tensions around language variation and the social significance of language choices in several societies. "
+    },
+    "ANSC 159": {
+        "prerequisites": [],
+        "name": "The Anthropology of Marriage",
+        "description": "This course explores contemporary cultural life in South Asia by examining selected works of literature, film, and ethnography. "
+    },
+    "ANSC\n\t\t    160": {
+        "prerequisites": [],
+        "name": "Nature, Culture, and Environmentalism",
+        "description": "Explores films from China, India, Japan and other Asian countries. Popular, documentary, and ethnographic films are examined for what they reveal about family life, gender, politics, religion, social change and everyday experience in South Asia. "
+    },
+    "ANSC 161": {
+        "prerequisites": [],
+        "name": "California: Undergraduate Research Seminar",
+        "description": "This course explores experiences of the human life cycle\u2014birth, death, love, family relations, coming of age, suffering, the quest for identity, the need for meaning\u2014from diverse cultural perspectives. Examines anthropological thought concerning what it means to be human. "
+    },
+    "ANSC 162": {
+        "prerequisites": [],
+        "name": "Language, Identity, and Community",
+        "description": "Examines the role of culture in the way people perceive and interact with the natural environment. Combines reading of select anthropological studies with training in ethnographic research methods. Students develop a research project and analyze data. Limit: fifteen students. "
+    },
+    "ANSC 164": {
+        "prerequisites": [],
+        "name": "Introduction to Medical Anthropology ",
+        "description": "What is modernity? How does it shape human experience? Using selected works of art, film, literature, anthropology, philosophy and social theory, the course explores conceptions of self, identity, and culture that characterize modernity. "
+    },
+    "ANSC 165": {
+        "prerequisites": [],
+        "name": "Contemporary South Asia",
+        "description": "Examines methods for employing iconic recording techniques into ethnographic field research, with an emphasis on digital audio and video recording technologies and analysis. "
+    },
+    "ANSC 166": {
+        "prerequisites": [],
+        "name": "Film and Culture in Asia",
+        "description": "This practicum course will explore anthropology\u2019s traditional methodology, ethnography, through texts, films, and literature, and give students practical experience through a quarter-long case study. "
+    },
+    "ANSC 168": {
+        "prerequisites": [],
+        "name": "The Human Condition",
+        "description": "This course considers together the economic, political, social, and cultural dimensions of capitalist relations on the planet. Focuses on the current trajectory of capitalism, especially its changing margins and centers. Emphasizes new research on money, paid and unpaid work, and the material concerns of water, energy, food, and shelter. "
+    },
+    "ANSC 169": {
+        "prerequisites": [],
+        "name": "Culture and Environment: Research Seminar and Practicum",
+        "description": "Examines interdisciplinary field of Critical Military Studies (CMS),  led by sociocultural anthropologist research on aspects of militarism and on specific military forces in varied geographical and historical context. Focuses on changing strategies and doctrines into specific forms of military practice in regard to the way past conflicts inform current approaches and tactics. Also looks at field research conducted by social scientists on behalf of the US military, drawing on local experts in San Diego. "
+    },
+    "ANSC 170": {
+        "prerequisites": [],
+        "name": "Modernity and Human Experience",
+        "description": "Course aims to explore the ways in which historicity can be turned to a critical field of inquiry and reflection. Shows how the past isn\u2019t something that \u201chas happened,\u201d but that actively lingers\u00a0and invades the present, both inviting and constraining possible futures. Challenges the assumptions and practices of each modern discipline, affecting key concepts, methods, modes of analysis, and narrative forms that both anthropologists and historians have used. "
+    },
+    "ANSC 171": {
+        "prerequisites": [],
+        "name": "Multimodal Methods in Ethnography",
+        "description": "Students will learn firsthand a new transdisciplinary effort to understand the intersection of individual and society at all levels of analysis. This course introduces students to a remarkable convergence led by transdisciplinary scholars at UC San Diego (anthropology, cognitive science, psychology, history, philosophy, the arts, etc.), based on the recognition that individual neurological, cognitive, emotional, and behavioral capacities are reciprocally related to aggregate social, cultural, and historical processes. "
+    },
+    "ANSC 173": {
+        "prerequisites": [],
+        "name": "Ethnography in Practice",
+        "description": "This course introduces students to the field of economic anthropology and situates it within the historical development of the discipline since the late nineteenth century. In particular, the course focuses on the complexities of capitalism and its relations with what appear to be \u201cnoncapitalist\u201d contexts and ways of life. "
+    },
+    "ANSC 175": {
+        "prerequisites": [],
+        "name": "Money, Work, and Nature: The Anthropology of Capitalism",
+        "description": "Drawing insight from anti-colonial and queer of color critique, this course critically examines the demands capitalism makes on us to perform gender, and how that relates to processes of exploitation and racialization. We will explore alternatives and develop strategies for navigating jobs in this system. Students may receive credit for one of the following: CGS 120, CGS 180 and ANSC 180. CGS 120 is renumbered from CGS 180.  "
+    },
+    "ANSC 176": {
+        "prerequisites": [],
+        "name": "The Meaning of Political Violence ",
+        "description": "We humans are animals. How do our relations with other animals\u2014how we rely on them, how we struggle against them, how we live among them\u2014shape our own worlds? In this course, we examine, through ethnography and speculative fiction, the boundary between human and other animals. "
+    },
+    "ANSC 177": {
+        "prerequisites": [],
+        "name": "Step Into Anthrohistory: The Past and Its Hold on the Future",
+        "description": "In this seminar, we investigate gun violence from a critical perspective that draws on social and health sciences, films, media, and more. While we take the contemporary issue of gun violence in the United States as a primary case study, we employ a global and comparative perspective. We explore controversies to include cultural, gendered, ethnic, political, and economic analysis. We examine discourses on gun violence as rational/irrational, healthy/pathological, and individually or socially produced. "
+    },
+    "ANSC 178": {
+        "prerequisites": [],
+        "name": "Brain, Mind, Culture, and History",
+        "description": "Explores the role of film, photography, digital media, and visualization technologies in understanding human life. Students develop their own visualization projects. "
+    },
+    "ANSC 179": {
+        "prerequisites": [],
+        "name": "The New Economic Anthropology: Producing, Consuming, and Exchanging Stuff Worldwide",
+        "description": "This seminar addresses the production, consumption, and distribution of food, with particular emphasis on the culture of food. Food studies provide insight into a wide range of topics including class, poverty, hunger, ethnicity, nationalism, capitalism, gender, race, and sexuality. "
+    },
+    "ANSC 180": {
+        "prerequisites": [],
+        "name": "Capitalism and Gender",
+        "description": "(Cross-listed with AAS 185.) This seminar traces the historical roots and growth of the Black Lives Matter social movement in the United States and comparative global contexts. Occupy Wall Street, protests against the prison industrial complex, black feminist, and LGBTQ intersectionality are explored in the context of millennial and postmillennial youth as the founders of this movement. Students may not receive credit for ANSC 185 and AAS 185. "
+    },
+    "ANSC 181": {
+        "prerequisites": [],
+        "name": "Animal Affairs",
+        "description": "(Cross-listed with CGS 118.) This course investigates the ways in which forces of racism, gendered violence, and state control intersect in the penal system. The prison-industrial complex is analyzed as a site where certain types of gendered and racialized bodies are incapacitated, neglected, or made to die. Students may not receive credit for ANSC 186 and CGS 118. "
+    },
+    "ANSC 182": {
+        "prerequisites": [],
+        "name": "Gun Violence as Social Pathology",
+        "description": "Like other modern nation-states, mental health in Israel is constituted by therapeutic interventions that assume that psychiatry, psychotherapy, and social work are the \u201ctaken for granted\u201d ways to treat mental disorders. Drawing upon diverse ethnographies and using the tools of medical anthropology and psychological anthropology, we will examine the role and work of these experts and analyze how their expertise is contested by diverse groups. "
+    },
+    "ANSC 183": {
+        "prerequisites": [],
+        "name": "Visualizing the Human: Film, Photography, and Digital Technologies",
+        "description": "This course looks at how illness, health, and healing are understood and experienced in contexts where they are not defined merely as physiological problems, but are seen as having important spiritual, aesthetic, and sociopolitical dimensions. We will look at the role of traditional healers, such as shamans; how cultures vary in what they consider to be the forces that lead to illness; what forms illness takes; and how we evaluate the effectiveness of healing practices. "
+    },
+    "ANSC 184": {
+        "prerequisites": [],
+        "name": "Food, Culture, and Society",
+        "description": "Yoga practices have recently gained dizzying popularity in the U.S. But how has yoga changed and transformed over time? How might we contextualize yoga practices in India and globally? This course is divided into two parts. First, we will do a close reading of philosophical texts about yoga, such as The Yoga Sutras of Patanjali. Second, we will examine yoga practices, including processes of commodification and popularization of yoga in the West. "
+    },
+    "ANSC 185": {
+        "prerequisites": [
+            "ANTH 103",
+            "and"
+        ],
+        "name": "#BlackLivesMatter",
+        "description": "This course introduces students to the medical anthropology of South Asia. This course will be divided into two parts. First, we will analyze how religious, cultural, political, and economic structures impact health and well-being. Second, we will look at ethnomedicine, that is, how local systems of healing provide alternative ideas of illness and health. Program or materials fees may apply. "
+    },
+    "ANSC 186": {
+        "prerequisites": [],
+        "name": "Gender and Incarceration",
+        "description": "A recurrent theme in the study of subjectivity has been the subject\u2019s capacity to posit herself as such in language. This course explores both individual and collective subjectivity as emergent in a range of contextually grounded narrative practices: in news and novels, ritual verse and everyday chit-chat, songs, and cartoons. The course includes a workshop component where students will be encouraged to present material from their own research projects. "
+    },
+    "ANSC 187": {
+        "prerequisites": [
+            "ANTH 1",
+            "ANTH 21",
+            "ANTH 23",
+            "or",
+            "ANTH 103",
+            "and"
+        ],
+        "name": "Anthropology of Mental Health in Israel and the Diaspora",
+        "description": "Popular representations of South Asia abound in clich\u00e9s: poverty and luxury, cities and hamlets, ascetics and call centers. What do these clich\u00e9s do to our understanding of South Asia? How do we get beneath or beyond these representations? We will respond to these questions by exploring how people in South Asia live on a day-to-day basis, while also attending to how major historical events, such as colonialism and the Partition of India and Pakistan, shape contemporary life and politics. Program or materials fees may apply. "
+    },
+    "ANSC 188": {
+        "prerequisites": [],
+        "name": "Cultures of Healing",
+        "description": "Using a variety of sources, this course surveys the varied efforts by people acting in contexts worldwide to overcome capitalist relations and imperial systems and construct new ways of organizing life on the planet. "
+    },
+    "ANSC 190": {
+        "prerequisites": [],
+        "name": "Yoga Practices: From Banaras to Beverly Hills",
+        "description": "This course examines the way that the United States became a world power during the twentieth century and up to the present. It addresses the question of whether this nation-state can be understood as an imperial power in the same way as other colonial empires. The course focuses on the economic, political, sociocultural, and ecological dimensions of United States\u2019 world-power status. "
+    },
+    "ANSC 190GS": {
+        "prerequisites": [],
+        "name": "Medicine and Healing in South Asia",
+        "description": "Why are so many people poor? What does poverty mean for those who live it and for those who try to help them? This course examines the field of international development, to understand the discourses and practices that governments, aid agencies, and communities have tried. To what extent are these practices linked to colonial legacies, race, and class? Looking to new innovations in participatory and compassionate development, this will prepare students for critical engagement with development. Program or materials fees may apply. "
+    },
+    "ANSC 191": {
+        "prerequisites": [],
+        "name": "Narrative and Subjectivity",
+        "description": "This course explores the way that \u201ccapitalism,\u201d understood as a combined economic, political, and cultural system, shapes features of the world that typically have been understood as \u201cnatural.\u201d The course considers how these categorical distinctions affect our understandings of contemporary life and our chances to change it. "
+    },
+    "ANSC 191GS": {
+        "prerequisites": [],
+        "name": "Everyday Life in South Asia: Beyond the Clich\u00e9s",
+        "description": "In this course, we will examine the dominant human rights framework to think about one issue that has escaped its purview: environmental justice. If we all share a common planet, is there a universal right to a clean environment? Why are the effects of pollution and climate change unequally distributed among the world\u2019s peoples? Can human rights norms serve as effective tools to fight the unequal effects of climate change and contamination? Program or materials fees may apply. "
+    },
+    "ANSC 192": {
+        "prerequisites": [],
+        "name": "Liberation Bound: Struggles Against Capitalism and Imperialism Worldwide",
+        "description": "This course uses the study of language to unpack contemporary processes of human mobility across geopolitical borders. We will explore both the role of language in shaping movement and the politics of language that arise from and around these movements. Migrations to the United States will be a core theme, though we will also work to put them in comparative perspective. Ultimately, our aim will be to critically rethink all three of the title terms\u2014language, migration, and borders\u2014in tandem. "
+    },
+    "ANSC 192A": {
+        "prerequisites": [],
+        "name": "US Empire: What Is It?",
+        "description": "Every year thousands of scholars and students are imprisoned by oppressive regimes across the world. This course provides students with the opportunity to work as a team to provide advocacy for one such person. We will pick one person in prison and gather information about them and design a strategy to draw attention to their case, including contacting public officials and media. "
+    },
+    "ANSC 192GS": {
+        "prerequisites": [],
+        "name": "Rethinking Poverty and Development",
+        "description": "Course will vary in title and content. When offered, the current description and title is found in the current Schedule of Classes and the Anthropology department web site. (Can be taken a total of four times as topics vary.) "
+    },
+    "ANSC 193": {
+        "prerequisites": [],
+        "name": "Capitalism and Nature",
+        "description": "Course examines the birth of Olmec and Maya civilizations in the Formative period, the rise of city states during the Early Classic, the decline of the Classic Maya, and the resurgence of the Postclassic period. "
+    },
+    "ANSC 193GS": {
+        "prerequisites": [],
+        "name": "Human Rights and Environmental Justice",
+        "description": "This course, intended for first-year anthropology graduate students, examines the contemporary practice of anthropology. We discuss the construction of a multiple-year research project including how to differentiate theory and evidence, the contours of anthropological interest, the question of audience, and rhetorical style. We analyze nine recent ethnographies as possible models for our own practice. "
+    },
+    "ANSC 194": {
+        "prerequisites": [],
+        "name": "Language, Migration, Borders",
+        "description": "This course builds upon the question can authentic anthropology emerge from the critical intellectual traditions and counter-hegemonic struggles of Third World peoples? (Harrison 1991:1). We will analyze the rise of postcolonial and decolonial approaches across the four fields of the discipline over the past decade. In turn, we will analyze the ways a lack of attention to decolonial anthropology functions to reiterate hierarchies and oppressive systems of knowledge production. "
+    },
+    "ANSC 196": {
+        "prerequisites": [],
+        "name": "Human Rights Advocacy Seminar",
+        "description": "This graduate seminar examines how racial and ethnic categories are constructed, how contemporary societies manage difference through multicultural policies, and how discourses and institutions of citizenship can act as sites of contestation over inclusion and exclusion. "
+    }
+}

@@ -30,19 +30,19 @@
     "CSE 8A": {
         "prerequisites": [],
         "name": "Introduction to Computer Science: Java I",
-        "description": "Introductory course for students interested in computer science. Fundamental concepts of applied computer science using media computation. Exercises in the theory and practice of computer science. Hands-on experience with designing, editing, compiling, and executing programming constructs and applications. CSE 8A is part of a two-course sequence (CSE 8A and CSE 8B) that is equivalent to CSE 11. Students should take CSE 8B to complete this track. Formerly offered as corequisite courses CSE 8A plus 8AL. Students who have taken CSE 8B or CSE 11 may not take CSE 8A. Recommended preparation: No prior programming experience is assumed, but comfort using computers is helpful. Students should consult the \u201cCSE Course Placement Advice\u201d web page for assistance in choosing which CSE course to take first. "
+        "description": "Introductory course for students interested in computer science. Fundamental concepts of applied computer science using media computation. Exercises in the theory and practice of computer science. Hands-on experience with designing, editing, compiling, and executing programming constructs and applications. CSE 8A is part of a two-course sequence (CSE 8A and CSE 8B) that is equivalent to CSE 11. Students should take CSE 8B to complete this track. Formerly offered as corequisite courses CSE 8A plus 8AL. Students who have taken CSE 8B or CSE 11 may not take CSE 8A. Recommended preparation: No prior programming experience is assumed, but comfort using computers is helpful. Students should consult the \u201cCSE Course Placement Advice\u201d web page for assistance in choosing which CSE course to take first.  ** Exam placement options to enroll possible ** "
     },
     "CSE 8B": {
         "prerequisites": [
             "CSE 8A"
         ],
         "name": "Introduction to Computer Science: Java II",
-        "description": "Continuation of the Java language. Continuation of programming techniques. More on inheritance. Exception handling. CSE 8B is part of a two-course sequence (CSE 8A and CSE 8B) that is equivalent to CSE 11. Students should consult the \u201cCSE Course Placement Advice\u201d web page for assistance in choosing which CSE course to take first. Students may not receive credit for CSE 8B and CSE 11. "
+        "description": "Continuation of the Java language. Continuation of programming techniques. More on inheritance. Exception handling. CSE 8B is part of a two-course sequence (CSE 8A and CSE 8B) that is equivalent to CSE 11. Students should consult the \u201cCSE Course Placement Advice\u201d web page for assistance in choosing which CSE course to take first. Students may not receive credit for CSE 8B and CSE 11.  ** Exam placement options to enroll possible ** "
     },
     "CSE 11": {
         "prerequisites": [],
         "name": "Introduction to Computer Science and Object-Oriented Programming: Java",
-        "description": "An accelerated introduction to computer science and programming using the Java language. Basic UNIX. Modularity and abstraction. Documentation, testing and verification techniques. Basic object-oriented programming, including inheritance and dynamic binding. Exception handling. Event-driven programming. Experience with AWT library or another similar library. Students who have completed CSE 8B may not take CSE 11. Students should\u00a0consult the \u201cCSE Course Placement Advice\u201d web page for assistance in choosing which CSE course to take first. Recommended preparation: high school algebra and familiarity with computing concepts and a course in a compiled language. "
+        "description": "An accelerated introduction to computer science and programming using the Java language. Basic UNIX. Modularity and abstraction. Documentation, testing and verification techniques. Basic object-oriented programming, including inheritance and dynamic binding. Exception handling. Event-driven programming. Experience with AWT library or another similar library. Students who have completed CSE 8B may not take CSE 11. Students should\u00a0consult the \u201cCSE Course Placement Advice\u201d web page for assistance in choosing which CSE course to take first. Recommended preparation: high school algebra and familiarity with computing concepts and a course in a compiled language.  ** Exam placement options to enroll possible ** "
     },
     "CSE 12": {
         "prerequisites": [
@@ -98,7 +98,7 @@
     "CSE 42": {
         "prerequisites": [],
         "name": "Building and Programming Electronic Devices",
-        "description": "This course allows students to use what they learned in introductory programming courses to make things happen in the real world. Working in teams, students will first learn to program Arduino-based devices. Teams of students will design a custom device and program it to do their bidding. This course is targeted to freshmen and sophomores in engineering and science disciplines who want to practice applying what they have learned in a programming class and to have the chance to program things other than computers. Program or materials fees may apply. "
+        "description": "This course allows students to use what they learned in introductory programming courses to make things happen in the real world. Working in teams, students will first learn to program Arduino-based devices. Teams of students will design a custom device and program it to do their bidding. This course is targeted to freshmen and sophomores in engineering and science disciplines who want to practice applying what they have learned in a programming class and to have the chance to program things other than computers. Program or materials fees may apply.  ** Department approval required ** "
     },
     "CSE 80": {
         "prerequisites": [
@@ -114,7 +114,7 @@
             "CSE 12"
         ],
         "name": "C++ for Java Programmers",
-        "description": "Helps the Java programmer to be productive in the C++ programming environment. Topics include the similarities and differences between Java and C++ with special attention to pointers, operator overloading, templates, the STL, the preprocessor, and the C++ Runtime Environment. "
+        "description": "Helps the Java programmer to be productive in the C++ programming environment. Topics include the similarities and differences between Java and C++ with special attention to pointers, operator overloading, templates, the STL, the preprocessor, and the C++ Runtime Environment.  ** Consent of instructor to enroll possible  **"
     },
     "CSE 87": {
         "prerequisites": [],
@@ -134,7 +134,7 @@
     "CSE 99": {
         "prerequisites": [],
         "name": "Independent\n\t\t  Study in Computer Science and Engineering",
-        "description": "Independent reading or research by special arrangement with a faculty member. "
+        "description": "Independent reading or research by special arrangement with a faculty member.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "CSE 100": {
         "prerequisites": [
@@ -243,7 +243,7 @@
             "CSE 100"
         ],
         "name": "Software\n\t\t\t\t  Engineering",
-        "description": "Introduction to software development and engineering methods,\n                  including specification, design, implementation, testing, and\n                  process. An emphasis on team development, agile methods, and\n                  use of tools such as IDE\u2019s, version control, and test harnesses.                  "
+        "description": "Introduction to software development and engineering methods,\n                  including specification, design, implementation, testing, and\n                  process. An emphasis on team development, agile methods, and\n                  use of tools such as IDE\u2019s, version control, and test harnesses.                   ** Upper-division standing required ** "
     },
     "CSE 112": {
         "prerequisites": [
@@ -274,7 +274,7 @@
             "ECE 192"
         ],
         "name": "Ubiquitous Computing",
-        "description": "Explores emerging opportunities enabled by cheap sensors and networked computing devices. Small research projects will be conducted in teams, culminating in project presentations at the end of the term. Section will cover material relevant to the project, such as research methods, software engineering, teamwork, and project management. "
+        "description": "Explores emerging opportunities enabled by cheap sensors and networked computing devices. Small research projects will be conducted in teams, culminating in project presentations at the end of the term. Section will cover material relevant to the project, such as research methods, software engineering, teamwork, and project management.  ** Consent of instructor to enroll possible  **"
     },
     "CSE 120": {
         "prerequisites": [
@@ -296,7 +296,7 @@
             "CSE 110"
         ],
         "name": "Computer Networks",
-        "description": "Introduction to concepts, principles, and practice of computer communication networks with examples from existing architectures, protocols, and standards with special emphasis on the internet protocols. Layering and the OSI model; physical and data link layers; local and wide area networks; datagrams and virtual circuits; routing and congestion control; internetworking. Transport protocols. Credit may not be received for both CSE 123 and ECE 158A. "
+        "description": "Introduction to concepts, principles, and practice of computer communication networks with examples from existing architectures, protocols, and standards with special emphasis on the internet protocols. Layering and the OSI model; physical and data link layers; local and wide area networks; datagrams and virtual circuits; routing and congestion control; internetworking. Transport protocols. Credit may not be received for both CSE 123 and ECE 158A.  ** Upper-division standing required ** "
     },
     "CSE 124": {
         "prerequisites": [
@@ -307,12 +307,12 @@
             "CSE 110"
         ],
         "name": "Networked Services",
-        "description": "(Renumbered from CSE 123B.) The architecture of modern networked services, including data center design, enterprise storage, fault tolerance, and load balancing. Protocol software structuring, the Transmission Control Protocol (TCP), remote procedure calls, protocols for digital audio and video communication, overlay and peer-to-peer systems, secure communication. Credit may not be received for both CSE 124 and ECE 158B. Students may not receive credit for both CSE 123B and CSE 124. "
+        "description": "(Renumbered from CSE 123B.) The architecture of modern networked services, including data center design, enterprise storage, fault tolerance, and load balancing. Protocol software structuring, the Transmission Control Protocol (TCP), remote procedure calls, protocols for digital audio and video communication, overlay and peer-to-peer systems, secure communication. Credit may not be received for both CSE 124 and ECE 158B. Students may not receive credit for both CSE 123B and CSE 124.  ** Upper-division standing required ** "
     },
     "CSE 125": {
         "prerequisites": [],
         "name": "Software\n\t\t  System Design and Implementation",
-        "description": "Design and implementation of large, complex software systems involving multiple aspects of CSE curriculum. Emphasis is on software system design applied to a single, large group project with close interaction with instructor. "
+        "description": "Design and implementation of large, complex software systems involving multiple aspects of CSE curriculum. Emphasis is on software system design applied to a single, large group project with close interaction with instructor.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "CSE 127": {
         "prerequisites": [
@@ -326,7 +326,7 @@
             "CSE 124"
         ],
         "name": "Introduction to Computer Security",
-        "description": "Topics include basic cryptography, security/threat analysis, access control, auditing, security models, distributed systems security, and theory behind common attack and defense techniques. The class will go over formal models as well as the bits and bytes of security exploits. "
+        "description": "Topics include basic cryptography, security/threat analysis, access control, auditing, security models, distributed systems security, and theory behind common attack and defense techniques. The class will go over formal models as well as the bits and bytes of security exploits.  ** Upper-division standing required ** "
     },
     "CSE 130": {
         "prerequisites": [
@@ -357,7 +357,7 @@
             "CSE 100"
         ],
         "name": "Database System Principles",
-        "description": "Basic concepts of databases, including data modeling, relational databases, query languages, optimization, dependencies, schema design, and concurrency control. Exposure to one or several commercial database systems. Advanced topics such as deductive and object-oriented databases, time allowing. "
+        "description": "Basic concepts of databases, including data modeling, relational databases, query languages, optimization, dependencies, schema design, and concurrency control. Exposure to one or several commercial database systems. Advanced topics such as deductive and object-oriented databases, time allowing.  ** Upper-division standing required ** "
     },
     "CSE 132B": {
         "prerequisites": [
@@ -380,7 +380,7 @@
             "MATH 176"
         ],
         "name": "Online Database Analytics Applications ",
-        "description": "Database, data warehouse, and data cube design; SQL programming and querying with emphasis on analytics; online analytics applications, visualizations, and data exploration; performance tuning. "
+        "description": "Database, data warehouse, and data cube design; SQL programming and querying with emphasis on analytics; online analytics applications, visualizations, and data exploration; performance tuning.  ** Upper-division standing required ** "
     },
     "CSE 136": {
         "prerequisites": [
@@ -447,7 +447,7 @@
     "CSE 145": {
         "prerequisites": [],
         "name": "Embedded System Design Project",
-        "description": "Project class building an embedded computing system. Learn fundamental knowledge of microcontrollers, sensors, and actuators. Introduction to the hardware and software tools to build project in a team environment and end-to-end system building. "
+        "description": "Project class building an embedded computing system. Learn fundamental knowledge of microcontrollers, sensors, and actuators. Introduction to the hardware and software tools to build project in a team environment and end-to-end system building.  ** Department approval required ** "
     },
     "CSE 148": {
         "prerequisites": [
@@ -535,7 +535,7 @@
             "MATH 183"
         ],
         "name": "Deep Learning",
-        "description": "(Formerly CSE 154.) This course covers the fundamentals of neural networks. We introduce linear regression, logistic regression, perceptrons, multilayer networks and back-propagation, convolutional neural networks, recurrent networks, and deep networks trained by reinforcement learning. Students may receive credit for one of the following: CSE 151B, CSE 154, or COGS 181. "
+        "description": "(Formerly CSE 154.) This course covers the fundamentals of neural networks. We introduce linear regression, logistic regression, perceptrons, multilayer networks and back-propagation, convolutional neural networks, recurrent networks, and deep networks trained by reinforcement learning. Students may receive credit for one of the following: CSE 151B, CSE 154, or COGS 181.  ** Upper-division standing required ** "
     },
     "CSE 152": {
         "prerequisites": [
@@ -558,7 +558,7 @@
             "MATH 188"
         ],
         "name": "Introduction to Computer Vision",
-        "description": "The goal of computer vision is to compute scene and object properties from images and video. This introductory course includes feature detection, image segmentation, motion estimation, object recognition, and 3-D shape reconstruction through stereo, photometric stereo, and structure from motion. "
+        "description": "The goal of computer vision is to compute scene and object properties from images and video. This introductory course includes feature detection, image segmentation, motion estimation, object recognition, and 3-D shape reconstruction through stereo, photometric stereo, and structure from motion.  ** Upper-division standing required ** "
     },
     "CSE 152A": {
         "prerequisites": [
@@ -599,7 +599,7 @@
             "CSE 151"
         ],
         "name": "Statistical Natural Language Processing",
-        "description": "Natural language processing (NLP) is a field of AI which aims to equip computers with the ability to intelligently process natural (human) language. This course will explore statistical techniques for the automatic analysis of natural language data. Specific topics covered include probabilistic language models, which define probability distributions over text passages; text classification; sequence models; parsing sentences into syntactic representations; and machine translation. "
+        "description": "Natural language processing (NLP) is a field of AI which aims to equip computers with the ability to intelligently process natural (human) language. This course will explore statistical techniques for the automatic analysis of natural language data. Specific topics covered include probabilistic language models, which define probability distributions over text passages; text classification; sequence models; parsing sentences into syntactic representations; and machine translation.  ** Upper-division standing required ** "
     },
     "CSE 158": {
         "prerequisites": [
@@ -718,15 +718,21 @@
     "CSE 176E": {
         "prerequisites": [],
         "name": "Robot Systems Design and Implementation",
-        "description": "End-to-end system design of embedded electronic systems including PCB design and fabrication, software control system development, and system integration. Program or material fee may apply. May be coscheduled with CSE 276E. "
+        "description": "End-to-end system design of embedded electronic systems including PCB design and fabrication, software control system development, and system integration. Program or material fee may apply. May be coscheduled with CSE 276E.  ** Department approval required ** "
     },
     "CSE 180": {
-        "prerequisites": [],
+        "prerequisites": [
+            "BILD 1"
+        ],
         "name": "Biology Meets Computing",
         "description": "Topics include an overview of various aspects of bioinformatics and will simultaneously introduce students to programming in Python. The assessments in the course represent various programming challenges and include solving diverse biological problems using popular bioinformatics tools. Students may not receive credit for CSE 180 and CSE 180R. "
     },
     "CSE 180R": {
         "prerequisites": [
+            "BILD 1",
+            "or",
+            "BILD 4",
+            "or",
             "CSE 3",
             "or",
             "CSE 7",
@@ -762,10 +768,15 @@
     },
     "CSE 184": {
         "prerequisites": [
+            "BIMM 181",
+            "or",
             "BENG 181",
             "or",
             "CSE 181",
             "BENG 182",
+            "or",
+            "BIMM 182",
+            "or",
             "CSE 182",
             "or",
             "CHEM 182"
@@ -785,7 +796,14 @@
             "or",
             "MATH 31BH",
             "and",
+            "BILD 1",
             "and",
+            "BIEB 123",
+            "or",
+            "BILD 4",
+            "or",
+            "BIMM 101",
+            "or",
             "CHEM 109"
         ],
         "name": "Advanced Bioinformatics Laboratory",
@@ -794,48 +812,48 @@
     "CSE 190": {
         "prerequisites": [],
         "name": "Topics\n\t\t  in Computer Science and Engineering",
-        "description": "Topics of special interest in computer science and engineering. Topics may vary from quarter to quarter. May be repeated for credit with the consent of instructor. "
+        "description": "Topics of special interest in computer science and engineering. Topics may vary from quarter to quarter. May be repeated for credit with the consent of instructor.  ** Consent of instructor to enroll possible  **"
     },
     "CSE 191": {
         "prerequisites": [],
         "name": "Seminar in CSE",
-        "description": "A seminar course on topics of current interest. Students, as well as, the instructor will be actively involved in running the course/class. This course cannot be counted toward a technical elective. "
+        "description": "A seminar course on topics of current interest. Students, as well as, the instructor will be actively involved in running the course/class. This course cannot be counted toward a technical elective.  ** Consent of instructor to enroll possible  **"
     },
     "CSE 192": {
         "prerequisites": [],
         "name": "Senior Seminar in Computer Science and Engineering",
-        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in CSE (at the upper-division level). Topics will vary from quarter to quarter. Senior seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. (P/NP grades only.) "
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in CSE (at the upper-division level). Topics will vary from quarter to quarter. Senior seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "CSE 193": {
         "prerequisites": [],
         "name": "Introduction to Computer Science Research",
-        "description": "Introduction to research in computer science. Topics include defining a CS research problem, finding and reading technical papers, oral communication, technical writing, and independent learning. Course participants apprentice with a CSE research group and propose an original research project. "
+        "description": "Introduction to research in computer science. Topics include defining a CS research problem, finding and reading technical papers, oral communication, technical writing, and independent learning. Course participants apprentice with a CSE research group and propose an original research project.  ** Consent of instructor to enroll possible  **"
     },
     "CSE 195": {
         "prerequisites": [],
         "name": "Teaching",
-        "description": "Teaching and tutorial assistance in a CSE course under the supervision of the instructor. (P/NP grades only.) "
+        "description": "Teaching and tutorial assistance in a CSE course under the supervision of the instructor. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "CSE 197": {
         "prerequisites": [],
         "name": "Field\n\t\t  Study in Computer Science and Engineering",
-        "description": "Directed study and research at laboratories away from the campus. (P/NP grades only.) "
+        "description": "Directed study and research at laboratories away from the campus. (P/NP grades only.)  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "CSE 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Computer science and engineering topics whose study involves reading and discussion by a small group of students under the supervision of a faculty member. (P/NP grades only.) "
+        "description": "Computer science and engineering topics whose study involves reading and discussion by a small group of students under the supervision of a faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "CSE 199": {
         "prerequisites": [],
         "name": "Independent Study for Undergraduates",
-        "description": "Independent reading or research by special arrangement with a faculty member. (P/NP grades only.) "
+        "description": "Independent reading or research by special arrangement with a faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "CSE 199H": {
         "prerequisites": [
             "CSE department"
         ],
         "name": "CSE Honors Thesis Research for Undergraduates",
-        "description": "Undergraduate research for completing an honors project under the supervision of a CSE faculty member. May be taken across multiple quarters. Students should enroll for a letter grade. May be taken for credit three times. "
+        "description": "Undergraduate research for completing an honors project under the supervision of a CSE faculty member. May be taken across multiple quarters. Students should enroll for a letter grade. May be taken for credit three times.  ** Consent of instructor to enroll possible  **"
     }
 }

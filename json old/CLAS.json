@@ -1,0 +1,47 @@
+{
+    "CLAS 196": {
+        "prerequisites": [],
+        "name": "Directed Honors Thesis in Classical Studies",
+        "description": "BA honors thesis research under the direction of a member of a classical studies program faculty. "
+    },
+    "HUM 1": {
+        "prerequisites": [],
+        "name": "The Foundations of Western Civilization:\n\t    Israel and Greece",
+        "description": "Previously LGTN 100, LTEU 100 (May be repeated as topics vary.) "
+    },
+    "HUM 2": {
+        "prerequisites": [],
+        "name": "Rome, Christianity, and the Middle Ages",
+        "description": ""
+    },
+    "HUM 3": {
+        "prerequisites": [],
+        "name": "Renaissance, Reformation, and Early\n\t\t\t\t  Modern Europe",
+        "description": "Covers various technical skills essential for research and pedagogy in classics, including use of digital resources (e.g., bibliographical databases). Provides an introduction to important disciplinary subfields, such as textual criticism and epigraphy. Selection of topics will be at instructor\u2019s discretion. "
+    },
+    "HIEU 101": {
+        "prerequisites": [],
+        "name": "Greece in the Classical Age",
+        "description": "Concurrent enrollment with advanced undergraduate courses (either Greek 105 or Latin 105) with enhanced readings and separate examinations. May be repeated for credit as topics vary. "
+    },
+    "HIEU 101A": {
+        "prerequisites": [],
+        "name": "Ancient Greek Civilization",
+        "description": "Supervised independent research. Subject varies. "
+    },
+    "HIEU 102": {
+        "prerequisites": [],
+        "name": "Roman History",
+        "description": "F,W,S. "
+    },
+    "HIEU 103": {
+        "prerequisites": [],
+        "name": "Decline and Fall/Roman Empire",
+        "description": "F,W,S. May be repeated for credit. Satisfactory/Unsatisfactory\n\t\t\t\t  only. "
+    },
+    "HIEU 105": {
+        "prerequisites": [],
+        "name": "The Early Christian Church",
+        "description": "F,W,S. Required of and limited to teaching\n\t\t  assistants. "
+    }
+}

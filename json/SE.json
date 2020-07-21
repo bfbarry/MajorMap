@@ -51,7 +51,7 @@
     "SE 99H": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Independent study or research under direction of a faculty member. "
+        "description": "Independent study or research under direction of a faculty member.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SE 101A": {
         "prerequisites": [],
@@ -134,7 +134,7 @@
             "MATH 20D"
         ],
         "name": "Fluid Mechanics for Structural Engineering",
-        "description": "Fluid statics, hydrostatic forces; integral and differential forms of conservation equations for mass, momentum, and energy; Bernoulli equation; dimensional analysis; viscous pipe flow; external flow, boundary layers; open channel flow. "
+        "description": "Fluid statics, hydrostatic forces; integral and differential forms of conservation equations for mass, momentum, and energy; Bernoulli equation; dimensional analysis; viscous pipe flow; external flow, boundary layers; open channel flow.  ** Consent of instructor to enroll possible  **"
     },
     "SE 120": {
         "prerequisites": [
@@ -199,7 +199,7 @@
             "and"
         ],
         "name": "Structures and Materials Laboratory",
-        "description": "Introduction to concepts, procedures, and key issues of engineering design. Problem formulation, concept design, configuration design, parametric design, and documentation. Project management, team working, ethics, and human factors. Term project in model structure design. Program or materials fees may apply. "
+        "description": "Introduction to concepts, procedures, and key issues of engineering design. Problem formulation, concept design, configuration design, parametric design, and documentation. Project management, team working, ethics, and human factors. Term project in model structure design. Program or materials fees may apply.  ** Upper-division standing required ** "
     },
     "SE 140A": {
         "prerequisites": [
@@ -320,7 +320,7 @@
             "SE 110B"
         ],
         "name": "Nondestructive Evaluation",
-        "description": "Fourier signal processing, liquid penetrant, elastic wave propagation, ultrasonic testing, impact-echo, acoustic emission testing, vibrational testing, infrared thermography. May be coscheduled with SE 263. "
+        "description": "Fourier signal processing, liquid penetrant, elastic wave propagation, ultrasonic testing, impact-echo, acoustic emission testing, vibrational testing, infrared thermography. May be coscheduled with SE 263.  ** Consent of instructor to enroll possible  **"
     },
     "SE 164": {
         "prerequisites": [
@@ -354,7 +354,7 @@
             "SE 160A"
         ],
         "name": "Aerospace Structures Repair",
-        "description": "Review methods used to repair aerospace structures. Emphasis on primary load-bearing airframe structures and analysis/design of substantiate repairs. Identification of structural/corrosion distress, fatigue cracking, damage tolerance, integrity and durability of built-up members, patching, health monitoring. Use of computer resources. "
+        "description": "Review methods used to repair aerospace structures. Emphasis on primary load-bearing airframe structures and analysis/design of substantiate repairs. Identification of structural/corrosion distress, fatigue cracking, damage tolerance, integrity and durability of built-up members, patching, health monitoring. Use of computer resources.  ** Consent of instructor to enroll possible  **"
     },
     "SE 180": {
         "prerequisites": [
@@ -393,26 +393,26 @@
             "SE major"
         ],
         "name": "Senior Seminar",
-        "description": "The Senior Seminar is designed to allow senior undergraduates to meet with faculty members to explore an intellectual topic in structural engineering. Topics will vary from quarter to quarter. Enrollment is limited to twenty students with preference given to seniors. "
+        "description": "The Senior Seminar is designed to allow senior undergraduates to meet with faculty members to explore an intellectual topic in structural engineering. Topics will vary from quarter to quarter. Enrollment is limited to twenty students with preference given to seniors.  ** Consent of instructor to enroll possible  **"
     },
     "SE 195": {
         "prerequisites": [],
         "name": "Teaching",
-        "description": "Teaching and tutorial assistance in a SE course under supervision of instructor. Not more than four units may be used to satisfy graduation requirements. (P/NP grades only.) "
+        "description": "Teaching and tutorial assistance in a SE course under supervision of instructor. Not more than four units may be used to satisfy graduation requirements. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "SE 197": {
         "prerequisites": [],
         "name": "Engineering Internship",
-        "description": "An enrichment program, available to a limited number of undergraduate students, which provides work experience with industry, government offices, etc., under the supervision of a faculty member and industrial supervisor. Coordination of the Engineering Internship is conducted through UC San Diego\u2019s Academic Internship Program. "
+        "description": "An enrichment program, available to a limited number of undergraduate students, which provides work experience with industry, government offices, etc., under the supervision of a faculty member and industrial supervisor. Coordination of the Engineering Internship is conducted through UC San Diego\u2019s Academic Internship Program.  ** Consent of instructor to enroll possible  **"
     },
     "SE 198": {
         "prerequisites": [],
         "name": "Directed Study Group",
-        "description": "Directed group study, on a topic or in a field not included in the regular department curriculum, by special arrangement with a faculty member. (P/NP grades only.) "
+        "description": "Directed group study, on a topic or in a field not included in the regular department curriculum, by special arrangement with a faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "SE 199": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Independent reading or research on a problem by special arrangement with a faculty member. (P/NP grades only.) "
+        "description": "Independent reading or research on a problem by special arrangement with a faculty member. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     }
 }

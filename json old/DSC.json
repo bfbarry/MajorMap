@@ -1,0 +1,210 @@
+{
+    "DSC 10": {
+        "prerequisites": [],
+        "name": "Principles of Data Science",
+        "description": "This introductory course develops computational thinking and tools necessary to answer questions that arise from large-scale datasets. This course emphasizes an end-to-end approach to data science, introducing programming techniques in Python that cover data processing, modeling, and analysis. "
+    },
+    "DSC 20": {
+        "prerequisites": [
+            "DSC 10"
+        ],
+        "name": "Programming and Basic Data Structures for Data Science",
+        "description": "Provides an understanding of the structures that underlie the programs, algorithms, and languages used in data science by expanding the repertoire of computational concepts introduced in DSC 10 and exposing students to techniques of abstraction. Course will be taught in Python and will cover topics including recursion, higher-order functions, function composition, object-oriented programming, interpreters, classes, and simple data structures such as arrays, lists, and linked lists. "
+    },
+    "DSC 30": {
+        "prerequisites": [
+            "DSC 20"
+        ],
+        "name": "Data Structures and Algorithms for Data Science",
+        "description": "Builds on topics covered in DSC 20 and provides practical experience in composing larger computational systems through several significant programming projects using Java. Students will study advanced programming techniques including encapsulation, abstract data types, interfaces, algorithms and complexity, and data structures such as stacks, queues, priority queues, heaps, linked lists, binary trees, binary search trees, and hash tables. "
+    },
+    "DSC 40A": {
+        "prerequisites": [
+            "DSC 10",
+            "MATH 20C",
+            "or",
+            "MATH 31BH",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 20F",
+            "or",
+            "MATH 31AH"
+        ],
+        "name": "Theoretical Foundations of Data Science I",
+        "description": "This course, the first of a two-course sequence (DSC 40A-B), will introduce the theoretical foundations of data science. Students will become familiar with mathematical language for expressing data analysis problems and solution strategies, and will receive training in probabilistic reasoning, mathematical modeling of data, and algorithmic problem solving. DSC 40A will introduce fundamental topics in machine learning, statistics, and linear algebra with applications to data analysis. DSC 40A-B connect to DSC 10, 20, and 30 by providing the theoretical foundation for the methods that underlie data science. "
+    },
+    "DSC 40B": {
+        "prerequisites": [
+            "DSC 40A"
+        ],
+        "name": "Theoretical Foundations of Data Science II",
+        "description": "This course will introduce the theoretical foundations of data science. Students will become familiar with mathematical language for expressing data analysis problems and solution strategies, and will receive training in probabilistic reasoning, mathematical modeling of data, and algorithmic problem-solving. DSC 40B introduces fundamental topics in combinatorics, graph theory, probability, and continuous and discrete algorithms with applications to data analysis. DSC 40A-B connect to DSC 10, 20, and 30 by providing the theoretical foundation for the methods that underlie data science. "
+    },
+    "DSC 80": {
+        "prerequisites": [
+            "DSC 30",
+            "and",
+            "DSC 40A"
+        ],
+        "name": "The Practice and Application of Data Science",
+        "description": "The marriage of data, computation, and inferential thinking, or \u201cdata science,\u201d is redefining how people and organizations solve challenging problems and understand the world. This course bridges lower- and upper-division data science courses as well as methods courses in other fields. Students master the data science life-cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems. "
+    },
+    "DSC 90": {
+        "prerequisites": [],
+        "name": "Seminar in Data Science",
+        "description": "Students will learn about a variety of topics in data science through interactive presentations from faculty and industry professionals. "
+    },
+    "DSC 95": {
+        "prerequisites": [],
+        "name": "Tutor Apprenticeship in Data Science",
+        "description": "Students will receive training in skills and techniques necessary to be effective tutors for data science courses. Students will also gain practical experience in tutoring students on data science topics. "
+    },
+    "DSC 96": {
+        "prerequisites": [],
+        "name": "Workshop in Data Science",
+        "description": "Students will explore topics and tools relevant to the practice of data science in a workshop format. The instructor works with students on guided projects to help students acquire knowledge and skills to complement their course work in the core data science classes. Topics vary from quarter to quarter. Students are strongly recommended to enroll in either DSC 10 or DSC 20 concurrently. "
+    },
+    "DSC 97": {
+        "prerequisites": [
+            "MATH 31BH",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 31AH",
+            "and",
+            "DSC 20",
+            "and",
+            "DSC 40A"
+        ],
+        "name": "Internship in Data Science",
+        "description": "Individual research on a topic related to data science, by special arrangement with and under the direction of a UC San Diego faculty member, in connection with an internship at an organization. Internship work will inform but not necessarily define the research topic. The research topic is expected to promote the study of the principles and techniques involved in the internship work. May be taken for credit up to two times. "
+    },
+    "DSC 98": {
+        "prerequisites": [
+            "MATH 31BH",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 31AH",
+            "and",
+            "DSC 20",
+            "and",
+            "DSC 40A"
+        ],
+        "name": "Directed Group Study in Data Science",
+        "description": "Students will investigate a topic in data science through directed reading, discussion, and project work under the supervision of a faculty member. May be taken for credit up to two times. "
+    },
+    "DSC 99": {
+        "prerequisites": [
+            "MATH 31BH",
+            "and",
+            "MATH 18",
+            "or",
+            "MATH 31AH",
+            "and",
+            "DSC 20",
+            "and",
+            "DSC 40A"
+        ],
+        "name": "Independent Study in Data Science",
+        "description": "Students will participate in independent study or research in data science under the direction of a UC San Diego faculty member. May be taken for credit up to two times. "
+    },
+    "DSC 100": {
+        "prerequisites": [
+            "DSC 80",
+            "and",
+            "DSC 40B"
+        ],
+        "name": "Introduction to Data Management",
+        "description": "This course is an introduction to storage and management of large-scale data using classical relational (SQL) systems, with an eye toward applications in data science. The course covers topics including the SQL data model and query language, relational data modeling and schema design, elements of cost-based query optimizations, relational data base architecture, and database-backed applications. "
+    },
+    "DSC 102": {
+        "prerequisites": [
+            "DSC 100"
+        ],
+        "name": "Systems for Scalable Analytics",
+        "description": "This course introduces the principles of computing systems and infrastructure for scaling analytics to large datasets. Topics include memory hierarchy, distributed systems, model selection, heterogeneous datasets, and deployment at scale. The course will also discuss the design of systems such as MapReduce/Hadoop and Spark, in conjunction with their implementation. Students will also learn how dataflow operations can be used to perform data preparation, cleaning, and feature engineering. "
+    },
+    "DSC 104": {
+        "prerequisites": [
+            "DSC 102"
+        ],
+        "name": "Beyond Relational Data Management",
+        "description": "The course will introduce a variety of No-SQL data formats, data models, high-level query languages, and programming abstractions representative of the needs of modern data analytic tasks. Topics include hierarchical graph database systems, unrestricted graph database systems, array databases, comparison of expressive power of the data models, and parallel programming abstractions, including Map/Reduce and its descendants. "
+    },
+    "DSC 106": {
+        "prerequisites": [
+            "DSC 80"
+        ],
+        "name": "Introduction to Data Visualization",
+        "description": "Data visualization helps explore and interpret data through interaction. This course introduces the principles, techniques, and algorithms for creating effective visualizations. The course draws on the knowledge from several disciplines including computer graphics, human-computer interaction, cognitive psychology, design, and statistical graphics and synthesizes relevant ideas. Students will design visualization systems using D3 or other web-based software and evaluate their effectiveness. It is highly recommended that students take MATH 189 prior to taking DSC 106. "
+    },
+    "DSC 120": {
+        "prerequisites": [
+            "MATH 18",
+            "or",
+            "MATH 31AH",
+            "and",
+            "MATH 20C",
+            "and",
+            "DSC 40B"
+        ],
+        "name": "Signal Processing for Data Analysis",
+        "description": "This course will focus on ideas from classical and modern signal processing, with the main themes of sampling continuous data and building informative representations using orthonormal bases, frames, and data dependent operators. Topics include sampling theory, Fourier analysis, lossy transformations and compression, time and spatial filters, and random Fourier features and connections to kernel methods. Sources of data include time series and streaming signals and various imaging modalities. "
+    },
+    "DSC 170": {
+        "prerequisites": [
+            "DSC 80"
+        ],
+        "name": "Spatial Data Science and Applications",
+        "description": "Spatial data science is a set of concepts and methods that deal with accessing, managing, visualizing, analyzing, and reasoning about spatial data in applications where location, shape and size of objects, and their mutual arrangement are important. This upper-division course explores advanced data science concepts for spatial data, introducing students to principles and techniques of spatial data analysis, including geographic information systems, spatial big data management, and geostatistics. "
+    },
+    "DSC 180A": {
+        "prerequisites": [
+            "DSC 102",
+            "and",
+            "MATH 189",
+            "and",
+            "CSE 151",
+            "or",
+            "CSE 158"
+        ],
+        "name": "Data Science Project I",
+        "description": "In this two-course sequence students will investigate a topic and design a system to produce statistically informed output. The investigation will span the entire lifecycle, including assessing the problem, learning domain knowledge, collecting/cleaning data, creating a model, addressing ethical issues, designing the system, analyzing the output, and presenting the results. 180A deals with research, methodology, and system design. Students will produce a research summary and a project proposal. "
+    },
+    "DSC 180B": {
+        "prerequisites": [
+            "DSC 106",
+            "and",
+            "DSC 180A"
+        ],
+        "name": "Data Science Project II",
+        "description": "In this two-course sequence students will investigate a topic and design a system to produce statistically informed output. The investigation will span the entire lifecycle, including assessing the problem, learning domain knowledge, collecting/cleaning data, creating a model, addressing ethical issues, designing the system, analyzing the output, and presenting the results. 180B will consist of implementing the project while studying the best practices for evaluation. "
+    },
+    "DSC 190": {
+        "prerequisites": [],
+        "name": "Topics in Data Science",
+        "description": "Topics of special interest in data science. Topics vary from quarter to quarter. May be taken for credit up to two times. "
+    },
+    "DSC 191": {
+        "prerequisites": [],
+        "name": "Seminar in Data Science",
+        "description": "A seminar course on topics of current interest in data science. Topics may vary from quarter to quarter. May be taken for credit three times. "
+    },
+    "DSC 197": {
+        "prerequisites": [],
+        "name": "Data Science Internship",
+        "description": "Directed study and research at laboratories/institutions outside of campus. "
+    },
+    "DSC 198": {
+        "prerequisites": [],
+        "name": "Directed Group Study in Data Science",
+        "description": "Data science topics whose study involves reading and discussion by a small group of students under supervision of a faculty member. May be taken for credit up to two times. "
+    },
+    "DSC 199": {
+        "prerequisites": [],
+        "name": "Independent Study for Data Science Undergraduates",
+        "description": "Independent reading or research on a topic related to data science by special arrangement with a faculty member. May be taken for credit up to two times. "
+    }
+}

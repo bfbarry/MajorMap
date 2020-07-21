@@ -52,12 +52,12 @@
     "SOCI 98": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Small group study and research under the direction of an interested faculty member in an area not covered in regular sociology courses. (P/NP grades only.) "
+        "description": "Small group study and research under the direction of an interested faculty member in an area not covered in regular sociology courses. (P/NP grades only.)  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "SOCI 99": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "Individual study and research under the direction of an interested faculty member. P/NP grades only. "
+        "description": "Individual study and research under the direction of an interested faculty member. P/NP grades only.  ** Consent of instructor to enroll possible  ** ** Department approval required ** "
     },
     "SOCI 100": {
         "prerequisites": [],
@@ -87,7 +87,7 @@
     "SOCI 105": {
         "prerequisites": [],
         "name": "Ethnographic Film: Media Methods",
-        "description": "(Conjoined with SOCG 227.) Ethnographic recording of field data in written and audiovisual formats including film, video, and CD-ROM applications. Critical assessment of ethnographies and audiovisual ethnographic videotape. "
+        "description": "(Conjoined with SOCG 227.) Ethnographic recording of field data in written and audiovisual formats including film, video, and CD-ROM applications. Critical assessment of ethnographies and audiovisual ethnographic videotape.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SOCI 106": {
         "prerequisites": [],
@@ -97,7 +97,7 @@
     "SOCI 106M": {
         "prerequisites": [],
         "name": "Holocaust Diaries",
-        "description": "Methods for interpreting diaries, letters, and testaments written by victims and perpetrators of the Holocaust. Students use these sources for original research about life in hiding, ghettos, and death camps. Includes techniques for making comparisons and for generalizing from evidence. "
+        "description": "Methods for interpreting diaries, letters, and testaments written by victims and perpetrators of the Holocaust. Students use these sources for original research about life in hiding, ghettos, and death camps. Includes techniques for making comparisons and for generalizing from evidence.  ** Consent of instructor to enroll possible  **"
     },
     "SOCI 107": {
         "prerequisites": [],
@@ -377,7 +377,7 @@
     "SOCI 153": {
         "prerequisites": [],
         "name": "Urban Sociology",
-        "description": "(Same as USP 105.) Introduces students to the major approaches in the sociological study of cities and to what a sociological analysis can add to our understanding of urban processes. "
+        "description": "(Same as USP 105.) Introduces students to the major approaches in the sociological study of cities and to what a sociological analysis can add to our understanding of urban processes.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "SOCI 154": {
         "prerequisites": [],
@@ -632,21 +632,21 @@
     "SOCI 196B": {
         "prerequisites": [],
         "name": "\t\t  Honors Seminar: Supervised Thesis Research",
-        "description": "Group study of specific topics under the direction of an interested faculty member. Enrollment will be limited to a small group of students who have developed their topic and secured appropriate approval from the departmental committee on independent and group studies. These studies are to be conducted only in areas not covered in regular sociology courses. "
+        "description": "Group study of specific topics under the direction of an interested faculty member. Enrollment will be limited to a small group of students who have developed their topic and secured appropriate approval from the departmental committee on independent and group studies. These studies are to be conducted only in areas not covered in regular sociology courses.  ** Upper-division standing required **  ** Department approval required ** "
     },
     "SOCI 198": {
         "prerequisites": [],
         "name": "Directed Group Study",
-        "description": "Tutorial: individual study under the direction of an interested faculty member in an area not covered by the present course offerings. Approval must be secured from the departmental committee on independent studies. "
+        "description": "Tutorial: individual study under the direction of an interested faculty member in an area not covered by the present course offerings. Approval must be secured from the departmental committee on independent studies.  ** Upper-division standing required **  ** Department approval required ** "
     },
     "SOCI 198RA": {
         "prerequisites": [],
         "name": "Research Apprenticeship",
-        "description": "This course introduces various methods for observing and analyzing the social world, principles for choosing among them, and general issues of research design. Coverage emphasizes common qualitative and quantitative methods in sociology in preparation for further methods courses. "
+        "description": "This course introduces various methods for observing and analyzing the social world, principles for choosing among them, and general issues of research design. Coverage emphasizes common qualitative and quantitative methods in sociology in preparation for further methods courses.  ** Upper-division standing required ** "
     },
     "SOCI 199": {
         "prerequisites": [],
         "name": "Independent Study",
-        "description": "This course discusses major themes in the work of nineteenth- and twentieth-century social thinkers, including Tocqueville, Marx, Weber, and Durkheim. "
+        "description": "This course discusses major themes in the work of nineteenth- and twentieth-century social thinkers, including Tocqueville, Marx, Weber, and Durkheim.  ** Upper-division standing required ** "
     }
 }

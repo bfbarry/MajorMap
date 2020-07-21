@@ -62,7 +62,7 @@
     "LIGN 110": {
         "prerequisites": [],
         "name": "Phonetics",
-        "description": "The study of sounds that are used in human languages. How speech sounds are physically produced; acoustics of speech; speech perception; practical training in phonetic transcription and in interpreting visual representations of the acoustic signal. The class covers both English and its dialects and languages other than English.  "
+        "description": "The study of sounds that are used in human languages. How speech sounds are physically produced; acoustics of speech; speech perception; practical training in phonetic transcription and in interpreting visual representations of the acoustic signal. The class covers both English and its dialects and languages other than English.   ** Consent of instructor to enroll possible  **"
     },
     "LIGN 111": {
         "prerequisites": [],
@@ -72,7 +72,7 @@
     "LIGN 112": {
         "prerequisites": [],
         "name": "Speech Sounds and Speech Disorders",
-        "description": "How do we measure differences in the way sounds are produced and perceived? This course focuses on measuring and analyzing the acoustic and auditory properties of sounds as they occur in nonpathological and pathological speech. "
+        "description": "How do we measure differences in the way sounds are produced and perceived? This course focuses on measuring and analyzing the acoustic and auditory properties of sounds as they occur in nonpathological and pathological speech.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 113": {
         "prerequisites": [],
@@ -82,22 +82,22 @@
     "LIGN 119": {
         "prerequisites": [],
         "name": "First and Second Language Learning: From Childhood through Adolescence",
-        "description": "(Same as EDS 119) An examination of how human language learning ability develops and changes over the first two decades of life, including discussion of factors that may affect this ability. "
+        "description": "(Same as EDS 119) An examination of how human language learning ability develops and changes over the first two decades of life, including discussion of factors that may affect this ability.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "LIGN 120": {
         "prerequisites": [],
         "name": "Morphology",
-        "description": "How do some languages express with one word complex meanings that English needs several words to express? Discovery of underlying principles of word formation through problem solving and analysis of data from a wide variety of languages. "
+        "description": "How do some languages express with one word complex meanings that English needs several words to express? Discovery of underlying principles of word formation through problem solving and analysis of data from a wide variety of languages.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 121": {
         "prerequisites": [],
         "name": "Syntax I",
-        "description": "What universal principles determine how words combine into phrases and sentences? Introduction to research methods and results. Emphasis on how argumentation in problem-solving can be used in the development of theories of language. "
+        "description": "What universal principles determine how words combine into phrases and sentences? Introduction to research methods and results. Emphasis on how argumentation in problem-solving can be used in the development of theories of language.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 130": {
         "prerequisites": [],
         "name": "Semantics",
-        "description": "Introduction to the formal study of meaning. What is the meaning of a word? What is the meaning of a sentence? Which role does the context play in determining linguistic meaning? "
+        "description": "Introduction to the formal study of meaning. What is the meaning of a word? What is the meaning of a sentence? Which role does the context play in determining linguistic meaning?  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 139": {
         "prerequisites": [],
@@ -107,27 +107,27 @@
     "LIGN 141": {
         "prerequisites": [],
         "name": "Language Structures",
-        "description": "Detailed investigation of the structure of one or more languages. May be repeated for credit as topics vary. "
+        "description": "Detailed investigation of the structure of one or more languages. May be repeated for credit as topics vary.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 143": {
         "prerequisites": [],
         "name": "The Structure of Spanish",
-        "description": "Surveys aspects of Spanish phonetics, phonology, morphology, and syntax. Topics include dialect differences between Latin American and Peninsular Spanish (both from a historical and contemporary viewpoint), gender classes, verbal morphology, and clause structure. "
+        "description": "Surveys aspects of Spanish phonetics, phonology, morphology, and syntax. Topics include dialect differences between Latin American and Peninsular Spanish (both from a historical and contemporary viewpoint), gender classes, verbal morphology, and clause structure.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 144": {
         "prerequisites": [],
         "name": "Discourse Analysis: American Sign Language and Performing Arts",
-        "description": "A discourse-centered examination of ASL verbal arts: rhyme, meter, rhythm, handedness, nonmanual signals, and spatial mapping; creation of scene and mood; properties of character, dialogue, narration, and voice; cultural tropes; poetic constructions in everyday genres; transcription, body memory and performance. "
+        "description": "A discourse-centered examination of ASL verbal arts: rhyme, meter, rhythm, handedness, nonmanual signals, and spatial mapping; creation of scene and mood; properties of character, dialogue, narration, and voice; cultural tropes; poetic constructions in everyday genres; transcription, body memory and performance.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 146": {
         "prerequisites": [],
         "name": "Sociolinguistics in Deaf Communities",
-        "description": "An examination of sociolinguistic research on Deaf communities throughout the world, including: sociohistorical contexts for phonological, lexical and syntactic variation, contact between languages, multilingualism, language policies and planning, second language learning, language attitudes, and discourse analysis of specific social contexts. Course will be conducted in ASL. "
+        "description": "An examination of sociolinguistic research on Deaf communities throughout the world, including: sociohistorical contexts for phonological, lexical and syntactic variation, contact between languages, multilingualism, language policies and planning, second language learning, language attitudes, and discourse analysis of specific social contexts. Course will be conducted in ASL.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 148": {
         "prerequisites": [],
         "name": "Psycholinguistics of Sign Language",
-        "description": "The study of how sign languages are structured, and how they are understood and produced by adults. Topics include the contrast between gesture and language, sign language acquisition, brain processing, sociolinguistics, and the role of sign language in reading. "
+        "description": "The study of how sign languages are structured, and how they are understood and produced by adults. Topics include the contrast between gesture and language, sign language acquisition, brain processing, sociolinguistics, and the role of sign language in reading.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 149GS": {
         "prerequisites": [],
@@ -137,7 +137,7 @@
     "LIGN 150": {
         "prerequisites": [],
         "name": "Historical Linguistics",
-        "description": "Language is constantly changing. This course\n\t\t\t\t investigates the nature of language change, how to determine\n\t\t\t\t a language\u2019s\n\t\t\t\t history, its relationship to other languages, and the search\n\t\t\t\t for common ancestors or \u201cprotolanguage.\u201d "
+        "description": "Language is constantly changing. This course\n\t\t\t\t investigates the nature of language change, how to determine\n\t\t\t\t a language\u2019s\n\t\t\t\t history, its relationship to other languages, and the search\n\t\t\t\t for common ancestors or \u201cprotolanguage.\u201d  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 152": {
         "prerequisites": [],
@@ -152,12 +152,12 @@
     "LIGN 155": {
         "prerequisites": [],
         "name": "Evolution of Language",
-        "description": "History of thought on language\n          origins, genetic, neural, anatomical, and gestural theories\n          of language evolution in relation to prior hominid and other\n          species, the role of generational differences in language\n         acquisition, and computational models. "
+        "description": "History of thought on language\n          origins, genetic, neural, anatomical, and gestural theories\n          of language evolution in relation to prior hominid and other\n          species, the role of generational differences in language\n         acquisition, and computational models.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "LIGN 160": {
         "prerequisites": [],
         "name": "Pragmatics",
-        "description": "An introduction to the context-dependent aspects of language meaning. Topics include given versus new information, Gricean maxims and rules of conversation, presupposition, implicature, reference and cognitive status, discourse coherence and structure, and speech acts. "
+        "description": "An introduction to the context-dependent aspects of language meaning. Topics include given versus new information, Gricean maxims and rules of conversation, presupposition, implicature, reference and cognitive status, discourse coherence and structure, and speech acts.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 165": {
         "prerequisites": [],
@@ -172,22 +172,22 @@
     "LIGN 170": {
         "prerequisites": [],
         "name": "Psycholinguistics",
-        "description": "The study of how humans learn, represent, comprehend, and produce language. Topics include visual and auditory recognition of words, sentence comprehension, reading, sentence production, language acquisition, neural representation of language, bilingualism, and language disorders. "
+        "description": "The study of how humans learn, represent, comprehend, and produce language. Topics include visual and auditory recognition of words, sentence comprehension, reading, sentence production, language acquisition, neural representation of language, bilingualism, and language disorders.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 171": {
         "prerequisites": [],
         "name": "Child Language Acquisition",
-        "description": "A central cognitive, developmental mystery is how children learn their first language. Overview of research in the learning of sound systems, word forms and word meanings, and word combinations. Exploration of the relation between cognitive and language development. "
+        "description": "A central cognitive, developmental mystery is how children learn their first language. Overview of research in the learning of sound systems, word forms and word meanings, and word combinations. Exploration of the relation between cognitive and language development.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 174": {
         "prerequisites": [],
         "name": "Gender and Language in Society",
-        "description": "(Same as SOCI 116.) This course examines how language contributes to the social construction of gender identities, and how gender impacts language use and ideologies. Topics include the ways language and gender interact across the life span, within ethnolinguistic minority communities in the United States, across sexual orientations and cultures. Recommended preparation: LIGN\n\t\t\t\t 101, or upper-division standing, or consent of instructor.  "
+        "description": "(Same as SOCI 116.) This course examines how language contributes to the social construction of gender identities, and how gender impacts language use and ideologies. Topics include the ways language and gender interact across the life span, within ethnolinguistic minority communities in the United States, across sexual orientations and cultures. Recommended preparation: LIGN\n\t\t\t\t 101, or upper-division standing, or consent of instructor.   ** Consent of instructor to enroll possible  **"
     },
     "LIGN 175": {
         "prerequisites": [],
         "name": "Sociolinguistics",
-        "description": "The study of language in its social context, with emphasis on the different types of linguistic variation and the principles underlying them. Dialects, registers, gender-based linguistic differences, multilingualism, pidginization and creolization, factors influencing linguistic choice, formal models of variation; emphasis is given both to socially determined differences within the United States and US ethnic groups and to cross-cultural differences in language use and variation.  "
+        "description": "The study of language in its social context, with emphasis on the different types of linguistic variation and the principles underlying them. Dialects, registers, gender-based linguistic differences, multilingualism, pidginization and creolization, factors influencing linguistic choice, formal models of variation; emphasis is given both to socially determined differences within the United States and US ethnic groups and to cross-cultural differences in language use and variation.   ** Consent of instructor to enroll possible  **"
     },
     "LIGN 176": {
         "prerequisites": [],
@@ -197,47 +197,47 @@
     "LIGN 177": {
         "prerequisites": [],
         "name": "Multilingualism",
-        "description": "Official and minority languages, pidgins and Creoles, language planning, bilingual education and literacy, code switching, and language attrition. "
+        "description": "Official and minority languages, pidgins and Creoles, language planning, bilingual education and literacy, code switching, and language attrition.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 178": {
         "prerequisites": [],
         "name": "Spanish Sociolinguistics",
-        "description": "This course examines how social variables, such as age, education, gender, and social status may be linguistically expressed in different varieties of Spanish. Attitudes toward different linguistic variants and how these impact language policy will be studied. Special emphasis will be given to the varieties of Spanish spoken in the United States. "
+        "description": "This course examines how social variables, such as age, education, gender, and social status may be linguistically expressed in different varieties of Spanish. Attitudes toward different linguistic variants and how these impact language policy will be studied. Special emphasis will be given to the varieties of Spanish spoken in the United States.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 179": {
         "prerequisites": [],
         "name": "Second Language Acquisition Research",
-        "description": "This course will investigate topics in second language acquisition including the critical period, the processing and neural representation of language in bilinguals, theories of second language acquisition and creolization, exceptional language learners, and parallels with first language acquisition. "
+        "description": "This course will investigate topics in second language acquisition including the critical period, the processing and neural representation of language in bilinguals, theories of second language acquisition and creolization, exceptional language learners, and parallels with first language acquisition.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 180": {
         "prerequisites": [],
         "name": "Language Representation in the Brain",
-        "description": "The mind/body problem, modularity,\n          basic neuroanatomy, cerebral lateralization, re-evaluation\n          of classical language areas, aphasia, dyslexia, the KE family\n          and FOXP2 gene, mirror neurons, sign language, brain development,\n          cortical plasticity, and localization studies of language\n          processing (electrical stimulation, MEG, fMRI, and PET). Students\n          may not receive credit for both LIGN 172 and LIGN 180. "
+        "description": "The mind/body problem, modularity,\n          basic neuroanatomy, cerebral lateralization, re-evaluation\n          of classical language areas, aphasia, dyslexia, the KE family\n          and FOXP2 gene, mirror neurons, sign language, brain development,\n          cortical plasticity, and localization studies of language\n          processing (electrical stimulation, MEG, fMRI, and PET). Students\n          may not receive credit for both LIGN 172 and LIGN 180.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 181": {
         "prerequisites": [],
         "name": "Language Processing in the Brain",
-        "description": "Modularity and models of language processing, basic neurophysiology,\n         EEG/MEG, linguistic event-related brain potentials (ERPs),\n         crosslinguistic functional significance of ERP components\n         and their MEG correlates: N400, N400-700, lexical processing\n         negativity, slow anterior negative potentials, (early) left\n         anterior negativity, and late positivity. "
+        "description": "Modularity and models of language processing, basic neurophysiology,\n         EEG/MEG, linguistic event-related brain potentials (ERPs),\n         crosslinguistic functional significance of ERP components\n         and their MEG correlates: N400, N400-700, lexical processing\n         negativity, slow anterior negative potentials, (early) left\n         anterior negativity, and late positivity.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 192": {
         "prerequisites": [],
         "name": "Senior Seminar in Linguistics",
-        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in linguistics (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. "
+        "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in linguistics (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 195": {
         "prerequisites": [],
         "name": "Apprentice Teaching",
-        "description": "Students lead a class section of a lower-division linguistics course. They also attend a weekly meeting on teaching methods. (This course does not count toward minor or major.) May be repeated for credit, up to a maximum of four units. (P/NP grades only.) "
+        "description": "Students lead a class section of a lower-division linguistics course. They also attend a weekly meeting on teaching methods. (This course does not count toward minor or major.) May be repeated for credit, up to a maximum of four units. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 197": {
         "prerequisites": [],
         "name": "Linguistics Internship",
-        "description": "The student will undertake a program of practical research in a supervised work environment. Topics to be researched may vary, but in each case the course will provide skills for carrying out these studies. "
+        "description": "The student will undertake a program of practical research in a supervised work environment. Topics to be researched may vary, but in each case the course will provide skills for carrying out these studies.  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 199": {
         "prerequisites": [],
         "name": "Independent Study in Linguistics",
-        "description": "The student undertakes a program of research or advanced reading in linguistics under the supervision of a faculty member of the Department of Linguistics. (P/NP grades only.) "
+        "description": "The student undertakes a program of research or advanced reading in linguistics under the supervision of a faculty member of the Department of Linguistics. (P/NP grades only.)  ** Consent of instructor to enroll possible  **"
     },
     "LIGN 199H": {
         "prerequisites": [],
@@ -452,197 +452,197 @@
     "Linguistics/German\n\t\t  (LIGM) 5A, 5B, 5C, 5D": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who already comprehend informal spoken Arabic but who have little or no reading and writing skills. Topics include the Arabic alphabet, basic reading and writing, and differences between colloquial and written Arabic. "
+        "description": "For students who already comprehend informal spoken Arabic but who have little or no reading and writing skills. Topics include the Arabic alphabet, basic reading and writing, and differences between colloquial and written Arabic.  ** Consent of instructor to enroll possible  **"
     },
     "Linguistics/Heritage Languages (LIHL) 16": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who already comprehend informal spoken Persian but who have little or no reading and writing skills. Topics include the Persian alphabet, basic reading and writing, and differences between colloquial and written Persian. "
+        "description": "For students who already comprehend informal spoken Persian but who have little or no reading and writing skills. Topics include the Persian alphabet, basic reading and writing, and differences between colloquial and written Persian.  ** Consent of instructor to enroll possible  **"
     },
     "Linguistics/Heritage Languages (LIHL) 17": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Filipino but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Filipino. May not receive credit for both LIHL112 and LIHL112F. Courses may be taken in any order. "
+        "description": "For students who comprehend informal spoken Filipino but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Filipino. May not receive credit for both LIHL112 and LIHL112F. Courses may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 112F": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Filipino but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Filipino. May not receive credit for both LIHL112 and LIHL112W. Courses may be taken in any order. "
+        "description": "For students who comprehend informal spoken Filipino but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Filipino. May not receive credit for both LIHL112 and LIHL112W. Courses may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 112W": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Filipino but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Filipino. May not receive credit for both LIHL112 and LIHL112P. Courses may be taken in any order. "
+        "description": "For students who comprehend informal spoken Filipino but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Filipino. May not receive credit for both LIHL112 and LIHL112P. Courses may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 112P": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Filipino. LIHL 132F, LIHL 132W, and LIHL 132P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Filipino. LIHL 132F, LIHL 132W, and LIHL 132P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 132F": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Filipino. LIHL 132F, LIHL 132W, and LIHL 132P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Filipino. LIHL 132F, LIHL 132W, and LIHL 132P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 132W": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Filipino. LIHL 132F, LIHL 132W, and LIHL 132P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Filipino. LIHL 132F, LIHL 132W, and LIHL 132P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 132P": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who already comprehend informal\n          spoken Armenian but wish to improve their communicative and\n          sociocultural competence and their analytic understanding.\n          Language functions for oral communication, reading, writing,\n          and culture; dialect and language style differences; structure\n          and history of Armenian. Some speaking ability in Armenian\n          recommended. "
+        "description": "For students who already comprehend informal\n          spoken Armenian but wish to improve their communicative and\n          sociocultural competence and their analytic understanding.\n          Language functions for oral communication, reading, writing,\n          and culture; dialect and language style differences; structure\n          and history of Armenian. Some speaking ability in Armenian\n          recommended.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 113": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Vietnamese but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Vietnamese. LIHL 114F, LIHL 114W, and LIHL 114P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Vietnamese but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Vietnamese. LIHL 114F, LIHL 114W, and LIHL 114P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 114F": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Vietnamese but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Vietnamese. LIHL 114F, LIHL 114W, and LIHL 114P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Vietnamese but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Vietnamese. LIHL 114F, LIHL 114W, and LIHL 114P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 114P": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Vietnamese but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Vietnamese. LIHL 114F, LIHL 114W, and LIHL 114P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Vietnamese but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Vietnamese. LIHL 114F, LIHL 114W, and LIHL 114P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 114W": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Vietnamese. LIHL 134F, LIHL 134W, and LIHL 134P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Vietnamese. LIHL 134F, LIHL 134W, and LIHL 134P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 134F": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Vietnamese. LIHL 134F, LIHL 134W, and LIHL 134P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Vietnamese. LIHL 134F, LIHL 134W, and LIHL 134P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 134W": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Vietnamese. LIHL 134F, LIHL 134W, and LIHL 134P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Vietnamese. LIHL 134F, LIHL 134W, and LIHL 134P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 134P": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Korean but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Korean. LIHL 115F, LIHL 115W, and LIHL 115P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Korean but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Korean. LIHL 115F, LIHL 115W, and LIHL 115P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 115F": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Korean but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Korean. LIHL 115F, LIHL 115W, and LIHL 115P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Korean but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Korean. LIHL 115F, LIHL 115W, and LIHL 115P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 115W": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Korean but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Korean. LIHL 115F, LIHL 115W, and LIHL 115P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Korean but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Korean. LIHL 115F, LIHL 115W, and LIHL 115P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 115P": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Korean LIHL 135F, LIHL 135W, and LIHL 135P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Korean LIHL 135F, LIHL 135W, and LIHL 135P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 135F": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Korean. LIHL 135F, LIHL 135W, and LIHL 135P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Korean. LIHL 135F, LIHL 135W, and LIHL 135P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 135W": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Korean. LIHL 135F, LIHL 135W, and LIHL 135P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Korean. LIHL 135F, LIHL 135W, and LIHL 135P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 135P": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Arabic but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Arabic. LIHL 116F, LIHL 116W, and LIHL 116P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Arabic but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Arabic. LIHL 116F, LIHL 116W, and LIHL 116P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 116F": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Arabic but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Arabic. LIHL 116F, LIHL 116W, and LIHL 116P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Arabic but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Arabic. LIHL 116F, LIHL 116W, and LIHL 116P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 116W": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Arabic but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Arabic. LIHL 116F, LIHL 116W, and LIHL 116P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Arabic but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Arabic. LIHL 116F, LIHL 116W, and LIHL 116P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 116P": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language functions required for advanced oral communication, reading, writing, and cultural understanding in professional contexts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Arabic. "
+        "description": "Instruction stresses language functions required for advanced oral communication, reading, writing, and cultural understanding in professional contexts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Arabic.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 136": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Persian but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Persian. LIHL 117F, LIHL 117W, and LIHL 117P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Persian but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Persian. LIHL 117F, LIHL 117W, and LIHL 117P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 117F": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Persian but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Persian. LIHL 117F, LIHL 117W, and LIHL 117P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Persian but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Persian. LIHL 117F, LIHL 117W, and LIHL 117P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 117W": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Persian but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Persian. LIHL 117F, LIHL 117W, and LIHL 117P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Persian but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Persian. LIHL 117F, LIHL 117W, and LIHL 117P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 117P": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Persian. LIHL 137F, LIHL 137W, and LIHL 137P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Persian. LIHL 137F, LIHL 137W, and LIHL 137P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 137F": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Persian. LIHL 137F, LIHL 137W, and LIHL 137P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Persian. LIHL 137F, LIHL 137W, and LIHL 137P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 137W": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Persian. LIHL 137F, LIHL 137W, and LIHL 137P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Persian. LIHL 137F, LIHL 137W, and LIHL 137P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 137P": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who already comprehend informal\n\t\t\t\t  spoken Cantonese but wish to improve their communicative and sociocultural\n\t\t\t\t  competence and their analytic understanding. Language functions for oral\n\t\t\t\t  communication, reading, writing, and culture; dialect and language style\n\t\t\t\t  differences; structure and history of Cantonese. Some speaking ability\n\t\t\t\t  in Cantonese recommended. "
+        "description": "For students who already comprehend informal\n\t\t\t\t  spoken Cantonese but wish to improve their communicative and sociocultural\n\t\t\t\t  competence and their analytic understanding. Language functions for oral\n\t\t\t\t  communication, reading, writing, and culture; dialect and language style\n\t\t\t\t  differences; structure and history of Cantonese. Some speaking ability\n\t\t\t\t  in Cantonese recommended.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 118": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language functions required\n\t\t\t\t  for advanced oral communication, reading, writing, and cultural\n\t\t\t\t  understanding in professional contexts. High-level vocabulary\n\t\t\t\t  and texts; dialect differences and formal language styles (registers).\n\t\t\t\t  Advanced structural analysis and history of Cantonese. "
+        "description": "Instruction stresses language functions required\n\t\t\t\t  for advanced oral communication, reading, writing, and cultural\n\t\t\t\t  understanding in professional contexts. High-level vocabulary\n\t\t\t\t  and texts; dialect differences and formal language styles (registers).\n\t\t\t\t  Advanced structural analysis and history of Cantonese.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 138": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Hindi but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Hindi. LIHL 119F, LIHL 119W, and LIHL 119P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Hindi but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Hindi. LIHL 119F, LIHL 119W, and LIHL 119P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 119F": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Hindi but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family media/arts; dialect and language style differences; structure and history of Hindi. LIHL 119F, LIHL 119W, and LIHL 119P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Hindi but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family media/arts; dialect and language style differences; structure and history of Hindi. LIHL 119F, LIHL 119W, and LIHL 119P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 119W": {
         "prerequisites": [],
         "name": "",
-        "description": "For students who comprehend informal spoken Hindi but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Hindi. LIHL 119F, LIHL 119W, and LIHL 119P may be taken in any order. "
+        "description": "For students who comprehend informal spoken Hindi but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and entertainment/culture; dialect and language style differences; structure and history of Hindi. LIHL 119F, LIHL 119W, and LIHL 119P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 119P": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Hindi. LIHL 139F, LIHL 139W, and LIHL 139P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Hindi. LIHL 139F, LIHL 139W, and LIHL 139P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 139F": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Hindi. LIHL 139F, LIHL 139W, and LIHL 139P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Hindi. LIHL 139F, LIHL 139W, and LIHL 139P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 139W": {
         "prerequisites": [],
         "name": "",
-        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Hindi. LIHL 139F, LIHL 139W, and LIHL 139P may be taken in any order. "
+        "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Hindi. LIHL 139F, LIHL 139W, and LIHL 139P may be taken in any order.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "Linguistics/Heritage Languages (LIHL) 139P": {
         "prerequisites": [],
@@ -732,17 +732,17 @@
     "Linguistics/Italian (LIIT) 5AS": {
         "prerequisites": [],
         "name": "",
-        "description": "A course to increase the proficiency level of students who have completed LIIT 1A/1AX, 5AS or who are at an equivalent level. Attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT 1B/1BX. "
+        "description": "A course to increase the proficiency level of students who have completed LIIT 1A/1AX, 5AS or who are at an equivalent level. Attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT 1B/1BX.  ** Consent of instructor to enroll possible  **"
     },
     "Linguistics/Italian (LIIT) 5BS": {
         "prerequisites": [],
         "name": "",
-        "description": "A course to increase the proficiency level of students who have completed LIIT 1B/1BX, 5BS or who are at an equivalent level. Attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT 1C/1CX. "
+        "description": "A course to increase the proficiency level of students who have completed LIIT 1B/1BX, 5BS or who are at an equivalent level. Attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT 1C/1CX.  ** Consent of instructor to enroll possible  **"
     },
     "Linguistics/Italian (LIIT) 5CS": {
         "prerequisites": [],
         "name": "",
-        "description": "A course to increase the proficiency level of students who have completed LIIT 1C/1CX, 5CS or who are at an equivalent level. Attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT1D/1DX. "
+        "description": "A course to increase the proficiency level of students who have completed LIIT 1C/1CX, 5CS or who are at an equivalent level. Attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT1D/1DX.  ** Consent of instructor to enroll possible  **"
     },
     "Linguistics/Italian (LIIT) 5DS": {
         "prerequisites": [],
@@ -787,17 +787,17 @@
     "Linguistics/Portuguese (LIPO) 1DX": {
         "prerequisites": [],
         "name": "",
-        "description": "Conducted entirely in Portuguese. Course aims to improve oral\n                  language skills through discussions of social science topics,\n                  with emphasis on social and political movements in contemporary\n                  Brazil. Course materials may encompass televised news broadcasts,\n                  newspapers, and periodicals. "
+        "description": "Conducted entirely in Portuguese. Course aims to improve oral\n                  language skills through discussions of social science topics,\n                  with emphasis on social and political movements in contemporary\n                  Brazil. Course materials may encompass televised news broadcasts,\n                  newspapers, and periodicals.  ** Consent of instructor to enroll possible  **"
     },
     "Linguistics/Portuguese (LIPO) 15": {
         "prerequisites": [],
         "name": "",
-        "description": "Conducted entirely in Portuguese. Course aims to improve oral\n                  language skills through discussions of social science topics,\n                  with emphasis on culture and the arts in contemporary Brazil.\n                  Course materials may encompass televised news broadcasts, newspapers,\n                  and periodicals. "
+        "description": "Conducted entirely in Portuguese. Course aims to improve oral\n                  language skills through discussions of social science topics,\n                  with emphasis on culture and the arts in contemporary Brazil.\n                  Course materials may encompass televised news broadcasts, newspapers,\n                  and periodicals.  ** Consent of instructor to enroll possible  **"
     },
     "Linguistics/Portuguese\n                      (LIPO) 16": {
         "prerequisites": [],
         "name": "",
-        "description": "Conducted entirely in Portuguese. Course aims to improve oral\n                  language skills through discussions of social science topics,\n                  with emphasis on the role of ethnicity in contemporary Brazil.\n                  Course materials may encompass televised news broadcasts, newspapers\n                  and periodicals. "
+        "description": "Conducted entirely in Portuguese. Course aims to improve oral\n                  language skills through discussions of social science topics,\n                  with emphasis on the role of ethnicity in contemporary Brazil.\n                  Course materials may encompass televised news broadcasts, newspapers\n                  and periodicals.  ** Consent of instructor to enroll possible  **"
     },
     "Linguistics/Portuguese (LIPO) 17": {
         "prerequisites": [],

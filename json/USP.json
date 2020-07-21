@@ -42,12 +42,12 @@
     "USP 100": {
         "prerequisites": [],
         "name": "Introduction to Urban Planning",
-        "description": "This course is designed to provide an introduction to the fundamentals of urban planning. It surveys important topics in urban planning, including economic development, urban design, transportation, environmental planning, housing, and the history of urban planning. "
+        "description": "This course is designed to provide an introduction to the fundamentals of urban planning. It surveys important topics in urban planning, including economic development, urban design, transportation, environmental planning, housing, and the history of urban planning.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 101": {
         "prerequisites": [],
         "name": "Introduction to Policy Analysis",
-        "description": "(Same as POLI 160AA.) This course will explore the process by which the preferences of individuals are converted into public policy. Also included will be an examination of the complexity of policy problems, methods for designing better policies, and a review of tools used by analysts and policy makers. "
+        "description": "(Same as POLI 160AA.) This course will explore the process by which the preferences of individuals are converted into public policy. Also included will be an examination of the complexity of policy problems, methods for designing better policies, and a review of tools used by analysts and policy makers.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 102": {
         "prerequisites": [
@@ -66,17 +66,17 @@
     "USP 105": {
         "prerequisites": [],
         "name": "Urban Sociology",
-        "description": "(Same as SOCI 153.) Introduces students\n\t\t\t\t  to the major approaches in the sociological study of cities and to what\n\t    a sociological analysis can add to our understanding of urban processes. "
+        "description": "(Same as SOCI 153.) Introduces students\n\t\t\t\t  to the major approaches in the sociological study of cities and to what\n\t    a sociological analysis can add to our understanding of urban processes.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 106": {
         "prerequisites": [],
         "name": "The History of Race and Ethnicity in American Cities",
-        "description": "(Same as HIUS 129.) This class examines the history of racial and ethnic groups in American cities. It looks at major forces of change such as immigration to cities, political empowerment, and social movements, as well as urban policies such as housing segregation. "
+        "description": "(Same as HIUS 129.) This class examines the history of racial and ethnic groups in American cities. It looks at major forces of change such as immigration to cities, political empowerment, and social movements, as well as urban policies such as housing segregation.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 107": {
         "prerequisites": [],
         "name": "Urban Politics",
-        "description": "(Same as POLI 102E.) This survey course focuses upon the following six topics: the evolution of urban politics since the mid-nineteenth century; the urban fiscal crisis; federal/urban relationships; the \u201cnew\u201d politics; urban power structure and leadership; and selected contemporary policy issues such as downtown redevelopment, poverty, and race. "
+        "description": "(Same as POLI 102E.) This survey course focuses upon the following six topics: the evolution of urban politics since the mid-nineteenth century; the urban fiscal crisis; federal/urban relationships; the \u201cnew\u201d politics; urban power structure and leadership; and selected contemporary policy issues such as downtown redevelopment, poverty, and race.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 109": {
         "prerequisites": [],
@@ -105,7 +105,7 @@
     "USP 115": {
         "prerequisites": [],
         "name": "Politics and Policymaking in San Diego",
-        "description": "(Same as POLI 103C.) This course examines how major policy decisions are made in San Diego. In analyses the region\u2019s power structure (including the roles of nongovernmental organizations and the media), governance systems and reform efforts, and the politics of major infrastructure projects. "
+        "description": "(Same as POLI 103C.) This course examines how major policy decisions are made in San Diego. In analyses the region\u2019s power structure (including the roles of nongovernmental organizations and the media), governance systems and reform efforts, and the politics of major infrastructure projects.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 116": {
         "prerequisites": [],
@@ -115,42 +115,42 @@
     "USP 120": {
         "prerequisites": [],
         "name": "Urban Planning, Infrastructure, and Real Estate",
-        "description": "This course will explore\n                    the interrelationships of urban planning, public infrastructure,\n                    and real estate development. These\n                  three issues are critical to an examination of the major challenges\n                  facing California\u2019s and America\u2019s major metropolitan centers. "
+        "description": "This course will explore\n                    the interrelationships of urban planning, public infrastructure,\n                    and real estate development. These\n                  three issues are critical to an examination of the major challenges\n                  facing California\u2019s and America\u2019s major metropolitan centers.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 121": {
         "prerequisites": [],
         "name": "Real Estate Law and Regulation",
-        "description": "Examination of regulation of real estate development, as it affects landowners, developers and others private sector actors. Includes underlying public policies, establishment and enforcement of laws and regulations, application of regulations to individual projects, and political considerations in implementing regulations. "
+        "description": "Examination of regulation of real estate development, as it affects landowners, developers and others private sector actors. Includes underlying public policies, establishment and enforcement of laws and regulations, application of regulations to individual projects, and political considerations in implementing regulations.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 122": {
         "prerequisites": [],
         "name": "Redevelopment\n                    Planning, Policymaking, and Law",
-        "description": "This course examines key elements of land use, planning, and\n                  law as related to urban redevelopment. It focuses on San Diego\n                  case studies, including the Petco Park/East Village redevelopment\n                  project and the Naval Training Center (NTC) Redevelopment Area\n                  (Liberty Station). "
+        "description": "This course examines key elements of land use, planning, and\n                  law as related to urban redevelopment. It focuses on San Diego\n                  case studies, including the Petco Park/East Village redevelopment\n                  project and the Naval Training Center (NTC) Redevelopment Area\n                  (Liberty Station).  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 123": {
         "prerequisites": [],
         "name": "Law, Planning, and Public Policy",
-        "description": "Examination of the intersection of law and policy, in the form of processes and institutions, as they affect decision-making and program implementation in urban planning and design. Opportunities and constraints in making law and policy. Application to specific case examples. "
+        "description": "Examination of the intersection of law and policy, in the form of processes and institutions, as they affect decision-making and program implementation in urban planning and design. Opportunities and constraints in making law and policy. Application to specific case examples.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 124": {
         "prerequisites": [],
         "name": "Land Use Planning",
-        "description": "Introduction to land use planning in the United States: zoning and subdivision, regulation, growth management, farmland preservation, environmental protection, and comprehensive planning. "
+        "description": "Introduction to land use planning in the United States: zoning and subdivision, regulation, growth management, farmland preservation, environmental protection, and comprehensive planning.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 125": {
         "prerequisites": [],
         "name": "The Design of Social Research",
-        "description": "Research methods are tools for improving knowledge. Beginning with a research question, students will learn to select appropriate methods for sampling, collecting, and analyzing data to improve their research activities and research results. "
+        "description": "Research methods are tools for improving knowledge. Beginning with a research question, students will learn to select appropriate methods for sampling, collecting, and analyzing data to improve their research activities and research results.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 126": {
         "prerequisites": [],
         "name": "Comparative Land Use and Resource Management",
-        "description": "(Same as ETHN 190.) The course offers students the basic research methods with which to study ethnic and racial communities. The various topics to be explored include human and physical geography, transportation, employment, economic structure, cultural values, housing, health, education, and intergroup relations. "
+        "description": "(Same as ETHN 190.) The course offers students the basic research methods with which to study ethnic and racial communities. The various topics to be explored include human and physical geography, transportation, employment, economic structure, cultural values, housing, health, education, and intergroup relations.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 129": {
         "prerequisites": [],
         "name": "Research Methods:\n\t\t  Studying Racial and Ethnic Communities",
-        "description": "(Same as ETHN 107.) This is a research course examining social, economic, and political issues in ethnic and racial communities through fieldwork. Topics are examined through a variety of research methods which may include interviews and archival, library, and historical research. "
+        "description": "(Same as ETHN 107.) This is a research course examining social, economic, and political issues in ethnic and racial communities through fieldwork. Topics are examined through a variety of research methods which may include interviews and archival, library, and historical research.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 130": {
         "prerequisites": [],
@@ -205,12 +205,12 @@
     "USP 140": {
         "prerequisites": [],
         "name": "Healthy Placemaking",
-        "description": "This course will provide an overview of the organization of health care within the context of the community with emphasis on the political, social, and cultural influences. It is concerned with the structure, objectives, and trends of major health and health-related programs in the United States to include sponsorship, financing, training and utilization of health personnel. "
+        "description": "This course will provide an overview of the organization of health care within the context of the community with emphasis on the political, social, and cultural influences. It is concerned with the structure, objectives, and trends of major health and health-related programs in the United States to include sponsorship, financing, training and utilization of health personnel.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 141A": {
         "prerequisites": [],
         "name": "Life Course Scholars Research and Core Fundamentals",
-        "description": "This course will analyze needs of populations, highlighting current major public health problems such as chronic and communicable diseases, environmental hazards of diseases, psychiatric problems and additional diseases, new social mores affecting health maintenance, consumer health awareness and health practices, special needs of economically and socially disadvantaged populations. The focus is on selected areas of public and environmental health, namely: epidemiology, preventive services in family health, communicable and chronic disease control, and occupational health. "
+        "description": "This course will analyze needs of populations, highlighting current major public health problems such as chronic and communicable diseases, environmental hazards of diseases, psychiatric problems and additional diseases, new social mores affecting health maintenance, consumer health awareness and health practices, special needs of economically and socially disadvantaged populations. The focus is on selected areas of public and environmental health, namely: epidemiology, preventive services in family health, communicable and chronic disease control, and occupational health.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 141B": {
         "prerequisites": [],
@@ -225,12 +225,12 @@
     "USP 144": {
         "prerequisites": [],
         "name": "Environmental and Preventive Health Issues",
-        "description": "The purpose of this course is to identify the special health needs of low income and underserved populations and to review their status of care, factors influencing the incidence of disease and health problems, and political and legislative measures related to access and the provision of care. Selected current programs and policies that address the health-care needs of selected underserved populations such as working poor, inner city populations, recent immigrants, and persons with severe disabling mental illnesses will be studied. Offered in alternate years. "
+        "description": "The purpose of this course is to identify the special health needs of low income and underserved populations and to review their status of care, factors influencing the incidence of disease and health problems, and political and legislative measures related to access and the provision of care. Selected current programs and policies that address the health-care needs of selected underserved populations such as working poor, inner city populations, recent immigrants, and persons with severe disabling mental illnesses will be studied. Offered in alternate years.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 145": {
         "prerequisites": [],
         "name": "Aging\u2014Social and Health Policy Issues",
-        "description": "This course will provide a historical and theoretical orientation for contemporary studies of the experience of mental illness and mental health-care policy in the American city, with critical attention to racial and ethnic disparities in diagnosis, treatment, and outcomes. "
+        "description": "This course will provide a historical and theoretical orientation for contemporary studies of the experience of mental illness and mental health-care policy in the American city, with critical attention to racial and ethnic disparities in diagnosis, treatment, and outcomes.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 146": {
         "prerequisites": [],
@@ -265,7 +265,7 @@
     "USP 153": {
         "prerequisites": [],
         "name": "Real Estate and Development Market Analysis",
-        "description": "In this course, students will work together in teams to complete a development proposal for a real world location provided by the San Diego chapter of the Commercial Real Estate Development Association (NAIOP). Students will meet with industry professionals to evaluate the most feasible, highest, and best use of space on the site provided. May be taken for credit up to two times. "
+        "description": "In this course, students will work together in teams to complete a development proposal for a real world location provided by the San Diego chapter of the Commercial Real Estate Development Association (NAIOP). Students will meet with industry professionals to evaluate the most feasible, highest, and best use of space on the site provided. May be taken for credit up to two times.  ** Upper-division standing required ** "
     },
     "USP 154": {
         "prerequisites": [
@@ -288,12 +288,12 @@
     "USP 159B": {
         "prerequisites": [],
         "name": "NAIOP Real Estate University Challenge II",
-        "description": "(Same as HIUS 123.) New York City breathes history. Whether it is in the music, the literature, or the architecture, the city informs our most basic conceptions of American identity. This course examines the evolution of Gotham from the colonial era to today. "
+        "description": "(Same as HIUS 123.) New York City breathes history. Whether it is in the music, the literature, or the architecture, the city informs our most basic conceptions of American identity. This course examines the evolution of Gotham from the colonial era to today.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 160": {
         "prerequisites": [],
         "name": "Research Methods: Analyzing Crime",
-        "description": "(Same as HIUS 117.) This course examines the history of Los Angeles from the early nineteenth century to the present. Particular issues to be addressed include urbanization, ethnicity, politics, technological change, and cultural diversification. "
+        "description": "(Same as HIUS 117.) This course examines the history of Los Angeles from the early nineteenth century to the present. Particular issues to be addressed include urbanization, ethnicity, politics, technological change, and cultural diversification.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 161": {
         "prerequisites": [
@@ -306,7 +306,7 @@
     "USP 167": {
         "prerequisites": [],
         "name": "History of New York City",
-        "description": "This course will explore the different factors and processes that shape a sustainable city. Contemporary green planning techniques and values will be evaluated. The course will also discuss planning, designing, and implementation of sustainable facilities that will reduce sprawl. "
+        "description": "This course will explore the different factors and processes that shape a sustainable city. Contemporary green planning techniques and values will be evaluated. The course will also discuss planning, designing, and implementation of sustainable facilities that will reduce sprawl.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 168": {
         "prerequisites": [],
@@ -336,12 +336,12 @@
     "USP 173": {
         "prerequisites": [],
         "name": "History of Urban Planning and Design",
-        "description": "This course explores governance and planning challenges in the California/Baja California binational region. What are the roles of federal, state, and local governments in addressing issues of transportation, land use, water/wastewater management, and safety and security? "
+        "description": "This course explores governance and planning challenges in the California/Baja California binational region. What are the roles of federal, state, and local governments in addressing issues of transportation, land use, water/wastewater management, and safety and security?  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 174": {
         "prerequisites": [],
         "name": "Regional Governance\n\t\t  and Planning Reconsidered",
-        "description": "This course is designed to introduce the student to the theory and practice of urban design, the form of the built environment, and how it is created. There is an emphasis on the development within a larger urban context. Renumbered from USP 177. Students may not receive credit for USP 177A and USP 177. "
+        "description": "This course is designed to introduce the student to the theory and practice of urban design, the form of the built environment, and how it is created. There is an emphasis on the development within a larger urban context. Renumbered from USP 177. Students may not receive credit for USP 177A and USP 177.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 175": {
         "prerequisites": [
@@ -356,7 +356,7 @@
     "USP 176": {
         "prerequisites": [],
         "name": "Binational Regional Governance",
-        "description": "Roles of the urban designer, preparing schematic proposals and performance statements, identifying opportunities for and constraints on designers. Each student will prepare a practical exercise in urban design using various urban design methods. "
+        "description": "Roles of the urban designer, preparing schematic proposals and performance statements, identifying opportunities for and constraints on designers. Each student will prepare a practical exercise in urban design using various urban design methods.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 177A": {
         "prerequisites": [],
@@ -366,7 +366,7 @@
     "USP 177B": {
         "prerequisites": [],
         "name": "Advanced Urban Design",
-        "description": "Livable cities rely on balanced transportation systems that can mitigate the negative impacts of car-oriented environment and society. This course will explore the role of public transit in creating a balanced transportation system. A variety of public transportation systems will be analyzed. "
+        "description": "Livable cities rely on balanced transportation systems that can mitigate the negative impacts of car-oriented environment and society. This course will explore the role of public transit in creating a balanced transportation system. A variety of public transportation systems will be analyzed.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 179": {
         "prerequisites": [],
@@ -425,26 +425,26 @@
     "USP 189": {
         "prerequisites": [],
         "name": "Special Topics in Urban Planning",
-        "description": "Using the San Diego region as a case study, students will be introduced to the process of collecting, evaluating, and presenting urban and regional data using a variety of methods, including aggregate data analysis, historical research, and ethnography. "
+        "description": "Using the San Diego region as a case study, students will be introduced to the process of collecting, evaluating, and presenting urban and regional data using a variety of methods, including aggregate data analysis, historical research, and ethnography.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 190": {
         "prerequisites": [],
         "name": "Senior Honors Seminar",
-        "description": "(Same as COGS 194, COMM 194, HITO 193, POLI 194, SOCI 194, SIO 194.)  Course attached to six-unit internship taken by students participating in the UCDC Program. Involves weekly seminar meetings with faculty and teaching assistant and a substantial research paper. "
+        "description": "(Same as COGS 194, COMM 194, HITO 193, POLI 194, SOCI 194, SIO 194.)  Course attached to six-unit internship taken by students participating in the UCDC Program. Involves weekly seminar meetings with faculty and teaching assistant and a substantial research paper.  ** Department approval required ** "
     },
     "USP 191": {
         "prerequisites": [],
         "name": "GIS for Urban and Community Planning",
-        "description": "Introduction to teaching activities associated with course. Responsibilities include preparing reading materials assigned by the instructor, attending course lectures, meeting at least one hour per week with the instructor, assisting instructor in grading, and preparing a summary report to the instructor. May be taken for credit up to three times for a maximum of eight units. "
+        "description": "Introduction to teaching activities associated with course. Responsibilities include preparing reading materials assigned by the instructor, attending course lectures, meeting at least one hour per week with the instructor, assisting instructor in grading, and preparing a summary report to the instructor. May be taken for credit up to three times for a maximum of eight units.  ** Consent of instructor to enroll possible  **"
     },
     "USP 193": {
         "prerequisites": [],
         "name": "San Diego Community Research",
-        "description": "Directed group study on a topic or in a field not included in the regular departmental curriculum by special arrangement with a faculty member. "
+        "description": "Directed group study on a topic or in a field not included in the regular departmental curriculum by special arrangement with a faculty member.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     },
     "USP 194": {
         "prerequisites": [],
         "name": "Research Seminar in Washington, DC",
-        "description": "Reading and research programs and field-study projects to be arranged between student and instructor, depending on the student\u2019s needs and the instructor\u2019s advice in terms of these needs. "
+        "description": "Reading and research programs and field-study projects to be arranged between student and instructor, depending on the student\u2019s needs and the instructor\u2019s advice in terms of these needs.  ** Consent of instructor to enroll possible  ** ** Upper-division standing required ** "
     }
 }

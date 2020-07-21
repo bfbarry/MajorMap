@@ -1,0 +1,547 @@
+{
+    "MUS 1A": {
+        "prerequisites": [],
+        "name": "Fundamentals of Music A",
+        "description": "This course, first in a three-quarter sequence, is primarily intended for students without previous musical experience. It introduces music notation and basic music theory topics such as intervals, scales, keys, and chords, as well as basic rhythm skills. "
+    },
+    "MUS 1B": {
+        "prerequisites": [
+            "MUS 1A"
+        ],
+        "name": "Fundamentals of Music B",
+        "description": "This course, second in a three-quarter sequence, focuses on understanding music theory and in developing musical ability through rhythm, ear training, and sight singing exercises. Topics include major and minor scales, seventh-chords, transposition, compound meter and rudiments of musical form. "
+    },
+    "MUS 1C": {
+        "prerequisites": [
+            "MUS 1B"
+        ],
+        "name": "Fundamentals of Music C",
+        "description": "This course, third in a three-quarter sequence, offers solid foundation in musical literacy through exercises such as harmonic and melodic dictation, sight singing exercises and rhythm in various meters. Topics include complex rhythm, harmony, and basic keyboard skills. "
+    },
+    "MUS 2A-B-C": {
+        "prerequisites": [],
+        "name": "Basic Musicianship",
+        "description": "Primarily intended for music majors. Development of basic skills: perception and notation of pitch and temporal relationships. Introduction to functional harmony. Studies in melodic writing. Drills in sight singing, rhythmic reading, and dictation. "
+    },
+    "MUS 2AK-BK-CK": {
+        "prerequisites": [
+            "MUS 2A"
+        ],
+        "name": "Basic Keyboard",
+        "description": "Scales, chords, harmonic progressions, transposition, and simple pieces. "
+    },
+    "MUS 2JK": {
+        "prerequisites": [
+            "MUS 2AK",
+            "and"
+        ],
+        "name": "Jazz Keyboard",
+        "description": "This course will introduce basic voicings and voice leading, stylistically appropriate accompaniment, and basic chord substitution. For majors with a Jazz and the Music of the African diaspora emphasis to be taken concurrently with MUS 2C. "
+    },
+    "MUS 4": {
+        "prerequisites": [],
+        "name": "Introduction to Western Music",
+        "description": "A brief survey of the history of Western music from the Middle Ages to the present. Much attention will be paid to the direct experience of listening to music and attendance of concerts. Class consists of lectures, listening labs, and live performances. "
+    },
+    "MUS 5": {
+        "prerequisites": [],
+        "name": "Sound in Time",
+        "description": "An examination and exploration of the art and science of music making. Topics include acoustics, improvisation, composition, and electronic and popular forms. There will be required listening, reading, and creative assignments. No previous musical background required. "
+    },
+    "MUS 6": {
+        "prerequisites": [],
+        "name": "Electronic Music",
+        "description": "Lectures and listening sessions devoted to the most significant works of music realized through the use of computers and other electronic devices from the middle of this century through the present. "
+    },
+    "MUS 7": {
+        "prerequisites": [],
+        "name": "Music, Science, and Computers",
+        "description": "Exploration of the interactions among music, science, and technology, including the history and current development of science and technology from the perspective of music. "
+    },
+    "MUS 8": {
+        "prerequisites": [],
+        "name": "American Music: Jazz Cultures",
+        "description": "Jazz is one of the primary foundations for American music in the twentieth and twenty-first centuries. This course highlights the multicultural and international scope of jazz by taking a thematic rather than a chronological approach to the subject, and by highlighting the music and lives of a diverse array of jazz practitioners from around the country and around the world. Students may not receive credit for both MUS 8 and MUS 8GS. "
+    },
+    "MUS 9": {
+        "prerequisites": [],
+        "name": "Symphony",
+        "description": "The symphonic masterworks course will consist of lectures and listening sessions devoted to a detailed discussion of a small number of recognized masterworks (e.g., Mozart, Beethoven, Berlioz, Stravinsky, Ligeti, etc.). "
+    },
+    "MUS 11": {
+        "prerequisites": [],
+        "name": "Folk Music",
+        "description": "A course on folk music of the world, covered through lectures, films, and listening sessions devoted to detailed discussion of music indigenous to varying countries/areas of the world. Topics vary from year to year. May be repeated once for credit. "
+    },
+    "MUS 12": {
+        "prerequisites": [],
+        "name": "Opera",
+        "description": "A study of opera masterworks that often coincide with operas presented in the San Diego Opera season. Class consists of lectures, listening labs, live performances, and opera on video. "
+    },
+    "MUS 13": {
+        "prerequisites": [],
+        "name": "Worlds of Music",
+        "description": "Through surveying selected musical traditions and practices from around the world, this course explores the ways in which music both reflects and affects social, cultural, and ecological relationships. Specific case studies will be covered through lectures, films, and listening sessions. "
+    },
+    "MUS 14": {
+        "prerequisites": [],
+        "name": "Contemporary Music",
+        "description": "This course offers opportunities to prepare oneself for experiences with new music (through preview lectures), hear performances (by visiting or faculty artists), to discuss each event informally with a faculty panel: an effort to foster informed listening to the new in music. "
+    },
+    "MUS 15": {
+        "prerequisites": [],
+        "name": "Popular Music",
+        "description": "A course on popular music from different time periods, covered through lectures, films, and listening sessions. Topics vary from year to year. May be repeated once for credit. "
+    },
+    "MUS 16": {
+        "prerequisites": [],
+        "name": "The Beatles",
+        "description": "This course will explore The Beatles from musical, cultural, historical, technological, and critical angles. It will place them in context, examining their assorted confluences and wide influences. The group will be critically examined as artists, innovators, and public personalities. Listening, watching, and discussion will provide a broader, deeper, and more personal understanding of the group\u2019s enduring appeal. "
+    },
+    "MUS 17": {
+        "prerequisites": [],
+        "name": "Hip-Hop",
+        "description": "This class presents a broad chronological overview of the development of hip-hop as a musical form from the late 1970s through today. It examines the development of the style in relation to direct context and to earlier African American musical and cultural forms and considers the technological and legal issues that have impacted its development. The class is listening intensive and students will be expected to know and recognize essential structures and production techniques. "
+    },
+    "MUS 18": {
+        "prerequisites": [],
+        "name": "Klezmer Music",
+        "description": "A survey of Eastern European Jewish folk music, Yiddish theatre and popular song, and their transition to America. Credit not allowed for MUS 18 and JUDA 18. (Cross-listed with JUDA 18.) "
+    },
+    "MUS 20": {
+        "prerequisites": [],
+        "name": "Exploring the Musical Mind",
+        "description": "How do we transform complex sounds into comprehensible and meaningful music? What physiological, neurological, cognitive, and cultural systems are involved? Why do we make music in such diverse ways around the globe? Does music have evolutionary or ecological significance? What is the relationship between music, motion, and emotions? This course explores contemporary understandings of how we hear and how we become musical and invites students to listen to new music in new ways. Students may not receive credit for both MUS 20 and COGS 20. (Cross-listed with COGS 20.) "
+    },
+    "MUS 32": {
+        "prerequisites": [],
+        "name": "Instrumental/Vocal Instruction",
+        "description": "Individual instruction on intermediate level in instrumental technique and repertory. For declared music majors and minors. Students must be simultaneously enrolled in a performance ensemble or nonperformance music course. May be taken six times for credit. "
+    },
+    "MUS 32G": {
+        "prerequisites": [],
+        "name": "Group Instrumental Instruction",
+        "description": "Group instruction in instrumental or vocal technique and repertory. Intermediate level. Intended for students who make an important contribution to Department of Music ensembles. "
+    },
+    "MUS 32V": {
+        "prerequisites": [],
+        "name": "Vocal Instruction",
+        "description": "Individual instruction on intermediate level in vocal technique and repertory. For declared music majors and minors. Students must be simultaneously enrolled in a performance ensemble or nonperformance music course and in MUS 32VM. May be taken six times for credit. "
+    },
+    "MUS 32VM": {
+        "prerequisites": [
+            "MUS 32V"
+        ],
+        "name": "Vocal Master Class",
+        "description": "All students enrolled in voice lessons (32V,\n\t\t\t\t  132V, or 132C) perform for one another and their instructors.\n\t\t\t\t  Students critique in-class performances, with emphasis on presentation,\n\t\t\t\t  diction, dramatic effect, vocal quality, and musicality. "
+    },
+    "MUS 33A": {
+        "prerequisites": [
+            "MUS 2C"
+        ],
+        "name": "Introduction to Composition I",
+        "description": "First course in a sequence for music majors and nonmajors pursuing an emphasis in composition. The course examines \u201csound\u201d itself and various ways of building sounds into musical structures and develops skills in music notation. Students compose solo pieces in shorter forms. Students may not receive credit for both MUS 33 and 33A. "
+    },
+    "MUS 33B": {
+        "prerequisites": [
+            "MUS 33A"
+        ],
+        "name": "Introduction to Composition II",
+        "description": "Second part of course sequence for students pursuing a composition emphasis. Course continues the building of skills with the organization of basic compositional elements: pitch, rhythm, and timbre. It explores issues of musical texture, expression, and structure in traditional and contemporary repertoire. Writing for two instruments in more extended forms. "
+    },
+    "MUS 33C": {
+        "prerequisites": [
+            "MUS 33B"
+        ],
+        "name": "Introduction to Composition III",
+        "description": "Third part of course sequence for students pursuing a composition emphasis. Course continues the development of skills in instrumentation and analysis. It includes a survey of advanced techniques in contemporary composition, with additional focus on notation, part-preparation, and the art of writing for small groups of instruments. "
+    },
+    "MUS 43": {
+        "prerequisites": [],
+        "name": "Department Seminar",
+        "description": "The department seminar serves both as a general department meeting and as a forum for the presentation of research and performances by visitors, faculty, and students. Required of all undergraduate music and music humanities majors every quarter a student is a declared music major. Four units or four quarters of enrollment are required of all undergraduate ICAM music majors who choose the MUS 43. Department Seminar option for their Visitor Series requirement. P/NP grades only. May be taken for credit up to twelve times."
+    },
+    "MUS 80": {
+        "prerequisites": [],
+        "name": "Special Topics in Music",
+        "description": "This course presents selected topics in music and consists of lecture and listening sessions. No prior technical knowledge is necessary. The course will be offered during  summer session. "
+    },
+    "MUS 87": {
+        "prerequisites": [],
+        "name": "Freshman Seminar",
+        "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen. "
+    },
+    "MUS 95": {
+        "prerequisites": [],
+        "name": "Ensemble Performance",
+        "description": "Performance in an ensemble appropriate to student abilities and interests. Normally each section requires student participation for the whole academic year, with credit for participation each quarter. Sections of MUS 95W have included: African drumming, Korean percussion, Indian sitar and tabla, koto, and Indonesian flute. Not all sections will be offered every year. May be repeated for credit. Grading on participation level, individual testing, comparative papers on repertoire covered, etc. "
+    },
+    "MUS 101A": {
+        "prerequisites": [],
+        "name": "Music Theory and Practice I",
+        "description": "Note: Students in the MUS 95 series courses may enroll with a letter grade option a total of twelve units for registered music majors and a total of six units for all other students; after which students may continue to enroll in MUS 95 courses, but only with a P/NP grade option. There is one exception to the above grading policy. MUS 95G, Gospel Choir, can only be taken for a P/NP grading option."
+    },
+    "MUS 101B": {
+        "prerequisites": [],
+        "name": "Music Theory and Practice II",
+        "description": "Section B. Instrument Choir"
+    },
+    "MUS 101C": {
+        "prerequisites": [],
+        "name": "Music Theory and Practice III",
+        "description": "Section C. Concert Choir"
+    },
+    "MUS 102": {
+        "prerequisites": [],
+        "name": "Topics in Music Theory",
+        "description": "Section D. Symphonic Chorus"
+    },
+    "MUS 103A": {
+        "prerequisites": [],
+        "name": "Seminar in Composition I",
+        "description": "Section E. Chamber Orchestra"
+    },
+    "MUS 103B": {
+        "prerequisites": [],
+        "name": "Seminar in Composition II",
+        "description": "Section G. Gospel Choir"
+    },
+    "MUS 103C": {
+        "prerequisites": [],
+        "name": "Seminar in Composition III",
+        "description": "Section JC. Jazz Chamber Ensembles"
+    },
+    "MUS 103D-E-F": {
+        "prerequisites": [],
+        "name": "Honors Seminar in Composition",
+        "description": "Section K. Chamber Singers "
+    },
+    "MUS 105": {
+        "prerequisites": [],
+        "name": "Jazz Composition",
+        "description": "Section L. Wind Ensemble "
+    },
+    "MUS 106": {
+        "prerequisites": [],
+        "name": "Topics in Musical Analysis",
+        "description": "Section W. World Music Ensembles  "
+    },
+    "MUS 107": {
+        "prerequisites": [
+            "MUS 2C",
+            "and"
+        ],
+        "name": "Critical Studies Seminar",
+        "description": "Study of modal counterpart in the style of the sixteenth century. Two-voice species counterpoint studies. Analysis of music of the period. Musicianship studies: sight-singing, dictation, and keyboard skills. "
+    },
+    "MUS 110": {
+        "prerequisites": [
+            "MUS 2C"
+        ],
+        "name": "Introduction to Ethnomusicology Seminar",
+        "description": "Study of tonal harmony and counterpoint. Analysis of Bach chorales and other music from the Baroque period. Musicianship studies: sight-singing, dictation, and keyboard skills. "
+    },
+    "MUS 111": {
+        "prerequisites": [
+            "MUS 101B"
+        ],
+        "name": "Topics/World Music Traditions",
+        "description": "Tonal harmony and counterpoint. Analysis of larger classical forms: Sonata, Variation, Minuet and Trio, Rondo. Musicianship studies: sight-singing, dictation, and keyboard skills. "
+    },
+    "MUS 112": {
+        "prerequisites": [
+            "MUS 101B"
+        ],
+        "name": "Topics in European Music Before 1750",
+        "description": "Selected topics in music theory. Covers Western classical repertoire from 1850 to the present. Includes chromatic and post-tonal harmony, formal analysis. May be taken for credit up to two times. "
+    },
+    "MUS 113": {
+        "prerequisites": [
+            "MUS 33C"
+        ],
+        "name": "Topics in Classic, Romantic, and Modern Music",
+        "description": "First part in composition course sequence. Individual projects will be reviewed in seminar. Techniques of instrumentation will be developed through examination of scores and creative application. Assignments will include short exercises and analysis, and final project for standard ensemble. "
+    },
+    "MUS 114": {
+        "prerequisites": [
+            "MUS 103A"
+        ],
+        "name": "Music of the Twentieth Century",
+        "description": "Second part in composition course sequence. Intensive work in free composition by drafting a composition for presentation at the end of MUS 103C. Written analysis of contemporary repertoire is introduced. Instruction about calligraphic conventions including computer engraving programs. "
+    },
+    "MUS 115": {
+        "prerequisites": [
+            "MUS 103B"
+        ],
+        "name": "Women in Music",
+        "description": "Third part in composition course sequence. A mixture of individual lessons as well as group meetings, with discussion of topics germane to the development of composers, including musical aesthetics and contemporary orchestration techniques. Final performance of students\u2019 work will take place at the end of the quarter. "
+    },
+    "MUS 116": {
+        "prerequisites": [
+            "MUS 103A-B-C",
+            "and"
+        ],
+        "name": "Popular Music Studies Seminar",
+        "description": "Advanced individual projects for senior music majors pursuing honors in composition. Projects will be critically reviewed in seminar with fellow students and faculty composers. "
+    },
+    "MUS 120A": {
+        "prerequisites": [
+            "MUS 101A",
+            "and"
+        ],
+        "name": "History of Music in Western Culture I",
+        "description": "This course will explore a range of compositional possibilities from song forms to modal and more extended forms. May be taken for credit two times.  "
+    },
+    "MUS 120B": {
+        "prerequisites": [
+            "MUS 2C"
+        ],
+        "name": "History of Music in Western Culture II",
+        "description": "Topics in musical analysis. Covers full range of musical repertoire 1900 to present, including music that does not depend on notation. May be taken for credit up to two times. "
+    },
+    "MUS 120C": {
+        "prerequisites": [
+            "MUS 120C"
+        ],
+        "name": "History of Music in Western Culture III",
+        "description": "This seminar explores the history of music in relation to critical issues, such as race, gender, sexuality, the environment, and politics. Readings include recent literature in cultural studies, musicology, and sociology. Topics vary. May be taken three times for credit. "
+    },
+    "MUS 126": {
+        "prerequisites": [],
+        "name": "Blues: An Oral Tradition",
+        "description": "This seminar introduces the central theories, methods, and approaches used to study the music of contemporary cultures, in their local contexts. In addition to surveying key writings, students will document music from their local environment. "
+    },
+    "MUS 127": {
+        "prerequisites": [],
+        "name": "Discover Jazz",
+        "description": "A study of particular regional music in their repertory, cultural context, and interaction with other traditions. Topics vary. May be taken for credit up to three times. "
+    },
+    "MUS 128": {
+        "prerequisites": [],
+        "name": "Principles and Practice of Conducting",
+        "description": "This course will address topics in medieval, Renaissance, and Baroque music; topics will vary from year to year. May be repeated five times for credit. "
+    },
+    "MUS 130": {
+        "prerequisites": [],
+        "name": "Chamber Music Performance",
+        "description": "This course will focus on Western music between 1750 and the early twentieth century; topics will vary from year to year. May be repeated five times for credit. "
+    },
+    "MUS 131": {
+        "prerequisites": [],
+        "name": "Advanced Improvisation Performance",
+        "description": "An exploration of materials and methods used in the music of our time. There will be an extra discussion group for music majors. May be repeated once for credit. "
+    },
+    "MUS 132": {
+        "prerequisites": [],
+        "name": "Proseminar in Music Performance",
+        "description": "A survey of the biographical, historical, sociological, and political issues affecting woman musicians, their creativity, their opportunities, and their perception by others. It compares and contrasts the work of women composers, performers, patrons, teachers, and writers on music from the Middle Ages through the present. "
+    },
+    "MUS 132C": {
+        "prerequisites": [],
+        "name": "Vocal Coaching",
+        "description": "This course examines special topics in popular music from various sociopolitical, aesthetic, and performance perspectives. Readings include recent literature in cultural studies, musicology, and/or performance practice. Topics vary. May be taken three times for credit. "
+    },
+    "MUS 132R": {
+        "prerequisites": [
+            "MUS 1C"
+        ],
+        "name": "Recital Preparation",
+        "description": "First part of intensive historical, analytical, and cultural-aesthetic examination of music in Western culture from the ninth through the twenty-first centuries. Considers both sacred and secular repertories, from Gregorian chant through early opera, c. 800\u20131600. "
+    },
+    "MUS 132V": {
+        "prerequisites": [
+            "MUS 120A"
+        ],
+        "name": "Proseminar in Vocal Instruction",
+        "description": "Second part of intensive historical, analytical, and cultural-aesthetic examination of music in Western culture from the ninth through the twenty-first centuries. Considers both instrumental and vocal repertories, from the Baroque to the Romantic, c. 1600\u20131830. "
+    },
+    "MUS 133": {
+        "prerequisites": [
+            "MUS 120B"
+        ],
+        "name": "Projects in New Music Performance",
+        "description": "Third part of intensive historical, analytical,\n\t\t\t\t  and cultural-aesthetic examination of music in Western culture\n\t\t\t\t  from the ninth through the twenty-first centuries. Considers\n\t\t\t\t  both established traditions and new trends, from Romanticism\n\t\t\t\t  through Modernism and Postmodernism, c. 1890\u2013present. "
+    },
+    "MUS 134": {
+        "prerequisites": [],
+        "name": "Symphonic Orchestra",
+        "description": "This course will examine the development of the Blues from its roots in work-songs and the minstrel show to its flowering in the Mississippi Delta to the development of Urban Blues and the close relationship of the Blues with Jazz, Rhythm and Blues, and Rock and Roll. (Cross-listed with ETHN 178.) "
+    },
+    "MUS 137A": {
+        "prerequisites": [],
+        "name": "Jazz Theory and Improvisation",
+        "description": "Offers an introduction to jazz, including important performers and their associated styles and techniques. Explores the often-provocative role jazz has played in American and global society, the diverse perceptions and arguments that have surrounded its production and reception, and how these have been inflected by issues of race, class, gender, and sexuality. Specific topics vary from year to year. (Cross-listed with ETHN 179.) "
+    },
+    "MUS 137B": {
+        "prerequisites": [
+            "MUS 2A-B-C",
+            "and"
+        ],
+        "name": "Jazz Theory and Improvisation",
+        "description": "The theory and practice of instrumental and/or choral conducting as they have to do with basic baton techniques, score reading, interpretation, orchestration, program building, and functional analysis. Members of the class will be expected to demonstrate their knowledge in the conducting of a small ensemble performing literature from the eighteenth, nineteenth, and twentieth centuries. "
+    },
+    "MUS 137C": {
+        "prerequisites": [],
+        "name": "Jazz Theory and Improvisation",
+        "description": "Instruction in the preparation of small group performances of representative instrumental and vocal chamber music literature. May be taken for credit six times, after which students must enroll for zero units. "
+    },
+    "MUS 137D": {
+        "prerequisites": [],
+        "name": "Seminar in Jazz Studies I",
+        "description": "Master class instruction in advanced improvisation performance for declared majors and minors only or consent of instructor. Audition required at first class meeting. May be repeated six times for credit. "
+    },
+    "MUS 137E": {
+        "prerequisites": [],
+        "name": "Seminar in Jazz Studies II",
+        "description": "Individual or master class instruction in advanced instrumental performance. For declared music majors and minors. Students must be simultaneously enrolled in a performance ensemble or nonperformance music course. May be taken six times for credit. "
+    },
+    "MUS 137F": {
+        "prerequisites": [
+            "MUS 132V",
+            "and"
+        ],
+        "name": "Seminar in Jazz Studies III",
+        "description": "Individual instruction in advanced vocal coaching. Emphasis placed on diction and musical issues. For declared music majors and minors. Students must be simultaneously enrolled in the Vocal Master Class, MUS 32VM. May be taken six times for credit. "
+    },
+    "MUS 143": {
+        "prerequisites": [],
+        "name": "Department Seminar",
+        "description": "Advanced instrumental/vocal preparation for senior music majors pursuing honors in performance. Repertoire for a solo recital will be developed under the direction of the appropriate instrumental/vocal faculty member. Special audition required during Welcome Week preceding fall quarter. "
+    },
+    "MUS 150": {
+        "prerequisites": [],
+        "name": "Jazz and the\n\t\t  Music of the African Diaspora: Special Topics Seminar",
+        "description": "Individual instruction in advanced vocal performance. For declared music majors and minors. Students must be simultaneously enrolled in a performance ensemble or nonperformance music course and in the Vocal Master Class, MUS 32VM. May be taken six times for credit. "
+    },
+    "MUS 151": {
+        "prerequisites": [],
+        "name": "Race, Culture, and Social Change",
+        "description": "Performance of new music of the twentieth century. Normally offered winter quarter only. Required a minimum of one time for all music majors. May be taken two times for credit. "
+    },
+    "MUS 152": {
+        "prerequisites": [],
+        "name": "Hip Hop: The Politics of Culture",
+        "description": "Repertoire is drawn from the classic symphonic literature of the eighteenth, nineteenth, and twentieth centuries with a strong emphasis on recently composed and new music. Distinguished soloists, as well as The La Jolla Symphony Chorus, frequently appear with the orchestra. The La Jolla Symphony Orchestra performs two full-length programs each quarter, each program being performed twice. May be repeated six times for credit. "
+    },
+    "MUS 153": {
+        "prerequisites": [
+            "MUS 2A-B-C"
+        ],
+        "name": "African Americans and the Mass Media",
+        "description": "Study of jazz theory and improvisation, focused on fundamental rhythmic, harmonic, melodic, and formal aspects of modern jazz style. Application of theoretical knowledge to instruments and concepts will be reinforced through listening, transcription work, and composition and improvisation exercises. First course of a yearlong sequence. "
+    },
+    "MUS 160A": {
+        "prerequisites": [
+            "MUS 137A"
+        ],
+        "name": "Senior Project in Computing Arts I",
+        "description": "Study of jazz theory and improvisation, focused on fundamental rhythmic, harmonic, melodic, and formal aspects of modern jazz style. Application of theoretical knowledge to instruments and concepts will be reinforced through listening, transcription work, and composition and improvisation exercises. Second course of a yearlong sequence; continuation of MUS 137A. "
+    },
+    "MUS 160B": {
+        "prerequisites": [
+            "MUS 137B"
+        ],
+        "name": "Senior Project in Computing Arts II",
+        "description": "Study of jazz theory and improvisation, focused on fundamental rhythmic, harmonic, melodic, and formal aspects of modern jazz style. Application of theoretical knowledge to instruments and concepts will be reinforced through listening, transcription work, and composition and improvisation exercises. Third course of a yearlong sequence; continuation of MUS 137B. "
+    },
+    "MUS 170": {
+        "prerequisites": [
+            "MUS 137A-B-C",
+            "and"
+        ],
+        "name": "Musical Acoustics",
+        "description": "Advanced individual projects for senior music majors pursuing honors in jazz and music of the African diaspora. Projects will be critically reviewed in seminar with fellow students and jazz faculty. First course of a yearlong sequence. "
+    },
+    "MUS 171": {
+        "prerequisites": [
+            "MUS 137D",
+            "and"
+        ],
+        "name": "Computer Music I",
+        "description": "Advanced individual projects for senior music majors pursuing honors in jazz and music of the African diaspora. Projects will be critically reviewed in seminar with fellow students and jazz faculty. Second course of a yearlong sequence; continuation of 137D. "
+    },
+    "MUS 172": {
+        "prerequisites": [
+            "MUS 137E",
+            "and"
+        ],
+        "name": "Computer Music II",
+        "description": "Advanced individual projects for senior music majors pursuing honors in jazz and music of the African diaspora. Projects will be critically reviewed in seminar with fellow students and jazz faculty. Third course of a yearlong sequence; continuation of 137E. "
+    },
+    "MUS 173": {
+        "prerequisites": [],
+        "name": "Electronic Music Production and Composition ",
+        "description": "The department seminar serves both as a general department meeting and as a forum for the presentation of research and performances by visitors, faculty, and students. Required of all undergraduate music majors every quarter. "
+    },
+    "MUS 174A": {
+        "prerequisites": [
+            "MUS 126/ETHN",
+            "or",
+            "MUS 127/ETHN"
+        ],
+        "name": "Audio/MlDI Studio Techniques I",
+        "description": "An in-depth writing and listening intensive investigation into a jazz or diaspora-related music history topic. Topics vary from year to year. May be repeated once for credit. "
+    },
+    "MUS 174B": {
+        "prerequisites": [],
+        "name": "Audio/MlDI Studio Techniques II",
+        "description": "Aggrieved groups generate distinctive cultural expressions by turning negative ascription into positive affirmation and by transforming segregation into congregation. This course examines the role of cultural expressions in struggles for social change by these communities inside and outside the United States. (Cross-listed with ETHN 108.) "
+    },
+    "MUS 174C": {
+        "prerequisites": [],
+        "name": "Audio/MlDI Studio Techniques III",
+        "description": "Examination of hip-hop\u2019s music, technology, lyrics, and its influence in graffiti, film, music video, fiction, advertising, gender, corporate investment, government and censorship with a critical focus on race, gender, popular culture, and the politics of creative expression. (Cross-listed with ETHN 128.) "
+    },
+    "MUS 175": {
+        "prerequisites": [],
+        "name": "Musical Psychoacoustics",
+        "description": "Examination of media representations of African Americans from slavery to the present focusing on emergence and transmission of enduring stereotypes, their relationship to changing social, political, and economic frameworks, and African Americans\u2019 responses to and interpretations of these mediated images. (Cross-listed with ETHN 164.) "
+    },
+    "MUS 176": {
+        "prerequisites": [
+            "VIS 141B",
+            "or",
+            "VIS 145B",
+            "or",
+            "VIS 147B",
+            "or",
+            "MUS 172"
+        ],
+        "name": "Music Technology Seminar",
+        "description": "Students pursue projects of their own design over two quarters with support from faculty in a seminar environment. Project proposals are developed, informed by project development guidelines from real world examples. Collaborations are possible. Two production-course limitation. Renumber from ICAM 160A. Students may receive credit for only one of the following: MUS 160A, VIS 160A, ICAM 160A. "
+    },
+    "MUS 177": {
+        "prerequisites": [
+            "MUS 160A",
+            "or",
+            "VIS 160A"
+        ],
+        "name": "Music Programming",
+        "description": "Continuation of MUS 160A or VIS 160A. Completion and presentation of independent projects along with documentation. Two production-course limitation. Renumbered from ICAM 160B. Students may receive credit for only one of the following: MUS 160B, VIS 160B, ICAM 160B. "
+    },
+    "MUS 192": {
+        "prerequisites": [
+            "MUS 1A"
+        ],
+        "name": "Senior Seminar in Music",
+        "description": "(Formerly MUS 160A.) An introduction to\n\t\t\t\t  the acoustics of music with particular emphasis on contemporary digital\n\t\t\t\t  techniques for understanding and manipulating sound. "
+    },
+    "MUS 195": {
+        "prerequisites": [],
+        "name": "Instructional Assistance",
+        "description": "(Formerly MUS 160C.) A practical introduction to computer techniques for desktop audio editing, MIDI control, and real-time music algorithms using the MAX programming environment. Recommended preparation: completion of MUS 170. "
+    },
+    "MUS 198": {
+        "prerequisites": [
+            "MUS 171",
+            "MUS 160C"
+        ],
+        "name": "Directed Group Study",
+        "description": "(Formerly MUS 161.) Computer synthesis techniques\n\t\t\t\t  including wavetable and additive synthesis, waveshaping, and sampling.\n\t\t\t\t  Transformation of musical sounds using filters, modulation, and delay effects.\n\t\t\t\t  Fourier analysis of sounds. "
+    },
+    "MUS 199": {
+        "prerequisites": [],
+        "name": "Independent Study",
+        "description": "(Formerly MUS 162.) Creative music production using digital audio workstations (DAWs), emphasizing hands-on composition projects including tempo warping, beat and tonality matching, virtual drum kits, chord progressions, sound processing and effects, arrangement, and remixing in the context of both popular and experimental genres. Existing works are analyzed and dissected for aesthetic value and production technique. "
+    }
+}
